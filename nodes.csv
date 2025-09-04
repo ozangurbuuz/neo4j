@@ -1,0 +1,1670 @@
+id,name,label
+1,BREZİLYA – ARJANTİN – ŞİLİ TURU 04 – 22 OCAK,Trip
+2,Brezilya,Country
+3,Rio de Janeiro,City
+4,Satyricon Restaurant,Restaurant
+5,La Cabrera Restaurant,Restaurant
+6,Fervor Restaurant,Restaurant
+7,Vista Chinesa,Activity
+8,Amanhã (Yarının Müzesi),Activity
+9,Iguazú Şelaleleri,Activity
+10,Iguazú Milli Parkı,Activity
+11,Macuco Safarisi,Activity
+12,Plaza de Mayo,Activity
+13,Casa Rosada,Activity
+14,San Telmo,Activity
+15,La Boca,Activity
+16,Buenos Aires Modern Sanat Müzesi,Activity
+17,Plaza Dorrego,Activity
+18,Palermo Soho,Activity
+19,Recoleta Semti,Activity
+20,Recoleta Mezarlığı,Activity
+21,Rojo Tango Gösterisi,Activity
+22,Cape Horn,Activity
+23,Magdalena Adası,Activity
+24,Plaza de Armas,Activity
+25,Santiago Katedrali,Activity
+26,Belediye Binası,Activity
+27,Merkez Postane,Activity
+28,Ulusal Tarih Müzesi,Activity
+29,Iguazu,City
+30,Buenos Aires,City
+31,Cape Horn,City
+32,Magdalena Adası,City
+33,Santiago,City
+34,Arjantin,Country
+35,Şili,Country
+36,İZLANDA TURU 18 – 24 MAYIS,Trip
+37,İzlanda,Country
+38,İzlanda,City
+39,Hali Country Hotel,Hotel
+40,Fosshotel Glacier Lagoon,Hotel
+41,Blue Lagoon,Activity
+42,Kerid Crater Lake,Activity
+43,Skaftafell National Park,Activity
+44,Ice Cave,Activity
+45,Svartifoss Şelalesi,Activity
+46,Fjallsárlón Glacier Lagoon,Activity
+47,Jökulsárlón Glacier Lagoon,Activity
+48,Goðafoss Şelalesi,Activity
+49,GÜNEY AFRİKA TURU 07 – 16 ARALIK,Trip
+50,Güney Afrika,Country
+51,Cape Town,City
+52,Babel Hotel,Hotel
+53,Cape Town & Masa Dağı Gezisi,Activity
+54,Zeitz Çağdaş Sanatlar Müzesi,Activity
+55,Cape Point & Ümit Burnu,Activity
+56,Boulders Penguen Kolonisi,Activity
+57,Stellenbosch Şarap Evleri,Activity
+58,Franschhoek Şarap Bağları,Activity
+59,La Motte Şarap Tadımı,Activity
+60,Matjiesfontein Köyü,Activity
+61,Kimberley Diamond Mine & Big Hole,Activity
+62,Sabah Safari,Activity
+63,Akşam Safari,Activity
+64,Stellenbosch,City
+65,Franschhoek,City
+66,Kimberley,City
+67,VENEDİK & MİLANO TURU 08 – 12,Trip
+68,İtalya,Country
+69,Venedik,City
+70,Hotel Ai Cavalieri,Hotel
+71,Ristorante Da Ivo,Restaurant
+72,Ristorante Acqua Pazza,Restaurant
+73,Osteria Enoteca San Marco,Restaurant
+74,Restaurant Terrazza Danieli,Restaurant
+75,Da Giacomo,Restaurant
+76,Il Salumaio di Montenapoleone,Restaurant
+77,Solferino Restaurant,Restaurant
+78,Milano,City
+79,MALDİVLER TURU 08 – 15 OCAK 2024,Trip
+80,Maldivler,Country
+81,Maldivler,City
+82,Beach Villa with Pool,Hotel
+83,Water Villa with Pool,Hotel
+84,Water Villa One Bedroom,Hotel
+85,TANZANYA & ZANZIBAR TURU 08 – 17 OCAK 2024,Trip
+86,Tanzanya,Country
+87,Arusha,City
+88,Singita Lodge,Hotel
+89,Singita Sasakawa Lodge,Hotel
+90,Serengeti Ulusal Parkı Safari,Activity
+91,Öğle Safarisi,Activity
+92,Sabah ve Akşam Safarileri,Activity
+93,Serengeti,City
+94,Zanzibar,City
+95,BARCELONA TURU 09 – 11 KASIM,Trip
+96,İspanya,Country
+97,Barcelona,City
+98,La Pepita Tapas Bar,Restaurant
+99,Gala Restoran,Restaurant
+100,Barceloneta Restoran,Restaurant
+101,Park Güell,Activity
+102,La Sagrada Familia,Activity
+103,Casa Milà,Activity
+104,Plaza Catalunya,Activity
+105,Gotik Mahallesi,Activity
+106,BILBAO & SAN SEBASTIAN TURU 12 – 15 EYLÜL,Trip
+107,Bilbao,City
+108,Hotel Maria Cristina,Hotel
+109,Restaurante Ilura,Restaurant
+110,Elkano Restaurant,Restaurant
+111,Cafe Iruña,Restaurant
+112,Biarritz Gezisi,Activity
+113,Saint Jean De Luz Gezisi,Activity
+114,San Sebastian Şehir Gezisi,Activity
+115,Guggenheim Müzesi Gezisi,Activity
+116,San Sebastian,City
+117,Biarritz,City
+118,Saint Jean De Luz,City
+119,Fransa,Country
+120,AVUSTRALYA & YENİ ZELANDA TURU 14 ARALIK – 3 OCAK,Trip
+121,Avustralya,Country
+122,Singapore,City
+123,JW Marriott Hotel Singapore South Beach,Hotel
+124,Pullman Rotorua,Hotel
+125,Intercontinental Hotel Wellington,Hotel
+126,Peppers Blue Water Resort Lake Tekapo,Hotel
+127,The Rees Hotel & Luxury Apartments,Hotel
+128,JW Marriott Gold Coast Resort & Spa,Hotel
+129,Sydney Harbour Marriott Hotel at Circular Quay,Hotel
+130,Auckland Şehir Gezisi,Activity
+131,Te Puia Maori Dansı ve Gayzerler,Activity
+132,Weta Workshop,Activity
+133,Queenstown Panoramik Gezisi,Activity
+134,Seal Bay Conservation Park,Activity
+135,Flinders Chase National Park,Activity
+136,Sydney Harbour Tekne Turu & Havai Fişek Gösterisi,Activity
+137,Blue Mountains Gezisi,Activity
+138,Sydney Opera Binası & Harbour Bridge,Activity
+139,Auckland,City
+140,Rotorua,City
+141,Wellington,City
+142,Tekapo,City
+143,Queenstown,City
+144,Gold Coast,City
+145,Sydney,City
+146,Yeni Zelanda,Country
+147,Singapur,Country
+148,BALI & BANGKOK TURU 18 TEMMUZ – 06 AĞUSTOS,Trip
+149,Endonezya,Country
+150,Bali,City
+151,Capella Bangkok Hotel,Hotel
+152,Riverside Pool Villa,Hotel
+153,Koral Restaurant,Restaurant
+154,Restaurant POTONG,Restaurant
+155,Volcanoes & Temples Turu (Helikopter),Activity
+156,Bangkok,City
+157,Tayland,Country
+158,DANİMARKA & NORVEÇ TURU 18 – 25 AĞUSTOS 2025,Trip
+159,Danimarka,Country
+160,Kopenhag,City
+161,Nimb Hotel,Hotel
+162,Bergen Børs Hotel,Hotel
+163,Fretheim Hotel,Hotel
+164,Fjellskål Seafood Restaurant,Restaurant
+165,Restaurant Arven,Restaurant
+166,Lofoten Fiskerestaurant,Restaurant
+167,Bryggen Tracteursted,Restaurant
+168,Izakaya Bar & Terrace,Restaurant
+169,Designmuseum Danmark,Activity
+170,Bergen Market Square & Balık Pazarı,Activity
+171,Flåm Railway Museum,Activity
+172,Vigeland Heykel Parkı,Activity
+173,Oslo Opera Binası,Activity
+174,Ulusal Müze,Activity
+175,Munch Müzesi,Activity
+176,Astrup Fearnley Museum of Modern Art,Activity
+177,Bergen,City
+178,Flåm,City
+179,Oslo,City
+180,Norveç,Country
+181,GÜNEY AFRİKA TURU 19 ARALIK 2025 – 3 OCAK 2026,Trip
+182,Royal Livingstone Victoria Falls Zambia Hotel by Anantara,Hotel
+183,Babylonstoren Hotel,Hotel
+184,Marataba Safari Lodge,Hotel
+185,The Lookout Cafe,Restaurant
+186,Mukuni Village Gezisi,Activity
+187,Sunset Safari Cruise,Activity
+188,David Livingstone Müzesi,Activity
+189,Franschhoek Şarap Bağları ve Galeriler,Activity
+190,Huguenot Anıt Müzesi,Activity
+191,Franschhoek Motor Müzesi,Activity
+192,Güney Afrika'nın İlk Parfüm Müzesi,Activity
+193,Masa Dağı,Activity
+194,Kirstenbosch Ulusal Botanik Bahçesi,Activity
+195,Boulders Beach Penguen Kolonisi,Activity
+196,Cape Town Şehir Gezisi,Activity
+197,Two Oceans Aquarium,Activity
+198,Camps Bay ve Clifton Beach,Activity
+199,Zeitz Museum of Contemporary Art Africa,Activity
+200,Güney Afrika Ulusal Müzesi (İziko),Activity
+201,Planetarium,Activity
+202,Cape Town Graffiti Street Art Turu,Activity
+203,Livingstone,City
+204,Zambiya,Country
+205,JAPONYA TURU 19 HAZİRAN – 5 TEMMUZ 2025,Trip
+206,Japonya,Country
+207,Tokyo,City
+208,Mitsui Garden Hotel Premier Jingu-Gaien,Hotel
+209,Uno Hotel,Hotel
+210,ACE Hotel Kyoto,Hotel
+211,Meiji Tapınağı,Activity
+212,Ota Memorial Museum of Art,Activity
+213,Doğu Bahçeler,Activity
+214,Shibuya Sky,Activity
+215,Miyashita Park,Activity
+216,Mori Art Museum,Activity
+217,National Art Centre,Activity
+218,Museum of Contemporary Art,Activity
+219,Chichu Sanat Müzesi,Activity
+220,Art House Project,Activity
+221,Lee Ufan Müzesi,Activity
+222,Benesse House,Activity
+223,Teshima Sanat Müzesi,Activity
+224,Les Archives du Coeur,Activity
+225,Okayama,City
+226,Kyoto,City
+227,Naoshima,City
+228,Teshima,City
+229,LAPLAND TURU 19 – 24 OCAK,Trip
+230,İsveç,Country
+231,Jukkasjärvi,City
+232,ICEHOTEL,Hotel
+233,Kaamos Hotel,Hotel
+234,Treehotel,Hotel
+235,Gece Safarisi,Activity
+236,Kar Mobili Safarisi,Activity
+237,Harads,City
+238,MISIR TURU 20 – 25 NİSAN 2024,Trip
+239,Mısır,Country
+240,Kahire,City
+241,Marriott Mena House Hotel,Hotel
+242,Movenpick Sunray Nile Cruise,Hotel
+243,Giza Piramitleri,Activity
+244,Büyük Giza Sfenksi,Activity
+245,Mısır Müzesi,Activity
+246,Khan El Khalili Çarşısı,Activity
+247,High Dam,Activity
+248,Philae Tapınağı,Activity
+249,Kom Ombo Tapınağı,Activity
+250,Edfu Tapınağı,Activity
+251,Luxor East Bank Gezisi,Activity
+252,Karnak Tapınağı,Activity
+253,Luxor Tapınağı,Activity
+254,Nil Nehri Sıcak Hava Balonu,Activity
+255,Aswan,City
+256,Luxor,City
+257,AMALFI TURU 20 – 23 HAZİRAN,Trip
+258,Amalfi,City
+259,Villa Piedimonte,Hotel
+260,Hotel Rufolo,Hotel
+261,Ravello - Villa Cimbrone Bahçesi,Activity
+262,Ravello - Villa Rufolo,Activity
+263,Pompei Şehri Ziyareti,Activity
+264,Napoli Şehri Gezisi,Activity
+265,Duomo di Napoli,Activity
+266,Il Pio Monte della Misericordia,Activity
+267,Palazzo Reale,Activity
+268,Castel dell’Ovo,Activity
+269,Amalfi Kasabası Gezisi,Activity
+270,Cattedrale di Sant’Andrea,Activity
+271,Piazza Duomo,Activity
+272,Piazza dei Dogi,Activity
+273,Piazza dello Spirito Santo,Activity
+274,Sorrento Gezisi,Activity
+275,Piazza Tasso,Activity
+276,Basilica di Sant’Antonino,Activity
+277,Sedile Dominova,Activity
+278,Sorrento Peninsula Arkeoloji Müzesi,Activity
+279,Bottega Della Tarsia Lignea Müzesi,Activity
+280,Ravello,City
+281,Pompei,City
+282,Napoli,City
+283,Sorrento,City
+284,LOIRE TURU 20 – 23 NİSAN,Trip
+285,Loire,City
+286,Avarum Restaurant,Restaurant
+287,Restaurante Amour Blanc,Restaurant
+288,Cheverny Şatosu,Activity
+289,Villandry Şatosu,Activity
+290,Amboise Şatosu,Activity
+291,Château du Clos Lucé,Activity
+292,Château de Chenonceau,Activity
+293,Château de Blois,Activity
+294,Château de Chambord,Activity
+295,Loire Vadisi Balon Turu,Activity
+296,Tours Şehri Gezisi,Activity
+297,Tours,City
+298,Amboise,City
+299,Blois,City
+300,BRUGGE & LOIRE TURU 20 – 23 NİSAN,Trip
+301,Belçika,Country
+302,Brugge,City
+303,Hotel De Orangerie,Hotel
+304,Hotel Van Cleef,Hotel
+305,Hotel Heritage Relais Chateau,Hotel
+306,Hotel Dukes' Palace,Hotel
+307,Brugge Gezisi,Activity
+308,Gent Gezisi,Activity
+309,Clos de Lucé,Activity
+310,Loire Vadisi Şarap Bağları,Activity
+311,Gent,City
+312,AMALFI TURU 20 – 24 HAZİRAN,Trip
+313,Tam Gün Tekne Gezisi,Activity
+314,SALZBURG TURU 20 – 25 ARALIK,Trip
+315,Avusturya,Country
+316,Salzburg,City
+317,Radisson Blu Hotel Altstadt,Hotel
+318,Hotel Goldener Hirsch,Hotel
+319,Hotel Bristol,Hotel
+320,Cafe Sacher Salzburg,Restaurant
+321,Restaurant Blaue Gans Salzburg Gasthaus,Restaurant
+322,Mirabel Sarayı ve Bahçesi,Activity
+323,Mozart’ın Evi,Activity
+324,Residenzplatz & DomQuartier,Activity
+325,Noel Pazarları,Activity
+326,Hallstatt Gezisi,Activity
+327,Salzberg Dağı & Tuz Madeni Ziyareti,Activity
+328,Atlı Kızak Turu (St Wolfgang),Activity
+329,Salzburg Kalesi,Activity
+330,Adolf Hitler’in Kartal Yuvası,Activity
+331,Salzbergwerk Berchtesgaden,Activity
+332,Grassl Likör Fabrikası,Activity
+333,Hallstatt,City
+334,St Wolfgang,City
+335,Berchtesgaden,City
+336,Almanya,Country
+337,BELGRAD TURU 21 – 23 EYLÜL,Trip
+338,Sırbistan,Country
+339,Belgrad,City
+340,Metropol Palace Hotel,Hotel
+341,Square Nine Hotel,Hotel
+342,Kalemegdan Restaurant,Restaurant
+343,Belgrad Şehir Gezisi,Activity
+344,Aziz Sava Kilisesi,Activity
+345,Kalemegdan,Activity
+346,Sokullu Mehmet Paşa Çeşmesi,Activity
+347,Damat Ali Paşa Türbesi,Activity
+348,Fikirbayır,Activity
+349,Stambol Kapısı,Activity
+350,Tuna & Sava Nehirlerinin Birleşim Noktası,Activity
+351,Museum of Yugoslav History,Activity
+352,Royal Compound,Activity
+353,Nikola Tesla Müzesi,Activity
+354,Karlofca Gezisi,Activity
+355,Novi Sad Gezisi,Activity
+356,Tuna Nehri Tekne Gezisi,Activity
+357,Karlofca,City
+358,Novi Sad,City
+359,İSTANBUL – KAPADOKYA – İZMİR TURU 23 TEMMUZ – 2 AĞUSTOS 2023,Trip
+360,Türkiye,Country
+361,İstanbul,City
+362,Il Cortile Ristorante Pizzeria,Restaurant
+363,Pandeli Restaurant,Restaurant
+364,Belisirma Nehir Kenarı Restoran,Restaurant
+365,Geleneksel Türk Restoranı (Efes),Restaurant
+366,Topkapı Sarayı,Activity
+367,Ayasofya,Activity
+368,Yerebatan Sarnıcı,Activity
+369,Boğaz Turu,Activity
+370,Karaköy,Activity
+371,Balon Turu,Activity
+372,Soğanlı Vadisi,Activity
+373,Keşlik Manastırı,Activity
+374,Taşkınpaşa Medresesi,Activity
+375,Selime Köyü,Activity
+376,Agzikarahan Kervansarayı,Activity
+377,Ihlara Vadisi,Activity
+378,Göreme Açık Hava Müzesi,Activity
+379,Uçhisar,Activity
+380,Kaymaklı Yeraltı Şehri,Activity
+381,Kızıl Vadi,Activity
+382,Efes Antik Kenti,Activity
+383,Hadrian Tapınağı,Activity
+384,Odeon,Activity
+385,Traian Çeşmesi,Activity
+386,Şirince Köyü,Activity
+387,Kapadokya,City
+388,Kuşadası,City
+389,İzmir,City
+390,Şirince,City
+391,Efes,City
+392,EDINBURGH & HIGHLANDS TURU 4 – 8 AĞUSTOS,Trip
+393,İskoçya,Country
+394,Edinburgh,City
+395,Fonab Castle Hotel,Hotel
+396,The Craigellachie Hotel,Hotel
+397,Nevis Bank Inn,Hotel
+398,Seasgair Hotel,Hotel
+399,Nevis Bank Inn and Browns Restaurant,Restaurant
+400,Rocpool Restaurant,Restaurant
+401,Blair Castle,Activity
+402,Ballindalloch Castle & Gardens,Activity
+403,Camera Obscura & World of Illusions,Activity
+404,Loch Ness,Activity
+405,Inverness Kalesi,Activity
+406,St. Andrews Katedrali,Activity
+407,Inverness Müzesi ve Sanat Galerisi,Activity
+408,Strathisla Distillery,Activity
+409,Pitlochry,City
+410,Fort William,City
+411,Inverness,City
+412,TAYLAND TURU 5 – 18 ŞUBAT,Trip
+413,The Surin,Hotel
+414,Beach Restaurant (The Surin),Restaurant
+415,Potong Restaurant,Restaurant
+416,Clara Restaurant,Restaurant
+417,Kalido,Restaurant
+418,Carpe Diem Beach Club,Restaurant
+419,Terrace Rim Naam,Restaurant
+420,Tapınaklar ve Şehir Gezisi,Activity
+421,Bo Sang Köyü,Activity
+422,Wat Chedi Luangis,Activity
+423,Wat Suan Dok Tapınağı,Activity
+424,Wat Phra That Doi Suthep,Activity
+425,Wat Rong Khun,Activity
+426,Chiang Rai Gezisi,Activity
+427,Golden Triangle Gezisi,Activity
+428,Mekong Nehri Tekne Gezisi,Activity
+429,Bangkok Şehir Gezisi,Activity
+430,Büyük Saray,Activity
+431,Wat Phra Kaew,Activity
+432,Wat Pho Tapınağı,Activity
+433,Wat Ratchabophit,Activity
+434,Bangkok Kanalları Gezisi,Activity
+435,Chatuchak Weekend Market,Activity
+436,Chiang Mai,City
+437,Chiang Rai,City
+438,JAPONYA TURU 6 – 13 NİSAN 2024 (SAFFET EMRE),Trip
+439,Mitsui Garden Hotel,Hotel
+440,Benesse House,Hotel
+441,Shinjuku Gyoen Park,Activity
+442,Senso-ji Tapınağı,Activity
+443,Nakamise Alışveriş Caddesi,Activity
+444,Meiji Shrine,Activity
+445,Takeshita Street,Activity
+446,Omotesando,Activity
+447,TeamLab Planets,Activity
+448,Ginza,Activity
+449,Hakone Açık Hava Müzesi,Activity
+450,Picasso Pavilion,Activity
+451,Hakone Teleferiği,Activity
+452,Owakudani Vadisi,Activity
+453,Ashinoko Tekne Gezisi,Activity
+454,Kiyomizu Tapınağı,Activity
+455,Kinkaku-ji,Activity
+456,Geisha & Maiko Gösterisi,Activity
+457,Nara Park,Activity
+458,Kasuga Taisha,Activity
+459,Tenryu-ji Tapınağı,Activity
+460,Monkey Park Iwatayama,Activity
+461,Teshima Yokoo Evi,Activity
+462,Hakone,City
+463,Nara,City
+464,ARLES TURU 03 – 06 EKİM,Trip
+465,Arles,City
+466,Restaurant L'Oriel,Restaurant
+467,Café Tadoa Ando,Restaurant
+468,La Taula Gallici's Gourmet Restaurant,Restaurant
+469,LUMA Müzesi,Activity
+470,Van Gogh Müzesi,Activity
+471,Art Tour,Activity
+472,Avignon Gezisi,Activity
+473,Chateau Estoublon,Activity
+474,Les Baux-de-Provence Gezisi,Activity
+475,L'Isle-sur-la-Sorgue Gezisi,Activity
+476,Avignon,City
+477,Les Baux-de-Provence,City
+478,L'Isle-sur-la-Sorgue,City
+479,PUGLIA TURU 07 – 11 EKİM,Trip
+480,Bari,City
+481,Canne Bianche Lifestyle & Hotel,Hotel
+482,Alberobello Trulli Evleri,Activity
+483,Matera Gezisi,Activity
+484,Monopoli Gezisi,Activity
+485,Polignano a Mare Gezisi,Activity
+486,Lecce Şehir Gezisi,Activity
+487,Santa Croce Bazilikası,Activity
+488,San Giuseppe Kilisesi,Activity
+489,Palazzo dei Celestini,Activity
+490,Sant'Oronzo Meydanı,Activity
+491,Antik Roma Amfitiyatrosu,Activity
+492,Bari Şehir Gezisi,Activity
+493,Saint Nicholas Bazilikası,Activity
+494,San Sabino Katedrali,Activity
+495,Hohenstaufen Kalesi,Activity
+496,Old Town,Activity
+497,Strada delle Orecchiette,Activity
+498,Alberobello,City
+499,Matera,City
+500,Monopoli,City
+501,Polignano a Mare,City
+502,Lecce,City
+503,PROVENCE TURU 4 – 7 MAYIS,Trip
+504,Provence,City
+505,Tadao Ando Café Restaurant,Restaurant
+506,Chateau d’Estoublon,Restaurant
+507,Chateau La Coste Art Tour,Activity
+508,L’Isle-sur-la-Sorgue Gezisi,Activity
+509,Roussillon Gezisi,Activity
+510,Gordes Gezisi,Activity
+511,Saint-Rémy-de-Provence Gezisi,Activity
+512,Arles Gezisi,Activity
+513,L’Isle-sur-la-Sorgue,City
+514,Roussillon,City
+515,Gordes,City
+516,Saint-Rémy-de-Provence,City
+517,59. Venedik Bienali,Trip
+518,Trattoria Alla Madonna,Restaurant
+519,Peggy Guggenheim Müzesi,Activity
+520,Galleria dell’Accademia,Activity
+521,Palazzo Manfrin,Activity
+522,Giardini Bienali,Activity
+523,Dubai Programı,Trip
+524,Birleşik Arap Emirlikleri,Country
+525,Dubai,City
+526,Atlantis The Royal,Hotel
+527,Nobu Restaurant - Atlantis the Palm,Restaurant
+528,Dubai Creek – Old Town,Activity
+529,Museum of the Future,Activity
+530,Dubai Mall,Activity
+531,İzmir’in En Güzel Köyleri - Şirince & Urla,Trip
+532,Güllü Konak,Hotel
+533,Artemis Restaurant ve Şarapevi,Restaurant
+534,Yengeç Restoran - Urla İskele,Restaurant
+535,Şirince Çarşısı,Activity
+536,Aziz John Baptist Kilisesi,Activity
+537,Hodri Meydan Kulesi,Activity
+538,Şarap Mahzenleri,Activity
+539,Nesin Matematik Köyü,Activity
+540,Key Museum,Activity
+541,Urla Sanat Sokağı,Activity
+542,Necati Cumali Anı Evi,Activity
+543,Yorgo Seferis’in doğduğu ev,Activity
+544,Tanju Okan Parkı,Activity
+545,Malgaca Pazarı,Activity
+546,Urla,City
+547,Toskana Gezisi,Trip
+548,Bologna,City
+549,Hotel Cerretani Firenze – Mgallery,Hotel
+550,Buca Mario,Restaurant
+551,Osteria delle Tre Panche,Restaurant
+552,Ristorante Storico Sabatini,Restaurant
+553,Buca Lapi,Restaurant
+554,Antico Ristorante Paoli 1827,Restaurant
+555,Santa Maria del Fiore Katedrali,Activity
+556,Vaftizhane (Battistero di San Giovanni),Activity
+557,Piazza della Signoria,Activity
+558,Palazzo Vecchio,Activity
+559,Uffizi Galerisi,Activity
+560,Antinori nel Chianti Classico Şaraphanesi,Activity
+561,San Gimignano UNESCO Dünya Mirası,Activity
+562,Siena Şehir Merkezi,Activity
+563,Cortona Tarihi Sokaklar,Activity
+564,Orvieto Katedrali,Activity
+565,Orvieto Yer Altı Tünelleri,Activity
+566,Floransa,City
+567,Chianti,City
+568,San Gimignano,City
+569,Siena,City
+570,Cortona,City
+571,Orvieto,City
+572,Roma,City
+573,Avustralya – Yeni Zelanda,Trip
+574,Park Hyatt Sydney,Hotel
+575,The Rocks,Activity
+576,Botanik Bahçeleri - Sydney,Activity
+577,Macquarie Caddesi,Activity
+578,Hyde Park,Activity
+579,St. Mary Katedrali,Activity
+580,Mrs Macquarie’s Chair,Activity
+581,Sydney Opera Binası,Activity
+582,Sydney Köprüsü,Activity
+583,Bondi Plajı,Activity
+584,Oxford Caddesi,Activity
+585,Paddington,Activity
+586,Melbourne,City
+587,Hindistan Gezisi,Trip
+588,Hindistan,Country
+589,Varanasi,City
+590,Brijrama Palace,Hotel
+591,Rambagh Palace,Hotel
+592,Taj Lake Palace,Hotel
+593,Udayan Terrace,Restaurant
+594,Neelkamal Restaurant,Restaurant
+595,Spice Route,Restaurant
+596,Bukhara - ITC Maurya Hotel,Restaurant
+597,City Palace Özel Akşam Yemeği,Restaurant
+598,Mewar Terrace,Restaurant
+599,Ganj Nehri Aarti Töreni,Activity
+600,Kashi Vishwanath Tapınağı,Activity
+601,Sarnath,Activity
+602,Amber Fort,Activity
+603,City Palace - Jaipur,Activity
+604,Hawa Mahal,Activity
+605,Jantar Mantar,Activity
+606,City Palace - Udaipur,Activity
+607,Crystal Gallery,Activity
+608,Pichola Gölü,Activity
+609,Muson Sarayı,Activity
+610,Humayun’un Mezarı,Activity
+611,Cumhurbaşkanlığı Sarayı,Activity
+612,Hindistan Kapısı,Activity
+613,Jama Mescidi,Activity
+614,Chandni Chowk,Activity
+615,Laxmi Narayan Tapınağı,Activity
+616,Jaipur,City
+617,Udaipur,City
+618,Delhi,City
+619,Meksika Gezisi,Trip
+620,Meksika,Country
+621,Mexico City,City
+622,The St. Regis Mexico City,Hotel
+623,Göl kenarında özel yemek,Restaurant
+624,Woodend Restaurant,Restaurant
+625,Ixi’im,Restaurant
+626,Ki’ol,Restaurant
+627,Centro Histórico,Activity
+628,Zócalo Meydanı,Activity
+629,Templo Mayor,Activity
+630,Palacio de Bellas Artes,Activity
+631,Plaza Manuel Tolsá,Activity
+632,Antropoloji Müzesi,Activity
+633,Coyoacán & Frida Kahlo Müzesi,Activity
+634,Polanco,Activity
+635,Chichen Itza,Activity
+636,Kukulkan Piramidi,Activity
+637,Plaza Grande,Activity
+638,San Ildefonso Katedrali,Activity
+639,Parque de Santa Lucía,Activity
+640,Iglesia de Santa Lucía,Activity
+641,Tekila & Mezcal Tadımı,Activity
+642,Mérida,City
+643,Chichen Itza,City
+644,Cancún,City
+645,Sicilya Gezisi,Trip
+646,Katanya,City
+647,Hotel Metropole Taormina,Hotel
+648,Osteria Rosso Divino,Restaurant
+649,Doba Restaurant and Terrace,Restaurant
+650,Corso Umberto,Activity
+651,Piazza IX Aprile,Activity
+652,Porta Messina,Activity
+653,Porta Catania,Activity
+654,Teatro Greco,Activity
+655,Villa Comunale Bahçeleri,Activity
+656,Bar Vitelli,Activity
+657,Godfather Film Kilisesi - Savoca,Activity
+658,Forza d’Agrò Ortaçağ Köyü,Activity
+659,Piazza del Municipio - Forza d’Agrò,Activity
+660,Etna Yanardağı,Activity
+661,Ortigia Adası,Activity
+662,Ortigia Meydanı,Activity
+663,Syracuse Katedrali,Activity
+664,Arethusa Çeşmesi,Activity
+665,Ragusa Ibla,Activity
+666,Cattedrale di San Giovanni Battista,Activity
+667,Chiesa di Santa Maria delle Scale,Activity
+668,Palazzo della Cancelleria,Activity
+669,Chiesa Anime Sante del Purgatorio,Activity
+670,Duomo di San Giorgio,Activity
+671,Giardini Iblei,Activity
+672,Santa Maria dello Spasimo Kilisesi,Activity
+673,Taormina,City
+674,Savoca,City
+675,Forza d’Agrò,City
+676,Syracuse,City
+677,Ragusa,City
+678,Palermo,City
+679,Porto Gezisi,Trip
+680,Portekiz,Country
+681,Porto,City
+682,Maison Albar Hotels Le Monumental Palace,Hotel
+683,Enoteca 1756 Restaurant,Restaurant
+684,Marisqueira A Antiga,Restaurant
+685,Casa de Chá de Boa Nova,Restaurant
+686,Vinum Restaurant & Wine Bar,Restaurant
+687,Tuktuk Gezisi & Rehberli Yürüyüş Turu,Activity
+688,Boavista,Activity
+689,Foz do Douro,Activity
+690,São Francisco Kilisesi,Activity
+691,Palácio da Bolsa,Activity
+692,São Bento Tren İstasyonu,Activity
+693,Porto Katedrali,Activity
+694,Liberdade Meydanı,Activity
+695,Batalha Meydanı,Activity
+696,Ribeira Bölgesi,Activity
+697,Torre dos Clérigos,Activity
+698,Santa Catarina Caddesi,Activity
+699,Lello Kütüphanesi,Activity
+700,Serralves Müzesi,Activity
+701,Six Bridges Tekne Turu,Activity
+702,Gaia Şarap Evleri,Activity
+703,Churchill Graham Şaraphanesi,Activity
+704,Kahire Gezisi,Trip
+705,Four Seasons Hotel Cairo at Nile Plaza,Hotel
+706,Riviera - Four Seasons Hotel Cairo at Nile Plaza,Restaurant
+707,Sfenks,Activity
+708,Khufu Piramidi,Activity
+709,Deve Gezisi - Piramitler,Activity
+710,Büyük Mısır Müzesi,Activity
+711,Sultan Hassan Camii,Activity
+712,El Refaei Camii,Activity
+713,Mısır Müzesi - Eski Müze,Activity
+714,Nil Nehri Felucca Tekne Gezisi,Activity
+715,Endülüs Gezisi,Trip
+716,Granada,City
+717,Elhamra Sarayı,Activity
+718,Generalife Bahçeleri,Activity
+719,Alcazaba,Activity
+720,Partal,Activity
+721,Nasrid Sarayı,Activity
+722,Realejo Mahallesi,Activity
+723,Comendadoras de Santiago,Activity
+724,Dominicans of Santo Domingo,Activity
+725,Fundación Rodriguez-Acosta Sanat Müzesi,Activity
+726,Carmen de los Mártires Bahçesi,Activity
+727,Capilla Real,Activity
+728,Las Granadas Kapısı,Activity
+729,Mezquita Camii - Córdoba,Activity
+730,Alcazar Kalesi - Córdoba,Activity
+731,Plaza Corredera - Córdoba,Activity
+732,Musevi Mahallesi - Córdoba,Activity
+733,Sevilla Katedrali,Activity
+734,Giralda Kulesi,Activity
+735,Alcázar - Sevilla,Activity
+736,Altın Kule (Torre del Oro),Activity
+737,Maria Luisa Parkı,Activity
+738,El Alamillo Köprüsü,Activity
+739,Puente Nuevo - Ronda,Activity
+740,El Tajo Kanyonu,Activity
+741,Casa del Rey Moro,Activity
+742,Ronda Tarihi Sokakları,Activity
+743,Plaza de Toros - Ronda,Activity
+744,Córdoba,City
+745,Sevilla,City
+746,Ronda,City
+747,Avustralya Gezisi,Trip
+748,"The Tasman, a Luxury Collection Hotel, Hobart",Hotel
+749,Nehir Kenarı Restoran - Adelaide,Restaurant
+750,Yerel Lüks Restoran - Adelaide,Restaurant
+751,Royal Exhibition Binası - Melbourne,Activity
+752,Sanat Galerisi - Melbourne,Activity
+753,Parlamento ve Hazine Binası - Melbourne,Activity
+754,Fitzroy Gardens & Captain Cook’un Evi,Activity
+755,Melbourne Müzesi,Activity
+756,Franklin Meydanı - Hobart,Activity
+757,Sullivan’s Cove,Activity
+758,Anayasa Limanı - Hobart,Activity
+759,Mount Wellington,Activity
+760,Alman Kasabası Hahndorf,Activity
+761,Barossa Valley Şarap Bağları,Activity
+762,Brisbane Şehir Turu,Activity
+763,Ateş Böceği Mağarası,Activity
+764,Surfers Paradise - Gold Coast,Activity
+765,Hyde Park Barracks - Sydney,Activity
+766,Anzac-Atatürk Anıtı,Activity
+767,Sydney Harbour Bridge,Activity
+768,Darling Harbour,Activity
+769,Ulusal Müze - Sydney,Activity
+770,Sydney Opera House,Activity
+771,Canberra Şehir Turu,Activity
+772,Ballarat,City
+773,Hobart,City
+774,Adelaide,City
+775,Hahndorf,City
+776,Barossa Valley,City
+777,Brisbane,City
+778,Surfers Paradise,City
+779,Canberra,City
+780,Barselona Gezisi,Trip
+781,Barselona,City
+782,Almanac Barcelona,Hotel
+783,Maná 75,Restaurant
+784,El Tribut,Restaurant
+785,BarcelonaMilona,Restaurant
+786,Restaurant Normal,Restaurant
+787,La Rambla,Activity
+788,Sagrada Familia,Activity
+789,Ciutadella Park,Activity
+790,Plaza España,Activity
+791,Girona Gotik Katedrali,Activity
+792,Girona,City
+793,Puglia Gezisi,Trip
+794,Ristorante Blunotte,Restaurant
+795,Ristorante La Cantina,Restaurant
+796,Pizzeria Casa Pinto,Restaurant
+797,Santa Croce Bazilikası - Lecce,Activity
+798,San Giuseppe Kilisesi - Lecce,Activity
+799,Palazzo dei Celestini - Lecce,Activity
+800,Sant’Oronzo Meydanı - Lecce,Activity
+801,Roma Amfi Tiyatrosu - Lecce,Activity
+802,Trulli Evleri - Alberobello,Activity
+803,Locorotondo Şehir Gezisi,Activity
+804,Monopoli Tarihi Merkezi,Activity
+805,Polignano a Mare,Activity
+806,Domenico Modugno Heykeli - Polignano a Mare,Activity
+807,Matera Kaya Evleri,Activity
+808,Matera Kiliseleri ve Mağaraları,Activity
+809,Napoli Tarihi Merkezi,Activity
+810,Vezüv Yanardağı,Activity
+811,Pompei Antik Kenti,Activity
+812,Locorotondo,City
+813,Alegra Benardete ile Sicilya’da Nefes,Trip
+814,Siracusa,City
+815,Casa Di Melo Otel,Hotel
+816,Ortigia Roma Amfi Tiyatrosu,Activity
+817,Duomo Meydanı - Ortigia,Activity
+818,Fonte Arethusa,Activity
+819,Maniace Kalesi,Activity
+820,Arşimed Meydanı,Activity
+821,Corso Vittorio Emanuele - Noto,Activity
+822,Chiesa di San Francesco - Noto,Activity
+823,Duomo - Noto,Activity
+824,Palazzo Ducezio - Noto,Activity
+825,Palazzo Nicolaci - Noto,Activity
+826,Chiesa di San Carlo - Noto,Activity
+827,MAT Museum - Noto,Activity
+828,Siracusa Arkeoloji Parkı,Activity
+829,Latomie - Siracusa,Activity
+830,Yunan Tiyatrosu - Siracusa,Activity
+831,Roma Amfi Tiyatrosu - Siracusa,Activity
+832,Taormina Gezisi,Activity
+833,Ortigia,City
+834,Noto,City
+835,Arjantin Gezisi,Trip
+836,Tango House,Restaurant
+837,Tango Gösterisi - Buenos Aires,Activity
+838,Tierra del Fuego Milli Parkı - Ushuaia,Activity
+839,Beagle Kanalı - Ushuaia,Activity
+840,Peninsula Valdes - Puerto Madryn,Activity
+841,Ushuaia,City
+842,Puerto Madryn,City
+843,Bangkok & Hong Kong Gezisi,Trip
+844,Lebua at State Tower Hotel,Hotel
+845,Err Restaurant,Restaurant
+846,Sala Rattanakosin Restaurant,Restaurant
+847,Eat Me Restaurant,Restaurant
+848,Grand Palace & Wat Phra Kaew - Bangkok,Activity
+849,Wat Pho Tapınağı - Bangkok,Activity
+850,Wat Arun Tapınakları - Bangkok,Activity
+851,Royal Barge Ulusal Müzesi - Bangkok,Activity
+852,Wang Lang Market - Bangkok,Activity
+853,Pak Khlong Talat Çiçek Pazarı - Bangkok,Activity
+854,Çiçek Kültürü Müzesi - Bangkok,Activity
+855,Wat Suthat Tapınağı - Bangkok,Activity
+856,Aziz Paulo Katedrali Harabesi - Macau,Activity
+857,Macau Müzesi,Activity
+858,Macau Kulesi,Activity
+859,Monte Hisarı,Activity
+860,A-Ma Tapınağı,Activity
+861,Senado Meydanı,Activity
+862,Sun Yat Sen’in Müze Evi,Activity
+863,Macau Şarap Müzesi,Activity
+864,Macau Casinoları,Activity
+865,Wong Tai Sin Tapınağı - Hong Kong,Activity
+866,Lam Tsuen Dilek Ağacı - Hong Kong,Activity
+867,Tai Po Old Market - Hong Kong,Activity
+868,Hong Kong Miras Müzesi,Activity
+869,Lantau Adası Turu,Activity
+870,Kowloon Turu,Activity
+871,Macau,City
+872,Hong Kong,City
+873,Çin,Country
+874,Bhutan & Nepal Gezisi,Trip
+875,Nepal,Country
+876,Katmandu,City
+877,Pashupatinath Tapınağı - Katmandu,Activity
+878,Bhaktapur - Katmandu,Activity
+879,Taktsang (Tiger’s Nest) Manastırı - Paro,Activity
+880,Punakha Dzong - Punakha,Activity
+881,Thimphu Şehir Turu,Activity
+882,Paro,City
+883,Punakha,City
+884,Thimphu,City
+885,Bhaktapur,City
+886,Bhutan,Country
+887,Bilbao & San Sebastián Gezisi,Trip
+888,Hotel Du Palais Biarritz,Hotel
+889,Hotel Du Palais Biarritz - Le Sunset,Restaurant
+890,Guggenheim Müzesi - Bilbao,Activity
+891,San Sebastián Şehir Gezisi,Activity
+892,La Concha Plajı,Activity
+893,Zurriola Plajı,Activity
+894,San Telmo Müzesi - San Sebastián,Activity
+895,Monte Urgull - San Sebastián,Activity
+896,Monte Igueldo - San Sebastián,Activity
+897,Victoria Eugenia Tiyatrosu - San Sebastián,Activity
+898,Miramar Sarayı - San Sebastián,Activity
+899,Hondarribia Eski Şehir ve Surlar,Activity
+900,Rue Gambetta - Saint-Jean-de-Luz,Activity
+901,Place Louis XIV - Saint-Jean-de-Luz,Activity
+902,Eglise Saint-Jean-Baptiste - Saint-Jean-de-Luz,Activity
+903,Biarritz Grande Plage,Activity
+904,Casino Municipal - Biarritz,Activity
+905,Chapelle Impériale - Biarritz,Activity
+906,Musée Asiatica - Biarritz,Activity
+907,San Sebastián,City
+908,Hondarribia,City
+909,Saint-Jean-de-Luz,City
+910,Brezilya & Arjantin Gezisi,Trip
+911,Park Hyatt - Palacio Duhau Hotel,Hotel
+912,Rio Restaurant Önerileri,Restaurant
+913,Buenos Aires Restaurant Önerileri,Restaurant
+914,Cristo Redentor Heykeli - Corcovado,Activity
+915,Santa Teresa Semti - Rio,Activity
+916,Museu da Chácara do Céu,Activity
+917,Harabeler Parkı - Rio,Activity
+918,Sugar Loaf Dağı,Activity
+919,Tijuca Ormanı ve Vista Chinesa,Activity
+920,Pepe Plajı,Activity
+921,Sao Conrado Plajı,Activity
+922,Leblon Plajı,Activity
+923,Iguazú Şelaleleri Milli Parkı,Activity
+924,Plaza de Mayo - Buenos Aires,Activity
+925,San Telmo Semti,Activity
+926,La Boca Semti,Activity
+927,Palermo,Activity
+928,Tigre Delta Tekne Gezisi,Activity
+929,Foz do Iguaçu,City
+930,Burgonya Gezisi,Trip
+931,Beaune,City
+932,Auberge de la Madone - Fleurie,Restaurant
+933,Hospices de Beaune (Hôtel-Dieu),Activity
+934,Saint-Martin de l’Aigue Kilisesi,Activity
+935,Saint-Baudèle Kilisesi,Activity
+936,Saint-Flocel Kilisesi,Activity
+937,Notre-Dame Kilisesi - Beaune,Activity
+938,Sainte-Madeleine Kilisesi,Activity
+939,Musée du Vin de Bourgogne,Activity
+940,Musée des Beaux-Arts - Beaune,Activity
+941,Palais des ducs de Bourgogne - Dijon,Activity
+942,Musée des Beaux-Arts - Dijon,Activity
+943,Saint-Michel Kilisesi - Dijon,Activity
+944,Saint-Philibert Kilisesi - Dijon,Activity
+945,Notre-Dame Kilisesi - Dijon,Activity
+946,Saint-Bénigne Katedrali - Dijon,Activity
+947,Rue de la Liberté - Dijon,Activity
+948,Beffroi Meydanı - Nuits-Saint-Georges,Activity
+949,Église Saint-Symphorien - Nuits-Saint-Georges,Activity
+950,Domaine Rion Armelle et Bernard - Şarap Tadımı,Activity
+951,Abbaye Sainte-Marie-Madeleine - Vézelay,Activity
+952,Colline Éternelle - Vézelay Şarap Tadımı,Activity
+953,Benedictine Manastırı - Cluny,Activity
+954,Musée d’Art et d’Archéologie - Cluny,Activity
+955,Tour de Fromages - Cluny,Activity
+956,Hôtel-Dieu - Cluny,Activity
+957,Beaujolais Şarap Bağları - Fleurie,Activity
+958,Dijon,City
+959,Nuits-Saint-Georges,City
+960,Vézelay,City
+961,Cluny,City
+962,Fleurie,City
+963,San Sebastián ve Bask Bölgesi Gezisi (Can Özdemir),Trip
+964,Hotel de Londres y de Inglaterra,Hotel
+965,Hotel Villa Favorita,Hotel
+966,Hotel Zenit Convento San Martín,Hotel
+967,Elkano Restoran - Getaria,Restaurant
+968,Guggenheim Müzesi Restoranı - Bilbao,Restaurant
+969,Parte Vieja - San Sebastián,Activity
+970,Kursaal Oditoryumu - San Sebastián,Activity
+971,Igueldo Tepesi - San Sebastián,Activity
+972,La Bretxa Food Market - San Sebastián,Activity
+973,La Concha Plajı - San Sebastián,Activity
+974,Getaria Balıkçı Köyü,Activity
+975,Gaztetape Plajı - Getaria,Activity
+976,Malkorbe Plajı - Getaria,Activity
+977,Cristóbal Balenciaga Museoa - Getaria,Activity
+978,Saint-Jean-de-Luz Plajları,Activity
+979,Rue Mazarin - Saint-Jean-de-Luz,Activity
+980,Quai de l’Infante - Saint-Jean-de-Luz,Activity
+981,Sanat Galerileri - Saint-Jean-de-Luz,Activity
+982,Biarritz Şehir Turu,Activity
+983,Bilbao Şehir Turu,Activity
+984,Getaria,City
+985,Cape Town Gezisi,Trip
+986,One&Only Cape Town,Hotel
+987,Nobu - One&Only Cape Town,Restaurant
+988,Aubergine Restaurant,Restaurant
+989,Buitenverwachting Restaurant,Restaurant
+990,Harbour House Restaurant - Kalk Bay,Restaurant
+991,Delaire Graff Indochine Restaurant,Restaurant
+992,Masa Dağı (Table Mountain),Activity
+993,V&A Waterfront,Activity
+994,Ümit Burnu Kalesi,Activity
+995,Cape Town Belediye Binası,Activity
+996,Bo-Kaap Mahallesi,Activity
+997,Cape Point,Activity
+998,Chapman’s Peak Drive,Activity
+999,Hout Bay & Seal Island,Activity
+1000,Boulders Beach - Penguenler,Activity
+1001,Camps Bay Plajı,Activity
+1002,Stellenbosch Vadisi Şarap Bağları,Activity
+1003,Franschhoek,Activity
+1004,Iziko Güney Afrika Müzesi ve Planetaryum,Activity
+1005,Lapland Rovaniemi Gezisi,Trip
+1006,Finlandiya,Country
+1007,Rovaniemi,City
+1008,Arctic TreeHouse Hotel,Hotel
+1009,Santa’s Igloos Arctic Circle,Hotel
+1010,Rakas Restaurant & Bar,Restaurant
+1011,MonteRosa Restaurant,Restaurant
+1012,Gustav Kitchen & Bar,Restaurant
+1013,Glass Restaurant - Santa Claus Village,Restaurant
+1014,Arctic Restaurant,Restaurant
+1015,Ice Restaurant,Restaurant
+1016,Kota Restaurant,Restaurant
+1017,Husky Safari,Activity
+1018,Snowmobile Safari,Activity
+1019,Reindeer Safari,Activity
+1020,Aurora Borealis Macerası,Activity
+1021,Santa Claus Village Gezisi,Activity
+1022,Kar Bisikleti Turu,Activity
+1023,Kar Ayakkabısı Yürüyüşü,Activity
+1024,Kicksled Deneyimi,Activity
+1025,Kızaklı Sandalye,Activity
+1026,Cam Igloo Deneyimi,Activity
+1027,Kenya & Rwanda Safari Gezisi,Trip
+1028,Kenya,Country
+1029,Nairobi,City
+1030,Four Points by Sheraton JKIA,Hotel
+1031,Sanctuary Olonana,Hotel
+1032,Bisate Lodge,Hotel
+1033,Masai Mara Safari,Activity
+1034,Game Drives - Masai Mara,Activity
+1035,Volcanoes National Park Gorilla Trekking,Activity
+1036,Kigali Şehir Turu,Activity
+1037,Masai Mara,City
+1038,Kigali,City
+1039,Volcanoes National Park,City
+1040,Ruanda,Country
+1041,Lizbon Seyahat Programı - SAHA,Trip
+1042,Lizbon,City
+1043,"Bairro Alto Hotel, Praça Luís de Camões, 2 1200",Hotel
+1044,09 Kasım 2022: İstanbul – Lizbon uçuşu (TK 1759),Activity
+1045,"09 Kasım 2022: Bairro Alto Hotel transfer, check-in ve serbest zaman",Activity
+1046,Sicilya & Malta Gezisi,Trip
+1047,Grand Hotel Timeo - Deluxe Sea View Junior Suite with balcony or terrace,Hotel
+1048,Osteria Rosso Divino (Taormina),Restaurant
+1049,Regina Lucia Ristorante (Siracusa),Restaurant
+1050,İstanbul – Katanya uçuşu TK 1395,Activity
+1051,Taormina şehir turu,Activity
+1052,Savoca köyü gezisi,Activity
+1053,Etna Yanardağı gezisi,Activity
+1054,Siracusa ve Noto ziyaretleri,Activity
+1055,Modica ve Ragusa turları,Activity
+1056,Valletta şehir turu,Activity
+1057,"Senglea, Vittoriosa ve Cospicua üçlü gezisi",Activity
+1058,Mdina şehir turu,Activity
+1059,Etna,City
+1060,Modica,City
+1061,Valletta,City
+1062,Senglea,City
+1063,Vittoriosa,City
+1064,Cospicua,City
+1065,Mdina,City
+1066,Malta,Country
+1067,Vietnam & Kamboçya Gezisi,Trip
+1068,Vietnam,Country
+1069,Hanoi,City
+1070,Sofitel Legend Metropole (Hanoi),Hotel
+1071,Violet Cruise (Ha Long Körfezi),Hotel
+1072,"Otel (Ho Chi Minh, ismi belirtilmemiş)",Hotel
+1073,"Otel (Siem Reap, ismi belirtilmemiş)",Hotel
+1074,"Yerel restoranlarda öğle yemekleri (Hanoi, Ho Chi Minh turları sırasında)",Restaurant
+1075,Ha Long Violet Cruise – deniz ürünleri ve geleneksel Vietnam mutfağı,Restaurant
+1076,Mekong Deltası – nehir kenarında restoran,Restaurant
+1077,Yerel aile evi – çay ve taze meyve ikramı,Restaurant
+1078,"Hanoi şehir turu: Ho Chi Minh Mozolesi, Başkanlık Sarayı, Tek Sütunlu Pagoda, Edebiyat Tapınağı",Activity
+1079,Hanoi’de pedallı taksi (rikşov) gezisi,Activity
+1080,Ha Long Körfezi’nde deniz uçağı ile ulaşım ve Violet Cruise konaklaması,Activity
+1081,"Ha Long Körfezi’nde mağara keşfi, yüzme ve balık avı",Activity
+1082,"Ho Chi Minh şehir turu: China Town, Thien Hau Tapınağı, Notre Dame Katedrali, Posta Merkezi, Belediye Tiyatrosu",Activity
+1083,"Mekong Deltası gezisi: bot turları, noodle yapımı, meyve bahçeleri, yerel aile ziyareti",Activity
+1084,"Siem Reap (Angkor) gezisi: Angkor Thom, Bayon Tapınağı, Baphuon, Kraliyet Sarayı, Fil Terası",Activity
+1085,"Phnom Penh şehir turu: Artisan D’Angkor el işi okulu, Phsar Chas çarşısı",Activity
+1086,Ha Long,City
+1087,Ho Chi Minh (Saygon),City
+1088,Mekong Deltası,City
+1089,Siem Reap,City
+1090,Phnom Penh,City
+1091,Kamboçya,Country
+1092,Kenya Safari Gezisi - Şule Zorlu,Trip
+1093,Giraffe Manor,Hotel
+1094,Sala’s Camp,Hotel
+1095,The Retreat (günübirlik kullanım),Hotel
+1096,"The Retreat (kahvaltı, öğle yemeği)",Restaurant
+1097,Giraffe Manor (kahvaltı & ikindi çayı),Restaurant
+1098,Giraffe Manor’da zürafalarla kahvaltı ve ikindi çayı,Activity
+1099,Masai Mara’da safari ve game drive aktiviteleri,Activity
+1100,Sala’s Camp konaklamasında vahşi yaşam deneyimleri,Activity
+1101,Sanctuary Olonana’da doğa aktiviteleri ve safari,Activity
+1102,"İtalya Gezisi - Bologna, Floransa, Toskana & Forte dei Marmi",Trip
+1103,Ferrari Müzesi ziyareti ve test sürüşü,Activity
+1104,Balsamik sirke tadımı ve üretici ziyareti,Activity
+1105,Parmesan peyniri tadımı,Activity
+1106,Lamborghini Müzesi gezisi,Activity
+1107,Floransa şehir turu (Piazza Della Signoria ve diğer yapılar),Activity
+1108,Toskana’da şarap bağları ve bölgesel geziler,Activity
+1109,Forte dei Marmi sahil tatili,Activity
+1110,Toskana,City
+1111,Forte dei Marmi,City
+1112,"Prag, Karlovy Vary & Cesky Krumlov Gezisi - Beril Miskavi",Trip
+1113,Çekya,Country
+1114,Prag,City
+1115,"Kampa Park Restaurant (Na Kampě 8b, Prag)",Restaurant
+1116,"Prag şehir turu: Prag Kalesi, St. Vitus Bazilikası, Altın Yol",Activity
+1117,Karlovy Vary gezisi,Activity
+1118,Cesky Krumlov şehir turu,Activity
+1119,Karlovy Vary,City
+1120,Cesky Krumlov,City
+1121,Endülüs Gezisi - Berrin Zorlu,Trip
+1122,Malaga,City
+1123,"Granada şehir merkezi turu (Realejo Mahallesi, Capilla Real, Katedral, Madraza)",Activity
+1124,Elhamra Sarayı gezisi,Activity
+1125,Cordoba turu,Activity
+1126,Ronda gezisi,Activity
+1127,Sevilla şehir turu,Activity
+1128,Cordoba,City
+1129,Ürdün Gezisi - Berrin Zorlu,Trip
+1130,Ürdün,Country
+1131,Amman,City
+1132,Amman şehir turu,Activity
+1133,Mount Nebo ve Madaba ziyareti,Activity
+1134,Petra Antik Kenti gezisi,Activity
+1135,Wadi Rum çöl safarisi,Activity
+1136,Dead Sea’de konaklama ve dinlenme,Activity
+1137,Mount Nebo,City
+1138,Madaba,City
+1139,Petra,City
+1140,Wadi Rum,City
+1141,Dead Sea,City
+1142,BAE Gezisi - Fuat Pamukçu,Trip
+1143,Abu Dhabi,City
+1144,"The St. Regis Saadiyat Island Resort, Abu Dhabi",Hotel
+1145,The Ritz Carlton Ras Al Khaimah,Hotel
+1146,"Address Dubai Mall, Dubai",Hotel
+1147,Hakkasan Abu Dhabi,Restaurant
+1148,Ula Beach RAK,Restaurant
+1149,The Guild Dubai,Restaurant
+1150,WHITE Beach Dubai,Restaurant
+1151,Estiatorio Milos Dubai,Restaurant
+1152,The MAINE Oyster Bar & Grill JBR,Restaurant
+1153,La Cantine Beach,Restaurant
+1154,The Restaurant at Address Dubai Mall,Restaurant
+1155,Sunset Electric Dragon Boat Experience - Jubail Mangrove Park,Activity
+1156,Ferrari World Abu Dhabi – Driving Experience,Activity
+1157,"Louvre Museum, Abu Dhabi",Activity
+1158,Çöl Safarisi,Activity
+1159,Çölde Akşam Yemeği,Activity
+1160,Dubai Autodrome Circuit,Activity
+1161,New Year's Eve Celebration - The Restaurant at Address Dubai Mall,Activity
+1162,Ras Al Khaimah,City
+1163,Peru Gezisi - Seda Soğancıoğlu,Trip
+1164,Peru,Country
+1165,Lima,City
+1166,Belmond Miraflores Park (Lima),Hotel
+1167,Lima şehir turu (Plaza Mayor ve tarihi merkez),Activity
+1168,Cusco turu,Activity
+1169,Sacred Valley gezisi,Activity
+1170,Machu Picchu ziyareti,Activity
+1171,Cusco,City
+1172,Sacred Valley,City
+1173,Machu Picchu,City
+1174,USA Gezisi - Selen Zorlu,Trip
+1175,Amerika Birleşik Devletleri,Country
+1176,New York,City
+1177,Central Park ziyareti,Activity
+1178,New York şehir turu (müze ve meydanlar),Activity
+1179,Kültürel ve alışveriş aktiviteleri,Activity
+1180,Hindistan Gezisi - Berrin Zorlu,Trip
+1181,Varanasi’de Ganj Nehri kıyısında Aarti töreni,Activity
+1182,Jaipur şehir turu,Activity
+1183,Udaipur göl gezileri ve saray ziyareti,Activity
+1184,Delhi şehir turu,Activity
+1185,Mısır Gezisi - Hakan Ateş,Trip
+1186,"Giza Piramitleri gezisi (Keops, Kefren, Mikerinos)",Activity
+1187,Sfenks ziyareti,Activity
+1188,Kahire şehir gezisi,Activity
+1189,Provence Gezisi - Olgun Zorlu,Trip
+1190,Marsilya,City
+1191,Gordes ve Roussillon köy gezileri,Activity
+1192,Sanat atölyeleri ve butik mağazalar,Activity
+1193,Provence manzaraları ve şato ziyareti,Activity
+1194,Toskana Gezisi - Selen Zorlu,Trip
+1195,San Casciano Val di Pesa kasabası ziyareti,Activity
+1196,Floransa çevresinde geziler,Activity
+1197,Chianti bölgesinde üzüm bağları ve köyler,Activity
+1198,San Casciano Val di Pesa,City
+1199,Güney Afrika Gezisi - Tanju Kaya,Trip
+1200,Johannesburg,City
+1201,Sabi Sabi Little Bush Camp,Hotel
+1202,The Table Bay,Hotel
+1203,Sabi Sabi’de sabah ve akşam safari turları,Activity
+1204,Cape Town V&A Waterfront gezisi,Activity
+1205,Cape Town şehir turu ve çevre gezileri,Activity
+1206,Sabi Sand,City
+1207,Kruger,City
+1208,Tayland & Vietnam Gezisi,Trip
+1209,"Mandarin Oriental, Bangkok",Hotel
+1210,"Anantara Golden Triangle, Chiang Rai",Hotel
+1211,The Market Restaurant (Vietnam),Restaurant
+1212,Bangkok kanal turu (Thonburi Klongs) ve Chao Phraya Nehri gezisi,Activity
+1213,"Bangkok şehir turu: Wat Arun, Wat Pho, Çin Mahallesi",Activity
+1214,"Chiang Rai’de fil sürüşü, Altın Üçgen gezisi veya yemek kursu",Activity
+1215,Tra Que Organic Village bisiklet turu,Activity
+1216,The Market Restaurant’ta Vietnam yemek kursu,Activity
+1217,Danang,City
+1218,Saigon,City
+1219,Tayland & Endonezya Gezisi,Trip
+1220,Phuket,City
+1221,The Surin Phuket,Hotel
+1222,"Beach Restaurant, The Surin (Phuket)",Restaurant
+1223,Phuket’te Big Buddha ziyareti,Activity
+1224,Phuket Tarihi Kent Gezisi,Activity
+1225,Bangkok şehir turu,Activity
+1226,Bali’de tapınak ziyaretleri ve sahil aktiviteleri,Activity
+1227,Tayland Gezi Önerileri,Trip
+1228,Bangkok’ta Grand Palace & Wat Phra Kaew ziyareti,Activity
+1229,Wat Pho (Yatan Buda Tapınağı) gezisi,Activity
+1230,Wat Arun (Şafak Tapınağı) ziyareti,Activity
+1231,Thonburi Kanalları tekne turu,Activity
+1232,Phuket ada ve sahil aktiviteleri,Activity
+1233,Toskana Gezisi - Bayram Programı,Trip
+1234,"Bologna şehir turu (Piazza Maggiore, Basilica di San Petronio, Fontana di Nettuno, Palazzo Communale)",Activity
+1235,The Mall Firenze outlet gezisi,Activity
+1236,Siena şehir turu,Activity
+1237,Montepulciano şarap bağları ve kasaba gezisi,Activity
+1238,San Gimignano kasabası gezisi,Activity
+1239,Montepulciano,City
+1240,Borgo Santo Pietro,Hotel
+1241,Montepulciano şarap bağları turu,Activity
+1242,Pienza kasabası ziyareti,Activity
+1243,Montalcino’da şarap tadımı,Activity
+1244,San Gimignano gezisi,Activity
+1245,Pienza,City
+1246,Montalcino,City
+1247,Toskana Bağ Bozumu Programı,Trip
+1248,COMO Castello del Nero,Hotel
+1249,Rosewood Castiglion del Bosco,Hotel
+1250,Bağ bozumu deneyimi,Activity
+1251,Şarap tadımları,Activity
+1252,Toskana kasabaları ve doğa gezileri,Activity
+1253,Toskana kırsalı,City
+1254,Ho Chi Minh,City
+1255,Hotel des Arts Saigon,Hotel
+1256,Raffles Hotel Le Royal,Hotel
+1257,Belmond La Résidence d’Angkor,Hotel
+1258,"Ho Chi Minh şehir turu: Reunification Palace, War Remnants Museum, Cho Lon, Thien Hau Tapınağı, Notre Dame Katedrali, Posta Merkezi, Belediye Tiyatrosu",Activity
+1259,Ben Thanh Pazarı ve Nguyen Hue caddelerinde alışveriş,Activity
+1260,Vespa ile gece turu ve Banh Xeo tadımı,Activity
+1261,"Mekong Deltası bot turu, tropik meyve bahçeleri, noodle yapımı",Activity
+1262,"Phnom Penh şehir turu: Kraliyet Sarayı, Gümüş Pagoda, Ulusal Müze",Activity
+1263,"Siem Reap’te Angkor Wat, Angkor Thom, Bayon ve Ta Prohm gezileri",Activity
+1264,Vietnam Gezisi,Trip
+1265,Hanoi By Night turu,Activity
+1266,"Hanoi şehir turu: Ho Chi Minh Mozolesi, kazık ev, Tek Sütunlu Pagoda, Edebiyat Tapınağı",Activity
+1267,Nha Trang sahil tatili ve dinlenme,Activity
+1268,Saigon şehir turu,Activity
+1269,Nha Trang,City
+1270,Vietnam & Bangkok Gezisi - Gökhan Mendi,Trip
+1271,Bhaya Cruise (Lan Ha Bay / Ha Long),Hotel
+1272,May de Cuisine Restaurant (Hanoi),Restaurant
+1273,"Hanoi şehir turu: Opera Binası, Edebiyat Tapınağı, Etnoloji Müzesi, Eski Mahalle",Activity
+1274,Westlake bölgesi turu (vintage jeep ile),Activity
+1275,Ha Long (Lan Ha Bay) Bhaya özel tekne yolculuğu,Activity
+1276,Thien Canh Son Cave ziyareti,Activity
+1277,Bangkok şehir turu ve alışveriş aktiviteleri,Activity
+1278,Ha Long (Lan Ha Bay),City
+1279,Volvo EX90 Basın Seyahati - Los Angeles,Trip
+1280,Los Angeles,City
+1281,The Resort at Pelican Hill,Hotel
+1282,Nobu Los Angeles,Restaurant
+1283,Volvo EX90 sunumu ve sürüş deneyimi,Activity
+1284,Callaway Winery ziyareti ve şarap tadımı,Activity
+1285,Volvo etkinlikleri,Activity
+1286,Newport Beach,City
+1287,Ürdün Gezisi,Trip
+1288,Marakeş 21-25 Haziran 2023,Trip
+1289,Fas,Country
+1290,Marrakech,City
+1291,Marakeş şehir gezisi,Activity
+1292,Yves Saint Laurent Müzesi ziyareti,Activity
+1293,Jardin Majorelle Bahçeleri gezisi,Activity
+1294,Ali ibn Yusuf Medresesi ziyareti,Activity
+1295,Fes,City
+1296,Havana - Cancun 8-19 Temmuz 2022,Trip
+1297,Küba,Country
+1298,Havana,City
+1299,Hotel Manzana Kempinski,Hotel
+1300,Floridita,Restaurant
+1301,Rancho San Vicente,Restaurant
+1302,Havana şehir turu,Activity
+1303,"Havana Eski Kenti, Malecon Bulvarı, Devrim Meydanı, Colomb Mezarlığı ve Morro Kalesi gezisi",Activity
+1304,Floridita’da öğle yemeği ve daiquiri kokteyl tadımı,Activity
+1305,Jose Fuster’in sanat mahallesi ziyareti,Activity
+1306,Hamel Sokağı ziyareti,Activity
+1307,Rancho San Vicente restoranda öğle yemeği,Activity
+1308,Devrim Müzesi ziyareti,Activity
+1309,Hemingway’in La Finca evi ziyareti,Activity
+1310,Che Guevara’nın evi ziyareti,Activity
+1311,"Vinales şehir merkezi, tütün tarlaları ve çiftlik ziyareti",Activity
+1312,1950’lerden kalma Amerikan arabaları ile Havana turu,Activity
+1313,Prado Caddesi ziyareti,Activity
+1314,Vinales,City
+1315,Cancun,City
+1316,Japonya 12 - 21 Ekim 2024,Trip
+1317,Hotel Tokyo Deluxe Double,Hotel
+1318,Garrya Nijo Castle Kyoto,Hotel
+1319,Tokyo şehir turu,Activity
+1320,Mori Sanat Müzesi ve Sky Deck ziyareti,Activity
+1321,Ashinoko Gölü tekne turu,Activity
+1322,Hakone Açık Hava Müzesi ziyareti,Activity
+1323,Picasso Pavilion sergisi,Activity
+1324,Arashiyama bölgesi ziyareti,Activity
+1325,Todai-ji Tapınağı ziyareti,Activity
+1326,TeamLab Borderless ziyareti,Activity
+1327,Osaka Kalesi ziyareti,Activity
+1328,Sorakuen Bahçesi ve Kobe eski yerleşim yeri gezisi,Activity
+1329,Kobe,City
+1330,Osaka,City
+1331,Güney Afrika 14-21 Kasım 2018,Trip
+1332,Sabi Sabi Game Reserve Lodge,Hotel
+1333,Hotel Luxury King Mountain Room,Hotel
+1334,Sabah ve akşam safarileri (Sabi Sand Game Reserve),Activity
+1335,Soweto gezisi ve Nelson Mandela’nın Evi ziyareti,Activity
+1336,Hector Pieterson Müzesi ziyareti,Activity
+1337,Nelson Mandela Meydanı gezisi,Activity
+1338,Cape Town şehir turu,Activity
+1339,Stellenbosch şarap bağları gezisi,Activity
+1340,Soweto,City
+1341,Hindistan 2024 Maide Cebi,Trip
+1342,Humayun’un Türbesi ziyareti,Activity
+1343,Jaipur City Palace gezisi,Activity
+1344,Amber Kalesi ziyareti,Activity
+1345,Ranthambore Milli Parkı’nda jeep safari,Activity
+1346,Bishnoi köyü safari gezisi,Activity
+1347,Udaipur City Palace ve göl çevresi gezisi,Activity
+1348,Bundi Palace ve Chitra Shala gezisi,Activity
+1349,Ranakpur Jain Tapınakları ziyareti,Activity
+1350,Jodhpur Mehrangarh Kalesi gezisi,Activity
+1351,Elephanta Adası ve Trimurti heykeli ziyareti,Activity
+1352,Mumbai şehir turu,Activity
+1353,Ranthambore,City
+1354,Jodhpur,City
+1355,Mumbai,City
+1356,Küba Gezisi 2022,Trip
+1357,La Canchanchara,Restaurant
+1358,"Havana şehir turu (Eski Kent, Malecon, Devrim Meydanı, Colomb Mezarlığı, Miramar)",Activity
+1359,Küba sokaklarında klasik Amerikan arabalarıyla gezi,Activity
+1360,"Cienfuegos şehir turu (Valle Sarayı, Jose Marti Parkı, Prado Promenade)",Activity
+1361,Trinidad gezisi ve La Canchanchara Bar ziyareti,Activity
+1362,Santa Clara gezisi ve Che Guevara Anıt Mezarı ziyareti,Activity
+1363,Vinales tütün tarlaları ve çiftlik ziyareti,Activity
+1364,Cienfuegos,City
+1365,Trinidad,City
+1366,Santa Clara,City
+1367,Kolombiya - Peru 2024,Trip
+1368,Kolombiya,Country
+1369,Bogotá,City
+1370,Bogotá şehir turu,Activity
+1371,Cartagena eski şehir gezisi,Activity
+1372,Lima şehir turu,Activity
+1373,Cusco şehir turu,Activity
+1374,Machu Picchu gezisi,Activity
+1375,Cartagena,City
+1376,Frieze London 2023,Trip
+1377,İngiltere,Country
+1378,Londra,City
+1379,The Biltmore Mayfair Hotel,Hotel
+1380,Frieze Sculpture Park ziyareti,Activity
+1381,Hayward Gallery ziyareti,Activity
+1382,Frieze London fuarı gezisi,Activity
+1383,Gamze Çuhadaroglu PROVENCE 2022,Trip
+1384,Château La Coste,Restaurant
+1385,Roussillon ve Gordes gezisi,Activity
+1386,Arles şehir gezisi,Activity
+1387,Arles Luma Müzesi ziyareti,Activity
+1388,Mirabeau Caddesi’nde gezinti,Activity
+1389,Château La Coste şarap evi ve bahçeleri ziyareti,Activity
+1390,Aix-en-Provence,City
+1391,MAP Venedik Bienali 2022,Trip
+1392,Hotel Bauer Palazzo,Hotel
+1393,La Caravella,Restaurant
+1394,Ai Weiwei sergisi,Activity
+1395,Giardini ana sergi turu,Activity
+1396,Venedik Bienali ülke pavyonları turu,Activity
+1397,Arsenale ana sergi turu,Activity
+1398,"Personal Structures, Palazzo Bembo sergisi",Activity
+1399,MAP Barcelona Çağdaş Sanat Gezisi 2023,Trip
+1400,Merendero de la Mar,Restaurant
+1401,Barcelona şehir gezisi,Activity
+1402,MACBA - Museu d’Art Contemporani de Barcelona ziyareti,Activity
+1403,Picasso Müzesi ziyareti,Activity
+1404,Antoni Tàpies Müzesi ziyareti,Activity
+1405,La Casa de Salvador Dalí - Port Lligat gezisi,Activity
+1406,Caixa Forum gezisi,Activity
+1407,Poble Espanyol gezisi,Activity
+1408,Joan Miró Vakfı ziyareti,Activity
+1409,Fundació Suñol ziyareti,Activity
+1410,Dali Müzesi ziyareti,Activity
+1411,Xavi Bou Atölye ziyareti,Activity
+1412,Jordi Bernadó Atölye ziyareti,Activity
+1413,James Turrell enstalasyonu ziyareti,Activity
+1414,Cadaques,City
+1415,MAP Provence Program 31 Mart - 3 Nisan 2023,Trip
+1416,La Luma Drum Cafe,Restaurant
+1417,Les Deux Garçons,Restaurant
+1418,Château La Coste sanat ve mimari gezisi,Activity
+1419,Fondation Vincent van Gogh Arles ziyareti,Activity
+1420,Mucem Müzesi ziyareti,Activity
+1421,Atelier de Cezanne ziyareti,Activity
+1422,Palais des Papes ziyareti,Activity
+1423,Saint-Paul de Mausole ziyareti,Activity
+1424,Carrières de Lumières ziyareti,Activity
+1425,Les Deux Garçons’da kahve molası,Activity
+1426,Saint-Remy-de-Provence,City
+1427,Jules Verne - 2 Ladies - Japan - March 2024,Trip
+1428,Arashiyama Bamboo Grove ziyareti,Activity
+1429,Fushimi Inari Tapınağı ziyareti,Activity
+1430,Naoshima & Teshima sanat adaları gezisi,Activity
+1431,Lofoten Islands - Version 2.0,Trip
+1432,Henningsvær,City
+1433,Restaurant Nyvågar,Restaurant
+1434,Midnight Sun Safari,Activity
+1435,Sea Eagle RIB Boat Safari,Activity
+1436,Henningsvær gezisi,Activity
+1437,Svolvær gezisi,Activity
+1438,Rehberli hiking ve çevre gezisi,Activity
+1439,Å köyü gezisi,Activity
+1440,Kayaking özel turu,Activity
+1441,Svolvær,City
+1442,Reine,City
+1443,Å,City
+1444,Güney Afrika 22-30 Ocak,Trip
+1445,Öğleden sonra safari,Activity
+1446,Tam gün safari,Activity
+1447,Kirstenbosch Ulusal Botanik Bahçesi gezisi,Activity
+1448,Stellenbosch şarap bağları turu,Activity
+1449,Cape Winelands bölgesi ziyareti,Activity
+1450,Marataba,City
+1451,Mardin 13-15 Ekim 2023,Trip
+1452,Mardin,City
+1453,Mardin şehir turu,Activity
+1454,Sakıp Sabancı Müzesi ziyareti,Activity
+1455,Eski PTT Binası gezisi,Activity
+1456,Eski Mardin Evleri ve Abbara tünelleri gezisi,Activity
+1457,Zinciriye Medresesi ziyareti,Activity
+1458,Kültür Sokağı ve Uçurtma Atölyesi gezisi,Activity
+1459,Ulu Camii ziyareti,Activity
+1460,Deyrulzafaran Manastırı ziyareti,Activity
+1461,Kasımiye Medresesi ziyareti,Activity
+1462,Midyat şehir turu,Activity
+1463,Midyat Devlet Konukevi ve Gümüşçüler Çarşısı ziyareti,Activity
+1464,Mor Gabriel Manastırı ziyareti,Activity
+1465,Midyat,City
+1466,Meksika 06-16 Aralık 2023,Trip
+1467,Hotel Rosas,Hotel
+1468,Mexico City şehir turu,Activity
+1469,Ulusal Saray ve Diego Rivera duvar resimleri ziyareti,Activity
+1470,Zócalo ve Metropolitan Katedrali ziyareti,Activity
+1471,Xochimilco yüzen bahçeleri gezisi,Activity
+1472,Coyoacan köyü ziyareti,Activity
+1473,Frida Kahlo Müzesi ziyareti,Activity
+1474,Mérida şehir turu,Activity
+1475,San Ildefonso Katedrali ziyareti,Activity
+1476,Casa Montejo ziyareti,Activity
+1477,Yucatan Valilik Sarayı duvar resimleri ziyareti,Activity
+1478,Chichen-Itza arkeolojik alanı ziyareti,Activity
+1479,Tulum,City
+1480,Mendi Family - Kenya 25-29 Aralık,Trip
+1481,Emara Ole Sereni Hotel,Hotel
+1482,Akşam safari,Activity
+1483,Sabah ve akşam safarileri,Activity
+1484,Karen Blixen Müzesi ziyareti,Activity
+1485,Giraffe Centre ziyareti,Activity
+1486,Mevzun Vietnam Kamboçya 2016,Trip
+1487,Park Hyatt Saigon,Hotel
+1488,Intercontinental Danang,Hotel
+1489,Sofitel Legend Metropole Hanoi,Hotel
+1490,Paradise Luxury Halong,Hotel
+1491,Hanoi şehir turu,Activity
+1492,Ngoc Son Pagoda ziyareti,Activity
+1493,Temple of Literature ziyareti,Activity
+1494,Water Puppet gösterisi,Activity
+1495,Halong Bay tekne turu,Activity
+1496,Hoi An yürüyüş turu,Activity
+1497,Ho Chi Minh City şehir turu,Activity
+1498,Ben Thanh Market ziyareti,Activity
+1499,War Remnants Museum ziyareti,Activity
+1500,Cu Chi Tünelleri gezisi,Activity
+1501,Siem Reap Angkor Wat ziyareti,Activity
+1502,Ta Prohm Tapınağı ziyareti,Activity
+1503,Banteay Srei ve Banteay Samre tapınakları ziyareti,Activity
+1504,Tonle Sap Gölü yüzen köy ziyareti,Activity
+1505,Halong,City
+1506,Hoi An,City
+1507,Ho Chi Minh City,City
+1508,Mevzun Çifçi Hindistan 2024,Trip
+1509,Jaipur Amber Kalesi ziyareti,Activity
+1510,Jaipur City Palace ziyareti,Activity
+1511,Udaipur göl gezisi,Activity
+1512,Udaipur City Palace ziyareti,Activity
+1513,Jodhpur Mehrangarh Kalesi ziyareti,Activity
+1514,Mine Bahadır Japonya - Tayland Programı,Trip
+1515,Senso-ji Tapınağı ve Nakamise alışveriş caddesi ziyareti,Activity
+1516,Akihabara gezisi,Activity
+1517,Kyoto şehir turu,Activity
+1518,Nishiki Pazarı ziyareti,Activity
+1519,Machiya deneyimi,Activity
+1520,Ise Shima bölgesi gezisi,Activity
+1521,Naiku ve Geku Shinto tapınakları ziyareti,Activity
+1522,Chiang Rai fil kampı ziyareti,Activity
+1523,Golden Triangle bölgesi gezisi,Activity
+1524,Chiang Mai şehir turu,Activity
+1525,Phuket sahil tatili,Activity
+1526,Ise Shima,City
+1527,Murat Bilgin 28 Eylül - 9 Ekim 2023 Güney Afrika,Trip
+1528,Four Seasons Hotel The Westcliff,Hotel
+1529,Delaire Graff,Restaurant
+1530,Johannesburg şehir turu,Activity
+1531,Zeitz MOCAA ziyareti,Activity
+1532,Cape Point gezisi,Activity
+1533,Boulders Beach penguen kolonisi ziyareti,Activity
+1534,Franschhoek ve Stellenbosch şarap bağları gezisi,Activity
+1535,Iziko Müzesi ziyareti,Activity
+1536,Sabi Sabi,City
+1537,Myanmar 2017 Mevzun Çiftçi,Trip
+1538,Myanmar,Country
+1539,Yangon,City
+1540,Belmond Road to Mandalay Cruise,Hotel
+1541,Shwedagon Pagoda ziyareti,Activity
+1542,Yangon şehir turu,Activity
+1543,Mandalay gezisi,Activity
+1544,Bagan tapınakları gezisi,Activity
+1545,Ananda ve Gubyaukgyi tapınakları ziyareti,Activity
+1546,Phaung Daw Oo Pagoda ziyareti,Activity
+1547,Inle Gölü gezisi,Activity
+1548,Lacquer ware atölyesi ziyareti,Activity
+1549,Damnoen Saduak yüzen pazar ziyareti (Bangkok),Activity
+1550,Mandalay,City
+1551,Bagan,City
+1552,Inle Lake,City
+1553,SUMMER EUROPE 2025,Trip
+1554,FRANCE,Country
+1555,PARIS,City
+1556,HOTEL LUMIERE,Hotel
+1557,ROMA SUITES,Hotel
+1558,LE BISTRO,Restaurant
+1559,TRATTORIA ROMANA,Restaurant
+1560,EIFFEL TOWER,Activity
+1561,COLOSSEUM TOUR,Activity
+1562,ROME,City
+1563,ITALY,Country
+1564,SUMMER EUROPE 2024,Trip
+1565,BALKANS 2025,Trip
+1566,TURKEY,Country
+1567,LEG1,City
+1568,AYASOFYA CAMII,Activity
+1569,OLD TOWN WALK,Activity
+1570,LEG2,City
+1571,BULGARIA,Country
+1572,NORTH MACEDONIA,Country
+1573,ROME ANCIENT 2024,Trip
+1574,FORUM INN,Hotel
+1575,TRASTEVERE TRATTORIA,Restaurant
+1576,COLOSSEUM,Activity
+1577,ROMAN FORUM,Activity
+1578,PALATINE HILL,Activity
+1579,CAPPADOCIA DREAM 2023,Trip
+1580,GOREME,City
+1581,GOREME CAVE HOTEL,Hotel
+1582,SULTANAHMET INN,Hotel
+1583,MEZE HOUSE,Restaurant
+1584,KONYALI RESTAURANT,Restaurant
+1585,BALLOON RIDE,Activity
+1586,GOREME OPEN AIR MUSEUM,Activity
+1587,TOPKAPI PALACE,Activity
+1588,ISTANBUL,City
+1589,BALKANS LOOP 2025,Trip
+1590,LONDON HIGHLIGHTS 2024,Trip
+1591,UNITED KINGDOM,Country
+1592,LONDON,City
+1593,SOUTHBANK HOTEL,Hotel
+1594,DISHOOM,Restaurant
+1595,BRITISH MUSEUM,Activity
+1596,TOWER OF LONDON,Activity
+1597,LONDON EYE,Activity
+1598,NEW YORK CLASSICS 2024,Trip
+1599,UNITED STATES,Country
+1600,NEW YORK,City
+1601,MIDTOWN INN,Hotel
+1602,SHAKE SHACK,Restaurant
+1603,STATUE OF LIBERTY,Activity
+1604,TIMES SQUARE,Activity
+1605,CENTRAL PARK,Activity
+1606,TOKYO ESSENTIALS 2025,Trip
+1607,JAPAN,Country
+1608,TOKYO,City
+1609,SHIBUYA HOTEL,Hotel
+1610,SUSHI BAR,Restaurant
+1611,SENSOJI TEMPLE,Activity
+1612,SHIBUYA CROSSING,Activity
+1613,MEIJI SHRINE,Activity
+1614,KYOTO TEMPLES 2025,Trip
+1615,KYOTO,City
+1616,GION RYOKAN,Hotel
+1617,UDON HOUSE,Restaurant
+1618,FUSHIMI INARI SHRINE,Activity
+1619,KINKAKUJI TEMPLE,Activity
+1620,KIYOMIZU DERA,Activity
+1621,BARCELONA ARCHITECTURE 2024,Trip
+1622,SPAIN,Country
+1623,BARCELONA,City
+1624,EIXAMPLE HOTEL,Hotel
+1625,TAPAS BAR,Restaurant
+1626,SAGRADA FAMILIA,Activity
+1627,PARK GUELL,Activity
+1628,CASA BATLLO,Activity
+1629,GAUDI WEEKEND 2025,Trip
+1630,ISTANBUL CLASSICS 2024,Trip
+1631,BLUE MOSQUE,Activity
+1632,SUNRISE VIEWPOINT,Activity
+1633,URGUP,City
+1634,ROME ANTIQUITY 2024,Trip
+1635,ISTANBUL & CAPPADOCIA 2023,Trip
+1636,ISTANBUL HERITAGE WEEKEND 2025,Trip
+1637,GRAND BAZAAR,Activity
+1638,NEW YORK CITY 2024,Trip
+1639,MIDTOWN HOTEL,Hotel
+1640,LONDON ARCHITECTURE TOUR 2024,Trip
+1641,RIVERBANK HOTEL,Hotel
+1642,TRAFALGAR RESTAURANT,Restaurant
+1643,BIG BEN,Activity
+1644,BALKAN CULTURE TOUR 2025,Trip
+1645,BALKAN CULTURAL SITES,Activity
+1646,SOFIA OLD TOWN,Activity
+1647,SUMMER GREECE 2025,Trip
+1648,GREECE,Country
+1649,ATHENS,City
+1650,ATHENS PLAZA HOTEL,Hotel
+1651,THESSALONIKI INN,Hotel
+1652,TAVERNAS,Restaurant
+1653,ACROPOLIS TOUR,Activity
+1654,THESSALONIKI OLD TOWN,Activity
+1655,THESSALONIKI,City
+1656,ITALY CLASSICS 2024,Trip
+1657,VENICE SUITES,Hotel
+1658,ST. MARK'S SQUARE,Activity
+1659,VENICE,City
+1660,PARIS MUSEUM TOUR 2024,Trip
+1661,MARAIS HOTEL,Hotel
+1662,LEON DE BRUXELLES,Restaurant
+1663,LOUVRE MUSEUM,Activity
+1664,MUSÉE D'ORSAY,Activity
+1665,TURKEY TOUR 2024,Trip
+1666,CAPPADOCIA,City
+1667,EUROPE CLASSICS 2025,Trip
+1668,PARIS CITY BREAK 2024,Trip
+1669,MONTMARTRE WALK,Activity
