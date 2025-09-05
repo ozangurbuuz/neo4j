@@ -1,0 +1,2328 @@
+id,label,name,extra
+dda32a6c44a999d45b3b6563bed01f50,Trip,BREZİLYA – ARJANTİN – ŞİLİ TURU 04 – 22 OCAK,"{""date_start"": ""2025-01-04"", ""date_end"": ""2025-01-22"", ""season"": ""Kış"", ""price_usd"": 3800}"
+755be1eb3c540a55296b6d312a1714e8,City,Rio de Janeiro,{}
+e1f53c0817bc10eb9eb8660fed48729d,Alias,Rio de Janeiro,{}
+122968d8c1100e74b95f69a632a3fede,City,Iguazu,{}
+02bed6def9bd9c882e18f175273798ea,City,Buenos Aires,{}
+5c95abc5e67955ec38acb9328b26fe7a,Alias,Buenos Aires,{}
+a25eab7cc961617b34e10bab1f36b40e,City,Cape Horn,{}
+4cadc4e6299c3187f9433e49254acd3f,Alias,Cap Horn,{}
+b22a8f7758f02e27f613faa50fb35813,Alias,Capo Horn,{}
+2835e463504fa110e8ae04efbdcdeaeb,Alias,Horn Burnu,{}
+81dcee82545abd9e12e23766e04911eb,City,Magdalena Adası,{}
+e8a786c2d4b3c58c8c4444f67b098f1f,City,Santiago,{}
+3d202e7e59ed529c34984fc4862e6238,Alias,Santiago,{}
+80238f0c729a2bde058cfe86be7a869c,Alias,Santiago del Cile,{}
+9c860d3469862885cd21d97dcf76dae7,Alias,"Santiago, Şili",{}
+0761ef00bc41017f222c873891124679,Country,Brezilya,{}
+8a33cf4efc87738b43b859f6a3c98c44,Alias,Brasile,{}
+62affa5b77508398fbc6675826c4b8f0,Alias,Brazil,{}
+f08af4a39673f6d158145710c6c8e3db,Alias,Brésil,{}
+2604b2aa123256e3e3e4aa2c26888e72,Country,Arjantin,{}
+17277eda4e06cf6daaf78e12a30d98b3,Alias,Argentina,{}
+51f6830ffd5535a56a9722fd448afe3d,Alias,Argentine,{}
+97093c316255fadc440541ed74ed091d,Country,Şili,{}
+bea20d72a0e075034ed6a7bb1d9761eb,Alias,Chile,{}
+431755a7f5295a4fa4707bac09965681,Alias,Chili,{}
+ffc5bf9551864a0b91c5d0de1b6ac0ff,Alias,Cile,{}
+1dd06a04e281192620397b2e826825a1,Activity,Vista Chinesa,{}
+6407959091e80dfc9b71b11a42aee367,Activity,Amanhã (Yarının Müzesi),{}
+3f2f0404de19b25fbefe69cf89a76c5d,Activity,Iguazú Şelaleleri,{}
+110c44aeb1fb6ffcd0e6b4b6dcff174d,Activity,Iguazú Milli Parkı,{}
+230b0dbf7acf9cf02b21109dcca9ed3b,Activity,Macuco Safarisi,{}
+510140403c26f9d871b21bbfd3ccf72e,Activity,Plaza de Mayo,{}
+2ece0986ffacada958045d008a15362b,Activity,Casa Rosada,{}
+3ab6ea1c4c53ce83837201557c604e5d,Activity,San Telmo,{}
+2c24c2dbec9a043ece3fa7ad69240be4,Activity,La Boca,{}
+09ddef7151362ca69b03857f820994ef,Activity,Buenos Aires Modern Sanat Müzesi,{}
+0dce86ff23ca07ee0acf76423085809a,Activity,Plaza Dorrego,{}
+b39f60120f07927af979bd9120422036,Activity,Palermo Soho,{}
+98e3c1255ab5bca54dafa87beb401df6,Activity,Recoleta Semti,{}
+461e4078f6d7e34097a0cb45462125fa,Activity,Recoleta Mezarlığı,{}
+db356e07828c499d92585b8429c44b6d,Activity,Rojo Tango Gösterisi,{}
+ad0110c788ffb43d270539dde0cdcc73,Activity,Cape Horn,{}
+ef700ee01e575899313f220f1746bfb3,Activity,Magdalena Adası,{}
+f4ac61d143c0b52ccf78e235de941f3b,Activity,Plaza de Armas,{}
+2dc0ce609411d962922c213fafb8a0ae,Activity,Santiago Katedrali,{}
+c8911711a29eef4ae84385192b3e86d5,Activity,Belediye Binası,{}
+f0ebf5f10a18d1f2d041dafe2d170f51,Activity,Merkez Postane,{}
+c8f5d24f90c7439e928568d44a0d10bb,Activity,Ulusal Tarih Müzesi,{}
+18bb80f27c9485ca69d9078a000fdb07,Restaurant,Satyricon Restaurant,{}
+f2095af329c167b5ebc5e2cd380fc6ed,Restaurant,La Cabrera Restaurant,{}
+707dc985b5808a21264fc8983e1fd4df,Restaurant,Fervor Restaurant,{}
+7d1ff33b73a63744c14e531f4051f3bf,Trip,İZLANDA TURU 18 – 24 MAYIS,"{""date_start"": ""2025-05-18"", ""date_end"": ""2025-05-24"", ""season"": ""İlkbahar"", ""price_usd"": 1400}"
+aa997cdb20195a313c738ba2ff86f71c,City,İzlanda,{}
+6e5e82c4632fc0075ee819f51d710e6c,Alias,Iceland,{}
+f3ec128a5450ba72270894aad3791409,Alias,Islanda,{}
+1f0a8fff38b8df291bd5db16f3f3a798,Alias,Islande,{}
+8f1b66c2e1f08a28769b48d3b9222fa6,Country,İzlanda,{}
+3baae3cd12c425bf61c9e133ed648b66,Hotel,Hali Country Hotel,{}
+31a129c0e65b8dc8047ca174928790e9,Hotel,Fosshotel Glacier Lagoon,{}
+940eba3cb208bbdde242c877305b7c14,Activity,Blue Lagoon,{}
+9f1d27d4afbf2392b9134c954788413b,Activity,Kerid Crater Lake,{}
+282ce9594e7f7dfebd4425fe65702c60,Activity,Skaftafell National Park,{}
+effbb92d198d3fabbd7bd5dfb746ebc1,Activity,Ice Cave,{}
+2ca9f35a03197e666a766440186bf23c,Activity,Svartifoss Şelalesi,{}
+64674d362dd3edf8b6a2fc6f8ad2407c,Activity,Fjallsárlón Glacier Lagoon,{}
+74d21a711b88be2de14b278cc691751b,Activity,Jökulsárlón Glacier Lagoon,{}
+f097cef585bf678030797f09c3cf4787,Activity,Goðafoss Şelalesi,{}
+2a33dab1943009ae76050378548360ac,Trip,GÜNEY AFRİKA TURU 07 – 16 ARALIK,"{""date_start"": ""2025-12-07"", ""date_end"": ""2025-12-16"", ""season"": ""Kış"", ""price_usd"": 2000}"
+db24297fcd8a1179e461919e36d1b6c1,City,Cape Town,{}
+1b0b9a3642dc5b8caea97bf8cfd44cf2,Alias,Cape Town,{}
+b551ec931639ab4eb0991e70f64a30b0,Alias,Città del Capo,{}
+5d54d76a5e71ce5c89950f2d426351ac,Alias,Le Cap,{}
+520312a19cd03b2f5506389aa6a0038a,City,Stellenbosch,{}
+d774adfe6be144a24f9ba85de7dbe749,Alias,Stellenbosch,{}
+c2e9896bf915e204e1a2842746c8d0be,City,Franschhoek,{}
+85b1f2ca4a77348254c5ebf19828448d,Alias,Franschhoek,{}
+149d0eab5405bdba3b3c301b4f2fee8b,City,Kimberley,{}
+45bf76d429756269824e2cc7a2907e4a,Alias,Kimberley,{}
+1a876069ee18a3f805e58479b5fea9d6,Country,Güney Afrika,{}
+b048b5f83e8555b3e66be7c8d4fdaa1e,Alias,Africa meridionale,{}
+2244f41336ba7854778feb94c19e72c6,Alias,Afrique australe,{}
+744ac95d2c4a5965a3b79e3da79c32a7,Alias,Southern Africa,{}
+d611f4d283af4293eff6245ab5952099,Hotel,Babel Hotel,{}
+2f57c174e0fc3215f947d45f5e37b7e6,Activity,Cape Town & Masa Dağı Gezisi,{}
+6b3562c27f684fa21abf13536913c650,Activity,Zeitz Çağdaş Sanatlar Müzesi,{}
+ca771e779b3c7297d36e791d6d4552e3,Activity,Cape Point & Ümit Burnu,{}
+93101f4fd0a90214a915e576b9cf49eb,Activity,Boulders Penguen Kolonisi,{}
+15e8d766f43d15b0bd046abe1ab5fb7e,Activity,Stellenbosch Şarap Evleri,{}
+c6a34b53ca6ce01d63ac4c2d985898a5,Activity,Franschhoek Şarap Bağları,{}
+a58e3a47748bd3207ae96e998eb667da,Activity,La Motte Şarap Tadımı,{}
+21ba347d4551fc2c50e8b8afd4e46153,Activity,Matjiesfontein Köyü,{}
+a076896ee515e64a69b07b23bad95276,Activity,Kimberley Diamond Mine & Big Hole,{}
+beb62d959455c80286065e6cdae6ad0c,Activity,Sabah Safari,{}
+901203c7e0d07420c6553f9100deca18,Activity,Akşam Safari,{}
+2376e10833bb9e17312b540bfbeacf05,Trip,VENEDİK & MİLANO TURU 08 – 12,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+09e6b5c45b7a37d01a39ace6cfd294b3,City,Venedik,{}
+e2579f98a118c1666b42e5095349f0fb,Alias,Venezia,{}
+b982443defc2a4a10db2beb8c7a072f2,Alias,Venice,{}
+0dd34d6f122241661e9393ff03a69cf6,Alias,Venise,{}
+4593b4d9df97c042f7041080554b7d24,City,Milano,{}
+1cb42cd7d0c53b722bd6b760238ae182,Alias,Milan,{}
+14224e68cb481910845fe3d90fc0d9d6,Alias,Milano,{}
+0a187ffc506822828a9af74267f2b174,Country,İtalya,{}
+0c1f196714c641fe4c51a0abea43c0b7,Alias,Italia,{}
+4464014fa01c1dd0dbdc2480a52dec26,Alias,Italie,{}
+12a5ea357e6068c5f5861156318fb1d9,Alias,Italy,{}
+85fc0140aa26dc16ba8a2ee5199d1866,Hotel,Hotel Ai Cavalieri,{}
+5c0027653c83d13bb2de744bbb66ed04,Restaurant,Ristorante Da Ivo,{}
+c9e3b487e2a6adaa4db45e514095c14c,Restaurant,Ristorante Acqua Pazza,{}
+5e66320b1251486164062733e4c4ae69,Restaurant,Osteria Enoteca San Marco,{}
+83d74b507e530e98d0b2218b65ab4faa,Restaurant,Restaurant Terrazza Danieli,{}
+e2906940b584c01ffce0576a610c9dcd,Restaurant,Da Giacomo,{}
+99e2bd057ccccfe1e07c62d542fab78d,Restaurant,Il Salumaio di Montenapoleone,{}
+7fb288136a4c3f40cb47afcf1434e2a9,Restaurant,Solferino Restaurant,{}
+d1ec0d5f9e57d69ad535d276d1be2f6b,Trip,MALDİVLER TURU 08 – 15 OCAK 2024,"{""date_start"": ""2024-01-08"", ""date_end"": ""2024-01-15"", ""season"": ""Kış"", ""price_usd"": ""47800 / 47600 / 34900 USD (oda tipine göre)""}"
+478f51245a20780aa689350fe564ab65,City,Maldivler,{}
+8540a7e276ac18ed3f1fb159e8cbf30c,Alias,Maldive,{}
+7d91bf72df260f32be6728a009e722fa,Alias,Maldives,{}
+2190e8fcc0288b32c9c98ff23cb06d94,Country,Maldivler,{}
+9d762a61403c6400e785f751a0e986f0,Hotel,Beach Villa with Pool,{}
+44630cca478177793ff63add3f73d339,Hotel,Water Villa with Pool,{}
+dfa34d1bb5ea22c13b78a8ce686eaa9b,Hotel,Water Villa One Bedroom,{}
+b16b0f364e0bf20807fa594fadb75745,Trip,TANZANYA & ZANZIBAR TURU 08 – 17 OCAK 2024,"{""date_start"": ""2024-01-08"", ""date_end"": ""2024-01-17"", ""season"": ""Kış"", ""price_usd"": 2000}"
+20fda340ab0f27bcc22a7f641e4b51c9,City,Arusha,{}
+25331b750a61ad440f9b49c704ecb228,Alias,Arusha,{}
+b9e11fd8f3c8f4b064d0283a36b59f53,City,Serengeti,{}
+e2047519defbd88c5837610267165c6b,Alias,Plaine du Serengeti,{}
+e00d2ff5fe1c98cc839ed22c86edc071,Alias,Serengeti,{}
+781d51d5f910395844a04b02e1d0abc1,City,Zanzibar,{}
+e1b59bc442659b7b9d38c02e86acd988,Alias,Zanzibar,{}
+b0b50aa57460fda463cfcf68d8bd7d24,Alias,Zanzibar (pays),{}
+182bfeb8aee9222a49e029490622dd38,Country,Tanzanya,{}
+0a65fcc8f25ea0ea8c9577214da73eaa,Alias,Tanzania,{}
+ab3c99bef31dfb8bb7c851380582c012,Alias,Tanzanie,{}
+addf8340415390bb7c23c3dd89918846,Hotel,Singita Lodge,{}
+18fd86b36e3c1fd27651aaf46f8d5f3e,Hotel,Singita Sasakawa Lodge,{}
+62097f51ab54c59df7f2974a3400e090,Activity,Serengeti Ulusal Parkı Safari,{}
+a90160a84f07b9fe897becf840003690,Activity,Öğle Safarisi,{}
+885c2c13a3b8f503f0d87754eed285cf,Activity,Sabah ve Akşam Safarileri,{}
+fa69ce3f626312e2a8b9dfb60b2bf7c0,Trip,BARCELONA TURU 09 – 11 KASIM,"{""date_start"": ""2025-11-09"", ""date_end"": ""2025-11-11"", ""season"": ""Sonbahar"", ""price_usd"": 600}"
+63fd92cf3798d45257dfb3668d917134,City,Barcelona,{}
+c37f486dd07a3933496695253170ac9e,Alias,Barcellona,{}
+e232c4ce7b1ed1384d7249916594d039,Alias,Barcelone,{}
+0b9e0881d05dd2a6f092585f333df0b9,Alias,Barselona,{}
+c27a72ae4e928bdd395a5dbfe616f843,Country,İspanya,{}
+6759da23544ad001247e7f57e76a9bf9,Alias,Espagne,{}
+3a8adfbc9e7db22665795c258ad0de44,Alias,Spagna,{}
+23708b22a60aadb2c18c3d5683c28c3c,Alias,Spain,{}
+19798da7625bfe79e4ba81a714dd589c,Activity,Park Güell,{}
+a301261827eff776b23fc3b11c7c0de2,Activity,La Sagrada Familia,{}
+941f1f921a22e9fbea00071efc6bd561,Activity,Casa Milà,{}
+5ba6bf8138d4cbd97b057cd2a38c8d76,Activity,Plaza Catalunya,{}
+ecc60d1815ebbc44489b891a0a6f142d,Activity,Gotik Mahallesi,{}
+7443b269424fc98e0a600fa65e68c3ba,Restaurant,La Pepita Tapas Bar,{}
+a5a65e05b7f41da70367d17aec80c3cc,Restaurant,Gala Restoran,{}
+37ad8144d8f9df3910a17e539f88aa23,Restaurant,Barceloneta Restoran,{}
+1857580274f4f16832a787065e20b3c9,Trip,BILBAO & SAN SEBASTIAN TURU 12 – 15 EYLÜL,"{""date_start"": ""2025-09-12"", ""date_end"": ""2025-09-15"", ""season"": ""Sonbahar"", ""price_usd"": 800}"
+54f80933f3d6f9b0d704ab745e8a5b85,City,Bilbao,{}
+863a9a0d588446c6962e0699a071848a,Alias,Bilbao,{}
+58e47c99d77f37dd2e0bb859cbe4d192,City,San Sebastian,{}
+f01a2928289e0a41a806cab4f962d06b,City,Biarritz,{}
+6aab1258b93368e8c7888609a150f7d9,Alias,Biarritz,{}
+b49c80ad762b79c1dc01e6f74ea9771f,City,Saint Jean De Luz,{}
+cb9fd20c0ac63f8303de4dcfa952a080,Country,Fransa,{}
+6e447d253ccb223d07afe92893684caa,Alias,France,{}
+8904d92a252a7c71d1b5d78e5cb00082,Alias,Francia,{}
+bd213a6677f09eeb051938e3ecbc3440,Hotel,Hotel Maria Cristina,{}
+f43c07ae6a387e02887e88a092df475a,Activity,Biarritz Gezisi,{}
+4b6ca4614b91a388c3b73ba6a41ffc85,Activity,Saint Jean De Luz Gezisi,{}
+f05721d486dce9fe619b09c906e7a0b3,Activity,San Sebastian Şehir Gezisi,{}
+0faf8c8c18997aa9f7ffe1be3659b55c,Activity,Guggenheim Müzesi Gezisi,{}
+8022d80365a25bd0ccec8e0d5822b9a8,Restaurant,Restaurante Ilura,{}
+255dcb67c31aae243e83d964c6f7531d,Restaurant,Elkano Restaurant,{}
+c3d967f02eb89f543afdaab86803987b,Restaurant,Cafe Iruña,{}
+059836cee69f90bf4b15ec4f79607a10,Trip,AVUSTRALYA & YENİ ZELANDA TURU 14 ARALIK – 3 OCAK,"{""date_start"": ""2024-12-14"", ""date_end"": ""2025-01-03"", ""season"": ""winter"", ""price_usd"": 1000}"
+a20050e2bd497389fdcc3672ddaf9c49,City,Singapore,{}
+a1536360f0d4826ec26db9ccf53a1c22,Alias,Singapore,{}
+b0b303177dfd37b7b54b75bc1a09b7d2,Alias,Singapour,{}
+f5c604871dc8ab2bc3cbb03fc505b6f3,Alias,Singapur,{}
+2475a2a9b3ef5a61a43d64308f7f922c,City,Auckland,{}
+9b73efe8c0a3cc41f4005032be8d61f4,Alias,Auckland,{}
+2b34afb0ac1a11864f3933d631f14ab3,City,Rotorua,{}
+cec393ec4441fd65744ec19952162598,Alias,Rotorua,{}
+c1627c56ffa5738156b51bb5ab97c5bc,City,Wellington,{}
+7c0d9f8b2c97552e8c5d606889fcbd7c,Alias,Wellington,{}
+9197b2c9e1550f0a2bc489b349570425,City,Tekapo,{}
+b6f4f054b5ab14a03915e65a37d26922,Alias,Tekapo,{}
+d0dedc2e74e1522d187bd5063cabefd5,City,Queenstown,{}
+cc938ebb75a3dc48f6251a3a0cc3cfd6,Alias,Queenstown,{}
+b3acae49a04b3d856cbba6aacd92a2cb,City,Gold Coast,{}
+340e4216255371b5ef016334bed3a0d3,Alias,Gold Coast (homonymie),{}
+bb40654cddf796c2159f01eaa8746357,City,Sydney,{}
+929df98f3c9cd3283a28b4b393d7eb72,Alias,Sidney,{}
+df98b0a877cd89e51d3822f47072ae5a,Alias,Sydney,{}
+c8d4e08e35eea2e97fb190539c15ce19,Country,Avustralya,{}
+06771251cc70dc50f7f349cf193389ed,Alias,Australia,{}
+c50b04d6e6add1d3f3d3cd7884d6d86c,Alias,Australie,{}
+9f2ac33825bb1b198563abb61f5a8269,Country,Yeni Zelanda,{}
+8519792c6c1bab74d8cfeb4c821c796e,Alias,New Zealand,{}
+541037362d21e43bb2d28b876ef732ea,Alias,Nouvelle-Zélande,{}
+7c718dd9549177263a314f53c9a38bc0,Alias,Nuova Zelanda,{}
+683a877926a728d5c5a32ea041ca067a,Country,Singapur,{}
+c46392c642b7f2bd1d65aa4210d82065,Hotel,JW Marriott Hotel Singapore South Beach,{}
+edac8fa84a73ce1f700a7bbb8b991f7d,Hotel,Pullman Rotorua,{}
+2ffc9ab5104d83787b036da6ebd17c60,Hotel,Intercontinental Hotel Wellington,{}
+b7843396a91c2d233abaa256529149d5,Hotel,Peppers Blue Water Resort Lake Tekapo,{}
+5a16845d354f5468d49becb2529e3efe,Hotel,The Rees Hotel & Luxury Apartments,{}
+d5c1a304dc48078a5488b5bff843ed4c,Hotel,JW Marriott Gold Coast Resort & Spa,{}
+e35b0b65422abb1c2084b2a07bc5b718,Hotel,Sydney Harbour Marriott Hotel at Circular Quay,{}
+c1e499211b39f6a526840fb3c8d7c888,Activity,Auckland Şehir Gezisi,{}
+a78d84406f1db7f133d6b0e5ca8fd7cc,Activity,Te Puia Maori Dansı ve Gayzerler,{}
+d465ff81be7c7f97cc7f2e009b25b27b,Activity,Weta Workshop,{}
+25ee1cb70fb0421f8e34744a4f11a23f,Activity,Queenstown Panoramik Gezisi,{}
+a06d4cde071db87d31d622517a00a3af,Activity,Seal Bay Conservation Park,{}
+6d6027572d1d2dbd9e2e16fa4aeeb727,Activity,Flinders Chase National Park,{}
+c2a8b74006bea4e8ddf1b2f0c9a714a3,Activity,Sydney Harbour Tekne Turu & Havai Fişek Gösterisi,{}
+f3afb84c587ed302e46d151971e1ffe9,Activity,Blue Mountains Gezisi,{}
+6b1b372a5d67134e05afb4fe347a61d5,Activity,Sydney Opera Binası & Harbour Bridge,{}
+eaf9fc84bbbb2984baa770cd02586749,Trip,BALI & BANGKOK TURU 18 TEMMUZ – 06 AĞUSTOS,"{""date_start"": ""2024-07-18"", ""date_end"": ""2024-08-06"", ""season"": ""summer"", ""price_usd"": 1000}"
+51f2280a2cc9fdb704b6b92485c57b56,City,Bali,{}
+0225de6c6231d7045b3565af5fdc4c9a,Alias,Bali (province),{}
+eaab7b07620c7d55e71e6198b4f4b4ce,City,Bangkok,{}
+e1a75d8c8e67b16d93f8d59995c8e1fa,Alias,Bangkok,{}
+d2f71211ad0083b89a73cdd0b4b1b07e,Country,Endonezya,{}
+49812ad279a1c34de00b3dfc033068c3,Alias,Indonesia,{}
+79dade73a08fc1e064f24c05984e5bca,Alias,Indonésie,{}
+cd3293c0cabe81eb682603ce9a60fbde,Country,Tayland,{}
+d70f98f7f6a93b45ecb5b64ed2ad7e95,Alias,Thailand,{}
+783d9463796c49030129b96eaf07931f,Alias,Thailandia,{}
+240b97d4308ec4c2b8374c4943d909c3,Alias,Thaïlande,{}
+a18e64389db1a16a49873e9f9cf9964c,Hotel,Capella Bangkok Hotel,{}
+c9f762640485043d3d326de9b9888ae5,Hotel,Riverside Pool Villa,{}
+75bac3a36cc770ef695279de455f3527,Activity,Volcanoes & Temples Turu (Helikopter),{}
+6a97c44d49dbb196b0505438cca2aabc,Restaurant,Koral Restaurant,{}
+d28907a3a240b452f1f637530a0d6f09,Restaurant,Restaurant POTONG,{}
+264986b8ceb7cc509004b284477d3990,Trip,DANİMARKA & NORVEÇ TURU 18 – 25 AĞUSTOS 2025,"{""date_start"": ""2025-08-18"", ""date_end"": ""2025-08-25"", ""season"": ""Yaz"", ""price_usd"": 1600}"
+238b89e6853aa937435b555fda9d4d54,City,Kopenhag,{}
+6d36cd9a84fe6f0323605502cd7a232f,Alias,Copenaghen,{}
+d17fd664cee3c567f88a7a56a6d44abd,Alias,Copenhagen,{}
+d5f21ef4ea2fa6145cee0da0f06949b5,Alias,Copenhague,{}
+c90510ae897c66dd393541233ee7e440,City,Bergen,{}
+a14b155ae5a4626728c8b4682c15b21e,Alias,Bergen,{}
+0d7ed5953248ec7308045b81a11c75d4,Alias,Bergen (Norvège),{}
+9388dbe2714e1b16d50bad4067f69425,Alias,"Bergen, Norveç",{}
+37225854531f15e645596808528a934b,City,Flåm,{}
+45ee6c6c977502c077a89897bd3d3620,Alias,Flåm,{}
+82b6eec663206a8a4877dff407563646,City,Oslo,{}
+ab6b165f0814e8216f6dfad4a6ae7412,Alias,Oslo,{}
+bcb141cae1c7be5d0a2b03677418e56b,Country,Danimarka,{}
+ed5ffd897e2675c8407ab940f07a4df2,Alias,Danemark (pays constitutif),{}
+1764092ff3a145c96f3d76ea037d885b,Alias,Danimarca,{}
+aa37c460da9adb396c52288ce1af16a4,Alias,Denmark,{}
+1c559e9e1664c039e68ba087e76ea508,Country,Norveç,{}
+1becaf60d39289a46270801da978efb1,Alias,Norvegia,{}
+875bc630356dba5e8250d5d8036144ac,Alias,Norvège,{}
+b77cfd7dbb11aada7a6260361ed239cc,Alias,Norway,{}
+7598abdb1451dbde4e149b9464e62108,Hotel,Nimb Hotel,{}
+0c40bfd2fc2900421f658a95d7137e62,Hotel,Bergen Børs Hotel,{}
+8c3d93a4e18aed8483af818d3c40f7f9,Hotel,Fretheim Hotel,{}
+f500481d27cfec776efe8650dcedc8cc,Activity,Designmuseum Danmark,{}
+4f3eb5e96335b5d1b7ff31e13816387f,Activity,Bergen Market Square & Balık Pazarı,{}
+4ed8fc83d718f5fd1e316b631f94295b,Activity,Flåm Railway Museum,{}
+1655f5ed9ac06f4b386e424494d37f2a,Activity,Vigeland Heykel Parkı,{}
+8b63ba861236321af0247e6b0dffb4bc,Activity,Oslo Opera Binası,{}
+df0f848941a454cdb487b9c205ea4f5a,Activity,Ulusal Müze,{}
+c8bbe0b70edeb5988ea15aef251db4d5,Activity,Munch Müzesi,{}
+29fc2c0d49cf9d0a3442371872206ef3,Activity,Astrup Fearnley Museum of Modern Art,{}
+aeca6e0ccbe470fd7149dc0d2d887ae3,Restaurant,Fjellskål Seafood Restaurant,{}
+21b016d62b00828462b3604b253fbaa9,Restaurant,Restaurant Arven,{}
+a7bd91c369b76a75eece69ef8c9f5962,Restaurant,Lofoten Fiskerestaurant,{}
+1b8cfba70f751df18e361f4288b335a3,Restaurant,Bryggen Tracteursted,{}
+22415c768a2f649998b87fca5919a8fa,Restaurant,Izakaya Bar & Terrace,{}
+6208367b4ca0da77b0bf56aca224a039,Trip,GÜNEY AFRİKA TURU 19 ARALIK 2025 – 3 OCAK 2026,"{""date_start"": ""2026-01-25"", ""date_end"": ""2026-01-03"", ""season"": ""Kış"", ""price_usd"": -4200}"
+d22af4c5da20e2ffb0b3e29fed7c674a,City,Livingstone,{}
+12986d086351b7864b997dd2275b1c91,Alias,Livingstone,{}
+6a5c62c9050c76aa8d4629e4ce70b101,Alias,Livingstone (homonymie),{}
+f3265bfa896d31061dfc34aecb48e678,Country,Zambiya,{}
+c0aac90992f9d0bc538ca0149f9c280c,Alias,Zambiya,{}
+37400d2152d221d86754055765c7cf80,Hotel,Royal Livingstone Victoria Falls Zambia Hotel by Anantara,{}
+fd8cf6d325c52a335620b1398889c1c2,Hotel,Babylonstoren Hotel,{}
+5367e0783d3b98540da423747c0c341f,Hotel,Marataba Safari Lodge,{}
+de109f76f88b58b1f20fcdb7fe04951f,Activity,Mukuni Village Gezisi,{}
+1e84c1d742a68d6dd4a5eb65fe98bb84,Activity,Sunset Safari Cruise,{}
+0aa47673522cf21888ecd1f8caf5f446,Activity,David Livingstone Müzesi,{}
+e85765e1b099bc5b622b33615479e41e,Activity,Franschhoek Şarap Bağları ve Galeriler,{}
+d191c2bf1ebc883731d0ead7b056f378,Activity,Huguenot Anıt Müzesi,{}
+820d09cdf747183a81d9dc3717e8f976,Activity,Franschhoek Motor Müzesi,{}
+3c38f8f551d94c9757e43a3bae5085d6,Activity,Güney Afrika'nın İlk Parfüm Müzesi,{}
+47c622886e8617eebcb85880e0bf4936,Activity,Masa Dağı,{}
+446e3dfa7ac1fe2f22773c257e63daab,Activity,Kirstenbosch Ulusal Botanik Bahçesi,{}
+45f3ea55a7476dd4ef5b9c0d23f655b3,Activity,Boulders Beach Penguen Kolonisi,{}
+fa9caf992453edbc23e002b7c6930709,Activity,Cape Town Şehir Gezisi,{}
+da608d48e5fe25a21294d183c21532ff,Activity,Two Oceans Aquarium,{}
+220ca1dbc7f9d8c033400c418cdbf4b6,Activity,Camps Bay ve Clifton Beach,{}
+f5cc4dd39fec29e89d71ab5bbeae7100,Activity,Zeitz Museum of Contemporary Art Africa,{}
+97be6ddc3c0a7dff130122a2d186c7e2,Activity,Güney Afrika Ulusal Müzesi (İziko),{}
+34fc93f4fed8bb0cfcc95dc27fbb3f0e,Activity,Planetarium,{}
+6348d0ef5dd94ca5e35e58eb9431c58e,Activity,Cape Town Graffiti Street Art Turu,{}
+6e4b5dbeaec6cb256b15d98745f12f2f,Restaurant,The Lookout Cafe,{}
+4af2a897b7cee42c9a8952f0e1d448dd,Trip,JAPONYA TURU 19 HAZİRAN – 5 TEMMUZ 2025,"{""date_start"": ""2024-06-19"", ""date_end"": ""2024-07-05"", ""season"": ""summer"", ""price_usd"": 1000}"
+84f4172933ef8f7602f3e07641da3eaf,City,Tokyo,{}
+610553a6681870830116a89146fb1819,Alias,Tokyo,{}
+0e632a807b79724b594430e0bdf37cfa,City,Okayama,{}
+afe04a4e6351b0f3477048113790e83e,Alias,Okayama,{}
+a5857978eaced5a34a2381c1ef2d5eec,City,Kyoto,{}
+aaf192767b085c36cb4747b0b41115d9,Alias,Kyoto,{}
+f6f57632c8ff511e289164d58d045b81,City,Naoshima,{}
+9f40d619eaf2aba3b81d0379e1ba4929,Alias,Isola di Naoshima,{}
+f637662a6b6e9510b911dbf64d27d714,Alias,Naoshima,{}
+c5d5df3984d3e6233c075af32302e3a1,Alias,"Naoshima, Kagawa",{}
+398984733bf1b4f11f28260daf075cc3,City,Teshima,{}
+6c004589f787e015e797edd879367465,Alias,Teshima,{}
+27bcbd814ef9dbccee686389a884dcda,Country,Japonya,{}
+64e03c0bd2925e65a32e9ca540f1fd48,Alias,Giappone,{}
+7cabcd313d88abc71c8a83eb9f7eade0,Alias,Japan,{}
+eade782efcfd70aff1fbf09a095844af,Alias,Japon,{}
+3e3254060af213723e865b3b99fc1e4d,Hotel,Mitsui Garden Hotel Premier Jingu-Gaien,{}
+7a9f132580957c0c6c3ca3fa5028b90f,Hotel,Uno Hotel,{}
+2debd577b921e8d018ee3f77920693f6,Hotel,ACE Hotel Kyoto,{}
+7775a8579e8f03b8c4b4e98cf3c4a7be,Activity,Meiji Tapınağı,{}
+88a3b341d670a2385ac41fcb6f442db3,Activity,Ota Memorial Museum of Art,{}
+9456b8cde113756ce16d56f0e3371683,Activity,Doğu Bahçeler,{}
+bd26960fb4352d6cb4760d7dd76ae2dc,Activity,Shibuya Sky,{}
+8ce0636cfe928d283d2f64979e990821,Activity,Miyashita Park,{}
+4868dd6d2ace790e5ba7f715ae632357,Activity,Mori Art Museum,{}
+7eeebbd62251616f6f673a1224503ca3,Activity,National Art Centre,{}
+0d5286ffc84e2f49bb13b775fd574e22,Activity,Museum of Contemporary Art,{}
+947cca7b7ad43b2becf123fa69ec01d1,Activity,Chichu Sanat Müzesi,{}
+7cfed5215712edf78986b7367199c966,Activity,Art House Project,{}
+c69b1dbc7a96d19300f17e32b2452fbf,Activity,Lee Ufan Müzesi,{}
+0817caa6b04c7f3a1ecbcb0786df8924,Activity,Benesse House,{}
+109365f51125bf14b50525b2f07be4eb,Activity,Teshima Sanat Müzesi,{}
+18bbc28efef0a112b643e2d000c7c806,Activity,Les Archives du Coeur,{}
+ca0c05d1bf2a4189370f1d3dda796069,Trip,LAPLAND TURU 19 – 24 OCAK,"{""date_start"": ""2025-01-19"", ""date_end"": ""2025-01-24"", ""season"": ""Kış"", ""price_usd"": 1200}"
+c7d5bf6a9d9fc700b7c55623896fd1d0,City,Jukkasjärvi,{}
+10e05ff544017a2bd4b266e8acc78d85,Alias,Jukkasjärvi,{}
+6bcd6200477c5474d220f6937d836cf8,City,Harads,{}
+b743f9317d0f9ea323ca785d5df0fdab,Alias,Harads,{}
+37bac5c42ef65afb3e02c22577a1102c,Country,İsveç,{}
+b58d08c82c6c0a3bef60867fe5c52a02,Alias,Suède,{}
+3c7d4e4a808102bd26f6e7f2ca3ae912,Alias,Svezia,{}
+b5e575e0c04948036ac09b6c9c7c24ef,Alias,Sweden,{}
+136e4383b83b1d183c2065ceba314e4e,Hotel,ICEHOTEL,{}
+c57f17cdf60595c49be7190fe6d09a74,Hotel,Kaamos Hotel,{}
+a892ae5a0fd1dea1e5fc2d527f517229,Hotel,Treehotel,{}
+b1b703ed0ee57daf5cd3111fe0235970,Activity,Gece Safarisi,{}
+e874ef41b5dbd5bc0ca40c8dfc18d659,Activity,Kar Mobili Safarisi,{}
+b248139e99df8ee53bf6cfb1b7ec0423,Trip,MISIR TURU 20 – 25 NİSAN 2024,"{""date_start"": ""2024-04-20"", ""date_end"": ""2024-04-25"", ""season"": ""İlkbahar"", ""price_usd"": 1200}"
+d33ef29d3e447e98c37b7fb68ff29670,City,Kahire,{}
+1ba84f3156cb08d6ed30c18f2ad655c0,Alias,Cairo,{}
+054e26e495ac9ec342011e5c8c52b02a,Alias,Il Cairo,{}
+5a88d8e647a5f5e21809ccf97d969b79,Alias,Le Caire,{}
+b72e665b54a22a0cf54ade75e74bcc7c,City,Aswan,{}
+e17f8b0cdf384db6e365b78e1f2fe27c,Alias,Assouan,{}
+5ad25d2e78a9f024f294f4b4cf9493c2,Alias,Assuan,{}
+02b93c7b58bc94e40b74fc14af86a2ed,Alias,Asvan,{}
+cfe9a37f104dbe8883ea941dccee2e4e,City,Luxor,{}
+56dd246851a0799bf790f0145fcdedee,Alias,Louxor,{}
+0a6238d5a67ae8456ad9a856687a8d4b,Alias,Luxor,{}
+a9cfd77c49550cdbc0e2794adbbd1ab5,Alias,Uksur,{}
+da78763990fc34c7223b498d013d82bd,Country,Mısır,{}
+7b205bd47c041ffa3707a6e1c80ffcd8,Alias,Egitto,{}
+14667ee3374a246b01934bb3c6c03628,Alias,Egypt,{}
+41c512f21a14cf5884c3a99053397458,Alias,Égypte,{}
+0ed34623b436126a4b8474019b97e2af,Hotel,Marriott Mena House Hotel,{}
+404b2ea25bf77ce09e8e20254313ce5e,Hotel,Movenpick Sunray Nile Cruise,{}
+009cd57060c57828d236ae9579ceb11f,Activity,Giza Piramitleri,{}
+6fe9d19b00affb99b483b6240d6d42b9,Activity,Büyük Giza Sfenksi,{}
+c20300669f656ad8bec53ba19564ffa8,Activity,Mısır Müzesi,{}
+d4b6a65b294e54773e3df63c96872c80,Activity,Khan El Khalili Çarşısı,{}
+7609423b29a06f75adbd476def11b8eb,Activity,High Dam,{}
+b7eedde36e55720041f8745ca4a448b3,Activity,Philae Tapınağı,{}
+82a2a1c94b26fa9b2db162f1a35cb120,Activity,Kom Ombo Tapınağı,{}
+f1b40786fd1cc3353986d87358416ba5,Activity,Edfu Tapınağı,{}
+35c6791390d359e97dc3c689b1dae52a,Activity,Luxor East Bank Gezisi,{}
+053e581670f95fb414f803d56c3d7738,Activity,Karnak Tapınağı,{}
+70f76a64b44533a24dd6d9f15a72943c,Activity,Luxor Tapınağı,{}
+a332c40eff61538b719f4f7a1f58c764,Activity,Nil Nehri Sıcak Hava Balonu,{}
+083d0e17f3c73107a96eb6c304e1708d,Trip,AMALFI TURU 20 – 23 HAZİRAN,"{""date_start"": ""2025-06-20"", ""date_end"": ""2025-06-23"", ""season"": ""Yaz"", ""price_usd"": 800}"
+be15a9268368c5a1575b1aa7ee9b8b1f,City,Amalfi,{}
+7a1da8bb4ed6ecf1adcfc6ca5f0bb4f5,Alias,Amalfi,{}
+08dadf80ceb43697adf0753dff14bd5b,Alias,Amalfi (Italie),{}
+7d579d8e87318fcf8941c508dc2b20da,City,Ravello,{}
+71f25b735026dd4b3a962133c5ab83e9,Alias,Ravello,{}
+17be9413cf0c88ec378bd210e640769e,City,Pompei,{}
+1c731607fdcdeed5018c71743059f3b1,Alias,Pompei,{}
+9ca2f629f04743fe1c5011ef59a98dd4,Alias,Pompei (comune),{}
+8cdcd8d4fd7fbb65943c7a89269f358b,City,Napoli,{}
+56746bcf44cecab44b696bf68719493c,Alias,Naples,{}
+fed7479cecf9b089d2fa9934bbe3a0e1,Alias,Napoli,{}
+427d76b22ed36b2f18a3f8f47f2e1da5,City,Sorrento,{}
+5fa5b1de1c7a695d86057c7ae77002ea,Alias,Sorrente,{}
+929a540d1ebe842706b38eac853692ea,Alias,Sorrento,{}
+f86b183c8a37123ee2b654b760903408,Hotel,Villa Piedimonte,{}
+fd8a83bc5447fbafdf01b76f940420a9,Hotel,Hotel Rufolo,{}
+92ccc3c49794a462753852bbb8c15120,Activity,Ravello - Villa Cimbrone Bahçesi,{}
+02e10f6ff96f257b4cccda1cb3b3a6fe,Activity,Ravello - Villa Rufolo,{}
+d0f8e7f858d316dbdc7f1051b7d3c11a,Activity,Pompei Şehri Ziyareti,{}
+5832d09573a15f94727fbeca539dd8e1,Activity,Napoli Şehri Gezisi,{}
+602a2285b4e2bd74e50a1bc734406f98,Activity,Duomo di Napoli,{}
+a20b8cc0e05976ac80606d8d2781e718,Activity,Il Pio Monte della Misericordia,{}
+1f0e5d2e9604aa283ab32af49a2cc4d0,Activity,Palazzo Reale,{}
+dbcb4bfb497848bb4ec02b9dd674c48f,Activity,Castel dell’Ovo,{}
+2f1fd02d18a53eab863122e33fed0d1c,Activity,Amalfi Kasabası Gezisi,{}
+c673b538a5780f01786f0a857d42bd8c,Activity,Cattedrale di Sant’Andrea,{}
+a185008052d3973990f867380949565b,Activity,Piazza Duomo,{}
+85dcac2f6eb699dc615478eac49890c1,Activity,Piazza dei Dogi,{}
+37d0df7284d8a7ec4f702eb405fa3c92,Activity,Piazza dello Spirito Santo,{}
+08def39f4d2abff738ea4674d23e2b9d,Activity,Sorrento Gezisi,{}
+0b4f4fd84ed4dab76526ea579a92a76e,Activity,Piazza Tasso,{}
+e175e514994786a2bccd3cebaaf4030e,Activity,Basilica di Sant’Antonino,{}
+25d3f5d774c43cda3cfd003a626bd7f0,Activity,Sedile Dominova,{}
+a260cd49cf7bac1c8869e14e36f64549,Activity,Sorrento Peninsula Arkeoloji Müzesi,{}
+366452ad8971dc2a5fd344e3ae2d3f9b,Activity,Bottega Della Tarsia Lignea Müzesi,{}
+2a1e5ef63d99a8337982ca7f6e9ce22e,Trip,LOIRE TURU 20 – 23 NİSAN,"{""date_start"": ""2025-04-20"", ""date_end"": ""2025-04-23"", ""season"": ""İlkbahar"", ""price_usd"": 800}"
+960780483368cad3f5bcbfd9fdd3426c,City,Loire,{}
+9499dd404c906e9433f742eb1987fda4,Alias,Loira,{}
+9a38cbcee8549be37b947ded1936f928,Alias,Loire,{}
+0561e915f7f8cb0b2f563c7d9c58b234,Alias,Loire Nehri,{}
+dd2f956a5549de0a1790a8145bf2c7d7,City,Tours,{}
+e20e0280e516ec3046ee8db22bda4101,Alias,Tours,{}
+779efe0ce4c1b7bfb6319be6144925f0,City,Amboise,{}
+0d5e8152fd8c19789530a48a5f1c1138,Alias,Amboise,{}
+7eb9f1104918a6ec34d41243deb3c81b,City,Blois,{}
+6af369ef59bc70266a6fe50857c905db,Alias,Blois,{}
+1e559ca4adee88c6182f8cb7bc19e752,Activity,Cheverny Şatosu,{}
+364ee663561395a7eb91db950fc8fc2c,Activity,Villandry Şatosu,{}
+2a317ea7cbc2da81f590c46c8319d74e,Activity,Amboise Şatosu,{}
+b1b2a1ef4ac0432ea6c1af0b7c0d5a88,Activity,Château du Clos Lucé,{}
+44f3351579db8781fe1ceea3dc84ede9,Activity,Château de Chenonceau,{}
+ffb70d21d14272982030bac07d96c81c,Activity,Château de Blois,{}
+a9c02b2be25870f9fa2dd724e8c6b0e1,Activity,Château de Chambord,{}
+c57c5abf09bacb44c1e1aefb7048f626,Activity,Loire Vadisi Balon Turu,{}
+db6c822bfb590e34c2caf0bfbbc88d83,Activity,Tours Şehri Gezisi,{}
+77d8006c22efbb53b35d3d7ace701696,Restaurant,Avarum Restaurant,{}
+de6181ec0df49b9532244d668456a5dc,Restaurant,Restaurante Amour Blanc,{}
+d2ad6e915657d6c17cfd73a7011120d1,Trip,BRUGGE & LOIRE TURU 20 – 23 NİSAN,"{""date_start"": ""2025-04-20"", ""date_end"": ""2025-04-23"", ""season"": ""İlkbahar"", ""price_usd"": 800}"
+2e4b55b6fc63650162e54c8c4e961bb4,City,Brugge,{}
+848b9607a9963808d3146aac40bc6279,Alias,Bruges,{}
+010734349e8b3f069e47ff72b051c761,City,Gent,{}
+d450f7421e425d194606b412e73f5084,Alias,Gent (homonymie),{}
+0d35b19dd17fac47402935ec239d0e05,Country,Belçika,{}
+2575a1e1dfa6578cb61150ea22beed36,Alias,Belgio,{}
+ddb5859d9472f91efcc1f8291978c8f2,Alias,Belgique,{}
+896f0107c23896c61a5725f0bb0bd7f4,Alias,Belgium,{}
+7de2c42d8e47ff29a2862d04bcdb4bb6,Hotel,Hotel De Orangerie,{}
+1109559a9f52d96979e8c224c99d3cb8,Hotel,Hotel Van Cleef,{}
+da65372605de6c0b760822e690590e0e,Hotel,Hotel Heritage Relais Chateau,{}
+3be5f54315864a9e35f264242f50635e,Hotel,Hotel Dukes' Palace,{}
+9d38691e159ab61ed8d6443c15b27d54,Activity,Brugge Gezisi,{}
+d726d183e41eff532f264feaefa5fd77,Activity,Gent Gezisi,{}
+4abe702713c95a1ecf0d51f39fcfc93a,Activity,Clos de Lucé,{}
+76ed3c61b49d5a9b9175ba71ade86ce6,Activity,Loire Vadisi Şarap Bağları,{}
+ec0d96790a27579fa527d17b6072bcf3,Trip,AMALFI TURU 20 – 24 HAZİRAN,"{""date_start"": ""2025-06-20"", ""date_end"": ""2025-06-24"", ""season"": ""Yaz"", ""price_usd"": 1000}"
+f70f86b56929450edce72e83590bfc95,Activity,Tam Gün Tekne Gezisi,{}
+6f33dea102881223e4c00ea4862c01a9,Trip,SALZBURG TURU 20 – 25 ARALIK,"{""date_start"": ""2025-12-20"", ""date_end"": ""2025-12-25"", ""season"": ""Kış"", ""price_usd"": 1200}"
+32845eca4155a3d93d73f0d0076eecd1,City,Salzburg,{}
+1924030a8f3cf03e6ab37a23cee5c9d2,Alias,Salisburgo,{}
+9a17b79ff480619e59acfd0881c68977,Alias,Salzbourg,{}
+67609004440571b34d33eabbd9028ded,Alias,Salzburg,{}
+e7e29b24cd710efe42cf5ccdb5c42a22,City,Hallstatt,{}
+37e3a731dc4a83eea3692228c07b243c,Alias,Hallstatt,{}
+6df158c8dcb1a16328af7afa358bd054,City,St Wolfgang,{}
+3973543615fea25ef74d8f5018029d79,City,Berchtesgaden,{}
+dd6cdd21eb2b0048d13a79abc1c540b0,Alias,Berchtesgaden,{}
+7b051b4174e02553172bda02171ca311,Country,Avusturya,{}
+24e7780e3b1ea33752c8fc1a7aae3058,Alias,Austria,{}
+69b2e18b5323e0afb800fd276485a7e7,Alias,Autriche,{}
+086584b17089f3ed08915260aa53f6ca,Country,Almanya,{}
+67b20299e9a21a2ef3b919b36c58ce84,Alias,Allemagne,{}
+0f6b4b1439188b8b5fb7fc9449b59264,Alias,Germania,{}
+da4ef77ada9bbf73e2ee12eaedc12db9,Alias,Germany,{}
+dd06fba8bc7896f6543060e8f2373747,Hotel,Radisson Blu Hotel Altstadt,{}
+9ddca859659c69c37d4b6c0c59ead749,Hotel,Hotel Goldener Hirsch,{}
+fa8bff900287403aa160b18a7763b105,Hotel,Hotel Bristol,{}
+81948d6919d0dddf00382164d7a43761,Activity,Mirabel Sarayı ve Bahçesi,{}
+feba7a9c629e2686a626312cafafce85,Activity,Mozart’ın Evi,{}
+243a89d8254c3d330753731349ac6d7f,Activity,Residenzplatz & DomQuartier,{}
+4d91c583e95c26bf5e6685531b543525,Activity,Noel Pazarları,{}
+9998c9fe229b7e68de2d214e8144c3b3,Activity,Hallstatt Gezisi,{}
+3f0cb1a1e6a7b14a9dde4ecb252ef21e,Activity,Salzberg Dağı & Tuz Madeni Ziyareti,{}
+10cb54df07c7cc29db712b42c611f26c,Activity,Atlı Kızak Turu (St Wolfgang),{}
+f2676dc118f91aacd5b94a74de9a2191,Activity,Salzburg Kalesi,{}
+4d4f84558a19084e3dfa8630b2cc8abd,Activity,Adolf Hitler’in Kartal Yuvası,{}
+5ec0ab9a7bdbab037fbed1771fd76370,Activity,Salzbergwerk Berchtesgaden,{}
+8768c4843dedd9ec9c036846e2cd75d8,Activity,Grassl Likör Fabrikası,{}
+9e55d7d38df842e1136235e99ce254e5,Restaurant,Cafe Sacher Salzburg,{}
+5281e388bbc94c96fbe0c92a7a02a8ae,Restaurant,Restaurant Blaue Gans Salzburg Gasthaus,{}
+be99d61383b3830537ba12b0b21b2f71,Trip,BELGRAD TURU 21 – 23 EYLÜL,"{""date_start"": ""2025-09-21"", ""date_end"": ""2025-09-23"", ""season"": ""Sonbahar"", ""price_usd"": 600}"
+ac03385d48b5a0080e3cb5735886dfa8,City,Belgrad,{}
+28e3f92630c165ccbc645daca48e642c,Alias,Belgrade,{}
+bc420de36b7ef7efc14489cd3acf39e7,Alias,Belgrado,{}
+5c7e0b5085f138e69bb1caf398b170f0,City,Karlofca,{}
+270c87f9b96ada8b449e2957c292e956,City,Novi Sad,{}
+140787fea3322b26821df752c7202c96,Alias,Novi Sad,{}
+bcd48c2303bc904572733e334e79152b,Country,Sırbistan,{}
+b92252e953a0d9f500d99951b41b9a65,Alias,Serbia,{}
+c8f72641f12695103c97e1869cde88ab,Alias,Serbie,{}
+dc3e7a2f79381058be7f639a2808a9aa,Hotel,Metropol Palace Hotel,{}
+69c271e09143fc10030bcc27c1b4cbb0,Hotel,Square Nine Hotel,{}
+420eabab9244d8f1e8e95fe4909d8973,Activity,Belgrad Şehir Gezisi,{}
+916af4f6f93b0f00c0996aad20f89327,Activity,Aziz Sava Kilisesi,{}
+1a7ebeb6bc76cbf2a71f37bf4b0fd01b,Activity,Kalemegdan,{}
+53787966d9a424263f63b97eb9e568f9,Activity,Sokullu Mehmet Paşa Çeşmesi,{}
+1db100de8645764d55bf9eedf09b800c,Activity,Damat Ali Paşa Türbesi,{}
+0c0673724564b948582597ba0e41dc62,Activity,Fikirbayır,{}
+e0ef4c9dd12efac2316fd0ba85289175,Activity,Stambol Kapısı,{}
+264f7596ed73ae52663b4557f43cd241,Activity,Tuna & Sava Nehirlerinin Birleşim Noktası,{}
+9f56a0b484775d0c04fc6b0c02bfa48a,Activity,Museum of Yugoslav History,{}
+dd71baac2e43a1adb2fc1c999a62d363,Activity,Royal Compound,{}
+ceb6330fe8d36b61c7c11e4710499d78,Activity,Nikola Tesla Müzesi,{}
+c8424aed8aee17cba826434a0a793e31,Activity,Karlofca Gezisi,{}
+ecd8e9d6a652f46829686b3b6d157b50,Activity,Novi Sad Gezisi,{}
+d4984f74bed1cf0f3eaf7045ea107389,Activity,Tuna Nehri Tekne Gezisi,{}
+9067643ef799882b6049ef3995badf01,Restaurant,Kalemegdan Restaurant,{}
+7204c8b730417586016d2fa6434057f4,Trip,İSTANBUL – KAPADOKYA – İZMİR TURU 23 TEMMUZ – 2 AĞUSTOS 2023,"{""date_start"": ""2023-07-23"", ""date_end"": ""2023-08-02"", ""season"": ""summer"", ""price_usd"": 1000}"
+a91c7cd7bdc9d4c9e4a73106a315774e,City,İstanbul,{}
+82fef2529873a2fa8841f9fa80db9885,Alias,Istanbul,{}
+644dff6ae94212df7320e25acb4f1782,City,Kapadokya,{}
+f6f13aa0285fa1986dd74c2a6c273f63,Alias,Cappadoce,{}
+86dbdf98f66b1e8bc40f02d44cdc5c27,Alias,Cappadocia,{}
+bf73eee097ccef2a6181404bc7d93365,City,Kuşadası,{}
+28ebb7cee4bdf09890297f6a508f11f3,Alias,Kuşadası,{}
+1a2e4a392a477615da5caf7395a95de3,City,İzmir,{}
+910a30d494e06c6b935b642b08fa06b3,Alias,Izmir,{}
+e47c3ae4064acafe3cc612bdd866a995,Alias,Smirne,{}
+a7c14331f2d1402d4189e15004afebf5,Alias,İzmir,{}
+46c7a94953f5116aac19f04ec57f25a1,City,Şirince,{}
+70b3e6f0a85d1e46794477bab3050b54,Alias,Şirince,{}
+0e30c48d726183b98f2b6c8c9c6d6b9a,Alias,Şirince (Selçuk),{}
+ad4cf70310fab85ef20e972776475366,City,Efes,{}
+32564391de50ceaa335acf877c62bd19,Alias,Efes,{}
+f35b677c8b20d463f500b7e4703591dd,Alias,Efes (anlam ayrımı),{}
+fdba89d624feeac5f00f5b5458905fc1,Country,Türkiye,{}
+2cb67339c8ebd0cf9992779f5c926d0d,Alias,Turchia,{}
+427fa22e10188aa6636b828e8a431f4c,Alias,Turkey,{}
+f2925c6e3bcfa0c6af6986e89a91d580,Alias,Turquie,{}
+08311444e2f7aae7ecc05f39092b6558,Activity,Topkapı Sarayı,{}
+bce3ec1acc614b4dc0d09626a514d292,Activity,Ayasofya,{}
+073d9179d4d0c477024868c8f2311630,Activity,Yerebatan Sarnıcı,{}
+0a3567b32b9d59daa4b238d94b3b9ae0,Activity,Boğaz Turu,{}
+674ffee8bb332a6b04a1a2823b530a13,Activity,Karaköy,{}
+edb485b0de1902114e693783357a0353,Activity,Balon Turu,{}
+d89e3a392bc331ed0e11ca1e3decd5a0,Activity,Soğanlı Vadisi,{}
+000b065af3a08d7b921e01eedfac2501,Activity,Keşlik Manastırı,{}
+0ea4a88d7a0b0bc833dc40bc3a38cc34,Activity,Taşkınpaşa Medresesi,{}
+8f8978ea393cd8fe38f6ca5ccf430d6c,Activity,Selime Köyü,{}
+88f05f21aea0f1434604f265633be74b,Activity,Agzikarahan Kervansarayı,{}
+309f3e9f3bec4d92162889921f6a7c1d,Activity,Ihlara Vadisi,{}
+6dc3f57c042b561dac203966f7a92f6d,Activity,Göreme Açık Hava Müzesi,{}
+20b5a50a2eaae378d93c262ae7e0c7e2,Activity,Uçhisar,{}
+2059910676dd99fbec0654b34dd25410,Activity,Kaymaklı Yeraltı Şehri,{}
+a7ab064357298c70abdbe583a173572b,Activity,Kızıl Vadi,{}
+ef65363206f94c63e80669fe5b05532e,Activity,Efes Antik Kenti,{}
+48f7e9f8436e0b9d579b7294e8766069,Activity,Hadrian Tapınağı,{}
+ddf3b42ad72c3b7f9f512c1b02803bee,Activity,Odeon,{}
+a9b01b74a63f783aff8ab5d6568d296c,Activity,Traian Çeşmesi,{}
+a0e045eae3925501c5fba21224492f1e,Activity,Şirince Köyü,{}
+0f314554a5574516e67423fc8f81e5a3,Restaurant,Il Cortile Ristorante Pizzeria,{}
+2f6ff875148ba3046b301050a45b725f,Restaurant,Pandeli Restaurant,{}
+07827ab81094285a728a83ffe209470e,Restaurant,Belisirma Nehir Kenarı Restoran,{}
+bfb923d52ed59f3033648d0b5071b8d4,Restaurant,Geleneksel Türk Restoranı (Efes),{}
+fc38277a1d3db0064272fde20d876fff,Trip,EDINBURGH & HIGHLANDS TURU 4 – 8 AĞUSTOS,"{""date_start"": ""2025-08-04"", ""date_end"": ""2025-08-08"", ""season"": ""Yaz"", ""price_usd"": 1000}"
+9448d7913ed2066c3716ed38df28f9b5,City,Edinburgh,{}
+f508e77c85ffcc4325d20f50273dc25b,Alias,Edimburgo,{}
+4dd3ae0cbc21c60182464afc32dbd51a,Alias,Edinburgh,{}
+1ace27d9e571645a2b1953be289aec61,Alias,Édimbourg,{}
+63151d4b67a80a1ecffb1ac843583ca7,City,Pitlochry,{}
+353d2498f94e8636583c8128d0b14f26,Alias,Pitlochry,{}
+d0a3c0429e28f079cbc4ce983e9a391f,City,Fort William,{}
+52ce39519c3b2a65a69c992fcb8d5cb5,Alias,Fort William,{}
+38e9159a435d28fd7ea9c25f733a874e,City,Inverness,{}
+118c37fa9858725aa665a1ee30c4f147,Alias,Inverness,{}
+04dd72fd77dbace6efc4aa7e4c283626,Alias,Inverness (Écosse),{}
+79865d0cf0a41f95a0172b3624a7e6d4,Country,İskoçya,{}
+c29fcb0d100eeded7efe2056ff9248ab,Alias,Scotland,{}
+0ad0361c58cb16dbca66adcadd36218c,Alias,Scozia,{}
+ebeecb5cd46322a4cbb723f175d7f2ff,Alias,Écosse,{}
+e90968d3ad16c8aba58cab89c04cc86c,Hotel,Fonab Castle Hotel,{}
+90fb09985f4cf4d3306b4a1b7fb63bc0,Hotel,The Craigellachie Hotel,{}
+d25c81844797bf36cca217451531992e,Hotel,Nevis Bank Inn,{}
+44676396d167c001af672415b1d01ba9,Hotel,Seasgair Hotel,{}
+0a32e4a1d2cabad7034b8605e8934c3e,Activity,Blair Castle,{}
+1526a97a57215694a7d9d24756f4f6f0,Activity,Ballindalloch Castle & Gardens,{}
+1c0a1c463cd85247b5ee806f6a54d199,Activity,Camera Obscura & World of Illusions,{}
+f324ddaa30cc001e628e424bfd1f0a52,Activity,Loch Ness,{}
+a41a693893acee550c3fb76f93515db3,Activity,Inverness Kalesi,{}
+8a0fea91c35c26055b1a8d9772e1bcc8,Activity,St. Andrews Katedrali,{}
+dc035f4c194123e3079ee1d882930ca2,Activity,Inverness Müzesi ve Sanat Galerisi,{}
+f1770ddb6a47cbf8e89dd685288578fd,Activity,Strathisla Distillery,{}
+9bc72be4c02ea8977a8bcbe3857878a2,Restaurant,Nevis Bank Inn and Browns Restaurant,{}
+8e3d1ffac2cb2fa824fd3bc57182d1f7,Restaurant,Rocpool Restaurant,{}
+5b67fa1abc957d3644b07171a8827f64,Trip,TAYLAND TURU 5 – 18 ŞUBAT,"{""date_start"": ""2025-02-05"", ""date_end"": ""2025-02-18"", ""season"": ""Kış"", ""price_usd"": 2800}"
+efe88c5f0326f15ad4430b1bf5cadce5,City,Chiang Mai,{}
+c3f30a7175b109ae2ad9f2ca197c143f,Alias,Chiang Mai,{}
+5744747ae1a45e4d5227d918fab5eb03,City,Chiang Rai,{}
+a33162424ec6b7037d69ec32298df967,Alias,Chiang Rai,{}
+f28322c17f1f750b17d8849ed9c30352,Hotel,The Surin,{}
+ede2571e1fbd445fff6bb7ebc4adfe7b,Activity,Tapınaklar ve Şehir Gezisi,{}
+2c993b904b913876c554e06b20cdfed2,Activity,Bo Sang Köyü,{}
+ed12dbbac73f671670658d769e4248c7,Activity,Wat Chedi Luangis,{}
+ce2b2e621ff5ba68821d61629bd26066,Activity,Wat Suan Dok Tapınağı,{}
+5dcec8ab52e879f0d672c467b38dc46f,Activity,Wat Phra That Doi Suthep,{}
+2065f479bf3f4418a1e9f7f81682c7e2,Activity,Wat Rong Khun,{}
+261b20dbeca2281f1bdaa4b2e78c3089,Activity,Chiang Rai Gezisi,{}
+30652ba5920053b3d2d70d30c46308c8,Activity,Golden Triangle Gezisi,{}
+a165e494a118878f647a27b602cf44ec,Activity,Mekong Nehri Tekne Gezisi,{}
+48c1b93c346f38dbf0d381baf8568027,Activity,Bangkok Şehir Gezisi,{}
+f2b355a43a1a1b6aabfb1485a82c10d1,Activity,Büyük Saray,{}
+ff7a7176a2cd9878052f8e5c441f2906,Activity,Wat Phra Kaew,{}
+5a2470b8a17e1a5397d3dc339902f1a5,Activity,Wat Pho Tapınağı,{}
+5d0493855636a51285395613e2faf60c,Activity,Wat Ratchabophit,{}
+ff49bff47c91b74cc2902d2cfce12229,Activity,Bangkok Kanalları Gezisi,{}
+79f979306d79730db1c919f0de91d128,Activity,Chatuchak Weekend Market,{}
+29be8a94988371bb09fe50c5c9b4d34c,Restaurant,Beach Restaurant (The Surin),{}
+f53b4d09030a5440d5f0e22a763d2dde,Restaurant,Potong Restaurant,{}
+94e697afa3028a577a4d956a1b33887c,Restaurant,Clara Restaurant,{}
+81819c9f473193412114768a1b9bc7c7,Restaurant,Kalido,{}
+050c958171eb8593f43cc6dc66b114ef,Restaurant,Carpe Diem Beach Club,{}
+6fb3112997461a7923e65cca95fcabdc,Restaurant,Terrace Rim Naam,{}
+7e8701241ef299b53b31feb3027da67b,Trip,JAPONYA TURU 6 – 13 NİSAN 2024 (SAFFET EMRE),"{""date_start"": ""2024-04-06"", ""date_end"": ""2024-04-13"", ""season"": ""İlkbahar"", ""price_usd"": 1600}"
+372e3af4e2e40dc72ffae89f3056a9b7,City,Hakone,{}
+74a5ddcdb818a3a8344c7f89d96a2408,Alias,Hakone,{}
+704692bba49f07b4a61b043a38b0ff6c,City,Nara,{}
+63abbeba411f6bfcd07c1c7969d5bc9e,Alias,Nara (anlam ayrımı),{}
+7b3073507f21288ebba4378e4784576c,Alias,Nara (disambigua),{}
+78f6e81dbe22d8f6d521feaba7c9e14b,Alias,Nara (homonymie),{}
+7147463f87c12862de1e4f0446fe9961,Hotel,Mitsui Garden Hotel,{}
+db30acd32368b6c5e238a1a3846de05d,Hotel,Benesse House,{}
+c75ce811661adf981953129448dda9fd,Activity,Shinjuku Gyoen Park,{}
+8b9b38120851b59a5e00145bf8e492df,Activity,Senso-ji Tapınağı,{}
+407de43647f23211bf97da05f74cb261,Activity,Nakamise Alışveriş Caddesi,{}
+179ed1d80ed02ec5bff0ae685b8d7078,Activity,Meiji Shrine,{}
+5a5b87217e917e426759f2ce60d60c0a,Activity,Takeshita Street,{}
+eb734ad8c255724527c2c78f4d76816d,Activity,Omotesando,{}
+1b83b2d569037932360a1b5c0499c58d,Activity,TeamLab Planets,{}
+50c2d374c116ed83fc04da92a08c917f,Activity,Ginza,{}
+ed12c0443d489e4f3e682ba45f6d694f,Activity,Hakone Açık Hava Müzesi,{}
+e437f68b1b800f3822f632a693fa5402,Activity,Picasso Pavilion,{}
+6a588b25dbd29b43eb653c09b72e376f,Activity,Hakone Teleferiği,{}
+5b622159b81aaf8dfe5ae4256a19b569,Activity,Owakudani Vadisi,{}
+39de849fae39d24123aa4ee5cfa46558,Activity,Ashinoko Tekne Gezisi,{}
+ad7b758770a42a6bf3881881ede12fbd,Activity,Kiyomizu Tapınağı,{}
+857e63d60d2fb9978c05ec18b8d5e977,Activity,Kinkaku-ji,{}
+35b543ddc7ed080d757b0c4eb0e8170b,Activity,Geisha & Maiko Gösterisi,{}
+0d70e761ca9c69a37ba1527a993eaa8b,Activity,Nara Park,{}
+18a0bf5023a7a4722e9979010cd7507e,Activity,Kasuga Taisha,{}
+f32d1d0d17444fb18ea9fa51dcc776ca,Activity,Tenryu-ji Tapınağı,{}
+51d00520c69655769ee015ee16b867dd,Activity,Monkey Park Iwatayama,{}
+b62aa8b6dd60e0e819e862c27fde07b2,Activity,Teshima Yokoo Evi,{}
+c1c74e37d12543a34a4edf0b5182c89b,Trip,ARLES TURU 03 – 06 EKİM,"{""date_start"": ""2025-10-03"", ""date_end"": ""2025-10-06"", ""season"": ""Sonbahar"", ""price_usd"": 800}"
+8d1598710ac0d57b3d24764ece3cd772,City,Arles,{}
+1de2c299f02ab2ac5f6ad706f5453d8b,Alias,Arles,{}
+ab4e5565de2832160d6482eb5841ac42,City,Avignon,{}
+1076acd9ca5db5e3078a1cd910402f3d,Alias,Avignon,{}
+81288e85763ba3a51339cdd9bed7e767,Alias,Avignone,{}
+241bd67ba5c06f30f68c7bbc95ba6388,City,Les Baux-de-Provence,{}
+abb4fb337b0986503bf188ab11439b39,Alias,Les Baux-de-Provence,{}
+aa1d471bce8754448d6868e74c701353,City,L'Isle-sur-la-Sorgue,{}
+5b046ba94b49eabf26d4cd410a622bcb,Alias,L'Isle-sur-la-Sorgue,{}
+f9ef4976cccbcfd37b74b0367b316032,Activity,LUMA Müzesi,{}
+0adae1b7d576c09c67e060ba4995f3b5,Activity,Van Gogh Müzesi,{}
+c015ef4a19d764234526106870b56d68,Activity,Art Tour,{}
+7a667a81f3367ff076c7572ad611b305,Activity,Avignon Gezisi,{}
+a123646768932d27b08a04eab3a1a2d9,Activity,Chateau Estoublon,{}
+b59b3ffa15998e01fdf81b931c8669bd,Activity,Les Baux-de-Provence Gezisi,{}
+7ca7c99384b46f62fab153ac61c14d3a,Activity,L'Isle-sur-la-Sorgue Gezisi,{}
+e996d4e9f164023a75c7583de3965460,Restaurant,Restaurant L'Oriel,{}
+99c05b5a95d435358ace5f9eae4ceedb,Restaurant,Café Tadoa Ando,{}
+227d3793dd61a92abc2c16e05ca622d1,Restaurant,La Taula Gallici's Gourmet Restaurant,{}
+f55c3949a8a1fea7c46cd068915b8cda,Trip,PUGLIA TURU 07 – 11 EKİM,"{""date_start"": ""2025-10-07"", ""date_end"": ""2025-10-11"", ""season"": ""Sonbahar"", ""price_usd"": 1000}"
+19e77e5de0c2b6013c67f96f2aae2dea,City,Bari,{}
+e6afe5f84838a459cf4f1a9c9f11c8ed,Alias,Bari,{}
+0350bd3be082c486d3b32b634f24c5cb,City,Alberobello,{}
+46534345add7cd52d1d9941db23c4247,Alias,Alberobello,{}
+fc3592e874a3d2f03c7079446005becc,City,Matera,{}
+f77911ef1e72eee9df831333c35f7ecc,Alias,Matera,{}
+9100b90d4a037f33a777e3d4c0da75c8,City,Monopoli,{}
+0e6583e5bccf62491441ca82cd14a438,Alias,Monopoli,{}
+85dba9345fa82ed911a1e007ff5f7eec,Alias,Monopoli (Italia),{}
+a81a68b5e76a904ec341e7a51298172a,City,Polignano a Mare,{}
+c70c8048005f08f3604a6cfe30e9944a,Alias,Polignano a Mare,{}
+b72d21e35778324973cb1614590e85eb,City,Lecce,{}
+9f530e2fc1aac1b3bef85a9213ea40b5,Alias,Lecce,{}
+2d434242c6d350992747870a4af6112c,Hotel,Canne Bianche Lifestyle & Hotel,{}
+977d46eb36562536b5f963b3e55712b1,Activity,Alberobello Trulli Evleri,{}
+493a141184494fdb3de3a1da0ccefa6a,Activity,Matera Gezisi,{}
+fd0233d4501cea149f1cbc0af7178349,Activity,Monopoli Gezisi,{}
+43e473a3557697c5c702b2b8725ec43e,Activity,Polignano a Mare Gezisi,{}
+df9b3b7d0d37e9a8d1e088d845571731,Activity,Lecce Şehir Gezisi,{}
+9a7f4af6d6d1800e34168be3ec045ba2,Activity,Santa Croce Bazilikası,{}
+e0c9a69860348ac3d4c5e1c7b326b4ee,Activity,San Giuseppe Kilisesi,{}
+48f45dff34986d95ca45b6f8dc139f27,Activity,Palazzo dei Celestini,{}
+498eeefaa5ec981c54573136b91af1fa,Activity,Sant'Oronzo Meydanı,{}
+1f65a17834698cee4bfc7400a404133f,Activity,Antik Roma Amfitiyatrosu,{}
+4e0da0bf3b20eb33d4a71cf8ca275c17,Activity,Bari Şehir Gezisi,{}
+0bb3490765dc711f1acfe1c414e993d6,Activity,Saint Nicholas Bazilikası,{}
+c11b069c7ff994fc21ebbecddb507288,Activity,San Sabino Katedrali,{}
+7f6a04df816560fdb26e822ddc02de7b,Activity,Hohenstaufen Kalesi,{}
+6bbc8616c32d4e8a40caa31336fbcd74,Activity,Old Town,{}
+a28d5bbb253145bf1c997cc9af6abfda,Activity,Strada delle Orecchiette,{}
+ccccb3d38f72ed884398d4a83f8b9d05,Trip,PROVENCE TURU 4 – 7 MAYIS,"{""date_start"": ""2025-05-04"", ""date_end"": ""2025-05-07"", ""season"": ""İlkbahar"", ""price_usd"": 800}"
+5ce172950921c3dac27e39b4ac6a2a3a,City,Provence,{}
+cf61eedac5ae5e7c5de614f27f301e32,Alias,Provence,{}
+3a63b3a6ed8351f892d35770a2db0ffc,Alias,Provenza,{}
+d4e928acad5866c8048d519e4e541000,City,L’Isle-sur-la-Sorgue,{}
+b7fa562f9bd940105c097b65b4091266,City,Roussillon,{}
+46496ae20bf0003ddb427c7fba91135f,Alias,Rossiglione (regione),{}
+f7ab1b1da5d2daf1fb1669ced0e87248,Alias,Roussillon (province),{}
+37b82e08d2bad47d739d5884303f9672,City,Gordes,{}
+7730a20701272c759189d476d3aa258f,Alias,Gordes,{}
+9afe101e9a9fdc5dcdf8330f89a2733a,City,Saint-Rémy-de-Provence,{}
+a8cacd923be07bbd7a0d6e9a8e531566,Alias,Saint-Rémy-de-Provence,{}
+48d13d471c557548efac466469b10d95,Activity,Chateau La Coste Art Tour,{}
+c47c2765d204518729507b60a621db24,Activity,L’Isle-sur-la-Sorgue Gezisi,{}
+36fc0ae5b8525908d3eeff0b27e7a7d9,Activity,Roussillon Gezisi,{}
+2ec34b633ac92c41994c1e51d38814b3,Activity,Gordes Gezisi,{}
+dd3ba5900e8d402d671decae6dc0e6ed,Activity,Saint-Rémy-de-Provence Gezisi,{}
+b8289b8f8d4b7ceac21fda2ec2cb04c6,Activity,Arles Gezisi,{}
+bb27c5135cf7168441ac8ce4101c7a30,Restaurant,Tadao Ando Café Restaurant,{}
+c6df49d50943a7868df4601a83af1b1c,Restaurant,Chateau d’Estoublon,{}
+ff0545c57237ec506c5480a3ad17ff83,Trip,59. Venedik Bienali,"{""date_start"": ""2024-05-04"", ""date_end"": ""2024-05-07"", ""season"": ""spring"", ""price_usd"": 1000}"
+2fbc698d08f828d85bfedfb49e18f27e,Activity,Peggy Guggenheim Müzesi,{}
+11bcae07ccfd99512c1884908242267f,Activity,Galleria dell’Accademia,{}
+132da97d970029c33edb5002c3f253ce,Activity,Palazzo Manfrin,{}
+083cadccaaef10d0cba95e87afccd86d,Activity,Giardini Bienali,{}
+6b20262144dd09fefe911595f265b99f,Restaurant,Trattoria Alla Madonna,{}
+1d4203f505f32dc4338722c36ed0db4e,Transport,Türk Hava Yolları TK1867,{}
+2b16d7f8c066e500b74768ca459e6816,Trip,Dubai Programı,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+97176079f558d7f646cb395b1dbfed6c,City,Dubai,{}
+3e02e71db9d5b36f8400c9367b02bd5a,Alias,Dubai,{}
+23511bdab2284008f92f13b791936e33,Alias,Dubaï (ville),{}
+1b1215bbef160e12162f5a362c130660,Country,Birleşik Arap Emirlikleri,{}
+cf58bd461ce1d6852ef175850816a1c9,Alias,Emirati Arabi Uniti,{}
+772a29d4c2ea715d492d13ab3e840dac,Alias,United Arab Emirates,{}
+65d75f8e5d312c9fec409c8d6968d05e,Alias,Émirats arabes unis,{}
+070f587983e52819c1d6c1a4c73154e7,Hotel,Atlantis The Royal,{}
+b888d46aad34dc33049333dd1cb6fc5d,Activity,Dubai Creek – Old Town,{}
+e1064c920ba9d561c625fd5950a68eab,Activity,Museum of the Future,{}
+73152311cab66c17ddbdab0122b6c379,Activity,Dubai Mall,{}
+71adb5315685bf8c881a6a8d47b27ca6,Restaurant,Nobu Restaurant - Atlantis the Palm,{}
+1cf8316686312537e1e06442d983a145,Transport,Emirates EK124,{}
+703c411559d3b83cb8d8e3f8713ca1dc,Trip,İzmir’in En Güzel Köyleri - Şirince & Urla,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+179152d6da68f30800151164d5b02e76,City,Urla,{}
+460fea2bf4c9b3d0b92d800db221e200,Alias,Urla,{}
+b180df154390b803e2b4d007c6087c8f,Hotel,Güllü Konak,{}
+dfefeebd5c9dc2efa27d4f59a3da26cc,Activity,Şirince Çarşısı,{}
+d0e7f3b05f53a971a6f9b79e8b7f94ee,Activity,Aziz John Baptist Kilisesi,{}
+30dcfb217c6e7e5451555b14bd4da84a,Activity,Hodri Meydan Kulesi,{}
+2859af4059cad425f2708996d9725365,Activity,Şarap Mahzenleri,{}
+d92795e4c41d45bf9a0818feee2838f4,Activity,Nesin Matematik Köyü,{}
+a6b8c21435c3458694eb1c5269746fd7,Activity,Key Museum,{}
+db10acf3aed75937527d012b2204f448,Activity,Urla Sanat Sokağı,{}
+0a0ca431b46b3f3ca6e37e4cab3181e8,Activity,Necati Cumali Anı Evi,{}
+52eea14fb4f666a97a59f2b55381114e,Activity,Yorgo Seferis’in doğduğu ev,{}
+3061dcbf40b2f1e52c420d3ee830daf1,Activity,Tanju Okan Parkı,{}
+f012fe8d55f5223c15e9dd4e0b775e49,Activity,Malgaca Pazarı,{}
+b65ee3977f7f5473e2deafe07b47a745,Restaurant,Artemis Restaurant ve Şarapevi,{}
+ceadb8042c8c5cf24f90c34a0aaba508,Restaurant,Yengeç Restoran - Urla İskele,{}
+a5e1dcbf193679fe26f07421fbdd3ccf,Trip,Toskana Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+613fffdea0f455de09865b8556c5e665,City,Bologna,{}
+f1b69b909bf5fa5ecb3368ecaff20e60,Alias,Bologna,{}
+7a097542f74df1b3f4715c3da579da70,Alias,Bologne,{}
+9683ca6abdae1c09186282ec8c0fce24,City,Floransa,{}
+4fbd8f89802f52f3a4542dba659e5d53,Alias,Firenze,{}
+85aabfa11b2d96e86565f05706282667,Alias,Florence,{}
+893c1533633a658820bce8c157819c81,City,Chianti,{}
+7c5013647c8e585c1c415e6e9f3a4fac,Alias,Chianti,{}
+cf199de3a04baeb16ff18861e0db94ee,Alias,Chianti (DOP),{}
+4b1156d81cab8f354b01db75fa3fb0ab,Alias,Chianti (vino),{}
+83b13e8a927943acff94b04549d638a5,City,San Gimignano,{}
+2606cc577a8ed51b3bc50201a1bc6fbf,Alias,San Gimignano,{}
+479d7c24b80231109f697761d5f9f2af,City,Siena,{}
+9097a459a809aa518f646f844c4874c9,Alias,Siena,{}
+8bed6b1acafff93c0d71dcbfd718f90b,Alias,Sienne,{}
+9d7517b695e4d5a2ff30216ed1204dc3,City,Cortona,{}
+1e1b0aeed3f75f32af1df9afc650b62b,Alias,Cortona,{}
+31a30fb40ccda3730214593afe89f018,Alias,Cortone,{}
+70c26349e61200d5a02d8352fea7efdc,City,Orvieto,{}
+c240698bbdbbd5d094bf8f5b0f16719b,Alias,Orvieto,{}
+2c3749dca57888f6eb998214b0629b99,City,Roma,{}
+5eef3c666b4ba0982bd62e4e48db982f,Alias,Roma,{}
+507820a5d7aae21fb4cadaf439598c8c,Alias,Roma (anlam ayrımı),{}
+d2457f4b8ec013936ede3cfb08e49b18,Alias,Roma (disambigua),{}
+d0862532dd4f5ef2c1b7eea438175156,Hotel,Hotel Cerretani Firenze – Mgallery,{}
+4aae335ccc024a1680b2fa6e95dab9fd,Activity,Santa Maria del Fiore Katedrali,{}
+61789a4b7cd3f2c89a560d77e29e4b44,Activity,Vaftizhane (Battistero di San Giovanni),{}
+a6012ded97682695a030333e3da3a792,Activity,Piazza della Signoria,{}
+788bd345683f3ef3e86d0edd77d57df0,Activity,Palazzo Vecchio,{}
+9c892d16f2ee324c7671bd51caf14dfe,Activity,Uffizi Galerisi,{}
+9b4aed8a8a10eb8852822e5bd0bae19e,Activity,Antinori nel Chianti Classico Şaraphanesi,{}
+f1d3a2a3d47b7687e28de7e18cc8c33a,Activity,San Gimignano UNESCO Dünya Mirası,{}
+a4903830a4e26054e81be7f2bd94a728,Activity,Siena Şehir Merkezi,{}
+accc99ab2644ee3e8dbe86cedf0eef6a,Activity,Cortona Tarihi Sokaklar,{}
+6f2e04d463cad56448025ad9b8b912ff,Activity,Orvieto Katedrali,{}
+b7328063e41560f028800096311e7415,Activity,Orvieto Yer Altı Tünelleri,{}
+f6187e1800f6941beea2790ecde9c5fc,Restaurant,Buca Mario,{}
+9c7bc1a3fc1ea9c018a309794f4124ab,Restaurant,Osteria delle Tre Panche,{}
+17557adde13cfdc5d30b0c80835f6627,Restaurant,Ristorante Storico Sabatini,{}
+389b39038e8f97d0f7f6ab4803ecc232,Restaurant,Buca Lapi,{}
+4e1de5d4ee40ce850b442c60c150b3db,Restaurant,Antico Ristorante Paoli 1827,{}
+aa23b760d8961c1f16d2a7c459ffba96,Transport,Türk Hava Yolları TK1323,{}
+f43ee98ee260f541d110b038831494af,Transport,Türk Hava Yolları TK1864,{}
+ce4dede08ef2c9e0fe4b587eabc84e5e,Trip,Avustralya – Yeni Zelanda,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+a2c86b461e83059e50dfcd05c76146a9,City,Melbourne,{}
+2fe938eaaf510d7d78f6646cb7d895e5,Alias,Melbourne,{}
+dd7ad1ad61cfeff0b6d5ab1325d5ebb1,Hotel,Park Hyatt Sydney,{}
+af94bd8d892725b6c68b68ced7cd6d42,Activity,The Rocks,{}
+445c49efc573b75afb652dcf30eaecdb,Activity,Botanik Bahçeleri - Sydney,{}
+e20bfd0acb127f630aa86173d9889955,Activity,Macquarie Caddesi,{}
+b1d47f8ac1f9975c794e94cd26540ed5,Activity,Hyde Park,{}
+b98114fab6042730f519f88f396709c8,Activity,St. Mary Katedrali,{}
+cfcd94ee3e005203648395a38c1b60db,Activity,Mrs Macquarie’s Chair,{}
+84419b67f9de72683adfbc246dd505a4,Activity,Sydney Opera Binası,{}
+d6a8a1d848a1da12f6f1e593a02ec82c,Activity,Sydney Köprüsü,{}
+13ec61ff25e3c1f02e043fd84a821e36,Activity,Bondi Plajı,{}
+7fd2144e7b0de823721f351650c2cc76,Activity,Oxford Caddesi,{}
+f3674bd163afc4e55ccf4c21f9f870e3,Activity,Paddington,{}
+249c59e174fe8040b6478372c99096ee,Transport,Türk Hava Yolları TK174,{}
+6c721ef3cada5e0683ce96faa16dcbe9,Trip,Hindistan Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+f0ac919d2f7a9234803f5db9b2d41954,City,Varanasi,{}
+21b0b9fee02226872f4e05c3792224a0,Alias,Bénarès,{}
+4b090f0b5a45295e18a90ed49e3c3df3,Alias,Varanasi,{}
+f817c5897f74ee2160ce967ce45ae0b4,City,Jaipur,{}
+cefd0700e0c6b00209f2894942c92520,Alias,Jaipur,{}
+ed5d3f5e8128077feb1531b216830798,City,Udaipur,{}
+a97d9cfbb3f2df2929514fd6afd6cf6f,Alias,Udaipur,{}
+0cba2e0f56b211d61156a9e9707c65dd,Alias,Udaipur (Rajasthan),{}
+c4ac2a3b2d1dea0d8e22eacb206ae70c,City,Delhi,{}
+400cfb250be7c585bdc69887beb89301,Alias,Delhi,{}
+70b84e6cb321d5debbb5d3aacf4ab15b,Country,Hindistan,{}
+8563125c52bbac5cc3b90915254722a5,Alias,Inde,{}
+d071a8bdc2ad04a9175dc5bd1456c579,Alias,India,{}
+5484d84d337655d0dbb71a913123f04f,Hotel,Brijrama Palace,{}
+0352fdf67d29c819cda0753b83cc70ae,Hotel,Rambagh Palace,{}
+f38178e8c9366ebb8db668c0a4d2153c,Hotel,Taj Lake Palace,{}
+1b142695935d591ef12dad96381b9c9e,Activity,Ganj Nehri Aarti Töreni,{}
+9a6a6ed2c75a035b425e7d73a8af7126,Activity,Kashi Vishwanath Tapınağı,{}
+464d285f5174bcdac1c8c0aa46def10f,Activity,Sarnath,{}
+e03afdfcd5e41bf398d8492324dc73b5,Activity,Amber Fort,{}
+7fd676278107c4893e6c3a622a07aaaf,Activity,City Palace - Jaipur,{}
+b46fa25944269faf80736641bf63f93f,Activity,Hawa Mahal,{}
+8e62f7064ff7256847373fe1606b94e7,Activity,Jantar Mantar,{}
+ed4b414adb0c0fafbac598dbfa45f02d,Activity,City Palace - Udaipur,{}
+70e022fa05d8cf1d31ef4aa684b5958f,Activity,Crystal Gallery,{}
+4ce5053158fa59ee787ad7cd470fd0c0,Activity,Pichola Gölü,{}
+4a927bc5eab0058426cd0b0d0c8478ee,Activity,Muson Sarayı,{}
+f8ad9ac43cf9a665470e4e87abf2ba5f,Activity,Humayun’un Mezarı,{}
+b974530d7dbbfb862672d3cdad003a47,Activity,Cumhurbaşkanlığı Sarayı,{}
+cf8df95c18d08413d8f8476197c90737,Activity,Hindistan Kapısı,{}
+de546a62bfec0d0d08efb299f879dc5c,Activity,Jama Mescidi,{}
+c91473cd70c016b9b12b729e3619cfbf,Activity,Chandni Chowk,{}
+9031fc6bd53797cd6377711282d97e3e,Activity,Laxmi Narayan Tapınağı,{}
+552b08923c120d22a5724bd4522c77f9,Restaurant,Udayan Terrace,{}
+68c06169fa1a27c90736835b8be84c66,Restaurant,Neelkamal Restaurant,{}
+d26786123a48fe2ee743bb00cd91656d,Restaurant,Spice Route,{}
+6f812c22304567d22586aa4bc3a4bf28,Restaurant,Bukhara - ITC Maurya Hotel,{}
+4943821eab3bc5a959dc6956febf09c1,Restaurant,City Palace Özel Akşam Yemeği,{}
+bb81f5b24f261ca5542a4c39a7492489,Restaurant,Mewar Terrace,{}
+743b3af528d266bf871cf7e1b8eb5acb,Transport,Türk Hava Yolları TK716,{}
+7c2bcae3b33a4b029e1a29994d0eeea8,Transport,Air India AI406,{}
+8f9d8b3af979800465776f1114dfa324,Transport,Indigo 6E7348,{}
+44fc27aed7fdda98aaa8152aa40df186,Trip,Meksika Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+d7d1580abd827da6860eeb61c27ce8d1,City,Mexico City,{}
+be151c8caa13bfd88cae99a55bfbd763,Alias,Città del Messico,{}
+785cbda6d521eef99ffa233c6887578e,Alias,Meksiko,{}
+2f3680a19c6b88291596cc543422ea1d,Alias,Mexico,{}
+f4b5306a7d016a4aff970adebaa15a0d,City,Mérida,{}
+a3105d2e860855d504ccdebc310f51a8,Alias,Mérida,{}
+4391d101b607a664cd354880a4cfba6b,City,Chichen Itza,{}
+bdac7ac699de3291de8b47c3d3027d75,Alias,Chichén Itzá,{}
+95610c8cf7ef8cc35fa87c63608ee976,City,Cancún,{}
+28f20cea57180a4be371d0d1839d5de1,Alias,Cancún,{}
+e2fb5b2511492da76ad9cb814e51a077,Country,Meksika,{}
+3beabb7ad740cfe6c3501a3515ad6ece,Alias,Messico,{}
+d8a55994c1203a7cdab59dae2c25dd72,Alias,Mexique,{}
+f98838325d3659a727758b6f0b95beb0,Hotel,The St. Regis Mexico City,{}
+30e428641c798b98fa752b515b69d68a,Activity,Centro Histórico,{}
+d7fc1f1774bf405d71d1fb144cd6ef70,Activity,Zócalo Meydanı,{}
+498aca1f46af50b6abc5120095ac2495,Activity,Templo Mayor,{}
+eebb320bb6feb7c5d83434407cb174a2,Activity,Palacio de Bellas Artes,{}
+b22bbdfbcb9bc4e1c2b777ffd1fed576,Activity,Plaza Manuel Tolsá,{}
+8cb455a1d02e0255e520dc2cdcf8acad,Activity,Antropoloji Müzesi,{}
+47687b2233d2606b2eafd554e48f7eb1,Activity,Coyoacán & Frida Kahlo Müzesi,{}
+2a6eecef8762114d3b6822c1ec85af99,Activity,Polanco,{}
+3154e0743c927faad3209da90413e5e3,Activity,Chichen Itza,{}
+ee058e2d1ec5e2531bf5c7ff5307df2e,Activity,Kukulkan Piramidi,{}
+4ab8a8d5666e40c461f4f427d99d7ad9,Activity,Plaza Grande,{}
+03c86152351e87a1e5e4920045e91922,Activity,San Ildefonso Katedrali,{}
+43ebd074177d9c40ee9a7ff8e270d84b,Activity,Parque de Santa Lucía,{}
+118f85431e390c8e6ff50e1f8215de02,Activity,Iglesia de Santa Lucía,{}
+c87e1413e837860ae3252daef1ff6b6a,Activity,Tekila & Mezcal Tadımı,{}
+a6a794eab8f80ec9b353062262c88c4b,Restaurant,Göl kenarında özel yemek,{}
+79308bae266c7d63af345467556da27a,Restaurant,Woodend Restaurant,{}
+f9d6da730731984d3dd600f8b3869fb7,Restaurant,Ixi’im,{}
+4eb965acfff21da5a1e9dcf14445cc11,Restaurant,Ki’ol,{}
+d1b160505b48c1f95da5c9bcd8e5405e,Transport,Türk Hava Yolları TK2341,{}
+349a0294d71231058eb7e10cbb5f46f7,Transport,Türk Hava Yolları TK2175,{}
+7c841a2802e5a862aa313daad2507eae,Transport,Türk Hava Yolları TK184,{}
+fd6fd6821c31dea9fd3aa625bfd1d9c5,Transport,Aeroméxico AM826D,{}
+4c85c577f6188d3078ee81187d1dfbad,Transport,Türk Hava Yolları TK181,{}
+784ab8f1eea160fadfe6f60196f3e3df,Trip,Sicilya Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+f876ea491c1e88b8076e70ab7dcfd54b,City,Katanya,{}
+6453c0f0378a1730b5e8abc9af75723c,Alias,Catane,{}
+56d6f04399b4abb05006ee7b78df3fbb,Alias,Catania,{}
+5cb9131efdb54e9029da40e2716b477c,City,Taormina,{}
+dbcfd8cefde4052e93568e1172562bf6,Alias,Taormina,{}
+e4ce1102040a8d8d5eb6f1d0bbf305e8,Alias,Taormine,{}
+e6e184c27209244799f3bc38ea6b6835,City,Savoca,{}
+2ffa29cbad5224c5004ebfd32189f4f8,Alias,Savoca,{}
+5f6a22d64630ff8bc83ff353ee51975f,City,Forza d’Agrò,{}
+e6206983fac09cbfdbdc4fe48ca3d4e5,City,Syracuse,{}
+af5e984cca55b4cd7875b4ab12118f63,Alias,Syracuse,{}
+2f6a6f8bdd48e2785c8def1d24a6a90b,Alias,Syracuse (homonymie),{}
+da89d290a89c2e181409893cf06d24da,City,Ragusa,{}
+02b9358e399e28e36d906297e49f69da,Alias,Ragusa,{}
+415701ab153e12409dd2739daed3e988,Alias,Ragusa (disambigua),{}
+15c0b982d95519a42f70cc19ae4e402a,Alias,Raguse,{}
+f171e67f8542e39ccd0056738abc7b35,City,Palermo,{}
+dab76a9255450d6ad923f0eeb15fffb0,Alias,Palerme,{}
+aa3888bc05efc61d7688ce6e722e863c,Alias,Palermo,{}
+7435721df0810438505c0b15ff17baac,Hotel,Hotel Metropole Taormina,{}
+2ecd38a3d4146dcfdb33cfeedd3867f0,Activity,Corso Umberto,{}
+6d5c3207e8424c6de0684560f22bc627,Activity,Piazza IX Aprile,{}
+1c35530d23a4b7441cb66841907675c5,Activity,Porta Messina,{}
+0ab051371c2b3a461fdc7ec285c350b6,Activity,Porta Catania,{}
+036a7d80defd5968f891d98fc34c9944,Activity,Teatro Greco,{}
+fe6c51c463e5d17b31746cb1fac15df3,Activity,Villa Comunale Bahçeleri,{}
+30e213c875d665cdb26901ae4e675e22,Activity,Bar Vitelli,{}
+54ec738e68f35c8b0a00b4d4311e18cc,Activity,Godfather Film Kilisesi - Savoca,{}
+a404bda1f56b8df3c172171da576b423,Activity,Forza d’Agrò Ortaçağ Köyü,{}
+0fd47cc656aaaa8fedc5f067ebd1503f,Activity,Piazza del Municipio - Forza d’Agrò,{}
+35461c11825694147ee2e3bf7304c54f,Activity,Etna Yanardağı,{}
+da66eece5870a1893c3a42be06b9bc46,Activity,Ortigia Adası,{}
+480aa077ae81ebab95b92a0558667f44,Activity,Ortigia Meydanı,{}
+8759655a3c5760c1a6df2e040badacc5,Activity,Syracuse Katedrali,{}
+e40d5ef25f48c5f77732dd4236a0629e,Activity,Arethusa Çeşmesi,{}
+eeb50d81e505606c154d1ef202fede12,Activity,Ragusa Ibla,{}
+033431825226b9b4853fd86a568739fc,Activity,Cattedrale di San Giovanni Battista,{}
+eb24238903a137f4fb9c41df4972b5b1,Activity,Chiesa di Santa Maria delle Scale,{}
+8eba8d9927008721178b2417ba99a1fc,Activity,Palazzo della Cancelleria,{}
+0af5e27a3edea5a0f06128eff0cf000b,Activity,Chiesa Anime Sante del Purgatorio,{}
+d281f86d3be120b33681070f33d27def,Activity,Duomo di San Giorgio,{}
+3f280996e2928185aa25a1c8c9f41d48,Activity,Giardini Iblei,{}
+dd45de0f2523e07cb1b3af2a33597123,Activity,Santa Maria dello Spasimo Kilisesi,{}
+780b420de446f1888a7662c92247233d,Restaurant,Osteria Rosso Divino,{}
+ce5ee8a538fb4c9fc65d5f7cba5c70b0,Restaurant,Doba Restaurant and Terrace,{}
+f75933841ff3df34c7a3da23672a112e,Transport,Türk Hava Yolları TK1393,{}
+be0634e0e49e0e33e4258c8153ab883b,Trip,Porto Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+959d4b9cc7c8cca257083f4f0bd0501f,City,Porto,{}
+335367bc211084611479dbba1f7f1adb,Alias,Porto,{}
+edfbfbbf32a17d0e9f8a1fb0e835ec33,Alias,Porto (Portogallo),{}
+f0443247ab347adb9a6c6875309d9b39,Country,Portekiz,{}
+1d72c4d0610ef8022c0754ae60f7b428,Alias,Portogallo,{}
+a0dfa538525116f21c4fb28994c577dd,Alias,Portugal,{}
+6b937254a6789318628eede09847aea1,Hotel,Maison Albar Hotels Le Monumental Palace,{}
+cf2c9627b817f66b9bb8bc3254e87881,Activity,Tuktuk Gezisi & Rehberli Yürüyüş Turu,{}
+8a19591b690f2840b0076c647a3388b3,Activity,Boavista,{}
+e635b481fcd9b7bcab1b924ba0d5e061,Activity,Foz do Douro,{}
+3c02a631132453759f08295141a0a70f,Activity,São Francisco Kilisesi,{}
+51eaa3da1bf5d9fb532d0d20fb2e8f89,Activity,Palácio da Bolsa,{}
+25a3f48e5510aa9b1bc2644195904f40,Activity,São Bento Tren İstasyonu,{}
+83963936065c117adcb04beb2d4fb4f6,Activity,Porto Katedrali,{}
+4da7756fe4f106f61b2223a740d6c601,Activity,Liberdade Meydanı,{}
+14389e803be679df7b1eb35ac21ab1bb,Activity,Batalha Meydanı,{}
+2d98f85867a562db08faee7d20b093c0,Activity,Ribeira Bölgesi,{}
+e7f5db3965007ab556693ac42f8f5a08,Activity,Torre dos Clérigos,{}
+0e6e08dcbb42c6e237bce2b0b3591bdb,Activity,Santa Catarina Caddesi,{}
+dc5f46e31f5c11c5e981eff3bd7dd4c1,Activity,Lello Kütüphanesi,{}
+05ebc6e35d585350462d877a4c6bdca5,Activity,Serralves Müzesi,{}
+792195358045b89fe2779f18e17e4531,Activity,Six Bridges Tekne Turu,{}
+85e459203988cc94647f7b23168ab9dc,Activity,Gaia Şarap Evleri,{}
+d18e705df09f2629406c2b9253da7fe3,Activity,Churchill Graham Şaraphanesi,{}
+72a4efcabd4fb05494f96b1c9e95d00b,Restaurant,Enoteca 1756 Restaurant,{}
+c9ab0de5c8b32138a89d2a28e90b4a1c,Restaurant,Marisqueira A Antiga,{}
+9000730b793943a5b720cdb5225897b4,Restaurant,Casa de Chá de Boa Nova,{}
+d6ffa6d7f7af3305ff9e01a052849844,Restaurant,Vinum Restaurant & Wine Bar,{}
+4510c1fe826c19061d2276dfd466aa01,Trip,Kahire Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+466b6de01a0498cbca91680d92cfef16,Hotel,Four Seasons Hotel Cairo at Nile Plaza,{}
+59356b0d62c7743c11c5e8edd2a3293c,Activity,Sfenks,{}
+512e602ac364e3bde8d0300199e68c54,Activity,Khufu Piramidi,{}
+37850dfbc0516c231347a093e0bd3150,Activity,Deve Gezisi - Piramitler,{}
+b3f3dd8b1b4fd4da553e59057661d647,Activity,Büyük Mısır Müzesi,{}
+c0431199f5c1530b673af129c1350f86,Activity,Sultan Hassan Camii,{}
+573e420ae8c3ba48636d860c339ed76d,Activity,El Refaei Camii,{}
+88c8cbb62b6be2e12e1cd52a06a94b75,Activity,Mısır Müzesi - Eski Müze,{}
+067c6b0ede530e7304dbafe229dc05ec,Activity,Nil Nehri Felucca Tekne Gezisi,{}
+2e9abbe5dc146850e3c52b8db48b29fa,Restaurant,Riviera - Four Seasons Hotel Cairo at Nile Plaza,{}
+d723853a169b0f946cd43ec53607c6ba,Trip,Endülüs Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+d504114e3a92a0ff0aa8deb1e1df602f,City,Granada,{}
+d70bacd3ca76755fc33095acb824700f,Alias,Granada,{}
+afb34e041143c80740685bbc12ac663d,Alias,Grenade (Espagne),{}
+7fb518dc6ae4366c347aef723a3d54a6,City,Córdoba,{}
+4f86e1481d3c5f40ffca356639b06771,Alias,Córdoba,{}
+9430a742f3e684bb960f464a5c470995,City,Sevilla,{}
+cd1261b1eb49def6529b9fa48e5e5173,Alias,Seville,{}
+25d6331624a3ebf4fd074cff028b5335,Alias,Siviglia,{}
+2c28883cd30d372939f0150610658615,Alias,Séville,{}
+f5fd6efccba5677372b4eee83e84db7e,City,Ronda,{}
+c61d036612f1fd9684394d1970b8cdc2,Alias,Ronda,{}
+fccaa5d834b0e8858f6dcffc32753ac6,Alias,Ronda (Espagne),{}
+2db71385948adc51aac3cb2a4671c938,Alias,Ronda (Spagna),{}
+759b66c8fafadd449f07748676c72a20,Activity,Elhamra Sarayı,{}
+6bc2f5f78fafca2fdb33b53c5bf6d385,Activity,Generalife Bahçeleri,{}
+7d64455d9384833e01108dc977e02918,Activity,Alcazaba,{}
+057489f02c86edf9b2539d0e58d11339,Activity,Partal,{}
+62c8008b6c37e98f2e71a135e3024c70,Activity,Nasrid Sarayı,{}
+4f60a0fec9b3f6d783a69e628ea83370,Activity,Realejo Mahallesi,{}
+288b865aff804355dcb441005d5e517c,Activity,Comendadoras de Santiago,{}
+61aaa61bff73f7dc2fd669c95b2642c0,Activity,Dominicans of Santo Domingo,{}
+8b067411709d4452543eb8107457eec2,Activity,Fundación Rodriguez-Acosta Sanat Müzesi,{}
+ecd8acc3f2a62b158a54c58ab92d845a,Activity,Carmen de los Mártires Bahçesi,{}
+38cbc1b1e117353e2fae68b2f55ea9d9,Activity,Capilla Real,{}
+b8e4bd72e6905f0c787fc1a38d34ea3a,Activity,Las Granadas Kapısı,{}
+b99df69e5a7719926b4596e0225b14e6,Activity,Mezquita Camii - Córdoba,{}
+930e8ab5907631db19348456e0791041,Activity,Alcazar Kalesi - Córdoba,{}
+be3ee9fb557e6d425196376d7ae49915,Activity,Plaza Corredera - Córdoba,{}
+cd174177ac6692d1ba0cb61e4180b893,Activity,Musevi Mahallesi - Córdoba,{}
+b62202ee20bee60182a9130fa1e69421,Activity,Sevilla Katedrali,{}
+594bab83627101b7cffa9a22ea5159ea,Activity,Giralda Kulesi,{}
+5769719d56640bcc202e3f38926cc16b,Activity,Alcázar - Sevilla,{}
+46795844029dc33469fc7a534edebad7,Activity,Altın Kule (Torre del Oro),{}
+271295bef7ad4bc1580b666859eb6936,Activity,Maria Luisa Parkı,{}
+5a3a5d282ec7cdfba80c977644eeb36a,Activity,El Alamillo Köprüsü,{}
+00ed4306583e0e7d6702e52c27f769d6,Activity,Puente Nuevo - Ronda,{}
+c3bb644302b84e4bbf13d65db754e2b3,Activity,El Tajo Kanyonu,{}
+9d17342789344947efec3b96df9b6bfd,Activity,Casa del Rey Moro,{}
+7068c61387057a0d5e8d0d95919384de,Activity,Ronda Tarihi Sokakları,{}
+7017e361d4716577aea3c6558e1f62b1,Activity,Plaza de Toros - Ronda,{}
+d2ddae9bb09404d4836d7ef117dfe131,Trip,Avustralya Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+7b9f9e1f385bde9c33215d188d2bacfd,City,Ballarat,{}
+3e7eb963eb04da8986e81db1e1cca551,Alias,Ballarat,{}
+1cf8e3b80b450f8c0d7eb9ec712c619b,City,Hobart,{}
+1c0994b5e0681c62e027a16b626a1e86,Alias,Hobart,{}
+d344ef417c1e70f205db2f970626d91e,City,Adelaide,{}
+1f8a20745f9d3f146097e93c2f6cb9e0,Alias,Adelaide,{}
+d352e52c87e04ccc24f01559cd68de2f,Alias,Adelaide (Australia),{}
+20c13aec7f520c2964a48aee0b0b8708,Alias,Adélaïde (Australie),{}
+f3dd77922fe3e0630b5a3d7b29e08728,City,Hahndorf,{}
+9281a1a93285ba3a66f70463eaaf6ab3,City,Barossa Valley,{}
+7c297ec8a7dfc1f92f42c617ebebdf72,Alias,Vallée de la Barossa,{}
+257917f5bcd235224d26ff85ff997602,City,Brisbane,{}
+035be53221c147cbd3db25cdab766dae,Alias,Brisbane,{}
+18a1b8646fd4df246b4ba35734683114,City,Surfers Paradise,{}
+67bb231420a822f215ccf1438ea36b1e,City,Canberra,{}
+a3ff68f494028317eee608cddb7a114c,Alias,Canberra,{}
+0e890d9437e45160f613c48286c5192b,Hotel,"The Tasman, a Luxury Collection Hotel, Hobart",{}
+81a50e4361fb2ba32f70167006d8b260,Activity,Royal Exhibition Binası - Melbourne,{}
+c066e74f43b821be7ad84558ead0dcf0,Activity,Sanat Galerisi - Melbourne,{}
+2711aa92e99aa04fdeab73e33735b1b0,Activity,Parlamento ve Hazine Binası - Melbourne,{}
+ff162b3b7bf22832b94578860ae5609e,Activity,Fitzroy Gardens & Captain Cook’un Evi,{}
+a074ef9fe98a08e79e58166495e7b7f1,Activity,Melbourne Müzesi,{}
+305151fc98f046e4970c43bbf32a054f,Activity,Franklin Meydanı - Hobart,{}
+e229218332072b569b9e4cb364799a9c,Activity,Sullivan’s Cove,{}
+3e2d0b4df4e52db94952935858ddbcc7,Activity,Anayasa Limanı - Hobart,{}
+ad2b89ddc018ba21f76466b7371d5fdb,Activity,Mount Wellington,{}
+f083526e5e86d960bee73404d34b5ae5,Activity,Alman Kasabası Hahndorf,{}
+7c59720afd21712262c912c82af86f8c,Activity,Barossa Valley Şarap Bağları,{}
+923c9710b2bfb925e375a4cae918c177,Activity,Brisbane Şehir Turu,{}
+510b12607feb7903f32972681b1e9a4d,Activity,Ateş Böceği Mağarası,{}
+639f475550537932215def7fc3e14ce7,Activity,Surfers Paradise - Gold Coast,{}
+7a6e8ca4e1fcf1834c1795f4a660561b,Activity,Hyde Park Barracks - Sydney,{}
+2c48bde2d59f21ad0a5e1c39df74a2f9,Activity,Anzac-Atatürk Anıtı,{}
+b61bdadc6b127ba47e87fd8057276b1c,Activity,Sydney Harbour Bridge,{}
+554571e81ab095940fe46aecd412f4c0,Activity,Darling Harbour,{}
+a3ff58df1020bda34c2ab42859786acf,Activity,Ulusal Müze - Sydney,{}
+38348867187f46e0a325d246d1b60d77,Activity,Sydney Opera House,{}
+594fe9cec03191ec53fee693553ac053,Activity,Canberra Şehir Turu,{}
+c769ffa8843baa49bc48248d66a37516,Restaurant,Nehir Kenarı Restoran - Adelaide,{}
+1714f3d1d4a30403fb2fefca0947a7a2,Restaurant,Yerel Lüks Restoran - Adelaide,{}
+edffbfe71e9c1de8ed5d41a1cf060d76,Transport,Türk Hava Yolları TK168,{}
+c8d2c4977e5ba4d2652cfabf19a7153f,Transport,Türk Hava Yolları TK169,{}
+8d7f95115f4ca254277ea14c3aaaffa8,Transport,Melbourne - Hobart İç Hat Uçuşu,{}
+e7f2986c3acda97da031635222efaa73,Transport,Hobart - Adelaide İç Hat Uçuşu,{}
+61cb8aef6a9b2d10d7796ca8b7bad8a1,Transport,Adelaide - Brisbane İç Hat Uçuşu,{}
+0923652ee1e3707ac2efd34884a02d72,Trip,Barselona Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+b8b152a9dc864519fb452ebe60c5ed4a,City,Barselona,{}
+212f8346c83e1968e51e43d879948140,Alias,Barcelona,{}
+b44fe1f00d6913ab0f6ade3f8adeba9f,City,Girona,{}
+775113ed1dcb5c7d6c5f1a39561f1311,Alias,Gerona,{}
+3aac1aea45d4b32616877b26e94c97ae,Alias,Girona,{}
+f71b7940da304581508d96070dad8697,Alias,Gérone,{}
+f99e63378c3a0679d8704476ac53e527,Hotel,Almanac Barcelona,{}
+3099267183486cfd4f6a7c110080d2d0,Activity,La Rambla,{}
+2321343dc4693a9ff6954dfb56d778ff,Activity,Sagrada Familia,{}
+aeb2c18d395cc1a8a57301ce47f2cd44,Activity,Ciutadella Park,{}
+7413c61d6d0300f8efa12a558b6ee3cd,Activity,Plaza España,{}
+e44098715b5932c249d157e618b3cf95,Activity,Girona Gotik Katedrali,{}
+3fb350d58bc0629cd608ca09771530a3,Restaurant,Maná 75,{}
+be9fc065a77ae562735c19bf5c075572,Restaurant,El Tribut,{}
+5a1c1eefed3c3cabb894268231b92db0,Restaurant,BarcelonaMilona,{}
+93886d6c8231ac6c77acc23a1e9ada35,Restaurant,Restaurant Normal,{}
+e000dace07a3827f530596620339141f,Transport,Türk Hava Yolları TK1467,{}
+d694c433a3d885e9c51ede22df1d7143,Trip,Puglia Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+adefe01ca15e49d600663f0b2795ef36,City,Locorotondo,{}
+b366eedb94eb38d4f7148094a1d31987,Alias,Locorotondo,{}
+12349a8ae314d8003b504f13dd89d102,Activity,Santa Croce Bazilikası - Lecce,{}
+4506654a855722ce56c333c1b7464be9,Activity,San Giuseppe Kilisesi - Lecce,{}
+75a4f4144c832e7af3bfb0bc5983452e,Activity,Palazzo dei Celestini - Lecce,{}
+67e0cc0b1552f4ba86ec9e089994b910,Activity,Sant’Oronzo Meydanı - Lecce,{}
+db9820f24e81ff8a9f01482ef2d30c79,Activity,Roma Amfi Tiyatrosu - Lecce,{}
+e8afb9ee403ecd01134869f59ef9f66a,Activity,Trulli Evleri - Alberobello,{}
+3e6d374206ad3c347448bc9cd5915889,Activity,Locorotondo Şehir Gezisi,{}
+23cacbb50b3a0f102039edf3bb808524,Activity,Monopoli Tarihi Merkezi,{}
+cccda3c8144539eb19b77aef17361661,Activity,Polignano a Mare,{}
+d30879a5de3a2b0945d5c13432bd3cc6,Activity,Domenico Modugno Heykeli - Polignano a Mare,{}
+339c331d22f02866f8c70b82f27cf76e,Activity,Matera Kaya Evleri,{}
+4f71eded8bed61240350813827752798,Activity,Matera Kiliseleri ve Mağaraları,{}
+e19bb3f3997076ce4bd5fdf36a1d8293,Activity,Napoli Tarihi Merkezi,{}
+c39fc9930baa6f44cfca7ab90fadad22,Activity,Vezüv Yanardağı,{}
+e6215009d2e017db1d1820be08f4f5a0,Activity,Pompei Antik Kenti,{}
+19d3aba7da895045a9c717a75d1e5e9e,Restaurant,Ristorante Blunotte,{}
+948d2451d9d8cbac0b48c64787bf4a40,Restaurant,Ristorante La Cantina,{}
+f81ada39d6281838259073850a4b109c,Restaurant,Pizzeria Casa Pinto,{}
+f21b63022d27e1ebdc723a7b9270791d,Trip,Alegra Benardete ile Sicilya’da Nefes,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+0d29aa34d46a0964ca73938326feea23,City,Siracusa,{}
+3b4097205149525af25940537dc7f6cb,Alias,Siracusa (disambigua),{}
+2b141eca3f273824a622a05ed5fb4745,City,Ortigia,{}
+c93e3f677e1b17b608953bfa7cf7a8d8,City,Noto,{}
+c2c3ae7b2ec98a7924bfddbfa819ce66,Alias,Noto,{}
+2eba49406c945ae62cf74d20d3cbd3e5,Alias,Noto (Italia),{}
+a27948f0fda38c524213af3a1afeb5b8,Alias,Noto (Italie),{}
+2f50e780bfee930b5debd77c5c3e0beb,Hotel,Casa Di Melo Otel,{}
+37f5804de3cbe3d535c9c3c4df6f2e6c,Activity,Ortigia Roma Amfi Tiyatrosu,{}
+ff90203fc2ffb2f672d473b07756719e,Activity,Duomo Meydanı - Ortigia,{}
+d16988d313d4dda911af67b4159023ca,Activity,Fonte Arethusa,{}
+f5e99cbe3e9e3914fa8ccf502c05f891,Activity,Maniace Kalesi,{}
+52b448ecc6f4831416211c4da2958c73,Activity,Arşimed Meydanı,{}
+c60ad1b147ff3a1efb3df3406e98e8b5,Activity,Corso Vittorio Emanuele - Noto,{}
+cffbeab5495c07658b607ed92906ed5b,Activity,Chiesa di San Francesco - Noto,{}
+4378db1f4b5afc87c5e3948747f8a0e0,Activity,Duomo - Noto,{}
+f58665c7e5292e88413255ed777e2447,Activity,Palazzo Ducezio - Noto,{}
+c82ca491a4a04d16e6bcc9298fcba40d,Activity,Palazzo Nicolaci - Noto,{}
+16ada8e266ec92b97719cc7e84173d51,Activity,Chiesa di San Carlo - Noto,{}
+65c6e09fe380ef43163fb50e73295d80,Activity,MAT Museum - Noto,{}
+000a1547e82b58ceb115d0188aa9f238,Activity,Siracusa Arkeoloji Parkı,{}
+a5ee3debebf0b6b709a267a866b52d96,Activity,Latomie - Siracusa,{}
+a4010fbe04f3e73e54f1f7608d6076e6,Activity,Yunan Tiyatrosu - Siracusa,{}
+dccc947a5acc821d6f59a33080e14e72,Activity,Roma Amfi Tiyatrosu - Siracusa,{}
+93e6bfe42b9c9be3f0f6d1dd5b84e0cd,Activity,Taormina Gezisi,{}
+e17b9ecb180d42194d3b15bc2860bf2b,Trip,Arjantin Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+29541762cadb1aec040e909e16d3a781,City,Ushuaia,{}
+10bc958aff724820df6583cab31f0924,Alias,Ushuaia,{}
+cf56d898827141bb82ad82baa780bffa,Alias,Ushuaïa,{}
+618e796d915e230ff7db58562bd963d2,City,Puerto Madryn,{}
+1ab8751e4f629f8678105eb3d17ea3d5,Alias,Puerto Madryn,{}
+b200bdba8690fccf3e948ce46f76568a,Activity,Tango Gösterisi - Buenos Aires,{}
+3a57836b60a46871c46993ea4f03851d,Activity,Tierra del Fuego Milli Parkı - Ushuaia,{}
+5d4215f46fc8f2942c9efa11302037b8,Activity,Beagle Kanalı - Ushuaia,{}
+7c7e6314a280bc4ddb2ddf1114cf69e0,Activity,Peninsula Valdes - Puerto Madryn,{}
+09b855fff6099fa552a58f329ee5788e,Restaurant,Tango House,{}
+2eae88e7319714147ae2831ec3256d54,Trip,Bangkok & Hong Kong Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+302b35867b74f706e96e0ca4b7857573,City,Macau,{}
+34420b95dfbac048ccbf33694d99cdda,Alias,Macao,{}
+7574f3043d3d0d8b9403178b37c990d6,Alias,Makao,{}
+28e9ff051a0563973cf8cc4d197957fb,City,Hong Kong,{}
+2dffa0e8b44a20c75c36e93b4dc0d504,Alias,Hong Kong,{}
+196d3c3801376800fbf90a3bd50f05f2,Country,Çin,{}
+7f513bdd41843691795702bde5320e0c,Alias,China,{}
+3459e9bf82f21a9a6535a981da763e6b,Alias,Chine,{}
+57656dbdab90a440db1ca29bc4c1b592,Alias,Cina,{}
+5b073729b8ee28a1f01a8ab9cc11a1e7,Hotel,Lebua at State Tower Hotel,{}
+a57c28fbe202ea8e1222241748ef77fb,Activity,Grand Palace & Wat Phra Kaew - Bangkok,{}
+fda942cfa02a9a73181f8e94f0a722d4,Activity,Wat Pho Tapınağı - Bangkok,{}
+5dafdbde6ac4577056e960c3276991c2,Activity,Wat Arun Tapınakları - Bangkok,{}
+1c00c3c9458cb4926124816f882eb268,Activity,Royal Barge Ulusal Müzesi - Bangkok,{}
+5f8b7f227f4f322eac836c8c2b0dbe9f,Activity,Wang Lang Market - Bangkok,{}
+8ed0ee68408a53e743cb935b123503c9,Activity,Pak Khlong Talat Çiçek Pazarı - Bangkok,{}
+f766badd57c04280d222e5a346e8511f,Activity,Çiçek Kültürü Müzesi - Bangkok,{}
+d05fb0e2416fb4bab5cac30582c24874,Activity,Wat Suthat Tapınağı - Bangkok,{}
+f56f727e98e31f940c1a046b0fef2dcf,Activity,Aziz Paulo Katedrali Harabesi - Macau,{}
+8db8cb6f2ce6005bfc78f3b8e94108c4,Activity,Macau Müzesi,{}
+0ca10587458d04d64a65c27984251659,Activity,Macau Kulesi,{}
+a92f299b7cf839d6ad13c61bd507bfd4,Activity,Monte Hisarı,{}
+5ee7351c89bddf047e4e087c3e5e547d,Activity,A-Ma Tapınağı,{}
+ce2cee39b9e176bc0c04f6a09cf3250c,Activity,Senado Meydanı,{}
+9749383c618c9947cbc6287694573305,Activity,Sun Yat Sen’in Müze Evi,{}
+eb52764fc7c6d64b64c775cad4305ce6,Activity,Macau Şarap Müzesi,{}
+3b45f9c9ecec1401334d33b8c89a4a84,Activity,Macau Casinoları,{}
+d96c31f8a2983de3e9b2daa50858181a,Activity,Wong Tai Sin Tapınağı - Hong Kong,{}
+9a6ea61439874302ab03ed2a7195ff3b,Activity,Lam Tsuen Dilek Ağacı - Hong Kong,{}
+f74c75b92ea4652e1ffe49d2e2c3273b,Activity,Tai Po Old Market - Hong Kong,{}
+9d72370fc81539cafda99f99f3e949ad,Activity,Hong Kong Miras Müzesi,{}
+4c0e4b8038aaabb69a6d811c27c8ae6a,Activity,Lantau Adası Turu,{}
+3abdbfe449ca1717306fd06c724191c6,Activity,Kowloon Turu,{}
+8798fe203b12067baafc9271809fea6d,Restaurant,Err Restaurant,{}
+b23ab4011dd12ac730aa320dc4364d43,Restaurant,Sala Rattanakosin Restaurant,{}
+a5e08de6256ddca1d2c6f7ee76a234d5,Restaurant,Eat Me Restaurant,{}
+0c297ed9c307f88bae986a0506c76827,Transport,Türk Hava Yolları TK68,{}
+2900f4a1f94494668c8f285146df4713,Transport,Macau - Hong Kong Feribot,{}
+0e4adea6f338ffbe84c375ae97fa6f61,Trip,Bhutan & Nepal Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+50619f0cf3d675929674a92a6b0b7fc7,City,Katmandu,{}
+7b0e09a7add799fc1a8d7fe5236b8866,Alias,Kathmandu,{}
+70a1f5e08fc4b73918125ab789afba60,Alias,Katmandou,{}
+a31ba5ee42b2bb2750f432d700ba8cb8,Alias,Katmandu,{}
+f6c20fc5e5e579dd3dc77e12a3548433,City,Paro,{}
+26d55adfc1512cbf96585b0f20333af1,Alias,Paro,{}
+8cca8da5489c023c7706420cfc2842c8,City,Punakha,{}
+16a0b71a69de9cfe1b9125eb16bb1c03,Alias,Punakha,{}
+5d83ee25a8eeffdbb76bb3ea357df060,Alias,Punakha (ville),{}
+88790bba148c0c133b2eef6ec8f84704,City,Thimphu,{}
+ebef03dcbe4a2fb4b3b6ae14461af16e,Alias,Thimphou,{}
+7e045890e6ea8f443d34018308db3de7,Alias,Thimphu,{}
+39b30b97ed631cac5be1f538db874e21,City,Bhaktapur,{}
+9e3aa10d6c9b1dec3eab0b99d7a942b3,Alias,Bhaktapur,{}
+255106310a4a26827ef4373d232909bb,Country,Nepal,{}
+d6c3e922b774c0167a1bec10dfceb337,Alias,Nepal,{}
+62c414f036f3d1cc2a19655ba3e758c2,Alias,Népal,{}
+bc031e83bcbd480cab888c05bd154435,Country,Bhutan,{}
+234cdb25675597fcadfaf19d36e05b5e,Alias,Bhoutan,{}
+0aee93263c281ce1fe2c7262a2e1de28,Alias,Bhutan,{}
+7ce8cc3ef7a683d3b99b5707a1a91463,Activity,Pashupatinath Tapınağı - Katmandu,{}
+3ed3f678b180acb601a61b0493c4fffc,Activity,Bhaktapur - Katmandu,{}
+b98b3cd07a8b9f98d19f22380a2d550e,Activity,Taktsang (Tiger’s Nest) Manastırı - Paro,{}
+d4339f548bad624ad406e0efb4d77b0a,Activity,Punakha Dzong - Punakha,{}
+569f75c52f8a19af0c6f1d4b7b3f2635,Activity,Thimphu Şehir Turu,{}
+5deef0b46a21051dde5e2a8a57ae2eee,Transport,İstanbul - Katmandu Uçuşu,{}
+2440288311e8ccd3a842edb8d7aa075e,Transport,Katmandu - Paro Uçuşu,{}
+477d63530a86a0c88344b8c7fcbc4e7d,Trip,Bilbao & San Sebastián Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+6dc17df88fdf6fcad1ed8fe13813f7a5,City,San Sebastián,{}
+e2ff0c95da7783999e94e8cb75849e89,Alias,Saint-Sébastien (Espagne),{}
+b212d7bd19ab894a1838828ceab42fc1,Alias,San Sebastián,{}
+65a45668c237064c2c0134ef7721901b,City,Hondarribia,{}
+346b59300d33ce7aabe1d2520b8b9df3,Alias,Fontarrabie,{}
+32a32857432481586c2c7d9d3e6f7c57,Alias,Hondarribia,{}
+c58b08637c72166307a8771255fc8cb1,City,Saint-Jean-de-Luz,{}
+d256f4f42c22da606503ad8b43430ede,Alias,Saint-Jean-de-Luz,{}
+ef40fcfd488e21ef9bc5d2c39fc28a0f,Hotel,Hotel Du Palais Biarritz,{}
+3dc87ed9a67638ffd095fca7e0157d42,Activity,Guggenheim Müzesi - Bilbao,{}
+21f56caa43522fdf18335774004f44ae,Activity,San Sebastián Şehir Gezisi,{}
+6a03fd02c8d2d3bda3f693f77fbe22ba,Activity,La Concha Plajı,{}
+9a753a1f6d0f5e78a88637f8b1a6a5bf,Activity,Zurriola Plajı,{}
+6236ec2ac79a869e7cc065cb4ed03697,Activity,San Telmo Müzesi - San Sebastián,{}
+55be5d21866aaae8d949bf77525b8bed,Activity,Monte Urgull - San Sebastián,{}
+88cf535666a823cc027b65b8e2e099f7,Activity,Monte Igueldo - San Sebastián,{}
+c0cf8642c4f686b3b0f62315a74c71f1,Activity,Victoria Eugenia Tiyatrosu - San Sebastián,{}
+8980aca8e25c6bad4b903f83dcc92a91,Activity,Miramar Sarayı - San Sebastián,{}
+33d67b2115b988e6d0557b06d6bcaf18,Activity,Hondarribia Eski Şehir ve Surlar,{}
+2b95b609aeb7201ff54a2d8285352cab,Activity,Rue Gambetta - Saint-Jean-de-Luz,{}
+9996c12af7898dd0b1ef8548b80573c2,Activity,Place Louis XIV - Saint-Jean-de-Luz,{}
+ba189e8e479084bc4b4951705144fa6b,Activity,Eglise Saint-Jean-Baptiste - Saint-Jean-de-Luz,{}
+07d40601949061dc68ce6410b8821d5c,Activity,Biarritz Grande Plage,{}
+7ea796f78dae97fb654dc9c37536f91b,Activity,Casino Municipal - Biarritz,{}
+372d90a1caba52037f9dfce484d76a7e,Activity,Chapelle Impériale - Biarritz,{}
+8e30848b8306f75dd808ba36b3beb6be,Activity,Musée Asiatica - Biarritz,{}
+905315ac002ea8aad18fa727af719bbd,Restaurant,Hotel Du Palais Biarritz - Le Sunset,{}
+d4513888a32b16823970e7fc6557979c,Transport,İstanbul - Bilbao Uçuşu,{}
+f7beae66c5eba4e60be53d0cff4ddf40,Trip,Brezilya & Arjantin Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+c3c38fa5c2fa2617e434ff31e4e78681,City,Foz do Iguaçu,{}
+088ebe2133f08f38c81bff92680434af,Alias,Foz do Iguaçu,{}
+6ed09633e69dd000a0636033f856e4ba,Hotel,Park Hyatt - Palacio Duhau Hotel,{}
+20ad5ccdb4f70fc407a9defe216c8447,Activity,Cristo Redentor Heykeli - Corcovado,{}
+2541f538b677eeddcc7df07c0a40ce07,Activity,Santa Teresa Semti - Rio,{}
+aebe87953fde79a0bf98f19725458d5a,Activity,Museu da Chácara do Céu,{}
+3217190897b63022d1565f41842b41b6,Activity,Harabeler Parkı - Rio,{}
+0b6cb177caad48fb7954d86e03cc6db8,Activity,Sugar Loaf Dağı,{}
+7d3025f3f5a709ad3663cc8883e16cb1,Activity,Tijuca Ormanı ve Vista Chinesa,{}
+6619e79f5514a07097fa1e86eb636edd,Activity,Pepe Plajı,{}
+4c4833f75edd53fa6500d244ef0b5bec,Activity,Sao Conrado Plajı,{}
+997c750e85ffdb9219a12957e08454e6,Activity,Leblon Plajı,{}
+3c4a2d9bc3af1bae2a0510648330372f,Activity,Iguazú Şelaleleri Milli Parkı,{}
+6ae64d95a9c01f3946a374133aafa78d,Activity,Plaza de Mayo - Buenos Aires,{}
+73ce56478f4325bc51d964adb0cbae54,Activity,San Telmo Semti,{}
+f68683e110d8b2acd5991a4be1e472f6,Activity,La Boca Semti,{}
+587194e6f84e2e69354c70a98694ff7d,Activity,Palermo,{}
+74296a8952dbc443e704f0023433fe50,Activity,Tigre Delta Tekne Gezisi,{}
+2e4ae8d22f8620abc159e3d6e8f515a1,Restaurant,Rio Restaurant Önerileri,{}
+c5ceebd545a6d30fbf8f1c058f12e441,Restaurant,Buenos Aires Restaurant Önerileri,{}
+0d77b6732694658603746d13f1096fc7,Transport,Türk Hava Yolları İstanbul - Rio Uçuşu,{}
+00d713fe46e3ad9beac9acb759d922fd,Transport,LATAM Airlines LA3290 Rio - Iguazú,{}
+500c5c15d4e96e5ad0a4dec2df1718e6,Transport,Aerolineas Argentinas AR1783 Iguazú - Buenos Aires,{}
+06b7e51c6b73ffc2b85a3dd2d5596dd4,Trip,Burgonya Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+d6568e3683a9cffb3a48cb9cdc3975b7,City,Beaune,{}
+01c8991af854a0811212b0b82f2ac055,Alias,Beaune,{}
+05785005b60d5f26006b15bcc5c8083a,City,Dijon,{}
+f65dc65f99ff2d3b68edd9e666157044,Alias,Digione,{}
+bf00386cc95f82ccfa7cb4bc2890aac8,Alias,Dijon,{}
+1cad3275c4a3e9371169015d37625cd1,City,Nuits-Saint-Georges,{}
+e6a93612cb9ef1c0d7733e692ec89c21,Alias,Nuits-Saint-Georges,{}
+7fa62dec2853043ed079a20762e4d949,City,Vézelay,{}
+d60ea8754e9e1ce10b33e71e59e8415f,Alias,Vézelay,{}
+8f29ced3b199f44ffe28416e2a5bb468,City,Cluny,{}
+db0b4242cb6a9aad8e6c8117d05359fb,Alias,Cluny,{}
+4cd87d262b8032eebc36f2cbc33d270b,Alias,Cluny (Saône-et-Loire),{}
+591520858c78a13cc4bb43aba0fed398,City,Fleurie,{}
+bf9f6c33873074ff6f33365b85d1d73a,Alias,Fleurie,{}
+bdbafb25153438dd7a5a5539a28c2638,Activity,Hospices de Beaune (Hôtel-Dieu),{}
+2b0bb8273ef8b99741ea1738c8256e09,Activity,Saint-Martin de l’Aigue Kilisesi,{}
+182ad4b6c926fe7ee9088a555bb1d9d1,Activity,Saint-Baudèle Kilisesi,{}
+cbdca0dc3db76717d512296e54255dbe,Activity,Saint-Flocel Kilisesi,{}
+3397a13cc5c3725d49d02aa19dbbbeaa,Activity,Notre-Dame Kilisesi - Beaune,{}
+6ecc1bc22feac9d0144caaf9c65b7100,Activity,Sainte-Madeleine Kilisesi,{}
+aa8134943f80ef6c27230da9abec93b3,Activity,Musée du Vin de Bourgogne,{}
+092d043be3437bd1103a9e29323c7cb8,Activity,Musée des Beaux-Arts - Beaune,{}
+f62dedc0912817194a74ba40a29d71a0,Activity,Palais des ducs de Bourgogne - Dijon,{}
+557a4e5ce86c23ba60e04a1c3db23080,Activity,Musée des Beaux-Arts - Dijon,{}
+b0a354d4306e317f1b4d9a8c2b8cde95,Activity,Saint-Michel Kilisesi - Dijon,{}
+648a53cbcafb77477b6ecbb3a43d47ba,Activity,Saint-Philibert Kilisesi - Dijon,{}
+3ed3b74bb7acdb0c30391d00d71cd49c,Activity,Notre-Dame Kilisesi - Dijon,{}
+a2d9c589ae446f0a9ef85ce7dcefbc5c,Activity,Saint-Bénigne Katedrali - Dijon,{}
+d82a7eeabff938d55cb75f52e517dfb5,Activity,Rue de la Liberté - Dijon,{}
+94c1a8339c0390c05c18436612b57093,Activity,Beffroi Meydanı - Nuits-Saint-Georges,{}
+15cc3121aa13b629d90831e6be35153f,Activity,Église Saint-Symphorien - Nuits-Saint-Georges,{}
+2c90904b08cd8e1816e5bbe7e8c2a549,Activity,Domaine Rion Armelle et Bernard - Şarap Tadımı,{}
+5efd4cd79e3251b80c5d01de3404692d,Activity,Abbaye Sainte-Marie-Madeleine - Vézelay,{}
+7b00a67d678fcf9ffa9822a45b4f5783,Activity,Colline Éternelle - Vézelay Şarap Tadımı,{}
+81ad03481f5d64d4d2e2ea27a2fd6389,Activity,Benedictine Manastırı - Cluny,{}
+6d919545c69c844f7e086b060d596dab,Activity,Musée d’Art et d’Archéologie - Cluny,{}
+5fb6621b7c365c3b1d73f248d8c77201,Activity,Tour de Fromages - Cluny,{}
+084f0dae189089e1f5a71b7c633ea9c1,Activity,Hôtel-Dieu - Cluny,{}
+41cb9f395c54b447b9d648b7119ec3f2,Activity,Beaujolais Şarap Bağları - Fleurie,{}
+5d967ee5412866d48b730b10029c798a,Restaurant,Auberge de la Madone - Fleurie,{}
+5859bd70e7210fbeedd15162f4315f81,Transport,İstanbul - Lyon Uçuşu,{}
+7159033a53be1abb523582667354ba26,Trip,San Sebastián ve Bask Bölgesi Gezisi (Can Özdemir),"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+7f7f1c0a4e3c00cfb96c139b1472075d,City,Getaria,{}
+06b8a0c7ce094f378bd1508989dfcece,Alias,Getaria (homonymie),{}
+76a403153e22906dcfd39aa58a13e942,Hotel,Hotel de Londres y de Inglaterra,{}
+49b31c1ee15e5f01771161a5d44a26e6,Hotel,Hotel Villa Favorita,{}
+34e2799028be5ba7e6cf28bc8f89af82,Hotel,Hotel Zenit Convento San Martín,{}
+6ecd7038d18e2ffef6c9dd0ed886d6b5,Activity,Parte Vieja - San Sebastián,{}
+8eb5bfb93d56cbc8c614fa615fa6021e,Activity,Kursaal Oditoryumu - San Sebastián,{}
+8bc697348e2a900eadf44e634cfae40a,Activity,Igueldo Tepesi - San Sebastián,{}
+eb0a7a49d92be5b9415da942b1a3b3d1,Activity,La Bretxa Food Market - San Sebastián,{}
+6cfa40d5b57cfffb765e974228a8260f,Activity,La Concha Plajı - San Sebastián,{}
+9623cf94831efefd86fafa59ec9de331,Activity,Getaria Balıkçı Köyü,{}
+1c687b353e839dd2a50b2c95d2135bb0,Activity,Gaztetape Plajı - Getaria,{}
+b7477a6b42845eaf9dd96fa723ef8319,Activity,Malkorbe Plajı - Getaria,{}
+05045b97db9f04cb51dab9e22a6b8cfa,Activity,Cristóbal Balenciaga Museoa - Getaria,{}
+08a3b4dc297db932b7bafde3161b9e67,Activity,Saint-Jean-de-Luz Plajları,{}
+a2b299d5a5c75c35fbe1773a1d299624,Activity,Rue Mazarin - Saint-Jean-de-Luz,{}
+5ca1b5522b19d48981729588ba8fdf31,Activity,Quai de l’Infante - Saint-Jean-de-Luz,{}
+8cd82e1c984933094e33ad7db89fd10c,Activity,Sanat Galerileri - Saint-Jean-de-Luz,{}
+a5d25cd33e599143fa199e7b5ba8b3f2,Activity,Biarritz Şehir Turu,{}
+5b38132190560043963b702e3ecc9319,Activity,Bilbao Şehir Turu,{}
+ea7475456029eba321ceaac3dbe6f4dd,Restaurant,Elkano Restoran - Getaria,{}
+1da66a25cd6600524cef752122bb22e8,Restaurant,Guggenheim Müzesi Restoranı - Bilbao,{}
+f0e0ca51fa783808e89a2d2c67724eec,Trip,Cape Town Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+8c7c546f9b4cbdeaaf54ac9afab45541,Hotel,One&Only Cape Town,{}
+9bed77757a6695c5746db29ae01dd586,Activity,Masa Dağı (Table Mountain),{}
+bdb40802230bdbe6d77eebaf9e5b8be5,Activity,V&A Waterfront,{}
+b9a3b5247fe1cab2b18136c96707112c,Activity,Ümit Burnu Kalesi,{}
+8a49866c54fc4992222ca0f4690ee75b,Activity,Cape Town Belediye Binası,{}
+8427b792bf1bfaf88e26233fc357ef4a,Activity,Bo-Kaap Mahallesi,{}
+54a2a426cc8b7bc7935dd7efdd9ce399,Activity,Cape Point,{}
+4ac34f5a7d1eeca45274abbbb04ed219,Activity,Chapman’s Peak Drive,{}
+c51f73525275dfc2955e332c72c5f5ba,Activity,Hout Bay & Seal Island,{}
+edcc50c4a4f8cca7c3bcd012613990bf,Activity,Boulders Beach - Penguenler,{}
+2db6c4a4d990e50df94db6b7ed7997e0,Activity,Camps Bay Plajı,{}
+782472736c59145d79a637b3422998be,Activity,Stellenbosch Vadisi Şarap Bağları,{}
+f0991a8ca535d85a8117b3cd2bf9e7bb,Activity,Franschhoek,{}
+a1199656826c26539c877fdf7b8bd49f,Activity,Iziko Güney Afrika Müzesi ve Planetaryum,{}
+d4076273415cd380d120e6614bba8ddf,Restaurant,Nobu - One&Only Cape Town,{}
+3bba2be87b227f20620439f01df57046,Restaurant,Aubergine Restaurant,{}
+abbec93b8ba9967fd2d92857943170eb,Restaurant,Buitenverwachting Restaurant,{}
+7a8cc17880bc44c862678d86ea961847,Restaurant,Harbour House Restaurant - Kalk Bay,{}
+5cddcba59dda3a1c13cdf85fa3dd93ec,Restaurant,Delaire Graff Indochine Restaurant,{}
+3c9ad85ad31cb642b010532338b187d3,Transport,Türk Hava Yolları TK44,{}
+38f8e3fbc1ef81d0a1f890eb7d1aba9c,Trip,Lapland Rovaniemi Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+f1a8d06dcdbddda0f18185a8dfb81451,City,Rovaniemi,{}
+3f9999916e702860bdf290615bd6891e,Alias,Rovaniemi,{}
+135bcfc2a9e3ef4f7eba55e25f4703a2,Country,Finlandiya,{}
+c8687e161978327b42409265209bd9c1,Alias,Finland,{}
+96e692aaf6a145f53e0b46923ab7e689,Alias,Finlande,{}
+72114812fb4af84dafb83245998fd52c,Alias,Finlandia,{}
+dc1384519293e366cae0594e8d45ea7e,Hotel,Arctic TreeHouse Hotel,{}
+03ae38b2a6f0fe0f0b2f8cf97fde757f,Hotel,Santa’s Igloos Arctic Circle,{}
+57fbeceb170dc391737b5c7d9280854d,Activity,Husky Safari,{}
+e99f704f71dbeaa53557f7c7f8ecd66b,Activity,Snowmobile Safari,{}
+f20b7037f4e694ad6abaa96044b8668c,Activity,Reindeer Safari,{}
+7fd77f6ea03b5c9c7c7ef7d294f233b1,Activity,Aurora Borealis Macerası,{}
+4662300b95a4e9723c24678e6bb754c6,Activity,Santa Claus Village Gezisi,{}
+88d1f5409572b350c46d07d20eb0a8c4,Activity,Kar Bisikleti Turu,{}
+8412ae98111eb37fc8aa3ba6382eb33b,Activity,Kar Ayakkabısı Yürüyüşü,{}
+849d43132e6ef02974712d4c759e94af,Activity,Kicksled Deneyimi,{}
+cc976f78485c32ae8a001d489eb8f965,Activity,Kızaklı Sandalye,{}
+43f1afe7a832b86bc1f690a471b14486,Activity,Cam Igloo Deneyimi,{}
+f12ab9771c243c11e65c7215b44e874d,Restaurant,Rakas Restaurant & Bar,{}
+3113dba1380ca610dc06c406faa42ec2,Restaurant,MonteRosa Restaurant,{}
+36366f92d35d384369837a46fa88fedb,Restaurant,Gustav Kitchen & Bar,{}
+470b91e9af47bb24966242f6d6738a2f,Restaurant,Glass Restaurant - Santa Claus Village,{}
+07c96577e4fe1813dc5bbda0ebcb285f,Restaurant,Arctic Restaurant,{}
+f8ad48214711a60b9672cc7be57ecb60,Restaurant,Ice Restaurant,{}
+c4feb284cb7493d575f0db76ed1beeee,Restaurant,Kota Restaurant,{}
+a666321bce0f3aa3547ef2a5aa5ab000,Transport,İstanbul - Rovaniemi Uçuşu,{}
+5e6218645238d36a3d79d59a85bd2560,Trip,Kenya & Rwanda Safari Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+573665892720d7f03d50aae029bb11ba,City,Nairobi,{}
+b2e7b9366ca44dd9cb548d8f4195e2cc,Alias,Nairobi,{}
+14753001556298e4fcfb0bae8e0988de,City,Masai Mara,{}
+7868afc1ea2ce31a4a080bbdc4e45366,Alias,Maasai Mara,{}
+591bf3b5fb8616fc8f18c2b0369428bc,Alias,Masai Mara,{}
+6aea1410fefc1961b1475804d50ce847,Alias,Réserve nationale du Masai Mara,{}
+67dc924c6202f5fa0d0826eb8a4c9d41,City,Kigali,{}
+3e47557d7589d717de7f20509dd96aa8,Alias,Kigali,{}
+a893b80dcd2be4a465b0835253742c7b,City,Volcanoes National Park,{}
+860d52d234a73319583104502035a779,Alias,Parc national des volcans,{}
+0157a919ca4d3369ec9ca876e38dadc3,Alias,Parco nazionale dei Vulcani,{}
+90acee39ea06bd1f0f451dfb5027d658,Country,Kenya,{}
+50e9cd5b69f884a01b8eb67c28fafa13,Alias,Kenya,{}
+081f13eb17e05ad990a2dd9f3ece697a,Country,Ruanda,{}
+db2cb3791a5c3cc7974ca54cdc1ab28d,Alias,Ruanda,{}
+53eb3eefa86d0f5116fa0225452b7371,Alias,Rwanda,{}
+9cc070f1cb4e6b12db15905c6b583470,Hotel,Four Points by Sheraton JKIA,{}
+08697b20835f3782273fb44a9cbdaaeb,Hotel,Sanctuary Olonana,{}
+89ab170a89d8ecd6fa0bab081c326cea,Hotel,Bisate Lodge,{}
+926e2cf57840fcc7ecec0241a5a574ff,Activity,Masai Mara Safari,{}
+05f40b067f4690e15420ee73878738e6,Activity,Game Drives - Masai Mara,{}
+3d0ba9fa4347d18645b12174928ea140,Activity,Volcanoes National Park Gorilla Trekking,{}
+e1a760bb1cb9f233a98626ff78f8d760,Activity,Kigali Şehir Turu,{}
+879a38f20194f05a61b57533acbb91c6,Transport,İstanbul - Nairobi Uçuşu,{}
+3832b2f296bf11373d6a69dd7db8c41c,Transport,Charter Flight Cessna Caravan 208 - Nairobi to Masai Mara,{}
+9a41e491958b98f510a3c29da70e054d,Transport,Lodge Transferleri,{}
+1f68c938404d21810caf5d06b9098316,Transport,Kigali Kara Transferi,{}
+11c75015254dcb44ac9d856b983b37e7,Trip,Lizbon Seyahat Programı - SAHA,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+861c1882080de6a105538e28fce0e997,City,Lizbon,{}
+7e772159af6edcfc0347984c413cb777,Alias,Lisbon,{}
+1fcb4eef78ebaa985e9a8cd5bd79277a,Alias,Lisbona,{}
+4be349d585902d63aae1a9742bd95f42,Alias,Lisbonne,{}
+4c94f670a9bb9d69eebe0faa8968c399,Hotel,"Bairro Alto Hotel, Praça Luís de Camões, 2 1200",{}
+5341478fc6ea11b47160d2de69f22f1c,Activity,09 Kasım 2022: İstanbul – Lizbon uçuşu (TK 1759),{}
+3a8c81e5d03bb8acceab10086126c853,Activity,"09 Kasım 2022: Bairro Alto Hotel transfer, check-in ve serbest zaman",{}
+27a115e93afe40bbfbe603b12a3f99fb,Transport,İstanbul – Lizbon uçuşu TK 1759,{}
+23ae6aeb6071d01eddb57c76840250a4,Transport,Havalimanı – Bairro Alto Hotel transfer,{}
+d43a7551a4a2e01ab2aa7a67dce1dbd8,Trip,Sicilya & Malta Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+028b49148ee60f4247017a5e2cd0831c,City,Etna,{}
+2201908938eef47fba5ed49516df17fa,Alias,Etna (disambigua),{}
+164ebb1cc9ff392b8bbe23641819b8ad,Alias,Etna (homonymie),{}
+e042dbf03e3f1fceac8e3ac58d541813,City,Modica,{}
+04645a75e63dfca3c0c4a2506bc6f9c4,Alias,Modica,{}
+bd1b830ad9ac5105eb846b873a8bcb83,City,Valletta,{}
+a5e29c4a29898a67a72a51c13caf3b3e,Alias,La Valette,{}
+f703d125f62ad5fb107bae684436be3b,Alias,La Valletta,{}
+3b7a0a9f66011099f54336af2eaa2072,Alias,Valletta,{}
+9ff66b8e25dd0182035c0849a54244a3,City,Senglea,{}
+abe2158fb2c2b9c9f34221d90608d97a,Alias,L-Isla,{}
+c6e16e6544ab8737e55fb6aa257437b5,Alias,Senglea,{}
+7120f58b17ce7990b1cacedfcfc18a49,City,Vittoriosa,{}
+342b89ddbef7def3e1dcf7f3ddf99d55,City,Cospicua,{}
+38d448b4fa1e01114f3c3b7af887ab93,Alias,Bormla,{}
+6084413bbcead65cf609a24bbc941ebe,Alias,Cospicua,{}
+cadf2441e73cb6cf07e554caa9a9c9b8,City,Mdina,{}
+c57a5b94e739175acce1a3c7fdb455bf,Alias,L-Imdina,{}
+5e3eff56e184e7d200f4238d2ccd683f,Alias,Mdina,{}
+ffccc397ca1c66e797c4b7e8e7f9f1c6,Country,Malta,{}
+7916a7448f27c8c9cdf5574fea780357,Alias,Malta,{}
+b42a43b975f823f3ff3ac7aa72bcf811,Alias,Malte,{}
+091a2b488909e7738210c38b6bb4e081,Hotel,Grand Hotel Timeo - Deluxe Sea View Junior Suite with balcony or terrace,{}
+be53d532ffc2c627a1d42bf801fcae9b,Activity,İstanbul – Katanya uçuşu TK 1395,{}
+4545216201ec68d79b3b1913065358ef,Activity,Taormina şehir turu,{}
+6c60278f1bdb5f4f03bfdf26a16cb776,Activity,Savoca köyü gezisi,{}
+153b2a91420b205a44c45df67c810c1a,Activity,Etna Yanardağı gezisi,{}
+4bac019f0d2fe22ddca8cfd44cbf9c57,Activity,Siracusa ve Noto ziyaretleri,{}
+c3ca2f164a73165582122999ae0c6355,Activity,Modica ve Ragusa turları,{}
+dfa2587bade12b69c32094c5d71c54a4,Activity,Valletta şehir turu,{}
+6d4d55fad90df51c3939a47bacdce47b,Activity,"Senglea, Vittoriosa ve Cospicua üçlü gezisi",{}
+64288a0d8fdcbf9d47d935dd7ed75346,Activity,Mdina şehir turu,{}
+7d5851b5ff032c06456457aaf4c01eea,Restaurant,Osteria Rosso Divino (Taormina),{}
+7c7758a407611b7e77a9ee285f201656,Restaurant,Regina Lucia Ristorante (Siracusa),{}
+0003fd8b9a56a7ba7d5a3cf0c84d5e1d,Transport,İstanbul – Katanya uçuşu TK 1395,{}
+7f2b9c808f6b5d067a5d2183641a282f,Transport,Katanya – Taormina transferi,{}
+bf691472cc29db0904e9b1b8ef3824bf,Transport,Ada içi özel araç transferleri,{}
+fc0943a84942a53338eba76bc9655142,Trip,Vietnam & Kamboçya Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+5c8570bf6e04d3a5c88ec46c938b509b,City,Hanoi,{}
+856358494e12061d33132bf81c2950da,Alias,Hanoi,{}
+84afb10902e1d2a09ad33efe48299606,Alias,Hanoï,{}
+6035493e12f8f7a20de808d44ffee2ad,City,Ha Long,{}
+e2e0942c7a24629911b02ee6e9571208,City,Ho Chi Minh (Saygon),{}
+aa636eb4dd774f569ff677e8251c61bd,City,Mekong Deltası,{}
+8e30e949e689abe90cf9871b2b5a19d2,Alias,Delta del Mekong (regione),{}
+a66ae7ed3b0cf8061a83022256e3ecf0,Alias,Delta du Mékong (région),{}
+2810e6045c6b1ab8186bda914c5cc810,Alias,Mekong Delta,{}
+517c67b59034514c10b8f2b2c2243cc1,City,Siem Reap,{}
+0c44cb39fd72534b0dcf064f68bd15c7,Alias,Siem Reap,{}
+be946b90a2e1cd95c9ddd0160bea4093,Alias,Siem Reap (şehir),{}
+b17645daa3270bd4d031cb4cce33752c,City,Phnom Penh,{}
+814323f41b8609f19b598615eeb0bfcb,Alias,Phnom Penh,{}
+104e079f0b5ab805b1cae1a96a510484,Alias,Punom Pen,{}
+fbee8e623b2a32312e0ed39460edff05,Country,Vietnam,{}
+d723786da4ffed6c28ca2e5e37980bd6,Alias,Vietnam,{}
+16aedad528e336fe0da1529f00caed63,Country,Kamboçya,{}
+51f1f5cf241363c577780fe43fdd7b5b,Alias,Cambodge,{}
+34fd1f5e7bb57f29a98426919c6b09a4,Alias,Cambodia,{}
+fcf8dd70922c593e7ae21e3da9b98768,Alias,Cambogia,{}
+4a73ae645cc7f897efcbef34b77d30cd,Hotel,Sofitel Legend Metropole (Hanoi),{}
+bdb40318c4a5fa561eb4dcfea25c0c1f,Hotel,Violet Cruise (Ha Long Körfezi),{}
+5d125d4bc4b4e11bebd341e8a7e69fb2,Hotel,"Otel (Ho Chi Minh, ismi belirtilmemiş)",{}
+25379ac5e4581889b2acfd1f6db948ef,Hotel,"Otel (Siem Reap, ismi belirtilmemiş)",{}
+b3e1bdc7c7cfa6755812b265ab311ce2,Activity,"Hanoi şehir turu: Ho Chi Minh Mozolesi, Başkanlık Sarayı, Tek Sütunlu Pagoda, Edebiyat Tapınağı",{}
+a0eb529b1e051d67fd7c1d995941177c,Activity,Hanoi’de pedallı taksi (rikşov) gezisi,{}
+8fc87c31e7aaa6521f1641d2e5f707e6,Activity,Ha Long Körfezi’nde deniz uçağı ile ulaşım ve Violet Cruise konaklaması,{}
+d281deb43be54883e60157fd357f61f6,Activity,"Ha Long Körfezi’nde mağara keşfi, yüzme ve balık avı",{}
+973f5c05bc5bcd7c7c45c61370acfe52,Activity,"Ho Chi Minh şehir turu: China Town, Thien Hau Tapınağı, Notre Dame Katedrali, Posta Merkezi, Belediye Tiyatrosu",{}
+d0009bd0866ae554581ab35361c64f82,Activity,"Mekong Deltası gezisi: bot turları, noodle yapımı, meyve bahçeleri, yerel aile ziyareti",{}
+5e33ba7cea49205602fce28f755aa3ab,Activity,"Siem Reap (Angkor) gezisi: Angkor Thom, Bayon Tapınağı, Baphuon, Kraliyet Sarayı, Fil Terası",{}
+e62456a70d7743ae612e69758c1ea561,Activity,"Phnom Penh şehir turu: Artisan D’Angkor el işi okulu, Phsar Chas çarşısı",{}
+04e1c4ebc31404e10f9ab88b88794ebb,Restaurant,"Yerel restoranlarda öğle yemekleri (Hanoi, Ho Chi Minh turları sırasında)",{}
+62788e29676bf8a3ec54bc849db29583,Restaurant,Ha Long Violet Cruise – deniz ürünleri ve geleneksel Vietnam mutfağı,{}
+c22f3cfcbef94c7aaa45d94d636c92b9,Restaurant,Mekong Deltası – nehir kenarında restoran,{}
+17503262b1d8e03742a67eae1f4420af,Restaurant,Yerel aile evi – çay ve taze meyve ikramı,{}
+76b245762dcc352dba7d1040a651f537,Transport,"İstanbul – Hanoi uçuşu (TK 166, Türk Hava Yolları)",{}
+577be4081e8b529573a80bacbeaf3599,Transport,Hanoi – Ha Long deniz uçağı,{}
+e5b7ae3f93726d00c28fa8583a5789a2,Transport,Violet Cruise – Ha Long Körfezi tekne yolculuğu,{}
+5c6445034991d8d8c18212dbe5f5cf84,Transport,"Hanoi – Ho Chi Minh uçuşu (VN253, Vietnam Havayolları)",{}
+bb70a85e8d99b96e9f154fdbdf9147fb,Transport,Ho Chi Minh – Siem Reap uçuşu (Cambodia Angkor Air K6809),{}
+e90633616eaf635626f4390ff6a0c7bf,Transport,"Siem Reap – Bangkok uçuşu (PG914, Bangkok Airways)",{}
+5bd5d8c93fc308ec7427cd92e4876043,Transport,"Bangkok – İstanbul uçuşu (TK 65, Türk Hava Yolları)",{}
+3c0b2f48e0ac26c643d464fe41e41daf,Transport,Havalimanı ve şehir içi transferler,{}
+ea830b61db9120bb915991621d43badb,Transport,Mekong Deltası’nda bot ve rikşov gezileri,{}
+3f38e72734c421269f1a9d50341ec30e,Trip,Kenya Safari Gezisi - Şule Zorlu,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+de898c255ec256d78e8a0f5a650a3c03,Hotel,Giraffe Manor,{}
+b45e994ccc2a96bf04b4b995896b0d39,Hotel,Sala’s Camp,{}
+c08dcdee2583af242233510a8b366d1d,Hotel,The Retreat (günübirlik kullanım),{}
+2855919677c26c29e844e4b5b1f6881a,Activity,Giraffe Manor’da zürafalarla kahvaltı ve ikindi çayı,{}
+20223b8a7220b481418a400c3562a189,Activity,Masai Mara’da safari ve game drive aktiviteleri,{}
+c0c2c72354e5a095714b5261af0848be,Activity,Sala’s Camp konaklamasında vahşi yaşam deneyimleri,{}
+50bb685a1116158601b6eda047984dd2,Activity,Sanctuary Olonana’da doğa aktiviteleri ve safari,{}
+43b4c16238e1f9ea48388be694cd7af9,Restaurant,"The Retreat (kahvaltı, öğle yemeği)",{}
+87d65cf5994a5c3f8d822758784c6298,Restaurant,Giraffe Manor (kahvaltı & ikindi çayı),{}
+4ebe9fc02e2873e97f43652ee0fe28f3,Transport,"İstanbul – Doha uçuşu (QR 246, Qatar Airways)",{}
+5647e72674a9bede721d45de87dcc495,Transport,"Doha – Nairobi uçuşu (QR 1335, Qatar Airways)",{}
+eb320d12c764141d0d56d5023642cb91,Transport,Nairobi Havalimanı – Giraffe Manor transferi,{}
+eeda19024ea5daa724d2730f6d53c11f,Transport,Nairobi – Masai Mara lodge transferleri,{}
+b910caec130cb8946d99086e16a321e0,Trip,"İtalya Gezisi - Bologna, Floransa, Toskana & Forte dei Marmi","{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+c8d03401c063ec1e8f9ad42c1bdd3093,City,Toskana,{}
+d9598c7cdab7fc986e149fdb36ba4cdd,Alias,Toscana,{}
+a57dfc840fd14edd3750277d4b9e5758,Alias,Toscane,{}
+e8506630336aa642629f2a48fca83489,Alias,Tuscany,{}
+e9bbf5326830812c3f66222d6298eba1,City,Forte dei Marmi,{}
+cdc5505fc3ea4ca81db5f2d865f65f49,Alias,Forte dei Marmi,{}
+7c72092fb05cbd9800348f45aff8345d,Activity,Ferrari Müzesi ziyareti ve test sürüşü,{}
+ecf075882816292b966a2e5bf181896f,Activity,Balsamik sirke tadımı ve üretici ziyareti,{}
+2b8401657c2346089a76cbc298d624f4,Activity,Parmesan peyniri tadımı,{}
+0478be517c26f4661380244506f0abfc,Activity,Lamborghini Müzesi gezisi,{}
+8287e80d162a2dc34a039e32b5894be3,Activity,Floransa şehir turu (Piazza Della Signoria ve diğer yapılar),{}
+d57e85da4dffecbe32a4883dcea2cb78,Activity,Toskana’da şarap bağları ve bölgesel geziler,{}
+dabbce87e94b3c50e985dd89377e6dfc,Activity,Forte dei Marmi sahil tatili,{}
+deb0adc5ec3286b553effde138c1b38c,Transport,"İstanbul – Bologna uçuşu (TK1321, Türk Hava Yolları)",{}
+0cea9c8678e7a0924832041cf6626759,Transport,Bologna – şehir içi transferler,{}
+dcccd67ac3d3c0dcdfb8f1c01315f37b,Transport,Toskana ve Floransa içi kara transferleri,{}
+3065c61ff19d1ab4aabd99eec165795c,Trip,"Prag, Karlovy Vary & Cesky Krumlov Gezisi - Beril Miskavi","{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+2102bd72eed3aa7f931166178769f7c2,City,Prag,{}
+61026908ca6bb7c320d36f715325279f,Alias,Praga,{}
+67c83258a6ae9edde7bed771c6017e6d,Alias,Prague,{}
+42145234134a86c9ce48a21959fbeb41,City,Karlovy Vary,{}
+f563bfb9a836c8791f7d6e01041487ca,Alias,Karlovy Vary,{}
+ae047f74222e7a89b95468e67b06704d,City,Cesky Krumlov,{}
+195ce0419b3c106b9fae6556c1461c0f,Country,Çekya,{}
+749fa9829afd037ab2770c8fdc035547,Alias,Czech Republic,{}
+ca688be593edc0e084e6e16c950b5257,Alias,Repubblica Ceca,{}
+d2ba75cc557111d72f68988791bd9a43,Alias,Tchéquie,{}
+8baaf2ae72dcf2c9a30158d3c69d8ab3,Activity,"Prag şehir turu: Prag Kalesi, St. Vitus Bazilikası, Altın Yol",{}
+717775fc3ff04c1882d22862728a84eb,Activity,Karlovy Vary gezisi,{}
+bc67ed22a0a3f5bfd8264c928e2a91c9,Activity,Cesky Krumlov şehir turu,{}
+8060f80b44c303f6006bd6b50b876247,Restaurant,"Kampa Park Restaurant (Na Kampě 8b, Prag)",{}
+4d42fa4dd6a6bfa55e309e66a5902946,Transport,"İstanbul – Prag uçuşu (TK1769, Türk Hava Yolları)",{}
+0a5653bcb9899af80768d3091db519a3,Transport,Prag – şehir içi transferler,{}
+01f73a6b0af26a74ef0719db01bd6ed1,Transport,Karlovy Vary ve Cesky Krumlov kara transferleri,{}
+7a0a3a52063b4077f17c455d193c476f,Trip,Endülüs Gezisi - Berrin Zorlu,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+72286bc0053239a02fdbbe91cd757189,City,Malaga,{}
+8cbe996c9b43093c177e0a59cdb4ac10,City,Cordoba,{}
+89edb1bf048f9da8e9f1f8f3ac61faff,Activity,"Granada şehir merkezi turu (Realejo Mahallesi, Capilla Real, Katedral, Madraza)",{}
+4b08532142b5cdd904d0d3ed404db25d,Activity,Elhamra Sarayı gezisi,{}
+d36e758332d784c5eec75add31f48691,Activity,Cordoba turu,{}
+5a37317f06010bbf0a9b73716ecfd6a2,Activity,Ronda gezisi,{}
+ac7715de76d5f2ad0faab20f631bc90d,Activity,Sevilla şehir turu,{}
+a98f3ddcb801b4565239c94e6d25669a,Transport,"İstanbul – Malaga uçuşu (TK1303, Türk Hava Yolları)",{}
+c196eae088a997ea07e4e72811a1ceb5,Transport,Malaga – Granada transferi,{}
+d766fda7dbc22158e2e3404e14f40ddf,Transport,Endülüs içi kara transferleri,{}
+29e8e07d88b5a766651bc5aa1dfbaa35,Trip,Ürdün Gezisi - Berrin Zorlu,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+cefba7bbe5635d5746bed8d2da50366e,City,Amman,{}
+c57fe871328b1eac5f1f7a250da96c3c,Alias,Amman,{}
+d28f0a5890ac2119cc14c062937532a9,City,Mount Nebo,{}
+6691452bbfa8971a3c55c008ddd2b96b,Alias,Mont Nébo,{}
+db13fd7e3496014a50a5406b9a58ab44,Alias,Monte Nebo,{}
+4f62e49bd1fb62c2b87f021cf612b2e0,Alias,Nibu Dağı,{}
+7e621ce4cfbbfea8fedf37192ba73363,City,Madaba,{}
+53cafcc40856defd93f10b71a3822ff4,Alias,Madaba,{}
+afb0d9723f1395b07a63d3a8968da369,Alias,Medeba,{}
+25a6dfdda1454e1d541b93961e77eec8,City,Petra,{}
+84cead4b4dd0d6d0dd1151758b160724,Alias,Petra,{}
+b63bb829d97452315852b8d388e58198,Alias,Petra (Giordania),{}
+d6fa4a6191e2451d0d8e75c10e424e8a,Alias,Pétra,{}
+36d9cf191066731a6f09f7160a99a7a4,City,Wadi Rum,{}
+743ed2f29a154c0a3a297fa5ec57f10f,Alias,Rum Vadisi Koruma Alanı,{}
+498ff4352f3681fe440c89e1015f8b70,Alias,Uadi Rum,{}
+52b436f51809b03f9d4a529bc392493e,Alias,Wadi Rum,{}
+1210f1681afdc43d3ca8190023bb09bb,City,Dead Sea,{}
+d1bde590cc368e11a7cf9aaa9ae24902,Alias,Lut Gölü,{}
+73c3028127385bf8c66c1ea4874ac517,Alias,Mar Morto,{}
+b0a8a730575e449723edbdf99b9792c0,Alias,Mer Morte,{}
+3d509dc964cf2e1e0f310701d2eb9473,Country,Ürdün,{}
+4dc117464213dde29ed7108b56d8602d,Alias,Giordania,{}
+90cb26116ec22f8e8a1aa3db0d78df88,Alias,Jordan,{}
+f12069a05c528e7f900dead9575984a7,Alias,Jordanie,{}
+bb40cb6b3aa9c1fa13fba25d77cf9129,Activity,Amman şehir turu,{}
+e8a2fe3abe4c3de7181812810f236d01,Activity,Mount Nebo ve Madaba ziyareti,{}
+51d24c23f186e6bb5a261f1f328b30f7,Activity,Petra Antik Kenti gezisi,{}
+c840568777d0292e6efac6db8aba567f,Activity,Wadi Rum çöl safarisi,{}
+9b561e0a395e58bf5be4e71907599070,Activity,Dead Sea’de konaklama ve dinlenme,{}
+13f50392544ea50f8f55f563de1dd0c5,Transport,"İstanbul – Amman uçuşu (TK816, Türk Hava Yolları)",{}
+d7c4870e460eff42896c8933fcba522d,Transport,Ürdün içi kara transferleri,{}
+0699bfeddf71d3c59b480b7046c368f2,Trip,BAE Gezisi - Fuat Pamukçu,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+f6bfbf9b5f1c59e1a889622bf66fb638,City,Abu Dhabi,{}
+c437fdf08904d65014ad74d3256b5ca1,Alias,Abou Dabi (ville),{}
+fd865a7c9151c55237cce85075ede294,Alias,Abu Dabi,{}
+765f55392e7330a4358b02cd8ee2f5eb,Alias,Abu Dhabi,{}
+ec63b9f9b8a95edea5df39db20d03e46,City,Ras Al Khaimah,{}
+21c17e9ecf24fa4d702078e9f89291ab,Alias,Ras Al Khayma,{}
+94736528e4011d1a37ecf1ba10ada4be,Alias,Ras el Khaïmah (ville),{}
+85d6d9804641c1200b1f5c7e9f8d8674,Hotel,"The St. Regis Saadiyat Island Resort, Abu Dhabi",{}
+bb14460146c7c944b46b95cc16ddedc3,Hotel,The Ritz Carlton Ras Al Khaimah,{}
+4fad953ba5916316fafadcdcd5578542,Hotel,"Address Dubai Mall, Dubai",{}
+9e78313d777c350a815861b060fe9160,Activity,Sunset Electric Dragon Boat Experience - Jubail Mangrove Park,{}
+c27a989d52a481b379fc4c0c49eb6c65,Activity,Ferrari World Abu Dhabi – Driving Experience,{}
+abba141264f2ebc8d1b59ec2f4f4028c,Activity,"Louvre Museum, Abu Dhabi",{}
+2e1f2f8917efd038d5d3410b88f8c821,Activity,Çöl Safarisi,{}
+e4b68e9ff76a9d6a48c86282b65eea11,Activity,Çölde Akşam Yemeği,{}
+dafdd9dd611c62c725597ca2f3876632,Activity,Dubai Autodrome Circuit,{}
+4a360bb8e05fc70ce9247cce801796d8,Activity,New Year's Eve Celebration - The Restaurant at Address Dubai Mall,{}
+bb656ebe0dea4a9b7a7fb658411d11ba,Restaurant,Hakkasan Abu Dhabi,{}
+b8f32f3b5a761425a576a6562f746632,Restaurant,Ula Beach RAK,{}
+e6a8bf583858faf0056962f505ac1252,Restaurant,The Guild Dubai,{}
+1c679f0ef9c8015e593f3442e59d33f9,Restaurant,WHITE Beach Dubai,{}
+049a8de81b925838db6a45913ccefaaf,Restaurant,Estiatorio Milos Dubai,{}
+90558ac4107a445be7d58c182064b959,Restaurant,The MAINE Oyster Bar & Grill JBR,{}
+121b9cfe88ad12b3b6776589a939c063,Restaurant,La Cantine Beach,{}
+e1885f4d5063260cca9d6957a5b3323c,Restaurant,The Restaurant at Address Dubai Mall,{}
+6ecc8e4a6361a50414ec526331aa87b2,Transport,İstanbul – Abu Dhabi uçuşu,{}
+855b187e414a1c80f41726064c6dec0c,Transport,Şehir içi ve otel transferleri,{}
+15f9ce3211e0becf2a2efd48a6f348f3,Transport,Abu Dhabi – Ras Al Khaimah transferi,{}
+dfc35fd0ff359e6e169d3efff46a1ce2,Transport,Ras Al Khaimah – Dubai transferi,{}
+2973e4973cbd9b4b5b2a0320b3fc83b0,Trip,Peru Gezisi - Seda Soğancıoğlu,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+fc7619256b80c9252fba86a4fd1bf823,City,Lima,{}
+aa6ef5cd625d4f8aa5d37cb7d040b32c,Alias,Lima,{}
+b7a060c94d451efa30257f673cb3ea6c,Alias,Lima (Perù),{}
+4a924ecd77bdc631284b14370b371530,City,Cusco,{}
+7bbc294191967c32c267605c186c11bf,Alias,Cusco,{}
+428faf32d411ba0cbda97a93372aeee1,Alias,Cuzco,{}
+f77f09838c8e37139f444d1b5504789c,City,Sacred Valley,{}
+85385f97bde8d80389fbc7e3e9ee3002,Alias,Kutsal Vadi,{}
+8df74e5d0f77bf9380d81efef37fbc76,Alias,Valle sacra degli Incas,{}
+886933df95a9c17a8dc99af6f8f69ddc,Alias,Vallée sacrée des Incas,{}
+919c7fdac665a051408971f6d6c4af2e,City,Machu Picchu,{}
+8ae9d94aa43290d445d545377008e558,Alias,Machu Picchu,{}
+e7e6878e8db3d77e2b47fab7d15b0bef,Country,Peru,{}
+46c3e156c2326d2d2790133a30cd4861,Alias,Peru,{}
+61aa5030672266d162e56bb51335f449,Alias,Perù,{}
+8ab889aa4e4ed5f29cf614e63d0a1350,Alias,Pérou,{}
+b7b4f0a5c17f03a705a6a8880ed7ce45,Hotel,Belmond Miraflores Park (Lima),{}
+fbf4aaeaceaaacadd0f868ef04109973,Activity,Lima şehir turu (Plaza Mayor ve tarihi merkez),{}
+2f9fa4402e5bcbec457b570c6355cea0,Activity,Cusco turu,{}
+311cb7b31d77fcd76914a96df9e37c9b,Activity,Sacred Valley gezisi,{}
+f186ed9d7180d25fe458838f88453f40,Activity,Machu Picchu ziyareti,{}
+e5aa23c8e7c5ec5b292ee9b9cd0d52b7,Transport,"İstanbul – Lima uçuşu (TK800, Türk Hava Yolları, Panama aktarmalı CM337)",{}
+97cdeb41166ab44f7ef051a1c42d4e09,Transport,Lima Havalimanı – otel transferi,{}
+f6066e0c733aa1ec3610c6b146555276,Transport,Peru içi kara ve tren transferleri,{}
+572451cf0c148e134a7d03a329dbfc32,Trip,USA Gezisi - Selen Zorlu,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+7555e5958eb451b119b02b7feb4cf358,City,New York,{}
+9a1ab9bef4cd7fac52a15e49325a6cf4,Alias,New York (anlam ayrımı),{}
+e6393f94246eec2868549d1c71e02c2c,Alias,New York (disambigua),{}
+ee5bfa9d0de2a708aa1406088d415d16,Alias,New York (homonymie),{}
+f9f89b850bff154189dc221a59154c6e,Country,Amerika Birleşik Devletleri,{}
+6f6536b21b258bd9e94b6c31667f829f,Alias,Stati Uniti d'America,{}
+e38b848de90e1d36bc66a3a0cd2ac74b,Alias,United States,{}
+9aeb8086c7330fe0aafaeb8236bd1b9e,Alias,États-Unis,{}
+5c048565243914bcc5a45661bb31c91c,Activity,Central Park ziyareti,{}
+7a4a1b7e0caa042e80584a36fdd776a7,Activity,New York şehir turu (müze ve meydanlar),{}
+dc838ed5e052b1bd992c74c44435f884,Activity,Kültürel ve alışveriş aktiviteleri,{}
+9c488544c5f6e7832e0dc52b927b4bd5,Transport,"Londra – New York uçuşu (BA175, British Airways)",{}
+df3bfded5db17481b7b5fd24a2e7411e,Transport,New York havalimanı – otel transferi,{}
+8816ce38f9cfbe0dcf4c2a4bfff11c77,Trip,Hindistan Gezisi - Berrin Zorlu,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+75ed07e3ed5c63bb4ca5166b68b5f69b,Activity,Varanasi’de Ganj Nehri kıyısında Aarti töreni,{}
+92aeca1d1e13aa4a209167731e19c0d9,Activity,Jaipur şehir turu,{}
+cda694760c4aaa2ee7f722e8de246304,Activity,Udaipur göl gezileri ve saray ziyareti,{}
+5b86c4db12b50c4c8a9d8b8b1f2771d4,Activity,Delhi şehir turu,{}
+c57064e83fc3975115a4fb63611408a1,Transport,"İstanbul – Delhi uçuşu (TK716, Türk Hava Yolları)",{}
+4e30a76a467d8013ee1816c12185a21b,Transport,"Delhi – Varanasi uçuşu (AI406, Air India)",{}
+e8eceeea923f213454670f1f1f377e36,Transport,Hindistan içi transferler ve uçuşlar,{}
+d5047fc4cd8252e1ab8485ffe72ba7a3,Trip,Mısır Gezisi - Hakan Ateş,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+ee2f1b11e2f19ab888bffd19e6be0e33,Activity,"Giza Piramitleri gezisi (Keops, Kefren, Mikerinos)",{}
+3c97ca8dc41ce25d933bc2d06b370999,Activity,Sfenks ziyareti,{}
+59f1c55b59a0dfb304e610acaeea4d7c,Activity,Kahire şehir gezisi,{}
+e11f080b97cebeb21db2d1ff49d173e9,Transport,"İstanbul – Kahire uçuşu (TK694D, Türk Hava Yolları)",{}
+795c70bdb2919553bce3e7f2c1355a9f,Transport,Kahire Havalimanı – otel transferi,{}
+4765c349ea0df07a0fb299a6dab852c2,Transport,Şehir içi araç ile transferler,{}
+426227e4c34e672a1593588fecd0f288,Trip,Provence Gezisi - Olgun Zorlu,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+fd538f2b08804dab00956e22427ed933,City,Marsilya,{}
+aa34f11ec7e5b9e72374bb8aca6d0275,Alias,Marseille,{}
+2aa0b62daccb0b8d0a858ec0ea57e34a,Alias,Marsiglia,{}
+42327ccae232763d4e0f40ef3792848e,Activity,Gordes ve Roussillon köy gezileri,{}
+b7e9bf8888f667a4a6cd3c06754003b2,Activity,Sanat atölyeleri ve butik mağazalar,{}
+da48723d2f2ae6de5c5731074a21b9df,Activity,Provence manzaraları ve şato ziyareti,{}
+8aae7fb66a418a1f725de2069e434c2b,Transport,"İstanbul – Marsilya uçuşu (TK1367, Türk Hava Yolları)",{}
+c22c32ef483d7b6548a9981149aa852d,Transport,Marsilya Havalimanı – Provence transferi,{}
+14e3990726614813fa9888b4bdb40f38,Transport,Köyler arası özel araç transferleri,{}
+7f8c96ed508ab4010acbddc0b42adfa2,Trip,Toskana Gezisi - Selen Zorlu,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+c6f08a058797baaf8e20c3488e547aef,City,San Casciano Val di Pesa,{}
+6f30b17290db62c855ee9788d14da26a,Activity,San Casciano Val di Pesa kasabası ziyareti,{}
+4ccb5beede3db9d94fe9b44f0d1218e4,Activity,Floransa çevresinde geziler,{}
+ad1112fd50189fe9236006146e3604b0,Activity,Chianti bölgesinde üzüm bağları ve köyler,{}
+f0b6711702bc7110e650e5e85054faf1,Transport,Bologna Havalimanı – Toskana otel transferi,{}
+c89ff3ab6d9529a02de5a0bbc7b979d0,Transport,Bölge içi kara transferleri,{}
+ddc70f70a41a7cff65e1da584c6e2983,Trip,Güney Afrika Gezisi - Tanju Kaya,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+4fa7578354776940b63427895ad94321,City,Johannesburg,{}
+424e267b2b9f9b7f9c57489f0d1984c2,Alias,Johannesbourg,{}
+875afda9d70b5926392bf00bd810344a,Alias,Johannesburg,{}
+9755d816afdfd106ba8a58130203a0a5,City,Sabi Sand,{}
+be689277c74e4b41aee03f484e9fa6ce,City,Kruger,{}
+b6aaeaa95f882d7e1b945c48ddf0628f,Alias,Kruger (entreprise),{}
+569836f29fa1d34a095efa3894df3b34,Alias,Kruger Inc.,{}
+2344498d13c539bf554da999b7449e96,Hotel,Sabi Sabi Little Bush Camp,{}
+4f651705419780481b5242b89842634f,Hotel,The Table Bay,{}
+b43b9d5e27b9bd6cd9bddda26d599e5a,Activity,Sabi Sabi’de sabah ve akşam safari turları,{}
+0e9e2010fc3402ef8071038d1e8ce9f8,Activity,Cape Town V&A Waterfront gezisi,{}
+68f492ec245f727d904a65c343ef91f6,Activity,Cape Town şehir turu ve çevre gezileri,{}
+08759d56e1a600e0ec595eeab0484d56,Transport,"İstanbul – Johannesburg uçuşu (TK38, Türk Hava Yolları)",{}
+7ad1e433a9930a8567668532b63992b3,Transport,Johannesburg – Sabi Sabi özel uçuşu (Federal Havayolları),{}
+4b76821b9405895a0480881de42bc89a,Transport,"Kruger Mpumalanga – Cape Town uçuşu (SA8664, South African Airways)",{}
+5891a2cd7588ae244d2c43969950564a,Transport,Şehir içi ve lodge transferleri,{}
+734043191a62283284afa2e14cced045,Trip,Tayland & Vietnam Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+94db67522e559c7b32e399adb334e897,City,Danang,{}
+ad1afa6d62de1e46548d0c78cd152b95,City,Saigon,{}
+1f2ddf6322e20d0d058da7f96cf0716a,Hotel,"Mandarin Oriental, Bangkok",{}
+1460f12ca55450598a4527a8d5b93a94,Hotel,"Anantara Golden Triangle, Chiang Rai",{}
+5923a54dfce91b3585d4f5c8e41ac082,Activity,Bangkok kanal turu (Thonburi Klongs) ve Chao Phraya Nehri gezisi,{}
+e4c79b616ba39b85f201877f63ed9ee7,Activity,"Bangkok şehir turu: Wat Arun, Wat Pho, Çin Mahallesi",{}
+019c39ddb21bbe91288073b923092bb4,Activity,"Chiang Rai’de fil sürüşü, Altın Üçgen gezisi veya yemek kursu",{}
+2f79dd08aab959f2bd9efc429b78c43a,Activity,Tra Que Organic Village bisiklet turu,{}
+ef5ea4f51b53ac7fe53462ae73ab19f6,Activity,The Market Restaurant’ta Vietnam yemek kursu,{}
+d1bce14fe65dbe58324e605f58f99399,Restaurant,The Market Restaurant (Vietnam),{}
+8025d5cf7d145fd4fef0deb9836a4273,Transport,"İstanbul – Bangkok uçuşu (TK68, Türk Hava Yolları)",{}
+9a7f4a5e24a5a3a39d857f4d1e6d24ad,Transport,"Bangkok – Chiang Rai uçuşu (PG231, Bangkok Airways)",{}
+e768819b5c0242bf410fbf2e54532794,Transport,"Bangkok – Danang uçuşu (PG222, Bangkok Airways)",{}
+cd5fa6e7725ed1ce288bdd51c5f00252,Transport,Vietnam içi transferler,{}
+65898820e2987cfc1db127550a9dd5eb,Transport,Saigon aktarmalı Bangkok dönüş uçuşu,{}
+67420665d6f3a5b11fde6cbf74472e99,Transport,Şehir içi ve havalimanı transferleri,{}
+f0bff8298f319aaa74e1286eec3388c2,Trip,Tayland & Endonezya Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+48a41933e521f0624b1aa5915faef930,City,Phuket,{}
+fb684df751065966172048a0f98b1b07,Hotel,The Surin Phuket,{}
+d8d4fe11fe1670374d1db39de5d86555,Activity,Phuket’te Big Buddha ziyareti,{}
+1b16644e3c64eb49bb1e5f9fb6d4d50e,Activity,Phuket Tarihi Kent Gezisi,{}
+a13c4206c3b434e303749513acf63a74,Activity,Bangkok şehir turu,{}
+2c23bfad4b44c303e46f6b3f10c46a65,Activity,Bali’de tapınak ziyaretleri ve sahil aktiviteleri,{}
+ce663639f5c751a3e5cf0b277d66b995,Restaurant,"Beach Restaurant, The Surin (Phuket)",{}
+a272d82f6cf86e8a450d8bc14678bc25,Transport,"İstanbul – Phuket uçuşu (TK172, Türk Hava Yolları)",{}
+2f50f46b22b987a543c083bb189f51dd,Transport,Phuket – Bangkok uçuşu,{}
+9c26adf3da8d6eb9194acd0df5bc3752,Transport,Bangkok – Bali uçuşu,{}
+0a3c71e1e22985f0510d421a9d7f007e,Trip,Tayland Gezi Önerileri,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+bd6d1a30666d82b0948f2a2b34f145eb,Activity,Bangkok’ta Grand Palace & Wat Phra Kaew ziyareti,{}
+fd8afccebc6b1af7b00cad83c256a7e1,Activity,Wat Pho (Yatan Buda Tapınağı) gezisi,{}
+3e2a751620e7d503173609b688ebd415,Activity,Wat Arun (Şafak Tapınağı) ziyareti,{}
+c5aeab50ba77ccfda9acbce21a47a052,Activity,Thonburi Kanalları tekne turu,{}
+5b7e323258bca93698ec52a4de93e845,Activity,Phuket ada ve sahil aktiviteleri,{}
+c5fb994a8022421ec38d9bdd05af1377,Trip,Toskana Gezisi - Bayram Programı,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+4189f3f70e04ddcc489fcbb844109ce1,City,Montepulciano,{}
+37666d7bfe496be26f549fdb447283b5,Alias,Montepulciano,{}
+c3149b4c917acd2d46dc576bb83bdffe,Activity,"Bologna şehir turu (Piazza Maggiore, Basilica di San Petronio, Fontana di Nettuno, Palazzo Communale)",{}
+d5e61c5d833ab7117529fb1ec68745f8,Activity,The Mall Firenze outlet gezisi,{}
+e0a7035b6a31f61b9ae27cdda6686a5e,Activity,Siena şehir turu,{}
+001c8bf781415f8d2329ac47ec812c62,Activity,Montepulciano şarap bağları ve kasaba gezisi,{}
+d5023f4ff84c5f518cbded7c7f8dbb5f,Activity,San Gimignano kasabası gezisi,{}
+4f319d945c5ba5f6d574e9e7a1ed0bc2,Transport,Bologna Havalimanı – şehir içi transfer,{}
+e70e2f9c7aaa6e631cbd4deeee905925,Transport,Bölge içi kara transferleri ve araç kiralama,{}
+24599d42f7a340d2fce37121005baa91,City,Pienza,{}
+5a370b2df94de51df60a8b3aab90b182,Alias,Pienza,{}
+880d331b334bebc145ce717117c86302,City,Montalcino,{}
+64d479c6dd7168063817b7432907af8e,Alias,Montalcino,{}
+40144205d33800863abdb2ee3d09dfd8,Hotel,Borgo Santo Pietro,{}
+226658b9b0294f17298c62275f7f88cd,Activity,Montepulciano şarap bağları turu,{}
+9f2c8f44b149bf487914e0b64ace13db,Activity,Pienza kasabası ziyareti,{}
+d618f12984be794524e632c1bb3a4904,Activity,Montalcino’da şarap tadımı,{}
+17b618804c246ab24e5c237823223806,Activity,San Gimignano gezisi,{}
+785c36b2ce188453d4e716e4c31e52b6,Transport,Bologna Havalimanı – şehir merkezi transferi,{}
+fa179b6de7c7e80a0fb909903724f939,Transport,Toskana içi kara transferleri,{}
+a84b564e2acf0ce3ac021a51c0dea080,Trip,Toskana Bağ Bozumu Programı,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+96fc9689c0b604a642ee27d9f9065452,City,Toskana kırsalı,{}
+98c6ce96f0fda4b85ba75a6dfd297ad2,Hotel,COMO Castello del Nero,{}
+74248c0339859403a7e25bd134d4bbab,Hotel,Rosewood Castiglion del Bosco,{}
+373cdef77f5f771164eb2860a73f6909,Activity,Bağ bozumu deneyimi,{}
+3bffcd5c9cd420159aad8584753d4be5,Activity,Şarap tadımları,{}
+d7956f1e679b78526802928f3e2a0b12,Activity,Toskana kasabaları ve doğa gezileri,{}
+d14d77e9c51d57e170ac44ab7f467345,Transport,İstanbul – Bologna uçuşu (Türk Hava Yolları),{}
+6f38fe1d6f1e191accfb4660f87fd3fa,Transport,Bologna – İstanbul uçuşu (Türk Hava Yolları),{}
+2f3e87c968e12d830b6d1c114ffe9eba,City,Ho Chi Minh,{}
+7679df67471f864dd40b75d5191ecab9,Alias,Ho Chi Minh,{}
+6498dd9102d6a7e58ef9eda28f5b46e4,Alias,Hô Chi Minh,{}
+2e093f6c5d74064462bcd9068fb9ab62,Hotel,Hotel des Arts Saigon,{}
+48e544fc1af8a87e63ba3613d58a7aee,Hotel,Raffles Hotel Le Royal,{}
+851467ff2219819d38f7757c96b7b54a,Hotel,Belmond La Résidence d’Angkor,{}
+d4844da744832250d51d39a2be76cdfa,Activity,"Ho Chi Minh şehir turu: Reunification Palace, War Remnants Museum, Cho Lon, Thien Hau Tapınağı, Notre Dame Katedrali, Posta Merkezi, Belediye Tiyatrosu",{}
+89834f1e73f684c6fa7474db7be99107,Activity,Ben Thanh Pazarı ve Nguyen Hue caddelerinde alışveriş,{}
+920dff18a305ef6f270ebd5f1785d0d3,Activity,Vespa ile gece turu ve Banh Xeo tadımı,{}
+fa8a85ddba621247c070cef9a2f13bfc,Activity,"Mekong Deltası bot turu, tropik meyve bahçeleri, noodle yapımı",{}
+2d35d6f4a924faab1f8859ba4c7b7af3,Activity,"Phnom Penh şehir turu: Kraliyet Sarayı, Gümüş Pagoda, Ulusal Müze",{}
+ed9dec5e05dbdd2b25dac4e780a4e37b,Activity,"Siem Reap’te Angkor Wat, Angkor Thom, Bayon ve Ta Prohm gezileri",{}
+70f0a90752d82dcd2286f3533dc37259,Transport,"İstanbul – Ho Chi Minh uçuşu (TK168, Türk Hava Yolları)",{}
+3915dd3f133c8ee9d2c45a47b388a66b,Transport,Ho Chi Minh içi Vespa ve araç transferleri,{}
+1d4cff4f783d48127bc7302bb7573643,Transport,Mekong Deltası bot turu,{}
+c88aa9b52988173045b0bde8e92e028b,Transport,Ho Chi Minh – Phnom Penh kara/air transferi,{}
+b158785b6fb6ce8e352423b732da1fb0,Transport,Phnom Penh – Siem Reap uçuşu,{}
+0725710cc0af30f23cea4b8cd8a88d5d,Trip,Vietnam Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+0130d8186e5f23593e756d543921922c,City,Nha Trang,{}
+cfc44c67cc3db2cf1e7a25bea93c6dbb,Alias,Nha Trang,{}
+01ae6ca427734efbd05beb577961a60d,Activity,Hanoi By Night turu,{}
+c09fd1b41684bd6641460593267236c2,Activity,"Hanoi şehir turu: Ho Chi Minh Mozolesi, kazık ev, Tek Sütunlu Pagoda, Edebiyat Tapınağı",{}
+4c46b42173d945e95910c9db137ff32b,Activity,Nha Trang sahil tatili ve dinlenme,{}
+2dea9c0c707607f026d6ce13da0ece25,Activity,Saigon şehir turu,{}
+b351eccf8ef02c1cbca5b72495160329,Transport,"İstanbul – Hanoi uçuşu (TK164, Türk Hava Yolları)",{}
+301c9284025a2069b807b5622ba2b43c,Transport,Hanoi – Nha Trang uçuşu,{}
+d119f04d3b6a1a4803c90a6dff2f4d14,Transport,Nha Trang – Saigon uçuşu,{}
+ac26511563489e2a8c33c4d96d4bb857,Trip,Vietnam & Bangkok Gezisi - Gökhan Mendi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+aea404c18a9b672d1f35e43a609eea7a,City,Ha Long (Lan Ha Bay),{}
+5aad156ac5b9bcadb8ee2bb811fc4060,Hotel,Bhaya Cruise (Lan Ha Bay / Ha Long),{}
+8961cea2835639952f073ebd4caeb9d0,Activity,"Hanoi şehir turu: Opera Binası, Edebiyat Tapınağı, Etnoloji Müzesi, Eski Mahalle",{}
+06d0808bf9c2244fb6b54a998dba5185,Activity,Westlake bölgesi turu (vintage jeep ile),{}
+52b1335ce84f1a95d8061db66848ad1c,Activity,Ha Long (Lan Ha Bay) Bhaya özel tekne yolculuğu,{}
+895e162e288cf90bc5971222fa3c64d6,Activity,Thien Canh Son Cave ziyareti,{}
+3433fa827db1377b01faa1cdcb7e2c67,Activity,Bangkok şehir turu ve alışveriş aktiviteleri,{}
+687e391cf50e40a3aa9386151a46011d,Restaurant,May de Cuisine Restaurant (Hanoi),{}
+9c78630985f65724667e7193fff6ee0d,Transport,Hanoi – Ha Long kara transferi,{}
+8385060a3139b0509e739766826b4b8c,Transport,Ha Long Bhaya Cruise tekne yolculuğu,{}
+7401906b99b328e57ddd4fa38ccb18d9,Transport,Hanoi – Saigon uçuşu,{}
+0cc615bfa9e151f8b9e1b98c15a33588,Transport,Saigon – Bangkok uçuşu,{}
+7f35db53437869a51c7c88c7341ba60c,Transport,Şehir içi transferler,{}
+42311e9352dd3ff27e2521918fee9c6a,Trip,Volvo EX90 Basın Seyahati - Los Angeles,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+9180ebd994d20d27376674232e540726,City,Los Angeles,{}
+cfdf994cb8b73d79df9aaa5be11e9940,Alias,Los Angeles,{}
+77c005a71b33ac2cd0390a8bf6d2b6c0,City,Newport Beach,{}
+9d930beb6c121830bd6efc536f7c4095,Alias,Newport Beach,{}
+0ec6520eccdce93c0b4a91d3ecffd83e,Alias,Newport Beach (Californie),{}
+d15e59227946380de9dfe13feb68f446,Alias,"Newport Beach, California",{}
+7cf518ef925a9afecf4683f8021a94d5,Hotel,The Resort at Pelican Hill,{}
+e00888bede7b86300166cc52493d0d40,Activity,Volvo EX90 sunumu ve sürüş deneyimi,{}
+41d08256bbc24d24943e0f8664543857,Activity,Callaway Winery ziyareti ve şarap tadımı,{}
+4968259f06624db31b7a353971f76810,Activity,Volvo etkinlikleri,{}
+a4f315d7436df7c9399bc3b8b7e317e8,Restaurant,Nobu Los Angeles,{}
+2d5843f4746a779ba4916c5d4626c841,Transport,İstanbul – Los Angeles uçuşu,{}
+af9ed3b977d527bd53287f10455ece8d,Transport,Los Angeles Havalimanı – otel transferi,{}
+ddff7d3a520177890dd4890c8125a343,Trip,Ürdün Gezisi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+86fe47479a3b71f136f940910187f95f,Transport,"İstanbul – Amman uçuşu (TK812, Türk Hava Yolları)",{}
+22d1bd65a6d651233702a58b91a34244,Trip,Marakeş 21-25 Haziran 2023,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+8ee4cd2fcc9f7cb39339960e4cf208b4,City,Marrakech,{}
+0a8bdc8ca380a7c63e1d8aada3132725,City,Fes,{}
+c75280d087c46628d1b024eb5d3f6f1a,Country,Fas,{}
+ee06a3ba1fbb722ed3f171086b49f0dd,Alias,FAS,{}
+9f37bb430a761c3808a67ad7b0dbeff1,Alias,Fas,{}
+7a7d6a9b58e82ccf1cccbae77865fbe4,Activity,Marakeş şehir gezisi,{}
+0df4d923192dc221e423823c70160254,Activity,Yves Saint Laurent Müzesi ziyareti,{}
+bd708a21ac661432403d48c070f865af,Activity,Jardin Majorelle Bahçeleri gezisi,{}
+4448929f3ec80e784c1d8c1eee7612a1,Activity,Ali ibn Yusuf Medresesi ziyareti,{}
+68de1fb2af19cffe06ba594659c314d2,Transport,İstanbul – Fas uçuşu,{}
+1814d0ffbf7d1b21389ec3b3837c6c74,Transport,Fas içi transferler,{}
+c71f128c9eebfe61391da023291b052e,Trip,Havana - Cancun 8-19 Temmuz 2022,"{""date_start"": ""2022-07-08"", ""date_end"": ""2022-07-19"", ""season"": ""Yaz"", ""price_usd"": 2400}"
+2016f3ed7a582108369ee6d95f515792,City,Havana,{}
+d1ac1e79057069ea530fe0c1a99f42e2,Alias,Havana,{}
+fcd4374afdca9f449a4aeb30a3aae55e,Alias,L'Avana,{}
+183b5e721544ef0ec5469a08a1ed1b77,Alias,La Havane,{}
+f2f2f3a2b1a8b5594ff502249e4b6e38,City,Vinales,{}
+127c381355dec2a3d6d146ad65522abe,City,Cancun,{}
+d447565c79431f783f971e0c5d4899ce,Country,Küba,{}
+8b3dc7a9666c1a057f875911be0ccab9,Alias,Cuba,{}
+8995ae7154e4a05fa18132036cbcb438,Hotel,Hotel Manzana Kempinski,{}
+4c511231ad01b608d0fe1eddef4a901c,Activity,Havana şehir turu,{}
+c3ca76e975f2fc5eef330f121d8234d3,Activity,"Havana Eski Kenti, Malecon Bulvarı, Devrim Meydanı, Colomb Mezarlığı ve Morro Kalesi gezisi",{}
+6ad3657f81cdc1870b3f39b185824fba,Activity,Floridita’da öğle yemeği ve daiquiri kokteyl tadımı,{}
+86a30fd75b5a70a88ee58242dd5c403b,Activity,Jose Fuster’in sanat mahallesi ziyareti,{}
+6af4cc834c57e8db0fc4d2e16cffc367,Activity,Hamel Sokağı ziyareti,{}
+8e39344e14cb43682ae1b0377f2cc4ff,Activity,Rancho San Vicente restoranda öğle yemeği,{}
+dc47acff4134f15381a6a41485d28a53,Activity,Devrim Müzesi ziyareti,{}
+f6f96a030effc2e7d5f7c8da8bc3a283,Activity,Hemingway’in La Finca evi ziyareti,{}
+192762afab34a20080af9e2ac1419324,Activity,Che Guevara’nın evi ziyareti,{}
+440afd7050f1b63380620c5454ab9bac,Activity,"Vinales şehir merkezi, tütün tarlaları ve çiftlik ziyareti",{}
+62c927199d8ab849642a3c080c2cf68f,Activity,1950’lerden kalma Amerikan arabaları ile Havana turu,{}
+0c22d39169f163a8498759d5a2297938,Activity,Prado Caddesi ziyareti,{}
+9e9b4bb71809b3fd6a5e7c37f823b747,Restaurant,Floridita,{}
+f1964b574f2340edfb62a31188d4a750,Restaurant,Rancho San Vicente,{}
+98a6be5f1799c11a8f2dc785e710a331,Transport,İstanbul – Havana uçuşu (TK183),{}
+53f6c46e390df0d6f1324ca5ff05e6ad,Transport,Küba içi transferler,{}
+dd22ac26b98507223db4fc309ccbb574,Trip,Japonya 12 - 21 Ekim 2024,"{""date_start"": ""2024-10-12"", ""date_end"": ""2024-10-21"", ""season"": ""fall"", ""price_usd"": 1000}"
+d4f2663ea257fb0e2ebc67f4e297f00a,City,Kobe,{}
+9313fa4f304e2695a2e4f439352b2118,Alias,Kobe,{}
+0595cbec176119b7344b21ffae765a0c,Alias,Kōbe,{}
+31f289d5ac3dd272b2fff43b18104701,City,Osaka,{}
+9cc2a295f4a7d53e7339fd695fa767d3,Alias,Osaka,{}
+ebdce94c6bcebed2a7b04744d36011bb,Hotel,Hotel Tokyo Deluxe Double,{}
+66873a8efcb7be766607bd03ab42a76c,Hotel,Garrya Nijo Castle Kyoto,{}
+6472bb7366add0f2df0fe1fd47d8e7b3,Activity,Tokyo şehir turu,{}
+14ae3cfe8b6e8bb0778c90b84c508b48,Activity,Mori Sanat Müzesi ve Sky Deck ziyareti,{}
+eae8e320f3f6476ae590c99a06d97281,Activity,Ashinoko Gölü tekne turu,{}
+8dd5d5f23e44a2527899d86c7e3a09b1,Activity,Hakone Açık Hava Müzesi ziyareti,{}
+c2d827ca42fa40aa96f8feeab8c1079e,Activity,Picasso Pavilion sergisi,{}
+0c32ed36f1dbcc5c21df81feac2b2bca,Activity,Arashiyama bölgesi ziyareti,{}
+813ffc6bd538fbd5b931afc6b4032dd1,Activity,Todai-ji Tapınağı ziyareti,{}
+db5f66d6a8a60ba6be47282062a73273,Activity,TeamLab Borderless ziyareti,{}
+c2bd33de9718a2559e59d60f21262351,Activity,Osaka Kalesi ziyareti,{}
+6fd8ab89259da201759f46659423a3f6,Activity,Sorakuen Bahçesi ve Kobe eski yerleşim yeri gezisi,{}
+4c76855e91dee37cd892dbff89b64b2e,Transport,İstanbul – Tokyo uçuşu (TK50),{}
+ed93f0bec8cefd85298c9769439a2fba,Transport,Japonya içi transferler,{}
+31b92db135cbe356909d3a7aef984171,Trip,Güney Afrika 14-21 Kasım 2018,"{""date_start"": ""2018-11-14"", ""date_end"": ""2018-11-21"", ""season"": ""Sonbahar"", ""price_usd"": 1600}"
+d8d9e5978405b17abad89fec8f93a8cb,City,Soweto,{}
+db891c90a38f62b8f7344b9a0e64d11e,Alias,Soweto,{}
+a5e95300af0da9e549d15715aec34512,Hotel,Sabi Sabi Game Reserve Lodge,{}
+b1d5f99f41b7613b12a503fba21b8ad5,Hotel,Hotel Luxury King Mountain Room,{}
+6477040610324d7f809d92837fa84d84,Activity,Sabah ve akşam safarileri (Sabi Sand Game Reserve),{}
+c48d7788539dfb00e1c737a79cfed075,Activity,Soweto gezisi ve Nelson Mandela’nın Evi ziyareti,{}
+9eab9dc4bda07229b8d0bc12c574de3d,Activity,Hector Pieterson Müzesi ziyareti,{}
+a2c535fc4b90e6fb9db9a190776564d3,Activity,Nelson Mandela Meydanı gezisi,{}
+0353003b7894f944107b426d35e4f3e3,Activity,Cape Town şehir turu,{}
+58ef0a09f3fb87652c703f91d8be25e9,Activity,Stellenbosch şarap bağları gezisi,{}
+776aed350647e6f6bd572a33825033b8,Transport,İstanbul – Johannesburg uçuşu (TK42),{}
+0a717fc0a01cefd81df16ff3789e5407,Transport,Güney Afrika içi transferler,{}
+16a22559d2e34321b9f8ead85327fed2,Trip,Hindistan 2024 Maide Cebi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+a5dc511d526dc7ecbc9396b0178ad3d7,City,Ranthambore,{}
+c1e79e7ec1de61771866217d363b7130,City,Jodhpur,{}
+6dd17eff75224c40f0bcf72b76140f5a,Alias,Jodhpur,{}
+08e8d7a6ce24fb9b35db6ac195afe29e,City,Mumbai,{}
+68eda2ea35b9f47a849af5111815a2fe,Alias,Bombay,{}
+65cee232b953193e04f1d57b0ca8fb2b,Alias,Mumbai,{}
+9ea9704f9587ce8e11eee8679d84274f,Activity,Humayun’un Türbesi ziyareti,{}
+3eca67de7246d3d01d6fc03e65c0774a,Activity,Jaipur City Palace gezisi,{}
+82ba1af5bc2e94b9d0ff8a589cf73956,Activity,Amber Kalesi ziyareti,{}
+0eee0c5098fe466b1d46740c8182931d,Activity,Ranthambore Milli Parkı’nda jeep safari,{}
+ee86508e6ce6a469d3f1428321ad80c7,Activity,Bishnoi köyü safari gezisi,{}
+e79d907cde6f78cf767f9dbaec435449,Activity,Udaipur City Palace ve göl çevresi gezisi,{}
+ea19c76b60fd4e5b340d5217637be758,Activity,Bundi Palace ve Chitra Shala gezisi,{}
+03eb76aff9541e2dc4db57a5164c8ccd,Activity,Ranakpur Jain Tapınakları ziyareti,{}
+80b224beb5dfb5758b0550365a5c84b3,Activity,Jodhpur Mehrangarh Kalesi gezisi,{}
+e73570fca5ab0e562500786d5ccc760c,Activity,Elephanta Adası ve Trimurti heykeli ziyareti,{}
+ed16d1dbf1aeb698f585fdb4c2b6ef3e,Activity,Mumbai şehir turu,{}
+0c6e4368a7c726eea4b61c7a4876aa58,Transport,Hindistan içi özel araç transferleri,{}
+b1b9b17d3d05ddfcbd5fe0acb1dcd4cb,Transport,Ranthambore jeep safarileri,{}
+f30e45c8b0145c6a57953d83f9ce5c26,Trip,Küba Gezisi 2022,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+729e3b0a2077513e7fc00082a2cd6f4e,City,Cienfuegos,{}
+6be84d31235aef7d27a21f7e1be83d0d,Alias,Cienfuegos,{}
+041561d09eed8e13923bc16596b80f5f,City,Trinidad,{}
+34c48e66ba4d4eb943064a0a9fc1e411,Alias,Trinidad,{}
+04c68fd03a983fafc7562dd2b1c46d6f,Alias,Trinidad (isola),{}
+beab759a7b3749f1b72cbd44cebfa2dc,Alias,Trinité (île),{}
+3b2a98cbb29b0e9ddcc870b1e7622d9c,City,Santa Clara,{}
+55b1c5741edca0f49f02ebbd1492e6b1,Alias,Santa Clara,{}
+d7559d82c95fa59287bfca17c055f643,Activity,"Havana şehir turu (Eski Kent, Malecon, Devrim Meydanı, Colomb Mezarlığı, Miramar)",{}
+6e6b265308689b587de8905e6902f18f,Activity,Küba sokaklarında klasik Amerikan arabalarıyla gezi,{}
+10ecc1de9333cf43b4dbeae4bbde8516,Activity,"Cienfuegos şehir turu (Valle Sarayı, Jose Marti Parkı, Prado Promenade)",{}
+9d4af17ee7f758d9076763ab205b2a42,Activity,Trinidad gezisi ve La Canchanchara Bar ziyareti,{}
+f554bf56150ee9a20d29ba874f55e600,Activity,Santa Clara gezisi ve Che Guevara Anıt Mezarı ziyareti,{}
+d6bf12b09b838af139d824bd0d5a7ddc,Activity,Vinales tütün tarlaları ve çiftlik ziyareti,{}
+f314f71d545fa15b2c449bfc3f8e7c42,Restaurant,La Canchanchara,{}
+a3e86888cf7b5fc3e969e0103ef8f6d6,Trip,Kolombiya - Peru 2024,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+1a5dc526e09a1cfc5c6dd65ed51a54c5,City,Bogotá,{}
+34184ed6f054dd0ae3f7499862f2c7e5,Alias,Bogota,{}
+5f3398f42f9c809a3a25618f53ca31df,Alias,Bogotà,{}
+b9b11d33f341acc6912ec6ad66d2da64,Alias,Bogotá,{}
+1dccb3b0d0ee5353973935c4e83f3f51,City,Cartagena,{}
+f1af17279467eaf1c74b869db8027396,Alias,Cartagena,{}
+006cfe5e6834ae554c7fca309d21f915,Alias,Carthagène,{}
+9d868aacb6d3e766e6e1a28543f36e0b,Country,Kolombiya,{}
+f86acf33489584cf0deb0a58e8686326,Alias,Colombia,{}
+14ab153e1eac6d0e156f298debd03cd3,Alias,Colombie,{}
+bf8dabda8779b869ff8fe53d4f26e542,Activity,Bogotá şehir turu,{}
+382c2959afd39f3bb3e4370f8229b640,Activity,Cartagena eski şehir gezisi,{}
+12007e45b7380239524059e0a27f00ad,Activity,Lima şehir turu,{}
+ec1b56277161a2123ad1533aaa2509dd,Activity,Cusco şehir turu,{}
+57379bf90ef9446f55b8d07beb21726f,Activity,Machu Picchu gezisi,{}
+a349f46d569c3347c188e95512517e98,Transport,Uluslararası uçuşlar,{}
+ae33ca69d6e2f7fbf108db783df9b5f2,Transport,Kolombiya ve Peru iç hat uçuşları,{}
+7480ca3e9a699cf7874a0e5c12bb2b39,Transport,Şehir içi özel transferler,{}
+41e6cd12d76cf73d282f2b937690860c,Trip,Frieze London 2023,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+ba88050f9a7aee483cc7fe63f54286ff,City,Londra,{}
+8b222709896c92bc398b356b0043ab45,Alias,Londra (disambigua),{}
+cd5b01e42f7e5744be968a3e5c4a8042,Country,İngiltere,{}
+659263c5be1247d0d07505e147e97b84,Alias,Angleterre,{}
+6851f0a7eb98952996b21777cf561180,Alias,England,{}
+5175c61cca53957e3e014c1d348bf5a7,Alias,Inghilterra,{}
+81ae55c575df02b8e00e31312c6c5b51,Hotel,The Biltmore Mayfair Hotel,{}
+454bf0fd2951eeffaad55d3e4f9bf829,Activity,Frieze Sculpture Park ziyareti,{}
+6390bee6461372a131c86de4401d39a1,Activity,Hayward Gallery ziyareti,{}
+48d4c1fc160149c5e0ccdf76c860a495,Activity,Frieze London fuarı gezisi,{}
+d2b2f369f4cd03ab0f6e53ae230643e4,Transport,İstanbul – Londra uçuşu (THY 1979),{}
+11abaeb768eda99f94226f43c4d128c6,Transport,Londra içi transferler,{}
+4258a09f0b93bcbd90df563a7240f6eb,Trip,Gamze Çuhadaroglu PROVENCE 2022,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+7c4cb6379d81942d60ba5829d16bbc5e,City,Aix-en-Provence,{}
+9ad2bc33291e2b2c9fe2c9a007fd5945,Alias,Aix-en-Provence,{}
+4927f94553e3d22550a903b1a28cf5f3,Activity,Roussillon ve Gordes gezisi,{}
+5224d15b3894b47b586821ae1129a34c,Activity,Arles şehir gezisi,{}
+3ba6c8cdca16e5c00ab74778bcbc2d87,Activity,Arles Luma Müzesi ziyareti,{}
+0841b631067856ce3aad456d5e953d19,Activity,Mirabeau Caddesi’nde gezinti,{}
+9e2a287af0e5aaf64eac3b452f26289f,Activity,Château La Coste şarap evi ve bahçeleri ziyareti,{}
+1f4828229795bfa2049f38b7794ceecb,Restaurant,Château La Coste,{}
+0b6c68fe7c7bba8e505f60951c1bce20,Transport,İstanbul – Marsilya uçuşu (TK1367),{}
+685bcd77d0c2ef03c648901da46fa18e,Transport,Provence içi transferler,{}
+70297134240bf3c37e4704d6bbf128e0,Trip,MAP Venedik Bienali 2022,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+d7305f03eafbd5ba6055f03ab92b532a,Hotel,Hotel Bauer Palazzo,{}
+77f695aeeff62394bc10f0040f3923c3,Activity,Ai Weiwei sergisi,{}
+295cb88c0841a27998d9851fddd5f919,Activity,Giardini ana sergi turu,{}
+e0e17bc0fe5b730cbff8c73139c56ea3,Activity,Venedik Bienali ülke pavyonları turu,{}
+af70a9e0ee83d53fa5301d435ab4f232,Activity,Arsenale ana sergi turu,{}
+cbe522488fbd81d2ade6da57af3f8884,Activity,"Personal Structures, Palazzo Bembo sergisi",{}
+e392a297ecd737caa915861615a49ded,Restaurant,La Caravella,{}
+2c73c3ba1cf0e68a7513cfcf5f443ebf,Transport,İstanbul – Venedik uçuşu (THY 1867),{}
+d671319dfbab8e03668bb4453f55d922,Transport,Venedik içi deniz taksi transferleri,{}
+3a0bbd33eff953997022cc1673b63057,Trip,MAP Barcelona Çağdaş Sanat Gezisi 2023,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+a6be62cada2bfc779c03f5db59e83a01,City,Cadaques,{}
+62e6de8f0bb666156530eb2c8a101e25,Activity,Barcelona şehir gezisi,{}
+1d1fc27ecd7c8bb9d7643c37150a9874,Activity,MACBA - Museu d’Art Contemporani de Barcelona ziyareti,{}
+b3da464037a38435cd5e9420a1bc7ba4,Activity,Picasso Müzesi ziyareti,{}
+969ac6fd4889e4280ec049bbf42a05cf,Activity,Antoni Tàpies Müzesi ziyareti,{}
+d3e895a7a35072c44f5abb416533e881,Activity,La Casa de Salvador Dalí - Port Lligat gezisi,{}
+28a0357492a7a1dfb840c403053a19c4,Activity,Caixa Forum gezisi,{}
+4675f04a2652771a2a1630c1df6ded52,Activity,Poble Espanyol gezisi,{}
+434ff01972801e8250c310277a6fd7d7,Activity,Joan Miró Vakfı ziyareti,{}
+445e575046d43366fd09caf6805d4e14,Activity,Fundació Suñol ziyareti,{}
+a5017d3b695008f4bdb876891a42c197,Activity,Dali Müzesi ziyareti,{}
+6454b9a46ad16ff7146ea64616047788,Activity,Xavi Bou Atölye ziyareti,{}
+67f60df1fcf17a440fd5a6a3810739ce,Activity,Jordi Bernadó Atölye ziyareti,{}
+6180f6427a1c5e8154619b8402665aee,Activity,James Turrell enstalasyonu ziyareti,{}
+a8a6dde59d07c09f3e621322eb5b9023,Restaurant,Merendero de la Mar,{}
+17f8059170006a09b1a2b83913bfe3bd,Transport,İstanbul – Barselona uçuşu,{}
+64944969be4563f8dc012770cbf63b81,Transport,Barselona içi transferler,{}
+01d9f5a17548b5207819243b25e38256,Trip,MAP Provence Program 31 Mart - 3 Nisan 2023,"{""date_start"": ""2023-03-31"", ""date_end"": ""2023-04-03"", ""season"": ""spring"", ""price_usd"": 1000}"
+b396c1295d39498f100625cb4d5ace50,City,Saint-Remy-de-Provence,{}
+6483e7fc371aa7eb11fa48e1c2cca2f5,Activity,Château La Coste sanat ve mimari gezisi,{}
+004cc4c1da309a0853242ad768ef54a0,Activity,Fondation Vincent van Gogh Arles ziyareti,{}
+2f28279a2f42ac1f3bde49bf329b2f80,Activity,Mucem Müzesi ziyareti,{}
+824a958f23d6b89d6617651914eeb37c,Activity,Atelier de Cezanne ziyareti,{}
+04255f57cbe679011b26878737607118,Activity,Palais des Papes ziyareti,{}
+2bd726bb43375121f2488ae82afa6ba0,Activity,Saint-Paul de Mausole ziyareti,{}
+6b98efea8a36cadac6365d813bda4f77,Activity,Carrières de Lumières ziyareti,{}
+af3efc086d2b3c27c65cea09c6878334,Activity,Les Deux Garçons’da kahve molası,{}
+024b14d7e853558c00ca7a7a74d3e521,Restaurant,La Luma Drum Cafe,{}
+2bcb71dbd8577872edc043f898092453,Restaurant,Les Deux Garçons,{}
+a747df512830daf82e476ea9a708dcff,Transport,İstanbul – Marsilya uçuşu (TK1365),{}
+f784eb1b0e3e9a2b9055c2c7354b7b85,Trip,Jules Verne - 2 Ladies - Japan - March 2024,"{""date_start"": null, ""date_end"": null, ""season"": ""spring"", ""price_usd"": 1000}"
+f9fabea33780d6b6cbeb6d2a310b9872,Activity,Arashiyama Bamboo Grove ziyareti,{}
+07704c46a9a8c0afab487b5a94b61217,Activity,Fushimi Inari Tapınağı ziyareti,{}
+66e4fcdbb4639b7f25d78dab6bdef5e8,Activity,Naoshima & Teshima sanat adaları gezisi,{}
+1fbe9ff8bef4040cb5baa4b4af6b399d,Trip,Lofoten Islands - Version 2.0,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+f8812714c90722542d5732136e50c36b,City,Henningsvær,{}
+2216773ac984d4f7e3a08f8aa8121711,Alias,Henningsvaer,{}
+d63bfca53c34711652a9f52a614ecbba,Alias,Henningsvær,{}
+6e485acdc3b589095d5eb9ae4f10f941,City,Svolvær,{}
+cc1a63dbaed8fe62a502d1e2cd010b7d,Alias,Svolvær,{}
+1e2c606fca7f413a996ea56b067673a2,City,Reine,{}
+0165896e9014f300b394386b8d93cb73,Alias,Reine,{}
+cf718f87a044721cd9c5487ab30386b8,Alias,Reine (Norvège),{}
+caf9d1f8b0db897344782cae6546043d,City,Å,{}
+cc30895d75a620bc3ba503f4aa7c71ae,Alias,Å,{}
+dc8b02e781db363ac1cb4faa3d861f94,Alias,Å (lettre),{}
+df5ea0d25f72258ae4f5d5deb1d2fc07,Activity,Midnight Sun Safari,{}
+1c84f9661b0a42cfe39c5e391a04e961,Activity,Sea Eagle RIB Boat Safari,{}
+616feabebf629c574c423cc863e25738,Activity,Henningsvær gezisi,{}
+414081978c9814c58225ab3e61a37214,Activity,Svolvær gezisi,{}
+c4e2ade2d3e3463603b31f8708494c45,Activity,Rehberli hiking ve çevre gezisi,{}
+6adce0baec6c7db6a7cfb3bbcab4e8e0,Activity,Å köyü gezisi,{}
+dbcd2f2784fa7a84ab0b925cee024275,Activity,Kayaking özel turu,{}
+1d7a4d1686a72301f4d95b602b2837bf,Restaurant,Restaurant Nyvågar,{}
+56b1b3c1b20223a81e5e615406698957,Transport,İstanbul – Oslo – Svolvær uçuşu,{}
+f99d1aa090a03955ac64a5fde5acbe7a,Transport,Norveç içi transferler,{}
+1df7fe223766bc18eed7fb4c52d52177,Trip,Güney Afrika 22-30 Ocak,"{""date_start"": ""2025-01-22"", ""date_end"": ""2025-01-30"", ""season"": ""Kış"", ""price_usd"": 1800}"
+f5a65a29fb8f85623e9f86826d370431,City,Marataba,{}
+28592a60f2488f4d45b763c8c19bb5d7,Activity,Öğleden sonra safari,{}
+35302696db29504bf1681d8001772d22,Activity,Tam gün safari,{}
+ef2ea3c4bf5ffcbc403b66e291f8b3b5,Activity,Kirstenbosch Ulusal Botanik Bahçesi gezisi,{}
+260e50221c8210546c7380e9663d6843,Activity,Stellenbosch şarap bağları turu,{}
+337a1b2840dceb601ddcd383eedf25e4,Activity,Cape Winelands bölgesi ziyareti,{}
+fd7e12e66be8e77a7c502de1ccd4e55d,Transport,İstanbul – Cape Town uçuşu (TK44),{}
+aa1aebc515fb5997a9c811b689ae72f8,Transport,Güney Afrika içi araç kiralama ve transferler,{}
+3729dacc0650fd4d6412bcb4d5ffae17,Trip,Mardin 13-15 Ekim 2023,"{""date_start"": ""2023-10-13"", ""date_end"": ""2023-10-15"", ""season"": ""fall"", ""price_usd"": 1000}"
+2a764f2c50bdfdba852b1f8333e7de6e,City,Mardin,{}
+6325191d11cfa34f52bce0889fbad2e1,Alias,Mardin,{}
+726ed52d693c2c6a4a93abeadbd8398e,City,Midyat,{}
+f66f1d4dc07633ea8d2ad31e641c98b3,Alias,Midyad,{}
+0d79e8a944ddd76253482d0051a7f40f,Alias,Midyat,{}
+6143b979ce0b6c98851eeb14b37bd1d1,Activity,Mardin şehir turu,{}
+f8baef60b4a7bffcc5ba41fe6d6f75ee,Activity,Sakıp Sabancı Müzesi ziyareti,{}
+7390a72c0dc6c29f4b72c5afade03154,Activity,Eski PTT Binası gezisi,{}
+462ace669cba48345aa5bc72863715aa,Activity,Eski Mardin Evleri ve Abbara tünelleri gezisi,{}
+70a04f3193ca1d5f090d2e2a1af7d0e9,Activity,Zinciriye Medresesi ziyareti,{}
+14d79e58664a3be508698cb1bdb3b03f,Activity,Kültür Sokağı ve Uçurtma Atölyesi gezisi,{}
+28ec0ca2f671d25014d78c8c589a5403,Activity,Ulu Camii ziyareti,{}
+75002f46e090f40de45a284953eb8342,Activity,Deyrulzafaran Manastırı ziyareti,{}
+b96127880405766968ac180f8b96be90,Activity,Kasımiye Medresesi ziyareti,{}
+71e480fd61fb457e995e8bdf30034b76,Activity,Midyat şehir turu,{}
+c93e6d48d9b97574a04f9f430e5a496c,Activity,Midyat Devlet Konukevi ve Gümüşçüler Çarşısı ziyareti,{}
+34814102a8103a8a6df25907de49fdd8,Activity,Mor Gabriel Manastırı ziyareti,{}
+6ebcf9963f7f5ece49e4db5b49b0edb9,Transport,İstanbul – Mardin uçuşu (TK2674),{}
+5e80687fd09cad2c62d80fa5d5569e45,Transport,Mardin içi transferler,{}
+49b83fe0f22fe38e57a88e61f262744b,Trip,Meksika 06-16 Aralık 2023,"{""date_start"": ""2023-12-06"", ""date_end"": ""2023-12-16"", ""season"": ""Kış"", ""price_usd"": 2200}"
+40480eff547a6b3ab058957d4b05260e,City,Tulum,{}
+813d70f7132b388486f1d48c4a2d35cc,Alias,Tulum,{}
+df405c97c2c90aa23cc18b8529f1c01f,Alias,Tulum (sito archeologico),{}
+43c4cb6fb84c991f87101f8ab940653f,Hotel,Hotel Rosas,{}
+7d7f9adc78c92bdd1a183c253d7dffe3,Activity,Mexico City şehir turu,{}
+f56a606237a06ba6ba258188c21b8d2a,Activity,Ulusal Saray ve Diego Rivera duvar resimleri ziyareti,{}
+edd37eb0d418ada71f563cb00229e54d,Activity,Zócalo ve Metropolitan Katedrali ziyareti,{}
+ee5f41542a66b082b6bd1de742e53afe,Activity,Xochimilco yüzen bahçeleri gezisi,{}
+11951ecab2c072b834b1ec5858600755,Activity,Coyoacan köyü ziyareti,{}
+d6d51ba55406bf2a7c66809c122f86db,Activity,Frida Kahlo Müzesi ziyareti,{}
+4b7943c05ef837429234f69e2bf7f3ad,Activity,Mérida şehir turu,{}
+c74ac0fdf0f052f614f802d24b70f570,Activity,San Ildefonso Katedrali ziyareti,{}
+4c771b8e2d0d51259f66b23aa475bbea,Activity,Casa Montejo ziyareti,{}
+a7c34d780553218614e977b005209d57,Activity,Yucatan Valilik Sarayı duvar resimleri ziyareti,{}
+86ae105432de836400950e54c2d1b332,Activity,Chichen-Itza arkeolojik alanı ziyareti,{}
+e2a7486c8c25d0839bf1f8210c24fe82,Transport,İstanbul – Mexico City uçuşu (TK184),{}
+a8b088abd8e1921eda9b82f44819f096,Transport,Meksika içi transferler,{}
+19447debc4deca0f6d8012682154d043,Trip,Mendi Family - Kenya 25-29 Aralık,"{""date_start"": ""2025-12-25"", ""date_end"": ""2025-12-29"", ""season"": ""Kış"", ""price_usd"": 1000}"
+9eddb9b164b92226030d5d66d3c61502,Hotel,Emara Ole Sereni Hotel,{}
+1f062caceec982327deb7d09412a45e6,Activity,Akşam safari,{}
+a6655db6f22442f0aaa1311802e5e7c2,Activity,Sabah ve akşam safarileri,{}
+1b919fdae7bf833c29b4dd0d77ede56c,Activity,Karen Blixen Müzesi ziyareti,{}
+a105ee2f4f74628bd60e591ab9223fde,Activity,Giraffe Centre ziyareti,{}
+dc951a259c659dbb74eedf636e82c363,Transport,İstanbul – Nairobi uçuşu (TK607),{}
+7aba58ff788dea230f528daa5a70aeb7,Transport,Air Kenya iç hat uçuşu,{}
+d5766a9567bdb1e75e9767a8f4bd6ecb,Transport,Kenya içi transferler,{}
+39746e4331ada7392209f480fbb0f732,Trip,Mevzun Vietnam Kamboçya 2016,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+5fd62c2ea2e93f10c8e47174574e1f35,City,Halong,{}
+300fef97c29778cabfbc7c75c2eaec5c,City,Hoi An,{}
+48f5e370e0fdbd217ec40a9066a47761,City,Ho Chi Minh City,{}
+91633684af7531055cb33cf9a1743c70,Alias,Ho Chi Minh (città),{}
+e902854c91b248e2396e6276f6c5fae6,Alias,Ho Chi Minh Kenti,{}
+4297673ff7dd10deb2ef2a8341be9664,Alias,Hô Chi Minh-Ville,{}
+c0726a74814d6b2617deb1eb9a0c9fb4,Hotel,Park Hyatt Saigon,{}
+cef9508251ba6e6cd465af7b76aefcce,Hotel,Intercontinental Danang,{}
+d51c0adeece157bb655810b8ddf64bfd,Hotel,Sofitel Legend Metropole Hanoi,{}
+f0ac6a004951ad2173950715ca9d7343,Hotel,Paradise Luxury Halong,{}
+cc229dd1d115e9f8440f83cdf502ecf7,Activity,Hanoi şehir turu,{}
+fb893fd3dd9d35a4411f13ca1a3ab1a3,Activity,Ngoc Son Pagoda ziyareti,{}
+eb2bfa9c6c3f459196b42c4a6bbde598,Activity,Temple of Literature ziyareti,{}
+06b763a91a508d4ddcdaef75e9e05e98,Activity,Water Puppet gösterisi,{}
+7875f1ae56b821b6ec4e6287cea66794,Activity,Halong Bay tekne turu,{}
+d710ed7d44e4128dbb0fb9072721f855,Activity,Hoi An yürüyüş turu,{}
+f84abb3cf25a781c476daed363893dd2,Activity,Ho Chi Minh City şehir turu,{}
+b135aa566ce0d6437abe593de3b796a7,Activity,Ben Thanh Market ziyareti,{}
+c017813d7c3ea97b5864c31f5ed52d0c,Activity,War Remnants Museum ziyareti,{}
+087794a735339cea6ceaba529fb0a6f3,Activity,Cu Chi Tünelleri gezisi,{}
+24d672c5dbdd9d0afa8e5df8108093e8,Activity,Siem Reap Angkor Wat ziyareti,{}
+e87527a47e5a081df076147bd0fa2239,Activity,Ta Prohm Tapınağı ziyareti,{}
+0e06efb607ac034368bb25d94b2c9e1a,Activity,Banteay Srei ve Banteay Samre tapınakları ziyareti,{}
+0c6fa88bbd2c9cf93b02fa110a19178e,Activity,Tonle Sap Gölü yüzen köy ziyareti,{}
+1009ea7e2b8a89de6ea64a9d658a6492,Transport,İstanbul – Bangkok – Vietnam uçuşları (THY 69),{}
+d3d4890e06ea9058954016279e67bd0c,Transport,Bangkok – İstanbul dönüş uçuşu (THY 69),{}
+891c4d822a12a5e60bb0430ce9227345,Trip,Mevzun Çifçi Hindistan 2024,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+a17456fb900c3eba48a466d6462f243f,Activity,Jaipur Amber Kalesi ziyareti,{}
+fc7aa9bd0b31d47ca116c77c5397ea1a,Activity,Jaipur City Palace ziyareti,{}
+1d29088728605faeb48f1124172fe81b,Activity,Udaipur göl gezisi,{}
+08fd1c4085e843def5bb7e8219a0d8d4,Activity,Udaipur City Palace ziyareti,{}
+f7e053a0c979ad863b3b478cc1505154,Activity,Jodhpur Mehrangarh Kalesi ziyareti,{}
+cc5e569c8d5d6ee82139db13f916e66d,Transport,İstanbul – Delhi uçuşu (TK716),{}
+676f6ffa9a914c4d00791fb3a15b3ee2,Transport,Hindistan içi uçuşlar ve transferler,{}
+7d9c15191838770730a4095c62501991,Trip,Mine Bahadır Japonya - Tayland Programı,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+873f40f1d5405d48f5978e4392341d01,City,Ise Shima,{}
+6d9e5f9c128a4467d86b984a28da33a8,Activity,Senso-ji Tapınağı ve Nakamise alışveriş caddesi ziyareti,{}
+cb199bc7594c96954f9741b876d4bcdb,Activity,Akihabara gezisi,{}
+8d646433b839a25795558c43c459b867,Activity,Kyoto şehir turu,{}
+08b4b36db8e6e02b1dbc5fa7bee57ea5,Activity,Nishiki Pazarı ziyareti,{}
+f132e753279483e0c7b8fe7d5953c96c,Activity,Machiya deneyimi,{}
+d3b830afab4c7800aba2c6e8619630d2,Activity,Ise Shima bölgesi gezisi,{}
+18ee9c8f420cbc7622ace9466da68b6f,Activity,Naiku ve Geku Shinto tapınakları ziyareti,{}
+21226c4d025677f48e1de66bf4a3c9c0,Activity,Chiang Rai fil kampı ziyareti,{}
+0310222b9f62f42bf2f63ee498590c9e,Activity,Golden Triangle bölgesi gezisi,{}
+ad433ae43a76847d3df6db0af217a7bf,Activity,Chiang Mai şehir turu,{}
+ec8961916c9be56cf9b377af56a87ca7,Activity,Phuket sahil tatili,{}
+3a8345a518d0b02337f9ec0e2b2094c2,Transport,İstanbul – Tokyo uçuşu,{}
+80721827f215c36cb18b5ba49fb00c24,Transport,Tayland içi transferler,{}
+c09e19c083dc1cef6a6835280b8e147a,Trip,Murat Bilgin 28 Eylül - 9 Ekim 2023 Güney Afrika,"{""date_start"": ""2024-09-28"", ""date_end"": ""2024-10-09"", ""season"": ""fall"", ""price_usd"": 1000}"
+80e05dccaf41eebdd08ec1a50d040c9f,City,Sabi Sabi,{}
+bdef8aa50cce59afa2304939f60bfce6,Hotel,Four Seasons Hotel The Westcliff,{}
+45c2fd7b7d864793eaf78dd5953814a4,Activity,Johannesburg şehir turu,{}
+36069ded8d37f8b5dc341a7183df30a6,Activity,Zeitz MOCAA ziyareti,{}
+8fffe53b423da59b016bb75e0a7843f1,Activity,Cape Point gezisi,{}
+3039624c214b1ac63841ac2ec3eca2ad,Activity,Boulders Beach penguen kolonisi ziyareti,{}
+f2207a1fd3a76be35f41f39851c57b43,Activity,Franschhoek ve Stellenbosch şarap bağları gezisi,{}
+3d3686ed442b986c5a7e6459ad47808e,Activity,Iziko Müzesi ziyareti,{}
+d3678342785c1c4b1d3e8cf569e2bf92,Restaurant,Delaire Graff,{}
+eef1c68871ea8d4859336cd409373cc8,Trip,Myanmar 2017 Mevzun Çiftçi,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1000}"
+51181994a6c170b177716db0fe175fb7,City,Yangon,{}
+01e494b60a9f2dd3e105296260687256,Alias,Rangoun,{}
+8461c07fa1de8cc4e6d329d58998f67a,Alias,Yangon,{}
+dce0d06789c2f40f467d53448da296e7,City,Mandalay,{}
+899313134d2a53717e5d651fbafdcecb,Alias,Mandalay,{}
+05403c1b8a95a9748b70d381d9f86b0e,City,Bagan,{}
+8a21e3e03e047e4b00b360eac67ac095,Alias,Bagan,{}
+04ab7eeb93643c3e65e4c8dfb992e907,City,Inle Lake,{}
+2404f73407442415cf65ca83264c3b5d,Alias,Lac Inle,{}
+60c4c3c9d8832c1ee5a30eb2cb4177f6,Alias,Lago Inle,{}
+946025fa5b50b82e10f62766aee721ed,Country,Myanmar,{}
+8325fd8f68fc8fad2e4e4031f7d14544,Alias,Birmania,{}
+39745cc92f5b70e80a07e48a60198950,Alias,Birmanie,{}
+2926803b6be93facab5f014a0018fc73,Alias,Myanmar,{}
+5a570928b1342f5146af2b03d299ca98,Hotel,Belmond Road to Mandalay Cruise,{}
+796b38615edf93e2adaf00cec5196eee,Activity,Shwedagon Pagoda ziyareti,{}
+4aa89efd80b5f41bf258fc8345482ad6,Activity,Yangon şehir turu,{}
+b37f7a5bae070b303272422d10965382,Activity,Mandalay gezisi,{}
+c3419cb7657df6a9ea59c04dea36af70,Activity,Bagan tapınakları gezisi,{}
+621da543748b4e62cbc6e33ff66b02af,Activity,Ananda ve Gubyaukgyi tapınakları ziyareti,{}
+5fd004eabc881db6e80e5ba71fd0902f,Activity,Phaung Daw Oo Pagoda ziyareti,{}
+2f50b4765c8f936e8740f2c2dfc9219f,Activity,Inle Gölü gezisi,{}
+adc94a1195b7d638d0437c9102fc589c,Activity,Lacquer ware atölyesi ziyareti,{}
+f15f79fd3969e34473165667dc51a03b,Activity,Damnoen Saduak yüzen pazar ziyareti (Bangkok),{}
+e299c106820c5aee34e8458fa4e98b90,Transport,İstanbul – Yangon uçuşu,{}
+dcf2eff233c644c29443f83a25d307df,Transport,Myanmar içi transferler,{}
+0317cb377c667b0aa8c24bac9e490ecc,Transport,Bangkok – İstanbul uçuşu (THY69),{}
+670ff151b06d80cdcd5cf4b9d13a36a1,Trip,SUMMER EUROPE 2025,"{""date_start"": ""2023-07-12"", ""date_end"": ""2023-08-01"", ""season"": ""summer"", ""price_usd"": 3564}"
+0e8acde830b993b039648c29838718a5,City,PARIS,{}
+f0ed30e7ac079208ab3c47739318d824,City,ROME,{}
+d265a99512a56e8e6ea0a0f2de8a92e2,Country,FRANCE,{}
+e2eb7ff79375bac81b1669cd2baac291,Country,ITALY,{}
+c54c00bc3f4f2b8fe40d9534abb6824b,Hotel,HOTEL LUMIERE,{}
+21805fc60a501a3c71ae582457952444,Hotel,ROMA SUITES,{}
+377b29b2113a76c16df4c477e8c84d6a,Activity,EIFFEL TOWER,{}
+f55d8bd9af6dde8741aa061cf24235a9,Activity,COLOSSEUM TOUR,{}
+ce314976f1c6a24e10c7fcff13865e51,Restaurant,LE BISTRO,{}
+5890ae6ed4aaace0d01aca2407b42d10,Restaurant,TRATTORIA ROMANA,{}
+2dc48553e3de0575f0479638548cb36e,Transport,PLANE,{}
+589ad8bd7aadbf1ab9fe8a1148185ac5,Transport,TRAIN,{}
+79d842005a530f67102312f396ee5278,Trip,SUMMER EUROPE 2024,"{""date_start"": ""2024-06-24"", ""date_end"": ""2024-07-13"", ""season"": ""summer"", ""price_usd"": 2147}"
+7b47ca8ac0d930734051d3d5f1c1d1a4,Trip,BALKANS 2025,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 2672}"
+5e65e640eac26178054ffb896f6b0a46,City,LEG1,{}
+d2336e11897203599ed60ec9a1cf0aec,City,LEG2,{}
+b4c9c383f59b2823e3a81cfa70b61434,Country,TURKEY,{}
+c4cb27c5ecf3ebf1a411dfe58c1a315f,Country,BULGARIA,{}
+443880126960c3a3d2be692dd32cf115,Country,NORTH MACEDONIA,{}
+2100599774cc3e8712ce620419871d81,Activity,AYASOFYA CAMII,{}
+a628eeaa1285177e675a5b58ca807446,Activity,OLD TOWN WALK,{}
+16a7f86c473767031e8d87752e3b36c3,Transport,BUS,{}
+e894e5de2deae1a54e39c0c71c59d50a,Trip,ROME ANCIENT 2024,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 4946}"
+7aa820de24466e73f5fa8f7d6d7dfb72,Hotel,FORUM INN,{}
+fbf84b9311332c6378f6f15a96d02231,Activity,COLOSSEUM,{}
+e60519b09db4db9bc77ff02ac3a59052,Activity,ROMAN FORUM,{}
+5089393538f23ec3fe4062c2aca3d519,Activity,PALATINE HILL,{}
+eb75547b68d4875c822342f82d864007,Restaurant,TRASTEVERE TRATTORIA,{}
+005c1c8ea263aecbe2f08a9c746356d9,Transport,METRO,{}
+270e05b9866de3c9bfd1cec09456011c,Trip,CAPPADOCIA DREAM 2023,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 4000}"
+66d290cf1575eda8cddf5140d6662611,City,GOREME,{}
+4882f0716a68efe3f7f7cc393166ab24,City,ISTANBUL,{}
+022a222fa6eafd1e2ce4dd9073f3d682,Hotel,GOREME CAVE HOTEL,{}
+a78870194b0432e8b81b8851c24b7de3,Hotel,SULTANAHMET INN,{}
+6cdc632ac7f4b1a7dbeb89d4d80f97b3,Activity,BALLOON RIDE,{}
+45037a6184fb9aa12886750a4ea1aab1,Activity,GOREME OPEN AIR MUSEUM,{}
+ed50142aaba286eea7e5a73bc5688f9d,Activity,TOPKAPI PALACE,{}
+a3ed6c34bd1cf86e71fd729ad280fd3b,Restaurant,MEZE HOUSE,{}
+7c13638180aa596c46023157bbd87890,Restaurant,KONYALI RESTAURANT,{}
+31961f13c3deb79adeaae0e8f1bf8f5f,Trip,BALKANS LOOP 2025,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 2140}"
+1fc8d51c1e9ab0f8162ad36d46d61417,Trip,LONDON HIGHLIGHTS 2024,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 990}"
+dd037cfea8828ae43029dfdb09d8a35a,City,LONDON,{}
+941a948d467d5446c3b84c85dc6456bd,Country,UNITED KINGDOM,{}
+8776f52a139cd070f31788525542a984,Hotel,SOUTHBANK HOTEL,{}
+5fbdd22f958a739edc5c0dc5e8cf6c04,Activity,BRITISH MUSEUM,{}
+90087c6eed34737e2b5a429a38bc601b,Activity,TOWER OF LONDON,{}
+1f96d6cca5c0748c918246d337bd7965,Activity,LONDON EYE,{}
+adcb153c7cc175c3bafcd42e6e0da556,Restaurant,DISHOOM,{}
+6bc4995978e2ab12cc0a1683b10d3bcf,Transport,UNDERGROUND,{}
+93d71c2fe9fef1c4c2ca99c281a3e36b,Trip,NEW YORK CLASSICS 2024,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1250}"
+4dedc17f6fb2554defc7f23c2949773d,City,NEW YORK,{}
+59e9c4968379f1422c7d46edf5a0e4c4,Country,UNITED STATES,{}
+293052fee1a2c8745918f7492deb2ae1,Hotel,MIDTOWN INN,{}
+6cf4ec09e3f662c38b0d0f68c2b58b7a,Activity,STATUE OF LIBERTY,{}
+41fe9852061b2643852345728994bd10,Activity,TIMES SQUARE,{}
+3f707c10d98a4c2decfb79fc22490359,Activity,CENTRAL PARK,{}
+99928e157ca403e61120ba74d4f74587,Restaurant,SHAKE SHACK,{}
+6a81d80be96e4e93e05a88f043676fb2,Transport,SUBWAY,{}
+7ef338bd8e76df5c2da7a94416382f54,Trip,TOKYO ESSENTIALS 2025,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1400}"
+9a5948a2c801b0725ee248bbf82d2d15,City,TOKYO,{}
+5ce7ee554e7bfe9ece4b3fb6c52730ac,Country,JAPAN,{}
+586767ca26594bbc320fd204ac8441de,Hotel,SHIBUYA HOTEL,{}
+853efd4105b53c7e2f537f28253b3fc8,Activity,SENSOJI TEMPLE,{}
+69dde49f4f26f8b5792e4e525ebc1444,Activity,SHIBUYA CROSSING,{}
+dfa0b1bec7f5c082106f164976042a1e,Activity,MEIJI SHRINE,{}
+81780ff740309967877fe5df4c7dfc7b,Restaurant,SUSHI BAR,{}
+0a7c7023ea60368dba848079eabc4ab1,Trip,KYOTO TEMPLES 2025,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1100}"
+08c7fb0620d221394f929a6727484b02,City,KYOTO,{}
+a85074688b14e0b54742a12dee9bc96e,Hotel,GION RYOKAN,{}
+29e920f983cdf074df40b99dc5607d87,Activity,FUSHIMI INARI SHRINE,{}
+ba155a812e0610f9c7fa3670372c8e68,Activity,KINKAKUJI TEMPLE,{}
+617ed72ce67dddb4b147c6effdba52c1,Activity,KIYOMIZU DERA,{}
+2be4f596c6af72fe9487b0b5619e4a92,Restaurant,UDON HOUSE,{}
+89dffdd3889c58a384a0b5162f0023bb,Transport,JR,{}
+a0d89c569d0b801593de1ce704242fc9,Trip,BARCELONA ARCHITECTURE 2024,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 870}"
+d998f1be7399ea564aa0e09aa6ce5ab5,City,BARCELONA,{}
+10eb12a2b250c1d2558280021a414083,Country,SPAIN,{}
+c882e21ba8a7ce61a9ae0cd469ee9d82,Hotel,EIXAMPLE HOTEL,{}
+35052b99783bf3d9c6b55cd02b6b02c8,Activity,SAGRADA FAMILIA,{}
+bd5851c92e7381c333bee67238a7a9f4,Activity,PARK GUELL,{}
+36692ed088b3990b5943997152534196,Activity,CASA BATLLO,{}
+c4094db3e6adfe20b444a3f9b40a6ae4,Restaurant,TAPAS BAR,{}
+8b7df549d3a3b83c1b6246b623d5bf3b,Trip,GAUDI WEEKEND 2025,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 720}"
+b48275c4075cac5c0fbe8d58be7b1126,Trip,ISTANBUL CLASSICS 2024,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 900}"
+d3bde06ee11801bec6dc7c40a0b5dc50,Activity,BLUE MOSQUE,{}
+fa0b1d6a745c82977a6cdcd434829daf,City,URGUP,{}
+7b76ba29847f1267397a0f43886ad59d,Activity,SUNRISE VIEWPOINT,{}
+5d8db41f0f16580be78d9648c935cc66,Transport,SHUTTLE,{}
+73ebfa4a788f4d5cf141553675026147,Trip,ROME ANTIQUITY 2024,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 820}"
+f2177b122de5b5120a97e8015ccad5f2,Trip,ISTANBUL & CAPPADOCIA 2023,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1200}"
+233d6a728d844e00275209edbb4f0991,Trip,ISTANBUL HERITAGE WEEKEND 2025,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 650}"
+85777b297323f472b15c7dfebf01ef12,Activity,GRAND BAZAAR,{}
+962843ab1837755c5a04a4ce072943a9,Transport,TRAM,{}
+b3ecd21843aabfdffd3092d417b85916,Trip,NEW YORK CITY 2024,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1500}"
+c455238ce3b52318b5ee67235e1d963f,Hotel,MIDTOWN HOTEL,{}
+dab3bad2cf15c3da76fc5c5649e3874a,Trip,LONDON ARCHITECTURE TOUR 2024,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 950}"
+3e37da87379d1c77bd71ba3d09392ee1,Hotel,RIVERBANK HOTEL,{}
+3385ef1aba9aa8ef2176bd73d5680589,Activity,BIG BEN,{}
+a148e8e1a932de4719ceebf0a52ca8d5,Restaurant,TRAFALGAR RESTAURANT,{}
+36301ff8df7049756f400e568cdd4d18,Trip,BALKAN CULTURE TOUR 2025,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 2000}"
+0d459fc166179ec0dc3055b0db147f7a,Activity,BALKAN CULTURAL SITES,{}
+bff646617adf8937541e6a76d3e77154,Activity,SOFIA OLD TOWN,{}
+be5b173d6123f0c63256b51065b4fc05,Trip,SUMMER GREECE 2025,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 2800}"
+bc50c36baf129a48f30ea9e18220aaba,City,ATHENS,{}
+2ff1c645b4b16bac901849b1adc564ce,City,THESSALONIKI,{}
+5d953fb3c2773ca7d4382150d690091a,Country,GREECE,{}
+4ee87a847adf3686256672bc8f929f50,Hotel,ATHENS PLAZA HOTEL,{}
+27a21df0c8136303327d36634f6ad3dc,Hotel,THESSALONIKI INN,{}
+e6c890c68112873274ac3f7540fdedc4,Activity,ACROPOLIS TOUR,{}
+41996a28cfa0c0658200bbf8ebf1d4d2,Activity,THESSALONIKI OLD TOWN,{}
+0dc87c0e4a98268f390904f4b15c8bca,Restaurant,TAVERNAS,{}
+6a0bf015e34f7a42cf78d39aa973a06c,Trip,ITALY CLASSICS 2024,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1800}"
+b8f005bfa33144d7a0137ff824a327da,City,VENICE,{}
+2f08290d278b2451626e202162312d44,Hotel,VENICE SUITES,{}
+ae89cf4087e77f824c12a4ae99249ea1,Activity,ST. MARK'S SQUARE,{}
+cdd29f13b14e958f5afc3b412dd80769,Transport,BOAT,{}
+00464e227e4e94129f48e1c78ca94592,Trip,PARIS MUSEUM TOUR 2024,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1200}"
+db9e72d9f42cc58ef1ef681008f1a4e6,Hotel,MARAIS HOTEL,{}
+4b44d4ddf32ee537823a2c08e2257319,Activity,LOUVRE MUSEUM,{}
+d80a80e7b6af2cdae228f291ad4a63cf,Activity,MUSÉE D'ORSAY,{}
+cd021876957776f619f33426b68c8564,Restaurant,LEON DE BRUXELLES,{}
+103a535a99e582f0394d2ce871955fa0,Trip,TURKEY TOUR 2024,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 1500}"
+89e5c04105d659d0756f152fff6b6f30,City,CAPPADOCIA,{}
+ecfff2393d87282f01ce8669753a143f,Trip,EUROPE CLASSICS 2025,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 4500}"
+53caaf4482c187653404b7c14a6157f3,Trip,PARIS CITY BREAK 2024,"{""date_start"": null, ""date_end"": null, ""season"": null, ""price_usd"": 980}"
+8cf307737d8874523e80e9c235da659c,Activity,MONTMARTRE WALK,{}
