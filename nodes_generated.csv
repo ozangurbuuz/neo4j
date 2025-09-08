@@ -1,0 +1,1654 @@
+id,label,name,boost
+trip:ea684dba,Trip,BREZİLYA – ARJANTİN – ŞİLİ TURU 04 – 22 OCAK,1.0
+city:d7b1c966,City,Rio de Janeiro,1.0
+city:1bdc156d,City,Iguazu,1.0
+city:0c455ad1,City,Buenos Aires,1.0
+city:54039364,City,Cape Horn,1.0
+city:6c07625e,City,Magdalena Adası,1.0
+city:a6f30815,City,Santiago,1.0
+country:fa60284a,Country,Brezilya,1.0
+country:9431e461,Country,Arjantin,1.0
+country:c8a985f6,Country,Şili,1.0
+activity:a8b434ee,Activity,Vista Chinesa,1.0
+activity:14c17cf9,Activity,Amanhã (Yarının Müzesi),1.0
+activity:eb2174d8,Activity,Iguazú Şelaleleri,1.0
+activity:57c06067,Activity,Iguazú Milli Parkı,1.0
+activity:72ea1919,Activity,Macuco Safarisi,1.0
+activity:5540f6fe,Activity,Plaza de Mayo,1.0
+activity:813d023a,Activity,Casa Rosada,1.0
+activity:f2cacced,Activity,San Telmo,1.0
+activity:aaff0ac6,Activity,La Boca,1.0
+activity:b3ed6a8c,Activity,Buenos Aires Modern Sanat Müzesi,1.0
+activity:41e7148b,Activity,Plaza Dorrego,1.0
+activity:d7cc1cee,Activity,Palermo Soho,1.0
+activity:8b540166,Activity,Recoleta Semti,1.0
+activity:62dd675d,Activity,Recoleta Mezarlığı,1.0
+activity:abae52e6,Activity,Rojo Tango Gösterisi,1.0
+activity:54039364,Activity,Cape Horn,1.0
+activity:6c07625e,Activity,Magdalena Adası,1.0
+activity:2b3fee54,Activity,Plaza de Armas,1.0
+activity:13e5dcbe,Activity,Santiago Katedrali,1.0
+activity:0c988670,Activity,Belediye Binası,1.0
+activity:288bc775,Activity,Merkez Postane,1.0
+activity:ce0db610,Activity,Ulusal Tarih Müzesi,1.0
+restaurant:814944f2,Restaurant,Satyricon Restaurant,1.0
+restaurant:3b4b20ac,Restaurant,La Cabrera Restaurant,1.0
+restaurant:18331a56,Restaurant,Fervor Restaurant,1.0
+trip:0daeab7e,Trip,İZLANDA TURU 18 – 24 MAYIS,1.0
+city:a2c4140a,City,İzlanda,1.0
+country:a2c4140a,Country,İzlanda,1.0
+hotel:768d24bf,Hotel,Hali Country Hotel,1.0
+hotel:0d448ea3,Hotel,Fosshotel Glacier Lagoon,1.0
+activity:b5b044de,Activity,Blue Lagoon,1.0
+activity:7818c4f5,Activity,Kerid Crater Lake,1.0
+activity:67a5d979,Activity,Skaftafell National Park,1.0
+activity:184df9ef,Activity,Ice Cave,1.0
+activity:d82de52c,Activity,Svartifoss Şelalesi,1.0
+activity:2c76611d,Activity,Fjallsárlón Glacier Lagoon,1.0
+activity:63afd8ba,Activity,Jökulsárlón Glacier Lagoon,1.0
+activity:0b086ab5,Activity,Goðafoss Şelalesi,1.0
+trip:f3699f7b,Trip,GÜNEY AFRİKA TURU 07 – 16 ARALIK,1.0
+city:78ac9a03,City,Cape Town,1.0
+city:7fb3f60c,City,Stellenbosch,1.0
+city:705776f1,City,Franschhoek,1.0
+city:6d3ff39c,City,Kimberley,1.0
+country:dc300813,Country,Güney Afrika,1.0
+hotel:e0e04ef2,Hotel,Babel Hotel,1.0
+activity:29ef753a,Activity,Cape Town & Masa Dağı Gezisi,1.0
+activity:98b392b2,Activity,Zeitz Çağdaş Sanatlar Müzesi,1.0
+activity:ee7e5c33,Activity,Cape Point & Ümit Burnu,1.0
+activity:ec201b94,Activity,Boulders Penguen Kolonisi,1.0
+activity:166c4f61,Activity,Stellenbosch Şarap Evleri,1.0
+activity:afcc9fd4,Activity,Franschhoek Şarap Bağları,1.0
+activity:3787334c,Activity,La Motte Şarap Tadımı,1.0
+activity:901489e5,Activity,Matjiesfontein Köyü,1.0
+activity:86d5d292,Activity,Kimberley Diamond Mine & Big Hole,1.0
+activity:31175c14,Activity,Sabah Safari,1.0
+activity:4cdbed35,Activity,Akşam Safari,1.0
+trip:5a5360b7,Trip,VENEDİK & MİLANO TURU 08 – 12,1.0
+city:fbf968d5,City,Venedik,1.0
+city:82a8f10c,City,Milano,1.0
+country:51b99634,Country,İtalya,1.0
+hotel:9cd92f6a,Hotel,Hotel Ai Cavalieri,1.0
+restaurant:5e26c087,Restaurant,Ristorante Da Ivo,1.0
+restaurant:87218ca0,Restaurant,Ristorante Acqua Pazza,1.0
+restaurant:9c97838a,Restaurant,Osteria Enoteca San Marco,1.0
+restaurant:decdc5ce,Restaurant,Restaurant Terrazza Danieli,1.0
+restaurant:b6c05d57,Restaurant,Da Giacomo,1.0
+restaurant:ef8ba1c0,Restaurant,Il Salumaio di Montenapoleone,1.0
+restaurant:6de19d23,Restaurant,Solferino Restaurant,1.0
+trip:cbe87c1e,Trip,MALDİVLER TURU 08 – 15 OCAK 2024,1.0
+city:0258f687,City,Maldivler,1.0
+country:0258f687,Country,Maldivler,1.0
+hotel:5f0d0789,Hotel,Beach Villa with Pool,1.0
+hotel:190db616,Hotel,Water Villa with Pool,1.0
+hotel:238fdb9a,Hotel,Water Villa One Bedroom,1.0
+trip:4dc4a8b8,Trip,TANZANYA & ZANZIBAR TURU 08 – 17 OCAK 2024,1.0
+city:30067789,City,Arusha,1.0
+city:5e61b501,City,Serengeti,1.0
+city:af942806,City,Zanzibar,1.0
+country:d20eefa8,Country,Tanzanya,1.0
+hotel:2de89629,Hotel,Singita Lodge,1.0
+hotel:ec925b7a,Hotel,Singita Sasakawa Lodge,1.0
+activity:7426549a,Activity,Serengeti Ulusal Parkı Safari,1.0
+activity:71750007,Activity,Öğle Safarisi,1.0
+activity:e9f33b77,Activity,Sabah ve Akşam Safarileri,1.0
+trip:6729863a,Trip,BARCELONA TURU 09 – 11 KASIM,1.0
+city:dea56e47,City,Barcelona,1.0
+country:1747d4b2,Country,İspanya,1.0
+activity:fdbe069f,Activity,Park Güell,1.2
+activity:d85db24f,Activity,La Sagrada Familia,1.2
+activity:46608195,Activity,Casa Milà,1.0
+activity:0c3636a4,Activity,Plaza Catalunya,1.0
+activity:ff4757d7,Activity,Gotik Mahallesi,1.0
+restaurant:b7d63149,Restaurant,La Pepita Tapas Bar,1.0
+restaurant:6e110fce,Restaurant,Gala Restoran,1.0
+restaurant:ac7e19ac,Restaurant,Barceloneta Restoran,1.0
+trip:35868ba9,Trip,BILBAO & SAN SEBASTIAN TURU 12 – 15 EYLÜL,1.0
+city:72913ebb,City,Bilbao,1.0
+city:4fde1869,City,San Sebastian,1.0
+city:156a5a30,City,Biarritz,1.0
+city:2cbe0da3,City,Saint Jean De Luz,1.0
+country:bb116538,Country,Fransa,1.0
+hotel:f7e08311,Hotel,Hotel Maria Cristina,1.0
+activity:ce078d3a,Activity,Biarritz Gezisi,1.0
+activity:42b77812,Activity,Saint Jean De Luz Gezisi,1.0
+activity:f9108cca,Activity,San Sebastian Şehir Gezisi,1.0
+activity:6663b3d9,Activity,Guggenheim Müzesi Gezisi,1.0
+restaurant:89c902de,Restaurant,Restaurante Ilura,1.0
+restaurant:7d5a0398,Restaurant,Elkano Restaurant,1.0
+restaurant:2327c809,Restaurant,Cafe Iruña,1.0
+trip:3c14a6de,Trip,AVUSTRALYA & YENİ ZELANDA TURU 14 ARALIK – 3 OCAK,1.0
+city:519d71b3,City,Singapore,1.0
+city:46659217,City,Auckland,1.0
+city:7b0adbab,City,Rotorua,1.0
+city:ebc7824e,City,Wellington,1.0
+city:fa560cb7,City,Tekapo,1.0
+city:35f89832,City,Queenstown,1.0
+city:faf16fe4,City,Gold Coast,1.0
+city:a8113a9b,City,Sydney,1.0
+country:aa06e5ae,Country,Avustralya,1.0
+country:56f7de13,Country,Yeni Zelanda,1.0
+country:519d71b3,Country,Singapur,1.0
+hotel:215b83e5,Hotel,JW Marriott Hotel Singapore South Beach,1.0
+hotel:39a87307,Hotel,Pullman Rotorua,1.0
+hotel:70442d22,Hotel,Intercontinental Hotel Wellington,1.0
+hotel:35f6a065,Hotel,Peppers Blue Water Resort Lake Tekapo,1.0
+hotel:8f57ecdd,Hotel,The Rees Hotel & Luxury Apartments,1.0
+hotel:880f0e9e,Hotel,JW Marriott Gold Coast Resort & Spa,1.0
+hotel:d51aacf1,Hotel,Sydney Harbour Marriott Hotel at Circular Quay,1.0
+activity:58ef5030,Activity,Auckland Şehir Gezisi,1.0
+activity:ad1aa395,Activity,Te Puia Maori Dansı ve Gayzerler,1.0
+activity:9358e116,Activity,Weta Workshop,1.0
+activity:d88b0494,Activity,Queenstown Panoramik Gezisi,1.0
+activity:bb8a83b6,Activity,Seal Bay Conservation Park,1.0
+activity:69fa9c57,Activity,Flinders Chase National Park,1.0
+activity:7c79f5eb,Activity,Sydney Harbour Tekne Turu & Havai Fişek Gösterisi,1.0
+activity:13de3118,Activity,Blue Mountains Gezisi,1.0
+activity:a3ff8503,Activity,Sydney Opera Binası & Harbour Bridge,1.0
+trip:c762abe4,Trip,BALI & BANGKOK TURU 18 TEMMUZ – 06 AĞUSTOS,1.0
+city:24d54538,City,Bali,1.0
+city:b90bbd2b,City,Bangkok,1.0
+country:13175c72,Country,Endonezya,1.0
+country:d1fa54da,Country,Tayland,1.0
+hotel:cd4ae2a2,Hotel,Capella Bangkok Hotel,1.0
+hotel:1435df7b,Hotel,Riverside Pool Villa,1.0
+activity:348f8f36,Activity,Volcanoes & Temples Turu (Helikopter),1.0
+restaurant:b148a02a,Restaurant,Koral Restaurant,1.0
+restaurant:4660cc04,Restaurant,Restaurant POTONG,1.0
+trip:6c1155ed,Trip,DANİMARKA & NORVEÇ TURU 18 – 25 AĞUSTOS 2025,1.0
+city:e1e67c3a,City,Kopenhag,1.0
+city:a2801999,City,Bergen,1.0
+city:d568dddb,City,Flåm,1.0
+city:8cfbfaef,City,Oslo,1.0
+country:1ffe54df,Country,Danimarka,1.0
+country:c1c8cbd1,Country,Norveç,1.0
+hotel:9f8a8ec5,Hotel,Nimb Hotel,1.0
+hotel:a0780b3c,Hotel,Bergen Børs Hotel,1.0
+hotel:8f3efdf8,Hotel,Fretheim Hotel,1.0
+activity:be0ac9a8,Activity,Designmuseum Danmark,1.0
+activity:4d5a39b8,Activity,Bergen Market Square & Balık Pazarı,1.0
+activity:117df42d,Activity,Flåm Railway Museum,1.0
+activity:7f036fd0,Activity,Vigeland Heykel Parkı,1.0
+activity:2ac11792,Activity,Oslo Opera Binası,1.0
+activity:5927b8aa,Activity,Ulusal Müze,1.0
+activity:7a2d702e,Activity,Munch Müzesi,1.0
+activity:39530a2e,Activity,Astrup Fearnley Museum of Modern Art,1.0
+restaurant:1a45707f,Restaurant,Fjellskål Seafood Restaurant,1.0
+restaurant:4fb84f01,Restaurant,Restaurant Arven,1.0
+restaurant:ae72d583,Restaurant,Lofoten Fiskerestaurant,1.0
+restaurant:7da81ca0,Restaurant,Bryggen Tracteursted,1.0
+restaurant:80324e66,Restaurant,Izakaya Bar & Terrace,1.0
+trip:1386a590,Trip,GÜNEY AFRİKA TURU 19 ARALIK 2025 – 3 OCAK 2026,1.0
+city:44b312ab,City,Livingstone,1.0
+country:bbf10071,Country,Zambiya,1.0
+hotel:6d3de166,Hotel,Royal Livingstone Victoria Falls Zambia Hotel by Anantara,1.0
+hotel:55e9c598,Hotel,Babylonstoren Hotel,1.0
+hotel:a4143a2c,Hotel,Marataba Safari Lodge,1.0
+activity:feb826a2,Activity,Mukuni Village Gezisi,1.0
+activity:65106f31,Activity,Sunset Safari Cruise,1.0
+activity:b7433ea8,Activity,David Livingstone Müzesi,1.0
+activity:dfc6ead3,Activity,Franschhoek Şarap Bağları ve Galeriler,1.0
+activity:6e9bd3b0,Activity,Huguenot Anıt Müzesi,1.0
+activity:b33238f1,Activity,Franschhoek Motor Müzesi,1.0
+activity:250b4ff4,Activity,Güney Afrika'nın İlk Parfüm Müzesi,1.0
+activity:a0af9277,Activity,Masa Dağı,1.0
+activity:6f2f151e,Activity,Kirstenbosch Ulusal Botanik Bahçesi,1.0
+activity:ce78b09d,Activity,Boulders Beach Penguen Kolonisi,1.0
+activity:a180db12,Activity,Cape Town Şehir Gezisi,1.0
+activity:608cad13,Activity,Two Oceans Aquarium,1.0
+activity:6cdcf22b,Activity,Camps Bay ve Clifton Beach,1.0
+activity:a0ce0ada,Activity,Zeitz Museum of Contemporary Art Africa,1.0
+activity:2abd46b7,Activity,Güney Afrika Ulusal Müzesi (İziko),1.0
+activity:cd93b24c,Activity,Planetarium,1.0
+activity:58d9ea33,Activity,Cape Town Graffiti Street Art Turu,1.0
+restaurant:3cc37ca3,Restaurant,The Lookout Cafe,1.0
+trip:0e18fbdd,Trip,JAPONYA TURU 19 HAZİRAN – 5 TEMMUZ 2025,1.0
+city:ef0cc10f,City,Tokyo,1.0
+city:e2163ac5,City,Okayama,1.0
+city:e27d6ba3,City,Kyoto,1.0
+city:746b6431,City,Naoshima,1.0
+city:97b43156,City,Teshima,1.0
+country:e75811bf,Country,Japonya,1.0
+hotel:eb6451eb,Hotel,Mitsui Garden Hotel Premier Jingu-Gaien,1.0
+hotel:745c3f84,Hotel,Uno Hotel,1.0
+hotel:8254ce12,Hotel,ACE Hotel Kyoto,1.0
+activity:3646361c,Activity,Meiji Tapınağı,1.0
+activity:09275067,Activity,Ota Memorial Museum of Art,1.0
+activity:a63d7aa0,Activity,Doğu Bahçeler,1.0
+activity:efcaa3ad,Activity,Shibuya Sky,1.0
+activity:31c25394,Activity,Miyashita Park,1.0
+activity:ea1f049b,Activity,Mori Art Museum,1.0
+activity:13232b50,Activity,National Art Centre,1.0
+activity:a8f4121d,Activity,Museum of Contemporary Art,1.0
+activity:43b6d26d,Activity,Chichu Sanat Müzesi,1.0
+activity:40581644,Activity,Art House Project,1.0
+activity:d0f3b3e6,Activity,Lee Ufan Müzesi,1.0
+activity:ff44a86c,Activity,Benesse House,1.0
+activity:c716e343,Activity,Teshima Sanat Müzesi,1.0
+activity:4d03bd93,Activity,Les Archives du Coeur,1.0
+trip:e536d1ce,Trip,LAPLAND TURU 19 – 24 OCAK,1.0
+city:08716495,City,Jukkasjärvi,1.0
+city:a199d80b,City,Harads,1.0
+country:24b0fd39,Country,İsveç,1.0
+hotel:9d5f8614,Hotel,ICEHOTEL,1.0
+hotel:e5372220,Hotel,Kaamos Hotel,1.0
+hotel:66cf235f,Hotel,Treehotel,1.0
+activity:79dcb924,Activity,Gece Safarisi,1.0
+activity:e237022e,Activity,Kar Mobili Safarisi,1.0
+trip:ee119ccc,Trip,MISIR TURU 20 – 25 NİSAN 2024,1.0
+city:e1aed712,City,Kahire,1.0
+city:d555cec1,City,Aswan,1.0
+city:b9b96f11,City,Luxor,1.0
+country:006a24da,Country,Mısır,1.0
+hotel:78449985,Hotel,Marriott Mena House Hotel,1.0
+hotel:9ec58d6c,Hotel,Movenpick Sunray Nile Cruise,1.0
+activity:299b975a,Activity,Giza Piramitleri,1.0
+activity:3d0345f5,Activity,Büyük Giza Sfenksi,1.0
+activity:f24c5e94,Activity,Mısır Müzesi,1.0
+activity:f123119a,Activity,Khan El Khalili Çarşısı,1.0
+activity:864785e2,Activity,High Dam,1.0
+activity:94ea8928,Activity,Philae Tapınağı,1.0
+activity:fb649c99,Activity,Kom Ombo Tapınağı,1.0
+activity:4d815b26,Activity,Edfu Tapınağı,1.0
+activity:5151bca1,Activity,Luxor East Bank Gezisi,1.0
+activity:c6036c89,Activity,Karnak Tapınağı,1.0
+activity:002d155d,Activity,Luxor Tapınağı,1.0
+activity:69cc7600,Activity,Nil Nehri Sıcak Hava Balonu,1.0
+trip:c2ece4e6,Trip,AMALFI TURU 20 – 23 HAZİRAN,1.0
+city:f36a22c2,City,Amalfi,1.0
+city:a99a00f6,City,Ravello,1.0
+city:87407e3d,City,Pompei,1.0
+city:81bd8fe3,City,Napoli,1.0
+city:25a0f29d,City,Sorrento,1.0
+hotel:297e43a0,Hotel,Villa Piedimonte,1.0
+hotel:2f8e7540,Hotel,Hotel Rufolo,1.0
+activity:cbc4ed2f,Activity,Ravello - Villa Cimbrone Bahçesi,1.0
+activity:5f0a9010,Activity,Ravello - Villa Rufolo,1.0
+activity:c497c14c,Activity,Pompei Şehri Ziyareti,1.0
+activity:37c5c4eb,Activity,Napoli Şehri Gezisi,1.0
+activity:d00d8ce4,Activity,Duomo di Napoli,1.0
+activity:16fb5c7f,Activity,Il Pio Monte della Misericordia,1.0
+activity:8246fad9,Activity,Palazzo Reale,1.0
+activity:88b81cd2,Activity,Castel dell’Ovo,1.0
+activity:e1c15821,Activity,Amalfi Kasabası Gezisi,1.0
+activity:b1e1f4f0,Activity,Cattedrale di Sant’Andrea,1.0
+activity:3f475a74,Activity,Piazza Duomo,1.0
+activity:f3c06230,Activity,Piazza dei Dogi,1.0
+activity:a39c0fd9,Activity,Piazza dello Spirito Santo,1.0
+activity:5b8054f5,Activity,Sorrento Gezisi,1.0
+activity:aa073889,Activity,Piazza Tasso,1.0
+activity:0a8d2f40,Activity,Basilica di Sant’Antonino,1.0
+activity:3c965fb7,Activity,Sedile Dominova,1.0
+activity:5e59e4d2,Activity,Sorrento Peninsula Arkeoloji Müzesi,1.0
+activity:89f03ce9,Activity,Bottega Della Tarsia Lignea Müzesi,1.0
+trip:6c28cde7,Trip,LOIRE TURU 20 – 23 NİSAN,1.0
+city:68b334d6,City,Loire,1.0
+city:3c4dce9a,City,Tours,1.0
+city:847ecbcc,City,Amboise,1.0
+city:504a995b,City,Blois,1.0
+activity:f3b2b83c,Activity,Cheverny Şatosu,1.0
+activity:cfbbe128,Activity,Villandry Şatosu,1.0
+activity:b37acf9d,Activity,Amboise Şatosu,1.0
+activity:4180f5dd,Activity,Château du Clos Lucé,1.0
+activity:a23e6f14,Activity,Château de Chenonceau,1.0
+activity:44864a8e,Activity,Château de Blois,1.0
+activity:2f0fb3e2,Activity,Château de Chambord,1.0
+activity:e7db4471,Activity,Loire Vadisi Balon Turu,1.0
+activity:96a8de46,Activity,Tours Şehri Gezisi,1.0
+restaurant:02db0368,Restaurant,Avarum Restaurant,1.0
+restaurant:1d0ca7fa,Restaurant,Restaurante Amour Blanc,1.0
+trip:51fa48d3,Trip,BRUGGE & LOIRE TURU 20 – 23 NİSAN,1.0
+city:ce908128,City,Brugge,1.0
+city:4a09693d,City,Gent,1.0
+country:2513f1e6,Country,Belçika,1.0
+hotel:a0f85876,Hotel,Hotel De Orangerie,1.0
+hotel:eb3ea50b,Hotel,Hotel Van Cleef,1.0
+hotel:0559c09a,Hotel,Hotel Heritage Relais Chateau,1.0
+hotel:e8d774c3,Hotel,Hotel Dukes' Palace,1.0
+activity:750cf5cb,Activity,Brugge Gezisi,1.0
+activity:13fabd5c,Activity,Gent Gezisi,1.0
+activity:f9dd5bf2,Activity,Clos de Lucé,1.0
+activity:45e57fcf,Activity,Loire Vadisi Şarap Bağları,1.0
+trip:8da427f6,Trip,AMALFI TURU 20 – 24 HAZİRAN,1.0
+activity:d646c53b,Activity,Tam Gün Tekne Gezisi,1.0
+trip:b99148a4,Trip,SALZBURG TURU 20 – 25 ARALIK,1.0
+city:f2646aa0,City,Salzburg,1.0
+city:02c24da9,City,Hallstatt,1.0
+city:99bbb76e,City,St Wolfgang,1.0
+city:070cc741,City,Berchtesgaden,1.0
+country:acdb1cea,Country,Avusturya,1.0
+country:5b44d891,Country,Almanya,1.0
+hotel:0ab16a8d,Hotel,Radisson Blu Hotel Altstadt,1.0
+hotel:83ab1624,Hotel,Hotel Goldener Hirsch,1.0
+hotel:cfea8674,Hotel,Hotel Bristol,1.0
+activity:1a41de29,Activity,Mirabel Sarayı ve Bahçesi,1.0
+activity:3d6b9b71,Activity,Mozart’ın Evi,1.0
+activity:0dbe7051,Activity,Residenzplatz & DomQuartier,1.0
+activity:57058155,Activity,Noel Pazarları,1.0
+activity:8eadecd7,Activity,Hallstatt Gezisi,1.0
+activity:ca819b26,Activity,Salzberg Dağı & Tuz Madeni Ziyareti,1.0
+activity:f134b920,Activity,Atlı Kızak Turu (St Wolfgang),1.0
+activity:9a134ddb,Activity,Salzburg Kalesi,1.0
+activity:e8bf0cd8,Activity,Adolf Hitler’in Kartal Yuvası,1.0
+activity:f02a40cd,Activity,Salzbergwerk Berchtesgaden,1.0
+activity:2e211399,Activity,Grassl Likör Fabrikası,1.0
+restaurant:c2a8a591,Restaurant,Cafe Sacher Salzburg,1.0
+restaurant:3d8c307b,Restaurant,Restaurant Blaue Gans Salzburg Gasthaus,1.0
+trip:6331c61e,Trip,BELGRAD TURU 21 – 23 EYLÜL,1.0
+city:206f16df,City,Belgrad,1.0
+city:fe4a0852,City,Karlofca,1.0
+city:b72f7445,City,Novi Sad,1.0
+country:624541ec,Country,Sırbistan,1.0
+hotel:e80935cb,Hotel,Metropol Palace Hotel,1.0
+hotel:1cfd74da,Hotel,Square Nine Hotel,1.0
+activity:16cfc673,Activity,Belgrad Şehir Gezisi,1.0
+activity:12c98a28,Activity,Aziz Sava Kilisesi,1.0
+activity:94d3c222,Activity,Kalemegdan,1.0
+activity:95093574,Activity,Sokullu Mehmet Paşa Çeşmesi,1.0
+activity:a4b8e6cd,Activity,Damat Ali Paşa Türbesi,1.0
+activity:6c6e8778,Activity,Fikirbayır,1.0
+activity:85c8e568,Activity,Stambol Kapısı,1.0
+activity:93628a77,Activity,Tuna & Sava Nehirlerinin Birleşim Noktası,1.0
+activity:4106a0f4,Activity,Museum of Yugoslav History,1.0
+activity:670413e4,Activity,Royal Compound,1.0
+activity:3c6005ac,Activity,Nikola Tesla Müzesi,1.0
+activity:48b452a6,Activity,Karlofca Gezisi,1.0
+activity:428a67c6,Activity,Novi Sad Gezisi,1.0
+activity:65a995cc,Activity,Tuna Nehri Tekne Gezisi,1.0
+restaurant:ced2626f,Restaurant,Kalemegdan Restaurant,1.0
+trip:e013a120,Trip,İSTANBUL – KAPADOKYA – İZMİR TURU 23 TEMMUZ – 2 AĞUSTOS 2023,1.0
+city:2609eaea,City,İstanbul,1.0
+city:341c9da8,City,Kapadokya,1.0
+city:abbbddb7,City,Kuşadası,1.0
+city:63072c11,City,İzmir,1.0
+city:682a1729,City,Şirince,1.0
+city:fe6eb335,City,Efes,1.0
+country:bb3db6b1,Country,Türkiye,1.0
+activity:223fff80,Activity,Topkapı Sarayı,1.0
+activity:40a62e79,Activity,Ayasofya,1.0
+activity:63f4ae10,Activity,Yerebatan Sarnıcı,1.0
+activity:77f73e20,Activity,Boğaz Turu,1.0
+activity:c727b6e9,Activity,Karaköy,1.0
+activity:c43a32f7,Activity,Balon Turu,1.0
+activity:d28f758c,Activity,Soğanlı Vadisi,1.0
+activity:5976ce2c,Activity,Keşlik Manastırı,1.0
+activity:b0001045,Activity,Taşkınpaşa Medresesi,1.0
+activity:aa8036ae,Activity,Selime Köyü,1.0
+activity:65587759,Activity,Agzikarahan Kervansarayı,1.0
+activity:6f8e0555,Activity,Ihlara Vadisi,1.0
+activity:2a881245,Activity,Göreme Açık Hava Müzesi,1.0
+activity:7eb3377f,Activity,Uçhisar,1.0
+activity:e5c72caa,Activity,Kaymaklı Yeraltı Şehri,1.0
+activity:2e9b3be9,Activity,Kızıl Vadi,1.0
+activity:a525fccb,Activity,Efes Antik Kenti,1.0
+activity:fae05571,Activity,Hadrian Tapınağı,1.0
+activity:074dacfb,Activity,Odeon,1.0
+activity:1d4de25b,Activity,Traian Çeşmesi,1.0
+activity:2e77ca01,Activity,Şirince Köyü,1.0
+restaurant:e56cf841,Restaurant,Il Cortile Ristorante Pizzeria,1.0
+restaurant:c303ae53,Restaurant,Pandeli Restaurant,1.0
+restaurant:16a04f19,Restaurant,Belisirma Nehir Kenarı Restoran,1.0
+restaurant:673ca113,Restaurant,Geleneksel Türk Restoranı (Efes),1.0
+trip:584b37ad,Trip,EDINBURGH & HIGHLANDS TURU 4 – 8 AĞUSTOS,1.0
+city:01cdc81c,City,Edinburgh,1.0
+city:d7b9f8f3,City,Pitlochry,1.0
+city:5c2c5a8d,City,Fort William,1.0
+city:b2404cee,City,Inverness,1.0
+country:267d6b62,Country,İskoçya,1.0
+hotel:9492d529,Hotel,Fonab Castle Hotel,1.0
+hotel:8f8ebbb6,Hotel,The Craigellachie Hotel,1.0
+hotel:6ecf704f,Hotel,Nevis Bank Inn,1.0
+hotel:9c653e05,Hotel,Seasgair Hotel,1.0
+activity:dbbb0cd8,Activity,Blair Castle,1.0
+activity:fdf8c8ac,Activity,Ballindalloch Castle & Gardens,1.0
+activity:711b9a68,Activity,Camera Obscura & World of Illusions,1.0
+activity:f8731b2e,Activity,Loch Ness,1.0
+activity:e7917b51,Activity,Inverness Kalesi,1.0
+activity:3e919d4f,Activity,St. Andrews Katedrali,1.0
+activity:ad4b167b,Activity,Inverness Müzesi ve Sanat Galerisi,1.0
+activity:97b36204,Activity,Strathisla Distillery,1.0
+restaurant:1a1f5e18,Restaurant,Nevis Bank Inn and Browns Restaurant,1.0
+restaurant:8fc65e17,Restaurant,Rocpool Restaurant,1.0
+trip:9cf97533,Trip,TAYLAND TURU 5 – 18 ŞUBAT,1.0
+city:8e3fbec4,City,Chiang Mai,1.0
+city:319e1ea2,City,Chiang Rai,1.0
+hotel:027012ef,Hotel,The Surin,1.0
+activity:1c78522b,Activity,Tapınaklar ve Şehir Gezisi,1.0
+activity:198c0b38,Activity,Bo Sang Köyü,1.0
+activity:b82464b7,Activity,Wat Chedi Luangis,1.0
+activity:9483beea,Activity,Wat Suan Dok Tapınağı,1.0
+activity:b1384d9e,Activity,Wat Phra That Doi Suthep,1.0
+activity:27846d43,Activity,Wat Rong Khun,1.0
+activity:2fd30f5d,Activity,Chiang Rai Gezisi,1.0
+activity:f0d10751,Activity,Golden Triangle Gezisi,1.0
+activity:a5f37da5,Activity,Mekong Nehri Tekne Gezisi,1.0
+activity:693933dc,Activity,Bangkok Şehir Gezisi,1.0
+activity:baf63dd1,Activity,Büyük Saray,1.0
+activity:b15dbae6,Activity,Wat Phra Kaew,1.0
+activity:14655908,Activity,Wat Pho Tapınağı,1.0
+activity:6ba5e0da,Activity,Wat Ratchabophit,1.0
+activity:0238a802,Activity,Bangkok Kanalları Gezisi,1.0
+activity:3c3cc140,Activity,Chatuchak Weekend Market,1.0
+restaurant:65cc3e7a,Restaurant,Beach Restaurant (The Surin),1.0
+restaurant:3ec20ca8,Restaurant,Potong Restaurant,1.0
+restaurant:c3bf4d99,Restaurant,Clara Restaurant,1.0
+restaurant:1145698c,Restaurant,Kalido,1.0
+restaurant:71337f99,Restaurant,Carpe Diem Beach Club,1.0
+restaurant:af40d435,Restaurant,Terrace Rim Naam,1.0
+trip:1e1baac2,Trip,JAPONYA TURU 6 – 13 NİSAN 2024 (SAFFET EMRE),1.0
+city:d4be856c,City,Hakone,1.0
+city:bb8b20c9,City,Nara,1.0
+hotel:c406c31a,Hotel,Mitsui Garden Hotel,1.0
+hotel:ff44a86c,Hotel,Benesse House,1.0
+activity:4e64e0d2,Activity,Shinjuku Gyoen Park,1.0
+activity:9e0eacda,Activity,Senso-ji Tapınağı,1.0
+activity:e662924d,Activity,Nakamise Alışveriş Caddesi,1.0
+activity:cfc5a6db,Activity,Meiji Shrine,1.0
+activity:3bac2586,Activity,Takeshita Street,1.0
+activity:6a815a8b,Activity,Omotesando,1.0
+activity:7a170f3f,Activity,TeamLab Planets,1.0
+activity:bfc34f9e,Activity,Ginza,1.0
+activity:e09cb891,Activity,Hakone Açık Hava Müzesi,1.0
+activity:8405994b,Activity,Picasso Pavilion,1.0
+activity:3ffc366c,Activity,Hakone Teleferiği,1.0
+activity:94dfcef6,Activity,Owakudani Vadisi,1.0
+activity:297cecda,Activity,Ashinoko Tekne Gezisi,1.0
+activity:906fe54d,Activity,Kiyomizu Tapınağı,1.0
+activity:7cfe6053,Activity,Kinkaku-ji,1.0
+activity:6d2d1bc2,Activity,Geisha & Maiko Gösterisi,1.0
+activity:2b15ac43,Activity,Nara Park,1.0
+activity:752820e3,Activity,Kasuga Taisha,1.0
+activity:c69419b4,Activity,Tenryu-ji Tapınağı,1.0
+activity:4c704993,Activity,Monkey Park Iwatayama,1.0
+activity:a0728eac,Activity,Teshima Yokoo Evi,1.0
+trip:929d059d,Trip,ARLES TURU 03 – 06 EKİM,1.0
+city:74b004fd,City,Arles,1.0
+city:a76b712f,City,Avignon,1.0
+city:22eb4ae9,City,Les Baux-de-Provence,1.0
+city:a1690cad,City,L'Isle-sur-la-Sorgue,1.0
+activity:e5b64203,Activity,LUMA Müzesi,1.0
+activity:b848ace1,Activity,Van Gogh Müzesi,1.0
+activity:c44d954b,Activity,Art Tour,1.0
+activity:2be876c8,Activity,Avignon Gezisi,1.0
+activity:aa036175,Activity,Chateau Estoublon,1.0
+activity:3cd675b4,Activity,Les Baux-de-Provence Gezisi,1.0
+activity:6d68c82a,Activity,L'Isle-sur-la-Sorgue Gezisi,1.0
+restaurant:10bc6cff,Restaurant,Restaurant L'Oriel,1.0
+restaurant:fe728f67,Restaurant,Café Tadoa Ando,1.0
+restaurant:268582a2,Restaurant,La Taula Gallici's Gourmet Restaurant,1.0
+trip:ca6c3f28,Trip,PUGLIA TURU 07 – 11 EKİM,1.0
+city:53b93733,City,Bari,1.0
+city:f39f1f6f,City,Alberobello,1.0
+city:ca9b8c4b,City,Matera,1.0
+city:bda8694d,City,Monopoli,1.0
+city:9f3854d4,City,Polignano a Mare,1.0
+city:72fa0f93,City,Lecce,1.0
+hotel:393586a9,Hotel,Canne Bianche Lifestyle & Hotel,1.0
+activity:a999e171,Activity,Alberobello Trulli Evleri,1.0
+activity:429fc857,Activity,Matera Gezisi,1.0
+activity:220c2088,Activity,Monopoli Gezisi,1.0
+activity:549b034b,Activity,Polignano a Mare Gezisi,1.0
+activity:ea2308b7,Activity,Lecce Şehir Gezisi,1.0
+activity:d95621fe,Activity,Santa Croce Bazilikası,1.0
+activity:ad05f992,Activity,San Giuseppe Kilisesi,1.0
+activity:c767837a,Activity,Palazzo dei Celestini,1.0
+activity:f0223773,Activity,Sant'Oronzo Meydanı,1.0
+activity:01665fba,Activity,Antik Roma Amfitiyatrosu,1.0
+activity:c58ddfba,Activity,Bari Şehir Gezisi,1.0
+activity:c3b57cc8,Activity,Saint Nicholas Bazilikası,1.0
+activity:f03ef433,Activity,San Sabino Katedrali,1.0
+activity:3017d6c5,Activity,Hohenstaufen Kalesi,1.0
+activity:5d809466,Activity,Old Town,1.0
+activity:6fc7a781,Activity,Strada delle Orecchiette,1.0
+trip:eaf53a20,Trip,PROVENCE TURU 4 – 7 MAYIS,1.0
+city:a15db730,City,Provence,1.0
+city:47e4dfc3,City,L’Isle-sur-la-Sorgue,1.0
+city:6881b6df,City,Roussillon,1.0
+city:f7479b34,City,Gordes,1.0
+city:185f1e5f,City,Saint-Rémy-de-Provence,1.0
+activity:825104cc,Activity,Chateau La Coste Art Tour,1.0
+activity:a68de59f,Activity,L’Isle-sur-la-Sorgue Gezisi,1.0
+activity:09e73093,Activity,Roussillon Gezisi,1.0
+activity:cb216327,Activity,Gordes Gezisi,1.0
+activity:1742e4a6,Activity,Saint-Rémy-de-Provence Gezisi,1.0
+activity:5ffa8a7f,Activity,Arles Gezisi,1.0
+restaurant:489285d6,Restaurant,Tadao Ando Café Restaurant,1.0
+restaurant:d8c82b6f,Restaurant,Chateau d’Estoublon,1.0
+trip:f8242132,Trip,59. Venedik Bienali,1.0
+activity:cd2242e1,Activity,Peggy Guggenheim Müzesi,1.0
+activity:0485b208,Activity,Galleria dell’Accademia,1.0
+activity:439d5c30,Activity,Palazzo Manfrin,1.0
+activity:a7c1ee60,Activity,Giardini Bienali,1.0
+restaurant:dabb5dd3,Restaurant,Trattoria Alla Madonna,1.0
+trip:79aebc5f,Trip,Dubai Programı,1.0
+city:3c40d285,City,Dubai,1.0
+country:9b32b0b4,Country,Birleşik Arap Emirlikleri,1.0
+hotel:316a03ea,Hotel,Atlantis The Royal,1.0
+activity:ec80fd3b,Activity,Dubai Creek – Old Town,1.0
+activity:e89c43df,Activity,Museum of the Future,1.0
+activity:19320cf1,Activity,Dubai Mall,1.0
+restaurant:c4070c75,Restaurant,Nobu Restaurant - Atlantis the Palm,1.0
+trip:3748d9bb,Trip,İzmir’in En Güzel Köyleri - Şirince & Urla,1.0
+city:313be506,City,Urla,1.0
+hotel:b04cec0b,Hotel,Güllü Konak,1.0
+activity:66579419,Activity,Şirince Çarşısı,1.0
+activity:8ae353bf,Activity,Aziz John Baptist Kilisesi,1.0
+activity:e6f2f445,Activity,Hodri Meydan Kulesi,1.0
+activity:ee62c501,Activity,Şarap Mahzenleri,1.0
+activity:bc8b2bc1,Activity,Nesin Matematik Köyü,1.0
+activity:363a1413,Activity,Key Museum,1.0
+activity:15107afb,Activity,Urla Sanat Sokağı,1.0
+activity:e5c54b13,Activity,Necati Cumali Anı Evi,1.0
+activity:d875e2ae,Activity,Yorgo Seferis’in doğduğu ev,1.0
+activity:25753de3,Activity,Tanju Okan Parkı,1.0
+activity:faaed0c5,Activity,Malgaca Pazarı,1.0
+restaurant:04cc4a25,Restaurant,Artemis Restaurant ve Şarapevi,1.0
+restaurant:c112cd73,Restaurant,Yengeç Restoran - Urla İskele,1.0
+trip:850f756c,Trip,Toskana Gezisi,1.0
+city:b7827ac0,City,Bologna,1.0
+city:7611c61b,City,Floransa,1.0
+city:086bc7c0,City,Chianti,1.0
+city:f0ad4ba3,City,San Gimignano,1.0
+city:948d97a5,City,Siena,1.0
+city:ef3df1af,City,Cortona,1.0
+city:11028352,City,Orvieto,1.0
+city:60d99e58,City,Roma,1.0
+hotel:19670d0a,Hotel,Hotel Cerretani Firenze – Mgallery,1.0
+activity:e6fe959a,Activity,Santa Maria del Fiore Katedrali,1.0
+activity:f56256cf,Activity,Vaftizhane (Battistero di San Giovanni),1.0
+activity:69e66f85,Activity,Piazza della Signoria,1.0
+activity:c64e6284,Activity,Palazzo Vecchio,1.0
+activity:af99017f,Activity,Uffizi Galerisi,1.0
+activity:7097819b,Activity,Antinori nel Chianti Classico Şaraphanesi,1.0
+activity:292ee036,Activity,San Gimignano UNESCO Dünya Mirası,1.0
+activity:ca6c4ba7,Activity,Siena Şehir Merkezi,1.0
+activity:e5803ffa,Activity,Cortona Tarihi Sokaklar,1.0
+activity:5393f0aa,Activity,Orvieto Katedrali,1.0
+activity:aa8d6fa5,Activity,Orvieto Yer Altı Tünelleri,1.0
+restaurant:615f34eb,Restaurant,Buca Mario,1.0
+restaurant:e5e688ce,Restaurant,Osteria delle Tre Panche,1.0
+restaurant:3725b295,Restaurant,Ristorante Storico Sabatini,1.0
+restaurant:9099a032,Restaurant,Buca Lapi,1.0
+restaurant:91345fa2,Restaurant,Antico Ristorante Paoli 1827,1.0
+trip:b08584c5,Trip,Avustralya – Yeni Zelanda,1.0
+city:417c7382,City,Melbourne,1.0
+hotel:ac4ef7c9,Hotel,Park Hyatt Sydney,1.0
+activity:e3f25c5a,Activity,The Rocks,1.0
+activity:bd01396c,Activity,Botanik Bahçeleri - Sydney,1.0
+activity:6d10d1ec,Activity,Macquarie Caddesi,1.0
+activity:f27e3f51,Activity,Hyde Park,1.0
+activity:56649941,Activity,St. Mary Katedrali,1.0
+activity:b871524e,Activity,Mrs Macquarie’s Chair,1.0
+activity:9cc7bc5d,Activity,Sydney Opera Binası,1.0
+activity:c97b3138,Activity,Sydney Köprüsü,1.0
+activity:838cda24,Activity,Bondi Plajı,1.0
+activity:47d26902,Activity,Oxford Caddesi,1.0
+activity:b145bc97,Activity,Paddington,1.0
+trip:0a98d177,Trip,Hindistan Gezisi,1.0
+city:d6c14539,City,Varanasi,1.0
+city:edd75271,City,Jaipur,1.0
+city:218d9c6e,City,Udaipur,1.0
+city:76597d97,City,Delhi,1.0
+country:4c85b766,Country,Hindistan,1.0
+hotel:44dc6a26,Hotel,Brijrama Palace,1.0
+hotel:e8067581,Hotel,Rambagh Palace,1.0
+hotel:1ca1e20d,Hotel,Taj Lake Palace,1.0
+activity:dff73087,Activity,Ganj Nehri Aarti Töreni,1.0
+activity:c77f239b,Activity,Kashi Vishwanath Tapınağı,1.0
+activity:8cfaf1af,Activity,Sarnath,1.0
+activity:981b3b1a,Activity,Amber Fort,1.0
+activity:5b9c83a4,Activity,City Palace - Jaipur,1.0
+activity:290201b9,Activity,Hawa Mahal,1.0
+activity:294c7179,Activity,Jantar Mantar,1.0
+activity:fae42969,Activity,City Palace - Udaipur,1.0
+activity:52c8ba44,Activity,Crystal Gallery,1.0
+activity:b879d163,Activity,Pichola Gölü,1.0
+activity:a86469b0,Activity,Muson Sarayı,1.0
+activity:503225fc,Activity,Humayun’un Mezarı,1.0
+activity:0ea79176,Activity,Cumhurbaşkanlığı Sarayı,1.0
+activity:6651ca3c,Activity,Hindistan Kapısı,1.0
+activity:5ed8c42c,Activity,Jama Mescidi,1.0
+activity:86264056,Activity,Chandni Chowk,1.0
+activity:e9900789,Activity,Laxmi Narayan Tapınağı,1.0
+restaurant:11de8e81,Restaurant,Udayan Terrace,1.0
+restaurant:5b3fa0f0,Restaurant,Neelkamal Restaurant,1.0
+restaurant:aa7c7aae,Restaurant,Spice Route,1.0
+restaurant:485e5294,Restaurant,Bukhara - ITC Maurya Hotel,1.0
+restaurant:17705f53,Restaurant,City Palace Özel Akşam Yemeği,1.0
+restaurant:8da28230,Restaurant,Mewar Terrace,1.0
+trip:93beb6a1,Trip,Meksika Gezisi,1.0
+city:e04f3afa,City,Mexico City,1.0
+city:259e06b5,City,Mérida,1.0
+city:942d6784,City,Chichen Itza,1.0
+city:10cb76b1,City,Cancún,1.0
+country:c78273b5,Country,Meksika,1.0
+hotel:05012e0f,Hotel,The St. Regis Mexico City,1.0
+activity:19327ad1,Activity,Centro Histórico,1.0
+activity:8e049b6e,Activity,Zócalo Meydanı,1.0
+activity:d2d3edfb,Activity,Templo Mayor,1.0
+activity:8dc00995,Activity,Palacio de Bellas Artes,1.0
+activity:8c58535b,Activity,Plaza Manuel Tolsá,1.0
+activity:f967a5ee,Activity,Antropoloji Müzesi,1.0
+activity:bf039e5f,Activity,Coyoacán & Frida Kahlo Müzesi,1.0
+activity:25558edf,Activity,Polanco,1.0
+activity:942d6784,Activity,Chichen Itza,1.0
+activity:6bb95b2d,Activity,Kukulkan Piramidi,1.0
+activity:974c2720,Activity,Plaza Grande,1.0
+activity:ea688316,Activity,San Ildefonso Katedrali,1.0
+activity:b07ac5b1,Activity,Parque de Santa Lucía,1.0
+activity:b915cceb,Activity,Iglesia de Santa Lucía,1.0
+activity:846bee6f,Activity,Tekila & Mezcal Tadımı,1.0
+restaurant:33595980,Restaurant,Göl kenarında özel yemek,1.0
+restaurant:58e7abd3,Restaurant,Woodend Restaurant,1.0
+restaurant:80d3bfc6,Restaurant,Ixi’im,1.0
+restaurant:bf0c833f,Restaurant,Ki’ol,1.0
+trip:25f97247,Trip,Sicilya Gezisi,1.0
+city:ca25aef4,City,Katanya,1.0
+city:ec010995,City,Taormina,1.0
+city:fa3b4698,City,Savoca,1.0
+city:1c65b316,City,Forza d’Agrò,1.0
+city:dd045cee,City,Syracuse,1.0
+city:29323008,City,Ragusa,1.0
+city:8669fecf,City,Palermo,1.0
+hotel:4f4873e1,Hotel,Hotel Metropole Taormina,1.0
+activity:b8f12890,Activity,Corso Umberto,1.0
+activity:f322ad00,Activity,Piazza IX Aprile,1.0
+activity:eaa56022,Activity,Porta Messina,1.0
+activity:f22a6eb2,Activity,Porta Catania,1.0
+activity:2395acbe,Activity,Teatro Greco,1.0
+activity:d949c23e,Activity,Villa Comunale Bahçeleri,1.0
+activity:32b847a4,Activity,Bar Vitelli,1.0
+activity:ae27c6ab,Activity,Godfather Film Kilisesi - Savoca,1.0
+activity:eef4c0d5,Activity,Forza d’Agrò Ortaçağ Köyü,1.0
+activity:5398fcd3,Activity,Piazza del Municipio - Forza d’Agrò,1.0
+activity:4e5b0c11,Activity,Etna Yanardağı,1.0
+activity:c912e039,Activity,Ortigia Adası,1.0
+activity:b1582459,Activity,Ortigia Meydanı,1.0
+activity:fb9337b3,Activity,Syracuse Katedrali,1.0
+activity:e4ae5039,Activity,Arethusa Çeşmesi,1.0
+activity:015eedf0,Activity,Ragusa Ibla,1.0
+activity:00cb41ba,Activity,Cattedrale di San Giovanni Battista,1.0
+activity:57ca499e,Activity,Chiesa di Santa Maria delle Scale,1.0
+activity:cfd905c5,Activity,Palazzo della Cancelleria,1.0
+activity:b0ff6f3d,Activity,Chiesa Anime Sante del Purgatorio,1.0
+activity:e7111af3,Activity,Duomo di San Giorgio,1.0
+activity:195fcd5c,Activity,Giardini Iblei,1.0
+activity:8f8d7b8b,Activity,Santa Maria dello Spasimo Kilisesi,1.0
+restaurant:71e2f6d0,Restaurant,Osteria Rosso Divino,1.0
+restaurant:a6f52efa,Restaurant,Doba Restaurant and Terrace,1.0
+trip:0df60f69,Trip,Porto Gezisi,1.0
+city:71d6c631,City,Porto,1.0
+country:d461f393,Country,Portekiz,1.0
+hotel:95e8a656,Hotel,Maison Albar Hotels Le Monumental Palace,1.0
+activity:5a9fe6f3,Activity,Tuktuk Gezisi & Rehberli Yürüyüş Turu,1.0
+activity:225bddd8,Activity,Boavista,1.0
+activity:e6d83cbb,Activity,Foz do Douro,1.0
+activity:5ad0d66e,Activity,São Francisco Kilisesi,1.0
+activity:9a85f37f,Activity,Palácio da Bolsa,1.0
+activity:af5bbf96,Activity,São Bento Tren İstasyonu,1.0
+activity:de320d7c,Activity,Porto Katedrali,1.0
+activity:488d8db6,Activity,Liberdade Meydanı,1.0
+activity:d1098c9b,Activity,Batalha Meydanı,1.0
+activity:c3b9ed95,Activity,Ribeira Bölgesi,1.0
+activity:ac24e4e1,Activity,Torre dos Clérigos,1.0
+activity:8addd134,Activity,Santa Catarina Caddesi,1.0
+activity:34cab049,Activity,Lello Kütüphanesi,1.0
+activity:173ce3d2,Activity,Serralves Müzesi,1.0
+activity:b54efab9,Activity,Six Bridges Tekne Turu,1.0
+activity:213c83c8,Activity,Gaia Şarap Evleri,1.0
+activity:f0f7e6f0,Activity,Churchill Graham Şaraphanesi,1.0
+restaurant:96dc90d1,Restaurant,Enoteca 1756 Restaurant,1.0
+restaurant:5d3c396b,Restaurant,Marisqueira A Antiga,1.0
+restaurant:83986660,Restaurant,Casa de Chá de Boa Nova,1.0
+restaurant:24458dc3,Restaurant,Vinum Restaurant & Wine Bar,1.0
+trip:78e11708,Trip,Kahire Gezisi,1.0
+hotel:52a9710a,Hotel,Four Seasons Hotel Cairo at Nile Plaza,1.0
+activity:0576a07a,Activity,Sfenks,1.0
+activity:bbfa0057,Activity,Khufu Piramidi,1.0
+activity:21551743,Activity,Deve Gezisi - Piramitler,1.0
+activity:5f76d4af,Activity,Büyük Mısır Müzesi,1.0
+activity:d48113d9,Activity,Sultan Hassan Camii,1.0
+activity:50fff2b6,Activity,El Refaei Camii,1.0
+activity:8e46bc45,Activity,Mısır Müzesi - Eski Müze,1.0
+activity:fb53b385,Activity,Nil Nehri Felucca Tekne Gezisi,1.0
+restaurant:5c389dc2,Restaurant,Riviera - Four Seasons Hotel Cairo at Nile Plaza,1.0
+trip:51e96bc9,Trip,Endülüs Gezisi,1.0
+city:9d3ae5b2,City,Granada,1.0
+city:82bd8285,City,Córdoba,1.0
+city:ba5feb35,City,Sevilla,1.0
+city:d791d6ba,City,Ronda,1.0
+activity:3b1354f3,Activity,Elhamra Sarayı,1.0
+activity:9613828e,Activity,Generalife Bahçeleri,1.0
+activity:656d00b3,Activity,Alcazaba,1.0
+activity:8cdddedc,Activity,Partal,1.0
+activity:591122bd,Activity,Nasrid Sarayı,1.0
+activity:4a338768,Activity,Realejo Mahallesi,1.0
+activity:81b54396,Activity,Comendadoras de Santiago,1.0
+activity:e27540b0,Activity,Dominicans of Santo Domingo,1.0
+activity:9aa39d23,Activity,Fundación Rodriguez-Acosta Sanat Müzesi,1.0
+activity:f888c0ac,Activity,Carmen de los Mártires Bahçesi,1.0
+activity:131159af,Activity,Capilla Real,1.0
+activity:f8f2f577,Activity,Las Granadas Kapısı,1.0
+activity:0ff2a0a9,Activity,Mezquita Camii - Córdoba,1.0
+activity:b8e58fd9,Activity,Alcazar Kalesi - Córdoba,1.0
+activity:ab8d8a9e,Activity,Plaza Corredera - Córdoba,1.0
+activity:4dc04884,Activity,Musevi Mahallesi - Córdoba,1.0
+activity:8f28dde1,Activity,Sevilla Katedrali,1.0
+activity:f95d1bd4,Activity,Giralda Kulesi,1.0
+activity:9164a49f,Activity,Alcázar - Sevilla,1.0
+activity:32bde9af,Activity,Altın Kule (Torre del Oro),1.0
+activity:fb0dc5ba,Activity,Maria Luisa Parkı,1.0
+activity:47c21542,Activity,El Alamillo Köprüsü,1.0
+activity:10846bf9,Activity,Puente Nuevo - Ronda,1.0
+activity:0a385948,Activity,El Tajo Kanyonu,1.0
+activity:82349f61,Activity,Casa del Rey Moro,1.0
+activity:79ffe749,Activity,Ronda Tarihi Sokakları,1.0
+activity:798c8358,Activity,Plaza de Toros - Ronda,1.0
+trip:6e3e4464,Trip,Avustralya Gezisi,1.0
+city:7ba5643f,City,Ballarat,1.0
+city:8eb23c9d,City,Hobart,1.0
+city:851819ad,City,Adelaide,1.0
+city:6c36b0e9,City,Hahndorf,1.0
+city:1e8ea608,City,Barossa Valley,1.0
+city:e744ff67,City,Brisbane,1.0
+city:cf8e0e32,City,Surfers Paradise,1.0
+city:b36459fa,City,Canberra,1.0
+hotel:e7e59e2a,Hotel,"The Tasman, a Luxury Collection Hotel, Hobart",1.0
+activity:45c2c3bc,Activity,Royal Exhibition Binası - Melbourne,1.0
+activity:854224b6,Activity,Sanat Galerisi - Melbourne,1.0
+activity:3a106a02,Activity,Parlamento ve Hazine Binası - Melbourne,1.0
+activity:ad03ac30,Activity,Fitzroy Gardens & Captain Cook’un Evi,1.0
+activity:bea08ed3,Activity,Melbourne Müzesi,1.0
+activity:0b4ff441,Activity,Franklin Meydanı - Hobart,1.0
+activity:02bc2bcd,Activity,Sullivan’s Cove,1.0
+activity:548df1b5,Activity,Anayasa Limanı - Hobart,1.0
+activity:fc299725,Activity,Mount Wellington,1.0
+activity:db31340a,Activity,Alman Kasabası Hahndorf,1.0
+activity:6652758e,Activity,Barossa Valley Şarap Bağları,1.0
+activity:bad909ac,Activity,Brisbane Şehir Turu,1.0
+activity:36ba5841,Activity,Ateş Böceği Mağarası,1.0
+activity:08306cde,Activity,Surfers Paradise - Gold Coast,1.0
+activity:001791dd,Activity,Hyde Park Barracks - Sydney,1.0
+activity:3e143a78,Activity,Anzac-Atatürk Anıtı,1.0
+activity:a2d000a4,Activity,Sydney Harbour Bridge,1.0
+activity:6a37d315,Activity,Darling Harbour,1.0
+activity:3632e81b,Activity,Ulusal Müze - Sydney,1.0
+activity:2661fd1a,Activity,Sydney Opera House,1.0
+activity:323dbe26,Activity,Canberra Şehir Turu,1.0
+restaurant:a8d59933,Restaurant,Nehir Kenarı Restoran - Adelaide,1.0
+restaurant:1cf8a8d2,Restaurant,Yerel Lüks Restoran - Adelaide,1.0
+trip:cce886ad,Trip,Barselona Gezisi,1.0
+city:db31870d,City,Girona,1.0
+hotel:38bf3157,Hotel,Almanac Barcelona,1.0
+activity:8939c2d0,Activity,La Rambla,1.0
+activity:ca012884,Activity,Sagrada Familia,1.2
+activity:0964b8ac,Activity,Ciutadella Park,1.0
+activity:0ec6afb8,Activity,Plaza España,1.0
+activity:9ee5783f,Activity,Girona Gotik Katedrali,1.0
+restaurant:d329e087,Restaurant,Maná 75,1.0
+restaurant:331a37bf,Restaurant,El Tribut,1.0
+restaurant:12a27e4f,Restaurant,BarcelonaMilona,1.0
+restaurant:a9fdb65a,Restaurant,Restaurant Normal,1.0
+trip:1011df1c,Trip,Puglia Gezisi,1.0
+city:64c9ea03,City,Locorotondo,1.0
+activity:8a91c66f,Activity,Santa Croce Bazilikası - Lecce,1.0
+activity:277bc882,Activity,San Giuseppe Kilisesi - Lecce,1.0
+activity:428bfa99,Activity,Palazzo dei Celestini - Lecce,1.0
+activity:0bf5a584,Activity,Sant’Oronzo Meydanı - Lecce,1.0
+activity:73014101,Activity,Roma Amfi Tiyatrosu - Lecce,1.0
+activity:1abf1d02,Activity,Trulli Evleri - Alberobello,1.0
+activity:4addddf9,Activity,Locorotondo Şehir Gezisi,1.0
+activity:6b483cee,Activity,Monopoli Tarihi Merkezi,1.0
+activity:9f3854d4,Activity,Polignano a Mare,1.0
+activity:d061c35e,Activity,Domenico Modugno Heykeli - Polignano a Mare,1.0
+activity:eab17527,Activity,Matera Kaya Evleri,1.0
+activity:57a88988,Activity,Matera Kiliseleri ve Mağaraları,1.0
+activity:4f8eb135,Activity,Napoli Tarihi Merkezi,1.0
+activity:0485f998,Activity,Vezüv Yanardağı,1.0
+activity:560e412f,Activity,Pompei Antik Kenti,1.0
+restaurant:2b26808c,Restaurant,Ristorante Blunotte,1.0
+restaurant:d91f8f12,Restaurant,Ristorante La Cantina,1.0
+restaurant:65a1439f,Restaurant,Pizzeria Casa Pinto,1.0
+trip:a2e41bec,Trip,Alegra Benardete ile Sicilya’da Nefes,1.0
+city:50c7beb2,City,Siracusa,1.0
+city:ff8dfd5f,City,Ortigia,1.0
+city:f328a6e4,City,Noto,1.0
+hotel:3d5c1a7d,Hotel,Casa Di Melo Otel,1.0
+activity:389feb56,Activity,Ortigia Roma Amfi Tiyatrosu,1.0
+activity:78943b86,Activity,Duomo Meydanı - Ortigia,1.0
+activity:f488de3d,Activity,Fonte Arethusa,1.0
+activity:a521b0b8,Activity,Maniace Kalesi,1.0
+activity:56b604de,Activity,Arşimed Meydanı,1.0
+activity:dd4735de,Activity,Corso Vittorio Emanuele - Noto,1.0
+activity:36691019,Activity,Chiesa di San Francesco - Noto,1.0
+activity:d72538d2,Activity,Duomo - Noto,1.0
+activity:0dd24539,Activity,Palazzo Ducezio - Noto,1.0
+activity:6056d0dd,Activity,Palazzo Nicolaci - Noto,1.0
+activity:bd051081,Activity,Chiesa di San Carlo - Noto,1.0
+activity:cef566a1,Activity,MAT Museum - Noto,1.0
+activity:162da777,Activity,Siracusa Arkeoloji Parkı,1.0
+activity:5c5345ef,Activity,Latomie - Siracusa,1.0
+activity:34fe59ed,Activity,Yunan Tiyatrosu - Siracusa,1.0
+activity:8acbb12a,Activity,Roma Amfi Tiyatrosu - Siracusa,1.0
+activity:0384153a,Activity,Taormina Gezisi,1.0
+trip:72d1ed03,Trip,Arjantin Gezisi,1.0
+city:90491ab2,City,Ushuaia,1.0
+city:288fe770,City,Puerto Madryn,1.0
+activity:f111a78b,Activity,Tango Gösterisi - Buenos Aires,1.0
+activity:a0114eb6,Activity,Tierra del Fuego Milli Parkı - Ushuaia,1.0
+activity:b718ca03,Activity,Beagle Kanalı - Ushuaia,1.0
+activity:ce09c4a7,Activity,Peninsula Valdes - Puerto Madryn,1.0
+restaurant:0942c4f3,Restaurant,Tango House,1.0
+trip:3eecd4a6,Trip,Bangkok & Hong Kong Gezisi,1.0
+city:9690a92f,City,Macau,1.0
+city:db1e8c64,City,Hong Kong,1.0
+country:6bc00b77,Country,Çin,1.0
+hotel:b22c1b19,Hotel,Lebua at State Tower Hotel,1.0
+activity:a1a90aba,Activity,Grand Palace & Wat Phra Kaew - Bangkok,1.0
+activity:f8f0fa6e,Activity,Wat Pho Tapınağı - Bangkok,1.0
+activity:388d42e7,Activity,Wat Arun Tapınakları - Bangkok,1.0
+activity:59292fdb,Activity,Royal Barge Ulusal Müzesi - Bangkok,1.0
+activity:664e2d70,Activity,Wang Lang Market - Bangkok,1.0
+activity:54ffe429,Activity,Pak Khlong Talat Çiçek Pazarı - Bangkok,1.0
+activity:bae46033,Activity,Çiçek Kültürü Müzesi - Bangkok,1.0
+activity:f6ea38a4,Activity,Wat Suthat Tapınağı - Bangkok,1.0
+activity:a35f4e4e,Activity,Aziz Paulo Katedrali Harabesi - Macau,1.0
+activity:f489fb54,Activity,Macau Müzesi,1.0
+activity:88d2391b,Activity,Macau Kulesi,1.0
+activity:ece6c99a,Activity,Monte Hisarı,1.0
+activity:e417dec2,Activity,A-Ma Tapınağı,1.0
+activity:9ee81f97,Activity,Senado Meydanı,1.0
+activity:e1a03e2f,Activity,Sun Yat Sen’in Müze Evi,1.0
+activity:a430dd5a,Activity,Macau Şarap Müzesi,1.0
+activity:5ff0d3db,Activity,Macau Casinoları,1.0
+activity:a7781d5d,Activity,Wong Tai Sin Tapınağı - Hong Kong,1.0
+activity:df2e3e42,Activity,Lam Tsuen Dilek Ağacı - Hong Kong,1.0
+activity:ad20fabb,Activity,Tai Po Old Market - Hong Kong,1.0
+activity:5029dccb,Activity,Hong Kong Miras Müzesi,1.0
+activity:1d5e4841,Activity,Lantau Adası Turu,1.0
+activity:731434c6,Activity,Kowloon Turu,1.0
+restaurant:47d3c502,Restaurant,Err Restaurant,1.0
+restaurant:e3e01077,Restaurant,Sala Rattanakosin Restaurant,1.0
+restaurant:84c6c819,Restaurant,Eat Me Restaurant,1.0
+trip:12f62707,Trip,Bhutan & Nepal Gezisi,1.0
+city:f1a793fb,City,Katmandu,1.0
+city:a7549e8a,City,Paro,1.0
+city:c230987d,City,Punakha,1.0
+city:06da6b56,City,Thimphu,1.0
+city:2bc81cbf,City,Bhaktapur,1.0
+country:45f1a4b4,Country,Nepal,1.0
+country:6a748bb7,Country,Bhutan,1.0
+activity:88b02c2a,Activity,Pashupatinath Tapınağı - Katmandu,1.0
+activity:c5a9f76f,Activity,Bhaktapur - Katmandu,1.0
+activity:2abf4e9e,Activity,Taktsang (Tiger’s Nest) Manastırı - Paro,1.0
+activity:f9754be3,Activity,Punakha Dzong - Punakha,1.0
+activity:75300441,Activity,Thimphu Şehir Turu,1.0
+trip:3b0fa65f,Trip,Bilbao & San Sebastián Gezisi,1.0
+city:792cb8b3,City,San Sebastián,1.0
+city:02c8a993,City,Hondarribia,1.0
+city:fb374dfd,City,Saint-Jean-de-Luz,1.0
+hotel:adc5c991,Hotel,Hotel Du Palais Biarritz,1.0
+activity:0c1af88c,Activity,Guggenheim Müzesi - Bilbao,1.0
+activity:9037ec0d,Activity,San Sebastián Şehir Gezisi,1.0
+activity:8a4b4755,Activity,La Concha Plajı,1.0
+activity:9e75f98b,Activity,Zurriola Plajı,1.0
+activity:97e541fe,Activity,San Telmo Müzesi - San Sebastián,1.0
+activity:d5fbb3dd,Activity,Monte Urgull - San Sebastián,1.0
+activity:c5f14b6b,Activity,Monte Igueldo - San Sebastián,1.0
+activity:3c5124ba,Activity,Victoria Eugenia Tiyatrosu - San Sebastián,1.0
+activity:d563616a,Activity,Miramar Sarayı - San Sebastián,1.0
+activity:47d5688b,Activity,Hondarribia Eski Şehir ve Surlar,1.0
+activity:4997035f,Activity,Rue Gambetta - Saint-Jean-de-Luz,1.0
+activity:d27a5033,Activity,Place Louis XIV - Saint-Jean-de-Luz,1.0
+activity:1b11394c,Activity,Eglise Saint-Jean-Baptiste - Saint-Jean-de-Luz,1.0
+activity:9e0ddc84,Activity,Biarritz Grande Plage,1.0
+activity:47cb8a3c,Activity,Casino Municipal - Biarritz,1.0
+activity:2e0bbb19,Activity,Chapelle Impériale - Biarritz,1.0
+activity:408f163c,Activity,Musée Asiatica - Biarritz,1.0
+restaurant:8f2b5b58,Restaurant,Hotel Du Palais Biarritz - Le Sunset,1.0
+trip:fcab6036,Trip,Brezilya & Arjantin Gezisi,1.0
+city:f8bb36ca,City,Foz do Iguaçu,1.0
+hotel:f0be1266,Hotel,Park Hyatt - Palacio Duhau Hotel,1.0
+activity:2aad8256,Activity,Cristo Redentor Heykeli - Corcovado,1.0
+activity:94a28200,Activity,Santa Teresa Semti - Rio,1.0
+activity:5b3ea171,Activity,Museu da Chácara do Céu,1.0
+activity:6457cb9d,Activity,Harabeler Parkı - Rio,1.0
+activity:79574559,Activity,Sugar Loaf Dağı,1.0
+activity:8b082ee9,Activity,Tijuca Ormanı ve Vista Chinesa,1.0
+activity:c7d5642d,Activity,Pepe Plajı,1.0
+activity:b82fdbc2,Activity,Sao Conrado Plajı,1.0
+activity:b6731898,Activity,Leblon Plajı,1.0
+activity:fad74afb,Activity,Iguazú Şelaleleri Milli Parkı,1.0
+activity:ec21032a,Activity,Plaza de Mayo - Buenos Aires,1.0
+activity:f31c5e95,Activity,San Telmo Semti,1.0
+activity:53c5a2b7,Activity,La Boca Semti,1.0
+activity:8669fecf,Activity,Palermo,1.0
+activity:9680e107,Activity,Tigre Delta Tekne Gezisi,1.0
+restaurant:3bdbd080,Restaurant,Rio Restaurant Önerileri,1.0
+restaurant:ef0fcfdc,Restaurant,Buenos Aires Restaurant Önerileri,1.0
+trip:37f754c4,Trip,Burgonya Gezisi,1.0
+city:551d57a9,City,Beaune,1.0
+city:7c978763,City,Dijon,1.0
+city:4bb5b918,City,Nuits-Saint-Georges,1.0
+city:a8a0c8f7,City,Vézelay,1.0
+city:d02cfe7f,City,Cluny,1.0
+city:0f574742,City,Fleurie,1.0
+activity:a521a07f,Activity,Hospices de Beaune (Hôtel-Dieu),1.0
+activity:183036e3,Activity,Saint-Martin de l’Aigue Kilisesi,1.0
+activity:108a1ce7,Activity,Saint-Baudèle Kilisesi,1.0
+activity:d502c606,Activity,Saint-Flocel Kilisesi,1.0
+activity:c3a630be,Activity,Notre-Dame Kilisesi - Beaune,1.0
+activity:a1ed6347,Activity,Sainte-Madeleine Kilisesi,1.0
+activity:07c17885,Activity,Musée du Vin de Bourgogne,1.0
+activity:476ad877,Activity,Musée des Beaux-Arts - Beaune,1.0
+activity:4eb5b3ee,Activity,Palais des ducs de Bourgogne - Dijon,1.0
+activity:530cc3ff,Activity,Musée des Beaux-Arts - Dijon,1.0
+activity:9d00a313,Activity,Saint-Michel Kilisesi - Dijon,1.0
+activity:503d7e29,Activity,Saint-Philibert Kilisesi - Dijon,1.0
+activity:80a53575,Activity,Notre-Dame Kilisesi - Dijon,1.0
+activity:f9a644a4,Activity,Saint-Bénigne Katedrali - Dijon,1.0
+activity:3598d0ba,Activity,Rue de la Liberté - Dijon,1.0
+activity:f333c6ec,Activity,Beffroi Meydanı - Nuits-Saint-Georges,1.0
+activity:8e05af39,Activity,Église Saint-Symphorien - Nuits-Saint-Georges,1.0
+activity:280b66f4,Activity,Domaine Rion Armelle et Bernard - Şarap Tadımı,1.0
+activity:44c862fd,Activity,Abbaye Sainte-Marie-Madeleine - Vézelay,1.0
+activity:39edb1d3,Activity,Colline Éternelle - Vézelay Şarap Tadımı,1.0
+activity:8a4dff9f,Activity,Benedictine Manastırı - Cluny,1.0
+activity:c1279a77,Activity,Musée d’Art et d’Archéologie - Cluny,1.0
+activity:aea7af21,Activity,Tour de Fromages - Cluny,1.0
+activity:ff8ea155,Activity,Hôtel-Dieu - Cluny,1.0
+activity:ae2246af,Activity,Beaujolais Şarap Bağları - Fleurie,1.0
+restaurant:bec608b5,Restaurant,Auberge de la Madone - Fleurie,1.0
+trip:8243cd2e,Trip,San Sebastián ve Bask Bölgesi Gezisi (Can Özdemir),1.0
+city:a5c9e737,City,Getaria,1.0
+hotel:7ce45995,Hotel,Hotel de Londres y de Inglaterra,1.0
+hotel:2321f7a6,Hotel,Hotel Villa Favorita,1.0
+hotel:6b16c32f,Hotel,Hotel Zenit Convento San Martín,1.0
+activity:fe4da89e,Activity,Parte Vieja - San Sebastián,1.0
+activity:9917d5d6,Activity,Kursaal Oditoryumu - San Sebastián,1.0
+activity:df0b6b79,Activity,Igueldo Tepesi - San Sebastián,1.0
+activity:e8c7494e,Activity,La Bretxa Food Market - San Sebastián,1.0
+activity:6459192b,Activity,La Concha Plajı - San Sebastián,1.0
+activity:4dee4011,Activity,Getaria Balıkçı Köyü,1.0
+activity:bc23f995,Activity,Gaztetape Plajı - Getaria,1.0
+activity:8953edb2,Activity,Malkorbe Plajı - Getaria,1.0
+activity:ab03ce45,Activity,Cristóbal Balenciaga Museoa - Getaria,1.0
+activity:5075bc97,Activity,Saint-Jean-de-Luz Plajları,1.0
+activity:727e18e1,Activity,Rue Mazarin - Saint-Jean-de-Luz,1.0
+activity:c11f5bb3,Activity,Quai de l’Infante - Saint-Jean-de-Luz,1.0
+activity:a0361965,Activity,Sanat Galerileri - Saint-Jean-de-Luz,1.0
+activity:d8716063,Activity,Biarritz Şehir Turu,1.0
+activity:83ab7d0e,Activity,Bilbao Şehir Turu,1.0
+restaurant:c0e6786a,Restaurant,Elkano Restoran - Getaria,1.0
+restaurant:7e99e1d9,Restaurant,Guggenheim Müzesi Restoranı - Bilbao,1.0
+trip:f170aa56,Trip,Cape Town Gezisi,1.0
+hotel:60076da3,Hotel,One&Only Cape Town,1.0
+activity:bad6cc06,Activity,Masa Dağı (Table Mountain),1.0
+activity:62f869d6,Activity,V&A Waterfront,1.0
+activity:35aac1af,Activity,Ümit Burnu Kalesi,1.0
+activity:70caf9e8,Activity,Cape Town Belediye Binası,1.0
+activity:8bf20538,Activity,Bo-Kaap Mahallesi,1.0
+activity:d2ff7877,Activity,Cape Point,1.0
+activity:315b20fc,Activity,Chapman’s Peak Drive,1.0
+activity:121e565c,Activity,Hout Bay & Seal Island,1.0
+activity:273d4a83,Activity,Boulders Beach - Penguenler,1.0
+activity:4a0f206d,Activity,Camps Bay Plajı,1.0
+activity:c825063f,Activity,Stellenbosch Vadisi Şarap Bağları,1.0
+activity:705776f1,Activity,Franschhoek,1.0
+activity:b4a95fe4,Activity,Iziko Güney Afrika Müzesi ve Planetaryum,1.0
+restaurant:05e096fe,Restaurant,Nobu - One&Only Cape Town,1.0
+restaurant:8eeb5cc8,Restaurant,Aubergine Restaurant,1.0
+restaurant:c670fd5f,Restaurant,Buitenverwachting Restaurant,1.0
+restaurant:e94bab06,Restaurant,Harbour House Restaurant - Kalk Bay,1.0
+restaurant:5052ecb8,Restaurant,Delaire Graff Indochine Restaurant,1.0
+trip:7ebb5231,Trip,Lapland Rovaniemi Gezisi,1.0
+city:b28b937e,City,Rovaniemi,1.0
+country:bcf7cec6,Country,Finlandiya,1.0
+hotel:680f49e1,Hotel,Arctic TreeHouse Hotel,1.0
+hotel:52d3fd66,Hotel,Santa’s Igloos Arctic Circle,1.0
+activity:b20e1ec8,Activity,Husky Safari,1.0
+activity:68f140f5,Activity,Snowmobile Safari,1.0
+activity:70ffbf0c,Activity,Reindeer Safari,1.0
+activity:c144223e,Activity,Aurora Borealis Macerası,1.0
+activity:9b7c385a,Activity,Santa Claus Village Gezisi,1.0
+activity:2658cf73,Activity,Kar Bisikleti Turu,1.0
+activity:8333546f,Activity,Kar Ayakkabısı Yürüyüşü,1.0
+activity:25c5b5c6,Activity,Kicksled Deneyimi,1.0
+activity:f0b8cbca,Activity,Kızaklı Sandalye,1.0
+activity:d610c46a,Activity,Cam Igloo Deneyimi,1.0
+restaurant:8be5e03e,Restaurant,Rakas Restaurant & Bar,1.0
+restaurant:def44d27,Restaurant,MonteRosa Restaurant,1.0
+restaurant:c2b75322,Restaurant,Gustav Kitchen & Bar,1.0
+restaurant:779788c5,Restaurant,Glass Restaurant - Santa Claus Village,1.0
+restaurant:a6e92e4d,Restaurant,Arctic Restaurant,1.0
+restaurant:5f73cf6b,Restaurant,Ice Restaurant,1.0
+restaurant:558735b6,Restaurant,Kota Restaurant,1.0
+trip:34b56e58,Trip,Kenya & Rwanda Safari Gezisi,1.0
+city:af2a8190,City,Nairobi,1.0
+city:62396b65,City,Masai Mara,1.0
+city:c605246a,City,Kigali,1.0
+city:68a6ea6d,City,Volcanoes National Park,1.0
+country:577e905f,Country,Kenya,1.0
+country:53642566,Country,Ruanda,1.0
+hotel:0216eb9a,Hotel,Four Points by Sheraton JKIA,1.0
+hotel:359f5528,Hotel,Sanctuary Olonana,1.0
+hotel:0394a3e7,Hotel,Bisate Lodge,1.0
+activity:fb03c53a,Activity,Masai Mara Safari,1.0
+activity:f9810373,Activity,Game Drives - Masai Mara,1.0
+activity:1d334980,Activity,Volcanoes National Park Gorilla Trekking,1.0
+activity:852b95fc,Activity,Kigali Şehir Turu,1.0
+trip:e659abaf,Trip,Lizbon Seyahat Programı - SAHA,1.0
+city:b81dd33b,City,Lizbon,1.0
+hotel:cf74eee1,Hotel,"Bairro Alto Hotel, Praça Luís de Camões, 2 1200",1.0
+activity:a04f3f33,Activity,09 Kasım 2022: İstanbul – Lizbon uçuşu (TK 1759),1.0
+activity:55e23aeb,Activity,"09 Kasım 2022: Bairro Alto Hotel transfer, check-in ve serbest zaman",1.0
+trip:95d6f0be,Trip,Sicilya & Malta Gezisi,1.0
+city:13e69beb,City,Etna,1.0
+city:f984a532,City,Modica,1.0
+city:6521fe1f,City,Valletta,1.0
+city:41123aa7,City,Senglea,1.0
+city:7a61e6b5,City,Vittoriosa,1.0
+city:1f7f2867,City,Cospicua,1.0
+city:80ce1cc2,City,Mdina,1.0
+country:d20a9067,Country,Malta,1.0
+hotel:3f03c134,Hotel,Grand Hotel Timeo - Deluxe Sea View Junior Suite with balcony or terrace,1.0
+activity:d0634ecd,Activity,İstanbul – Katanya uçuşu TK 1395,1.0
+activity:3971701f,Activity,Taormina şehir turu,1.0
+activity:825da790,Activity,Savoca köyü gezisi,1.0
+activity:7eda0b2b,Activity,Etna Yanardağı gezisi,1.0
+activity:d7cba934,Activity,Siracusa ve Noto ziyaretleri,1.0
+activity:ffb9a50b,Activity,Modica ve Ragusa turları,1.0
+activity:77f3f454,Activity,Valletta şehir turu,1.0
+activity:fe8b8052,Activity,"Senglea, Vittoriosa ve Cospicua üçlü gezisi",1.0
+activity:0da625e6,Activity,Mdina şehir turu,1.0
+restaurant:5e54c826,Restaurant,Osteria Rosso Divino (Taormina),1.0
+restaurant:a4243b1c,Restaurant,Regina Lucia Ristorante (Siracusa),1.0
+trip:71140c38,Trip,Vietnam & Kamboçya Gezisi,1.0
+city:207462d2,City,Hanoi,1.0
+city:c7a95bbf,City,Ha Long,1.0
+city:83191eff,City,Ho Chi Minh (Saygon),1.0
+city:994e7927,City,Mekong Deltası,1.0
+city:d384bed4,City,Siem Reap,1.0
+city:367cca80,City,Phnom Penh,1.0
+country:5f8f9e33,Country,Vietnam,1.0
+country:b0c36e7e,Country,Kamboçya,1.0
+hotel:f96f8e35,Hotel,Sofitel Legend Metropole (Hanoi),1.0
+hotel:355483e1,Hotel,Violet Cruise (Ha Long Körfezi),1.0
+hotel:7951d60b,Hotel,"Otel (Ho Chi Minh, ismi belirtilmemiş)",1.0
+hotel:411ac53c,Hotel,"Otel (Siem Reap, ismi belirtilmemiş)",1.0
+activity:50c8a6d5,Activity,"Hanoi şehir turu: Ho Chi Minh Mozolesi, Başkanlık Sarayı, Tek Sütunlu Pagoda, Edebiyat Tapınağı",1.0
+activity:4b0d1c9c,Activity,Hanoi’de pedallı taksi (rikşov) gezisi,1.0
+activity:79e2c2e0,Activity,Ha Long Körfezi’nde deniz uçağı ile ulaşım ve Violet Cruise konaklaması,1.0
+activity:d18f8f1b,Activity,"Ha Long Körfezi’nde mağara keşfi, yüzme ve balık avı",1.0
+activity:f21c9f8a,Activity,"Ho Chi Minh şehir turu: China Town, Thien Hau Tapınağı, Notre Dame Katedrali, Posta Merkezi, Belediye Tiyatrosu",1.0
+activity:9aabda7c,Activity,"Mekong Deltası gezisi: bot turları, noodle yapımı, meyve bahçeleri, yerel aile ziyareti",1.0
+activity:b58360dd,Activity,"Siem Reap (Angkor) gezisi: Angkor Thom, Bayon Tapınağı, Baphuon, Kraliyet Sarayı, Fil Terası",1.0
+activity:d5fa1d4e,Activity,"Phnom Penh şehir turu: Artisan D’Angkor el işi okulu, Phsar Chas çarşısı",1.0
+restaurant:47d463fd,Restaurant,"Yerel restoranlarda öğle yemekleri (Hanoi, Ho Chi Minh turları sırasında)",1.0
+restaurant:fc660982,Restaurant,Ha Long Violet Cruise – deniz ürünleri ve geleneksel Vietnam mutfağı,1.0
+restaurant:79e338ae,Restaurant,Mekong Deltası – nehir kenarında restoran,1.0
+restaurant:7d12c31e,Restaurant,Yerel aile evi – çay ve taze meyve ikramı,1.0
+trip:aabbebb5,Trip,Kenya Safari Gezisi - Şule Zorlu,1.0
+hotel:35a24469,Hotel,Giraffe Manor,1.0
+hotel:5fc0b45d,Hotel,Sala’s Camp,1.0
+hotel:44448bf8,Hotel,The Retreat (günübirlik kullanım),1.0
+activity:8974a667,Activity,Giraffe Manor’da zürafalarla kahvaltı ve ikindi çayı,1.0
+activity:9238ca1e,Activity,Masai Mara’da safari ve game drive aktiviteleri,1.0
+activity:b5b00503,Activity,Sala’s Camp konaklamasında vahşi yaşam deneyimleri,1.0
+activity:998ed585,Activity,Sanctuary Olonana’da doğa aktiviteleri ve safari,1.0
+restaurant:f26bca0e,Restaurant,"The Retreat (kahvaltı, öğle yemeği)",1.0
+restaurant:78811280,Restaurant,Giraffe Manor (kahvaltı & ikindi çayı),1.0
+trip:57af3392,Trip,"İtalya Gezisi - Bologna, Floransa, Toskana & Forte dei Marmi",1.0
+city:f5cb53e2,City,Toskana,1.0
+city:519b646c,City,Forte dei Marmi,1.0
+activity:51a86fa5,Activity,Ferrari Müzesi ziyareti ve test sürüşü,1.0
+activity:9b881680,Activity,Balsamik sirke tadımı ve üretici ziyareti,1.0
+activity:8436741b,Activity,Parmesan peyniri tadımı,1.0
+activity:c2baf976,Activity,Lamborghini Müzesi gezisi,1.0
+activity:dfd71d11,Activity,Floransa şehir turu (Piazza Della Signoria ve diğer yapılar),1.0
+activity:fb5db192,Activity,Toskana’da şarap bağları ve bölgesel geziler,1.0
+activity:81a8ff88,Activity,Forte dei Marmi sahil tatili,1.0
+trip:eafc6de9,Trip,"Prag, Karlovy Vary & Cesky Krumlov Gezisi - Beril Miskavi",1.0
+city:e575530b,City,Prag,1.0
+city:7030f340,City,Karlovy Vary,1.0
+city:d5fdf584,City,Cesky Krumlov,1.0
+country:093aa9a7,Country,Çekya,1.0
+activity:390c7831,Activity,"Prag şehir turu: Prag Kalesi, St. Vitus Bazilikası, Altın Yol",1.0
+activity:dff22b18,Activity,Karlovy Vary gezisi,1.0
+activity:f7160c57,Activity,Cesky Krumlov şehir turu,1.0
+restaurant:8079c278,Restaurant,"Kampa Park Restaurant (Na Kampě 8b, Prag)",1.0
+trip:664847a6,Trip,Endülüs Gezisi - Berrin Zorlu,1.0
+city:3292248c,City,Malaga,1.0
+city:fb858e4d,City,Cordoba,1.0
+activity:ef70ad29,Activity,"Granada şehir merkezi turu (Realejo Mahallesi, Capilla Real, Katedral, Madraza)",1.0
+activity:737deaaf,Activity,Elhamra Sarayı gezisi,1.0
+activity:f4956383,Activity,Cordoba turu,1.0
+activity:0b6bfac7,Activity,Ronda gezisi,1.0
+activity:e6c12685,Activity,Sevilla şehir turu,1.0
+trip:ee7dfc94,Trip,Ürdün Gezisi - Berrin Zorlu,1.0
+city:0f7a389d,City,Amman,1.0
+city:fb88c48c,City,Mount Nebo,1.0
+city:8c270405,City,Madaba,1.0
+city:6ad61cf5,City,Petra,1.0
+city:69b30b7c,City,Wadi Rum,1.0
+city:d849e5a0,City,Dead Sea,1.0
+country:968063ff,Country,Ürdün,1.0
+activity:e89a1031,Activity,Amman şehir turu,1.0
+activity:502ea790,Activity,Mount Nebo ve Madaba ziyareti,1.0
+activity:b01cf0b1,Activity,Petra Antik Kenti gezisi,1.0
+activity:6ab15b90,Activity,Wadi Rum çöl safarisi,1.0
+activity:5259ec3e,Activity,Dead Sea’de konaklama ve dinlenme,1.0
+trip:d7fc9768,Trip,BAE Gezisi - Fuat Pamukçu,1.0
+city:078dbf79,City,Abu Dhabi,1.0
+city:076247a1,City,Ras Al Khaimah,1.0
+hotel:ad9ef248,Hotel,"The St. Regis Saadiyat Island Resort, Abu Dhabi",1.0
+hotel:054e3eee,Hotel,The Ritz Carlton Ras Al Khaimah,1.0
+hotel:ee4fa270,Hotel,"Address Dubai Mall, Dubai",1.0
+activity:10a0b38a,Activity,Sunset Electric Dragon Boat Experience - Jubail Mangrove Park,1.0
+activity:99e60f29,Activity,Ferrari World Abu Dhabi – Driving Experience,1.0
+activity:e678f9bc,Activity,"Louvre Museum, Abu Dhabi",1.0
+activity:c46001cd,Activity,Çöl Safarisi,1.0
+activity:130c6545,Activity,Çölde Akşam Yemeği,1.0
+activity:d8f8625e,Activity,Dubai Autodrome Circuit,1.0
+activity:f15e27d7,Activity,New Year's Eve Celebration - The Restaurant at Address Dubai Mall,1.0
+restaurant:798f27b6,Restaurant,Hakkasan Abu Dhabi,1.0
+restaurant:34e90df7,Restaurant,Ula Beach RAK,1.0
+restaurant:9fefa7a4,Restaurant,The Guild Dubai,1.0
+restaurant:f604fbdd,Restaurant,WHITE Beach Dubai,1.0
+restaurant:58698ea8,Restaurant,Estiatorio Milos Dubai,1.0
+restaurant:2d9218e3,Restaurant,The MAINE Oyster Bar & Grill JBR,1.0
+restaurant:c6c9729e,Restaurant,La Cantine Beach,1.0
+restaurant:5c5ed091,Restaurant,The Restaurant at Address Dubai Mall,1.0
+trip:1ec32ac8,Trip,Peru Gezisi - Seda Soğancıoğlu,1.0
+city:67429235,City,Lima,1.0
+city:6a2e13b8,City,Cusco,1.0
+city:2a5a7946,City,Sacred Valley,1.0
+city:134d69e3,City,Machu Picchu,1.0
+country:32e8419a,Country,Peru,1.0
+hotel:389f2d8a,Hotel,Belmond Miraflores Park (Lima),1.0
+activity:f2fb6802,Activity,Lima şehir turu (Plaza Mayor ve tarihi merkez),1.0
+activity:e10f8722,Activity,Cusco turu,1.0
+activity:5828134c,Activity,Sacred Valley gezisi,1.0
+activity:3e4eaa8a,Activity,Machu Picchu ziyareti,1.0
+trip:8e47d9e6,Trip,USA Gezisi - Selen Zorlu,1.0
+city:5cbe8b23,City,New York,1.0
+country:152649df,Country,Amerika Birleşik Devletleri,1.0
+activity:eda0db54,Activity,Central Park ziyareti,1.0
+activity:643179a8,Activity,New York şehir turu (müze ve meydanlar),1.0
+activity:0a46292d,Activity,Kültürel ve alışveriş aktiviteleri,1.0
+trip:fa506cce,Trip,Hindistan Gezisi - Berrin Zorlu,1.0
+activity:47902cd9,Activity,Varanasi’de Ganj Nehri kıyısında Aarti töreni,1.0
+activity:3af7c3f3,Activity,Jaipur şehir turu,1.0
+activity:301cc56a,Activity,Udaipur göl gezileri ve saray ziyareti,1.0
+activity:139f564f,Activity,Delhi şehir turu,1.0
+trip:631bacdb,Trip,Mısır Gezisi - Hakan Ateş,1.0
+activity:ae243a4f,Activity,"Giza Piramitleri gezisi (Keops, Kefren, Mikerinos)",1.0
+activity:d363afa3,Activity,Sfenks ziyareti,1.0
+activity:15f6647a,Activity,Kahire şehir gezisi,1.0
+trip:7b93256e,Trip,Provence Gezisi - Olgun Zorlu,1.0
+city:9f916055,City,Marsilya,1.0
+activity:7c10228f,Activity,Gordes ve Roussillon köy gezileri,1.0
+activity:8d876ecf,Activity,Sanat atölyeleri ve butik mağazalar,1.0
+activity:0514ef54,Activity,Provence manzaraları ve şato ziyareti,1.0
+trip:bb58cce5,Trip,Toskana Gezisi - Selen Zorlu,1.0
+city:eaf45a85,City,San Casciano Val di Pesa,1.0
+activity:7405ab49,Activity,San Casciano Val di Pesa kasabası ziyareti,1.0
+activity:1fe4024d,Activity,Floransa çevresinde geziler,1.0
+activity:0a83cb5c,Activity,Chianti bölgesinde üzüm bağları ve köyler,1.0
+trip:439e70a8,Trip,Güney Afrika Gezisi - Tanju Kaya,1.0
+city:a7391821,City,Johannesburg,1.0
+city:761b70df,City,Sabi Sand,1.0
+city:1cea819a,City,Kruger,1.0
+hotel:e2908294,Hotel,Sabi Sabi Little Bush Camp,1.0
+hotel:005251c8,Hotel,The Table Bay,1.0
+activity:e4100d8d,Activity,Sabi Sabi’de sabah ve akşam safari turları,1.0
+activity:09f3e64d,Activity,Cape Town V&A Waterfront gezisi,1.0
+activity:917e3d72,Activity,Cape Town şehir turu ve çevre gezileri,1.0
+trip:9604c7f7,Trip,Tayland & Vietnam Gezisi,1.0
+city:6a17faad,City,Danang,1.0
+city:1e5c810d,City,Saigon,1.0
+hotel:b8f46051,Hotel,"Mandarin Oriental, Bangkok",1.0
+hotel:c10b4db4,Hotel,"Anantara Golden Triangle, Chiang Rai",1.0
+activity:6f421baa,Activity,Bangkok kanal turu (Thonburi Klongs) ve Chao Phraya Nehri gezisi,1.0
+activity:c1cc6cb7,Activity,"Bangkok şehir turu: Wat Arun, Wat Pho, Çin Mahallesi",1.0
+activity:188b6005,Activity,"Chiang Rai’de fil sürüşü, Altın Üçgen gezisi veya yemek kursu",1.0
+activity:6a59ea75,Activity,Tra Que Organic Village bisiklet turu,1.0
+activity:a002e9da,Activity,The Market Restaurant’ta Vietnam yemek kursu,1.0
+restaurant:9b2367b0,Restaurant,The Market Restaurant (Vietnam),1.0
+trip:a9799fac,Trip,Tayland & Endonezya Gezisi,1.0
+city:1d6bd4e1,City,Phuket,1.0
+hotel:c63da175,Hotel,The Surin Phuket,1.0
+activity:df8a99ca,Activity,Phuket’te Big Buddha ziyareti,1.0
+activity:7e8976ee,Activity,Phuket Tarihi Kent Gezisi,1.0
+activity:9d845345,Activity,Bangkok şehir turu,1.0
+activity:264ff16a,Activity,Bali’de tapınak ziyaretleri ve sahil aktiviteleri,1.0
+restaurant:f8109d98,Restaurant,"Beach Restaurant, The Surin (Phuket)",1.0
+trip:4f0d9d37,Trip,Tayland Gezi Önerileri,1.0
+activity:084038f1,Activity,Bangkok’ta Grand Palace & Wat Phra Kaew ziyareti,1.0
+activity:5ef3c5d9,Activity,Wat Pho (Yatan Buda Tapınağı) gezisi,1.0
+activity:fa827f64,Activity,Wat Arun (Şafak Tapınağı) ziyareti,1.0
+activity:14edfb9b,Activity,Thonburi Kanalları tekne turu,1.0
+activity:95ac61ba,Activity,Phuket ada ve sahil aktiviteleri,1.0
+trip:d5d28812,Trip,Toskana Gezisi - Bayram Programı,1.0
+city:3fcf3ac0,City,Montepulciano,1.0
+activity:dd53c39e,Activity,"Bologna şehir turu (Piazza Maggiore, Basilica di San Petronio, Fontana di Nettuno, Palazzo Communale)",1.0
+activity:f5ce38ee,Activity,The Mall Firenze outlet gezisi,1.0
+activity:cfbc53d9,Activity,Siena şehir turu,1.0
+activity:3c1df30f,Activity,Montepulciano şarap bağları ve kasaba gezisi,1.0
+activity:3ef2b52c,Activity,San Gimignano kasabası gezisi,1.0
+city:db019b08,City,Pienza,1.0
+city:197f18c4,City,Montalcino,1.0
+hotel:3fc3b127,Hotel,Borgo Santo Pietro,1.0
+activity:90cd7499,Activity,Montepulciano şarap bağları turu,1.0
+activity:97ef9def,Activity,Pienza kasabası ziyareti,1.0
+activity:1426be33,Activity,Montalcino’da şarap tadımı,1.0
+activity:78bfd13e,Activity,San Gimignano gezisi,1.0
+trip:7bbddd97,Trip,Toskana Bağ Bozumu Programı,1.0
+city:bac37d4c,City,Toskana kırsalı,1.0
+hotel:50e55fec,Hotel,COMO Castello del Nero,1.0
+hotel:bba2c146,Hotel,Rosewood Castiglion del Bosco,1.0
+activity:03ab1d49,Activity,Bağ bozumu deneyimi,1.0
+activity:5673b8f0,Activity,Şarap tadımları,1.0
+activity:78a477d7,Activity,Toskana kasabaları ve doğa gezileri,1.0
+city:07b3859a,City,Ho Chi Minh,1.0
+hotel:39e91e77,Hotel,Hotel des Arts Saigon,1.0
+hotel:9b04fcfd,Hotel,Raffles Hotel Le Royal,1.0
+hotel:9a58228a,Hotel,Belmond La Résidence d’Angkor,1.0
+activity:3d3fccf0,Activity,"Ho Chi Minh şehir turu: Reunification Palace, War Remnants Museum, Cho Lon, Thien Hau Tapınağı, Notre Dame Katedrali, Posta Merkezi, Belediye Tiyatrosu",1.0
+activity:7d4d5725,Activity,Ben Thanh Pazarı ve Nguyen Hue caddelerinde alışveriş,1.0
+activity:ba1be813,Activity,Vespa ile gece turu ve Banh Xeo tadımı,1.0
+activity:1beb19e8,Activity,"Mekong Deltası bot turu, tropik meyve bahçeleri, noodle yapımı",1.0
+activity:5bc88567,Activity,"Phnom Penh şehir turu: Kraliyet Sarayı, Gümüş Pagoda, Ulusal Müze",1.0
+activity:8fbc3217,Activity,"Siem Reap’te Angkor Wat, Angkor Thom, Bayon ve Ta Prohm gezileri",1.0
+trip:b715de0e,Trip,Vietnam Gezisi,1.0
+city:ec462f92,City,Nha Trang,1.0
+activity:c37714ab,Activity,Hanoi By Night turu,1.0
+activity:fb659f0f,Activity,"Hanoi şehir turu: Ho Chi Minh Mozolesi, kazık ev, Tek Sütunlu Pagoda, Edebiyat Tapınağı",1.0
+activity:dc30d00c,Activity,Nha Trang sahil tatili ve dinlenme,1.0
+activity:2d60b38a,Activity,Saigon şehir turu,1.0
+trip:6f717838,Trip,Vietnam & Bangkok Gezisi - Gökhan Mendi,1.0
+city:ca85d046,City,Ha Long (Lan Ha Bay),1.0
+hotel:60e39cdc,Hotel,Bhaya Cruise (Lan Ha Bay / Ha Long),1.0
+activity:5d3da831,Activity,"Hanoi şehir turu: Opera Binası, Edebiyat Tapınağı, Etnoloji Müzesi, Eski Mahalle",1.0
+activity:8ca93c95,Activity,Westlake bölgesi turu (vintage jeep ile),1.0
+activity:f1f291ce,Activity,Ha Long (Lan Ha Bay) Bhaya özel tekne yolculuğu,1.0
+activity:6f8bb6d9,Activity,Thien Canh Son Cave ziyareti,1.0
+activity:e4bfe4d2,Activity,Bangkok şehir turu ve alışveriş aktiviteleri,1.0
+restaurant:abd497d7,Restaurant,May de Cuisine Restaurant (Hanoi),1.0
+trip:d432b65f,Trip,Volvo EX90 Basın Seyahati - Los Angeles,1.0
+city:8ecee8ea,City,Los Angeles,1.0
+city:c18331d3,City,Newport Beach,1.0
+hotel:1c24c205,Hotel,The Resort at Pelican Hill,1.0
+activity:404dbca6,Activity,Volvo EX90 sunumu ve sürüş deneyimi,1.0
+activity:ad6270a2,Activity,Callaway Winery ziyareti ve şarap tadımı,1.0
+activity:d5d8aeb4,Activity,Volvo etkinlikleri,1.0
+restaurant:c8b32246,Restaurant,Nobu Los Angeles,1.0
+trip:b7e0bf7d,Trip,Ürdün Gezisi,1.0
+trip:51285976,Trip,Marakeş 21-25 Haziran 2023,1.0
+city:0b138c69,City,Marrakech,1.0
+city:b70c708d,City,Fes,1.0
+country:c5341e88,Country,Fas,1.0
+activity:6061dd21,Activity,Marakeş şehir gezisi,1.0
+activity:eed269b8,Activity,Yves Saint Laurent Müzesi ziyareti,1.0
+activity:62b0d5c1,Activity,Jardin Majorelle Bahçeleri gezisi,1.0
+activity:59b50328,Activity,Ali ibn Yusuf Medresesi ziyareti,1.0
+trip:bb02f0f4,Trip,Havana - Cancun 8-19 Temmuz 2022,1.0
+city:ebda2541,City,Havana,1.0
+city:071519dd,City,Vinales,1.0
+city:7b020a67,City,Cancun,1.0
+country:2cce0a10,Country,Küba,1.0
+hotel:856e0d78,Hotel,Hotel Manzana Kempinski,1.0
+activity:04f1a477,Activity,Havana şehir turu,1.0
+activity:b6a2db76,Activity,"Havana Eski Kenti, Malecon Bulvarı, Devrim Meydanı, Colomb Mezarlığı ve Morro Kalesi gezisi",1.0
+activity:d10489b1,Activity,Floridita’da öğle yemeği ve daiquiri kokteyl tadımı,1.0
+activity:32c6df18,Activity,Jose Fuster’in sanat mahallesi ziyareti,1.0
+activity:cceaa70a,Activity,Hamel Sokağı ziyareti,1.0
+activity:eaf3b696,Activity,Rancho San Vicente restoranda öğle yemeği,1.0
+activity:b05cfb5f,Activity,Devrim Müzesi ziyareti,1.0
+activity:c418ecf5,Activity,Hemingway’in La Finca evi ziyareti,1.0
+activity:31b81055,Activity,Che Guevara’nın evi ziyareti,1.0
+activity:e8f893e1,Activity,"Vinales şehir merkezi, tütün tarlaları ve çiftlik ziyareti",1.0
+activity:1d934846,Activity,1950’lerden kalma Amerikan arabaları ile Havana turu,1.0
+activity:50085dc1,Activity,Prado Caddesi ziyareti,1.0
+restaurant:a8450f4d,Restaurant,Floridita,1.0
+restaurant:44ee466a,Restaurant,Rancho San Vicente,1.0
+trip:0037638e,Trip,Japonya 12 - 21 Ekim 2024,1.0
+city:2357e8fb,City,Kobe,1.0
+city:d76028f4,City,Osaka,1.0
+hotel:6558c418,Hotel,Hotel Tokyo Deluxe Double,1.0
+hotel:621f58cd,Hotel,Garrya Nijo Castle Kyoto,1.0
+activity:af38534f,Activity,Tokyo şehir turu,1.0
+activity:58cff0a0,Activity,Mori Sanat Müzesi ve Sky Deck ziyareti,1.0
+activity:a3e49a03,Activity,Ashinoko Gölü tekne turu,1.0
+activity:ed91b1ba,Activity,Hakone Açık Hava Müzesi ziyareti,1.0
+activity:686b5628,Activity,Picasso Pavilion sergisi,1.0
+activity:12dda60c,Activity,Arashiyama bölgesi ziyareti,1.0
+activity:8f84e6e2,Activity,Todai-ji Tapınağı ziyareti,1.0
+activity:24073dbe,Activity,TeamLab Borderless ziyareti,1.0
+activity:aedf5048,Activity,Osaka Kalesi ziyareti,1.0
+activity:d090e4e1,Activity,Sorakuen Bahçesi ve Kobe eski yerleşim yeri gezisi,1.0
+trip:ba883484,Trip,Güney Afrika 14-21 Kasım 2018,1.0
+city:97d513e1,City,Soweto,1.0
+hotel:b3592e68,Hotel,Sabi Sabi Game Reserve Lodge,1.0
+hotel:a9603608,Hotel,Hotel Luxury King Mountain Room,1.0
+activity:73634dba,Activity,Sabah ve akşam safarileri (Sabi Sand Game Reserve),1.0
+activity:9f8abc6c,Activity,Soweto gezisi ve Nelson Mandela’nın Evi ziyareti,1.0
+activity:5febfb2b,Activity,Hector Pieterson Müzesi ziyareti,1.0
+activity:c7d8d345,Activity,Nelson Mandela Meydanı gezisi,1.0
+activity:521754ef,Activity,Cape Town şehir turu,1.0
+activity:4451d693,Activity,Stellenbosch şarap bağları gezisi,1.0
+trip:7e6a5127,Trip,Hindistan 2024 Maide Cebi,1.0
+city:1888d574,City,Ranthambore,1.0
+city:50974623,City,Jodhpur,1.0
+city:70ede688,City,Mumbai,1.0
+activity:c08db5e4,Activity,Humayun’un Türbesi ziyareti,1.0
+activity:34f0e5c9,Activity,Jaipur City Palace gezisi,1.0
+activity:b2d9c59d,Activity,Amber Kalesi ziyareti,1.0
+activity:18b02957,Activity,Ranthambore Milli Parkı’nda jeep safari,1.0
+activity:552927be,Activity,Bishnoi köyü safari gezisi,1.0
+activity:aeb1e211,Activity,Udaipur City Palace ve göl çevresi gezisi,1.0
+activity:03e94b93,Activity,Bundi Palace ve Chitra Shala gezisi,1.0
+activity:1a7b3398,Activity,Ranakpur Jain Tapınakları ziyareti,1.0
+activity:be523f16,Activity,Jodhpur Mehrangarh Kalesi gezisi,1.0
+activity:3688726b,Activity,Elephanta Adası ve Trimurti heykeli ziyareti,1.0
+activity:98bb2c50,Activity,Mumbai şehir turu,1.0
+trip:db6bae7f,Trip,Küba Gezisi 2022,1.0
+city:c3871201,City,Cienfuegos,1.0
+city:d8097fb7,City,Trinidad,1.0
+city:00a21631,City,Santa Clara,1.0
+activity:e57e176f,Activity,"Havana şehir turu (Eski Kent, Malecon, Devrim Meydanı, Colomb Mezarlığı, Miramar)",1.0
+activity:d76be2d2,Activity,Küba sokaklarında klasik Amerikan arabalarıyla gezi,1.0
+activity:746335df,Activity,"Cienfuegos şehir turu (Valle Sarayı, Jose Marti Parkı, Prado Promenade)",1.0
+activity:69ddc8b6,Activity,Trinidad gezisi ve La Canchanchara Bar ziyareti,1.0
+activity:333ece85,Activity,Santa Clara gezisi ve Che Guevara Anıt Mezarı ziyareti,1.0
+activity:e75a678f,Activity,Vinales tütün tarlaları ve çiftlik ziyareti,1.0
+restaurant:00f49f0a,Restaurant,La Canchanchara,1.0
+trip:b96206b0,Trip,Kolombiya - Peru 2024,1.0
+city:cea6c3d4,City,Bogotá,1.0
+city:af406275,City,Cartagena,1.0
+country:c7fb929c,Country,Kolombiya,1.0
+activity:b244ac78,Activity,Bogotá şehir turu,1.0
+activity:d533b752,Activity,Cartagena eski şehir gezisi,1.0
+activity:17dd4f7a,Activity,Lima şehir turu,1.0
+activity:ddbc971a,Activity,Cusco şehir turu,1.0
+activity:35b35982,Activity,Machu Picchu gezisi,1.0
+trip:3273a4f7,Trip,Frieze London 2023,1.0
+city:bc180dbc,City,Londra,1.0
+country:0c72c8b2,Country,İngiltere,1.0
+hotel:7143402a,Hotel,The Biltmore Mayfair Hotel,1.0
+activity:715acbc9,Activity,Frieze Sculpture Park ziyareti,1.0
+activity:67dd2880,Activity,Hayward Gallery ziyareti,1.0
+activity:f6e5f49c,Activity,Frieze London fuarı gezisi,1.0
+trip:cf0539f1,Trip,Gamze Çuhadaroglu PROVENCE 2022,1.0
+city:bcebd3c0,City,Aix-en-Provence,1.0
+activity:eb88d6ac,Activity,Roussillon ve Gordes gezisi,1.0
+activity:4b4e8045,Activity,Arles şehir gezisi,1.0
+activity:45b6e727,Activity,Arles Luma Müzesi ziyareti,1.0
+activity:6d99cccb,Activity,Mirabeau Caddesi’nde gezinti,1.0
+activity:875ae752,Activity,Château La Coste şarap evi ve bahçeleri ziyareti,1.0
+restaurant:717e2975,Restaurant,Château La Coste,1.0
+trip:3bfd93a0,Trip,MAP Venedik Bienali 2022,1.0
+hotel:2b10e9f5,Hotel,Hotel Bauer Palazzo,1.0
+activity:983858b9,Activity,Ai Weiwei sergisi,1.0
+activity:d19783ca,Activity,Giardini ana sergi turu,1.0
+activity:fd317867,Activity,Venedik Bienali ülke pavyonları turu,1.0
+activity:851a57db,Activity,Arsenale ana sergi turu,1.0
+activity:30e58f22,Activity,"Personal Structures, Palazzo Bembo sergisi",1.0
+restaurant:4af3458b,Restaurant,La Caravella,1.0
+trip:55882901,Trip,MAP Barcelona Çağdaş Sanat Gezisi 2023,1.0
+city:49af4884,City,Cadaques,1.0
+activity:307c3791,Activity,Barcelona şehir gezisi,1.0
+activity:3a56af31,Activity,MACBA - Museu d’Art Contemporani de Barcelona ziyareti,1.0
+activity:6df66dcc,Activity,Picasso Müzesi ziyareti,1.0
+activity:fa5c27c5,Activity,Antoni Tàpies Müzesi ziyareti,1.0
+activity:a2b906ce,Activity,La Casa de Salvador Dalí - Port Lligat gezisi,1.0
+activity:3bd0e75d,Activity,Caixa Forum gezisi,1.0
+activity:2a05f9e6,Activity,Poble Espanyol gezisi,1.0
+activity:12bf2dac,Activity,Joan Miró Vakfı ziyareti,1.0
+activity:10350858,Activity,Fundació Suñol ziyareti,1.0
+activity:bc24c48c,Activity,Dali Müzesi ziyareti,1.0
+activity:eee14e07,Activity,Xavi Bou Atölye ziyareti,1.0
+activity:9a8c66f4,Activity,Jordi Bernadó Atölye ziyareti,1.0
+activity:044907c1,Activity,James Turrell enstalasyonu ziyareti,1.0
+restaurant:bf94abcf,Restaurant,Merendero de la Mar,1.0
+trip:8b24e0b6,Trip,MAP Provence Program 31 Mart - 3 Nisan 2023,1.0
+city:931967f2,City,Saint-Remy-de-Provence,1.0
+activity:5f37e60e,Activity,Château La Coste sanat ve mimari gezisi,1.0
+activity:634ad244,Activity,Fondation Vincent van Gogh Arles ziyareti,1.0
+activity:5632a278,Activity,Mucem Müzesi ziyareti,1.0
+activity:998439ba,Activity,Atelier de Cezanne ziyareti,1.0
+activity:28ed4b6f,Activity,Palais des Papes ziyareti,1.0
+activity:69542484,Activity,Saint-Paul de Mausole ziyareti,1.0
+activity:ef60246c,Activity,Carrières de Lumières ziyareti,1.0
+activity:e7b3e4eb,Activity,Les Deux Garçons’da kahve molası,1.0
+restaurant:4feb0a72,Restaurant,La Luma Drum Cafe,1.0
+restaurant:13977f70,Restaurant,Les Deux Garçons,1.0
+trip:527bfb0a,Trip,Jules Verne - 2 Ladies - Japan - March 2024,1.0
+activity:197096c1,Activity,Arashiyama Bamboo Grove ziyareti,1.0
+activity:7840c959,Activity,Fushimi Inari Tapınağı ziyareti,1.0
+activity:b44a11bb,Activity,Naoshima & Teshima sanat adaları gezisi,1.0
+trip:73b03c61,Trip,Lofoten Islands - Version 2.0,1.0
+city:31c14769,City,Henningsvær,1.0
+city:6bc4adb6,City,Svolvær,1.0
+city:76677493,City,Reine,1.0
+city:e726cc85,City,Å,1.0
+activity:b36fb168,Activity,Midnight Sun Safari,1.0
+activity:89380bc7,Activity,Sea Eagle RIB Boat Safari,1.0
+activity:7d559194,Activity,Henningsvær gezisi,1.0
+activity:9a61591e,Activity,Svolvær gezisi,1.0
+activity:8c1b61e9,Activity,Rehberli hiking ve çevre gezisi,1.0
+activity:c9eb85f8,Activity,Å köyü gezisi,1.0
+activity:84fb4ebf,Activity,Kayaking özel turu,1.0
+restaurant:cc037475,Restaurant,Restaurant Nyvågar,1.0
+trip:de6ed132,Trip,Güney Afrika 22-30 Ocak,1.0
+city:1844c468,City,Marataba,1.0
+activity:4c238bc1,Activity,Öğleden sonra safari,1.0
+activity:c6cbccc0,Activity,Tam gün safari,1.0
+activity:afa5c0af,Activity,Kirstenbosch Ulusal Botanik Bahçesi gezisi,1.0
+activity:a36e8e9d,Activity,Stellenbosch şarap bağları turu,1.0
+activity:f76e09de,Activity,Cape Winelands bölgesi ziyareti,1.0
+trip:7afce7cc,Trip,Mardin 13-15 Ekim 2023,1.0
+city:667cc0c1,City,Mardin,1.0
+city:4a210da9,City,Midyat,1.0
+activity:f1c8a356,Activity,Mardin şehir turu,1.0
+activity:c3d3bb2a,Activity,Sakıp Sabancı Müzesi ziyareti,1.0
+activity:21a96130,Activity,Eski PTT Binası gezisi,1.0
+activity:32a08ca2,Activity,Eski Mardin Evleri ve Abbara tünelleri gezisi,1.0
+activity:27c5cf83,Activity,Zinciriye Medresesi ziyareti,1.0
+activity:f59c9a4c,Activity,Kültür Sokağı ve Uçurtma Atölyesi gezisi,1.0
+activity:8a8394f4,Activity,Ulu Camii ziyareti,1.0
+activity:45332d8d,Activity,Deyrulzafaran Manastırı ziyareti,1.0
+activity:3495324c,Activity,Kasımiye Medresesi ziyareti,1.0
+activity:31581e1d,Activity,Midyat şehir turu,1.0
+activity:15240f57,Activity,Midyat Devlet Konukevi ve Gümüşçüler Çarşısı ziyareti,1.0
+activity:9b5bbf9f,Activity,Mor Gabriel Manastırı ziyareti,1.0
+trip:f1ef7348,Trip,Meksika 06-16 Aralık 2023,1.0
+city:b55e2f71,City,Tulum,1.0
+hotel:76c97992,Hotel,Hotel Rosas,1.0
+activity:44b694fa,Activity,Mexico City şehir turu,1.0
+activity:a6f04bad,Activity,Ulusal Saray ve Diego Rivera duvar resimleri ziyareti,1.0
+activity:1d6329d8,Activity,Zócalo ve Metropolitan Katedrali ziyareti,1.0
+activity:b5430525,Activity,Xochimilco yüzen bahçeleri gezisi,1.0
+activity:f7f7abe2,Activity,Coyoacan köyü ziyareti,1.0
+activity:103a8639,Activity,Frida Kahlo Müzesi ziyareti,1.0
+activity:6af7dd24,Activity,Mérida şehir turu,1.0
+activity:5a0718d2,Activity,San Ildefonso Katedrali ziyareti,1.0
+activity:d5f86053,Activity,Casa Montejo ziyareti,1.0
+activity:962fd165,Activity,Yucatan Valilik Sarayı duvar resimleri ziyareti,1.0
+activity:75b92a2d,Activity,Chichen-Itza arkeolojik alanı ziyareti,1.0
+trip:54c34338,Trip,Mendi Family - Kenya 25-29 Aralık,1.0
+hotel:52e58da7,Hotel,Emara Ole Sereni Hotel,1.0
+activity:91a32ccb,Activity,Karen Blixen Müzesi ziyareti,1.0
+activity:9c1fd64c,Activity,Giraffe Centre ziyareti,1.0
+trip:705c4476,Trip,Mevzun Vietnam Kamboçya 2016,1.0
+city:adfda0b5,City,Halong,1.0
+city:702737cc,City,Hoi An,1.0
+city:fb7a06dc,City,Ho Chi Minh City,1.0
+hotel:01e98bcc,Hotel,Park Hyatt Saigon,1.0
+hotel:5c8b3ac0,Hotel,Intercontinental Danang,1.0
+hotel:37420694,Hotel,Sofitel Legend Metropole Hanoi,1.0
+hotel:d719af01,Hotel,Paradise Luxury Halong,1.0
+activity:60d6b4ba,Activity,Hanoi şehir turu,1.0
+activity:752834d8,Activity,Ngoc Son Pagoda ziyareti,1.0
+activity:0b132398,Activity,Temple of Literature ziyareti,1.0
+activity:a116a80f,Activity,Water Puppet gösterisi,1.0
+activity:8290a4a7,Activity,Halong Bay tekne turu,1.0
+activity:e98181fd,Activity,Hoi An yürüyüş turu,1.0
+activity:a66ae221,Activity,Ho Chi Minh City şehir turu,1.0
+activity:efcca73f,Activity,Ben Thanh Market ziyareti,1.0
+activity:d0fb6486,Activity,War Remnants Museum ziyareti,1.0
+activity:34339f70,Activity,Cu Chi Tünelleri gezisi,1.0
+activity:2285ef49,Activity,Siem Reap Angkor Wat ziyareti,1.0
+activity:1bc40144,Activity,Ta Prohm Tapınağı ziyareti,1.0
+activity:e9be5524,Activity,Banteay Srei ve Banteay Samre tapınakları ziyareti,1.0
+activity:ccbe3709,Activity,Tonle Sap Gölü yüzen köy ziyareti,1.0
+trip:392a8b31,Trip,Mevzun Çifçi Hindistan 2024,1.0
+activity:6f59a73a,Activity,Jaipur Amber Kalesi ziyareti,1.0
+activity:1a0cfd30,Activity,Jaipur City Palace ziyareti,1.0
+activity:9a0ff0f3,Activity,Udaipur göl gezisi,1.0
+activity:0cb7f1ae,Activity,Udaipur City Palace ziyareti,1.0
+activity:74d0b222,Activity,Jodhpur Mehrangarh Kalesi ziyareti,1.0
+trip:64698bb9,Trip,Mine Bahadır Japonya - Tayland Programı,1.0
+city:c73d4a40,City,Ise Shima,1.0
+activity:630d6760,Activity,Senso-ji Tapınağı ve Nakamise alışveriş caddesi ziyareti,1.0
+activity:4d5f2208,Activity,Akihabara gezisi,1.0
+activity:4d32b4b3,Activity,Kyoto şehir turu,1.0
+activity:e14b2fbe,Activity,Nishiki Pazarı ziyareti,1.0
+activity:3fa3816d,Activity,Machiya deneyimi,1.0
+activity:0b55d88d,Activity,Ise Shima bölgesi gezisi,1.0
+activity:f35295c4,Activity,Naiku ve Geku Shinto tapınakları ziyareti,1.0
+activity:2e24622c,Activity,Chiang Rai fil kampı ziyareti,1.0
+activity:6b395e19,Activity,Golden Triangle bölgesi gezisi,1.0
+activity:a9464d2e,Activity,Chiang Mai şehir turu,1.0
+activity:1455379b,Activity,Phuket sahil tatili,1.0
+trip:387e5e24,Trip,Murat Bilgin 28 Eylül - 9 Ekim 2023 Güney Afrika,1.0
+city:d6419416,City,Sabi Sabi,1.0
+hotel:1289202d,Hotel,Four Seasons Hotel The Westcliff,1.0
+activity:5108aa15,Activity,Johannesburg şehir turu,1.0
+activity:cfc91f72,Activity,Zeitz MOCAA ziyareti,1.0
+activity:3834e2af,Activity,Cape Point gezisi,1.0
+activity:78e6e831,Activity,Boulders Beach penguen kolonisi ziyareti,1.0
+activity:352b6a24,Activity,Franschhoek ve Stellenbosch şarap bağları gezisi,1.0
+activity:132b2706,Activity,Iziko Müzesi ziyareti,1.0
+restaurant:377cfb29,Restaurant,Delaire Graff,1.0
+trip:66857dbd,Trip,Myanmar 2017 Mevzun Çiftçi,1.0
+city:7f125860,City,Yangon,1.0
+city:6ef094db,City,Mandalay,1.0
+city:4e756226,City,Bagan,1.0
+city:c980eb4f,City,Inle Lake,1.0
+country:a7aae4f0,Country,Myanmar,1.0
+hotel:1a05ff48,Hotel,Belmond Road to Mandalay Cruise,1.0
+activity:2a381150,Activity,Shwedagon Pagoda ziyareti,1.0
+activity:9262d712,Activity,Yangon şehir turu,1.0
+activity:f1f489cf,Activity,Mandalay gezisi,1.0
+activity:c7171ccc,Activity,Bagan tapınakları gezisi,1.0
+activity:39199a02,Activity,Ananda ve Gubyaukgyi tapınakları ziyareti,1.0
+activity:d21b237e,Activity,Phaung Daw Oo Pagoda ziyareti,1.0
+activity:12746d23,Activity,Inle Gölü gezisi,1.0
+activity:1c75edb0,Activity,Lacquer ware atölyesi ziyareti,1.0
+activity:d966269a,Activity,Damnoen Saduak yüzen pazar ziyareti (Bangkok),1.0
+trip:670bab2c,Trip,SUMMER EUROPE 2025,1.0
+city:ccbee73c,City,PARIS,1.0
+country:e165d4f2,Country,FRANCE,1.0
+country:bab4ac37,Country,ITALY,1.0
+hotel:8bdd2e22,Hotel,HOTEL LUMIERE,1.0
+hotel:ba242545,Hotel,ROMA SUITES,1.0
+activity:a2c3f047,Activity,EIFFEL TOWER,1.0
+activity:964ac3af,Activity,COLOSSEUM TOUR,1.0
+restaurant:748cc6df,Restaurant,LE BISTRO,1.0
+restaurant:be177d8b,Restaurant,TRATTORIA ROMANA,1.0
+trip:5b1d8213,Trip,SUMMER EUROPE 2024,1.0
+trip:6fe4a936,Trip,BALKANS 2025,1.0
+city:f6c3e7af,City,LEG1,1.0
+city:9448df8d,City,LEG2,1.0
+country:db77174a,Country,TURKEY,1.0
+country:db5f1443,Country,BULGARIA,1.0
+country:28d0d904,Country,NORTH MACEDONIA,1.0
+activity:7bf52212,Activity,AYASOFYA CAMII,1.0
+activity:19c35234,Activity,OLD TOWN WALK,1.0
+trip:7cb4a7e6,Trip,ROME ANCIENT 2024,1.0
+hotel:77a76973,Hotel,FORUM INN,1.0
+activity:40fda8c3,Activity,COLOSSEUM,1.0
+activity:04a29dd7,Activity,ROMAN FORUM,1.0
+activity:176443af,Activity,PALATINE HILL,1.0
+restaurant:f631a42d,Restaurant,TRASTEVERE TRATTORIA,1.0
+trip:d170ea25,Trip,CAPPADOCIA DREAM 2023,1.0
+city:a03a400d,City,GOREME,1.0
+hotel:cc14de94,Hotel,GOREME CAVE HOTEL,1.0
+hotel:badce91a,Hotel,SULTANAHMET INN,1.0
+activity:52f8c58c,Activity,BALLOON RIDE,1.0
+activity:e6c01dc3,Activity,GOREME OPEN AIR MUSEUM,1.0
+activity:9eb2f3cb,Activity,TOPKAPI PALACE,1.0
+restaurant:b3840d3e,Restaurant,MEZE HOUSE,1.0
+restaurant:1d75a95b,Restaurant,KONYALI RESTAURANT,1.0
+trip:55c5bc17,Trip,BALKANS LOOP 2025,1.0
+trip:650cafee,Trip,LONDON HIGHLIGHTS 2024,1.0
+country:9cdc126f,Country,UNITED KINGDOM,1.0
+hotel:55b57608,Hotel,SOUTHBANK HOTEL,1.0
+activity:12ff5f62,Activity,BRITISH MUSEUM,1.0
+activity:9ccb3f90,Activity,TOWER OF LONDON,1.0
+activity:a30a9b6c,Activity,LONDON EYE,1.0
+restaurant:916d5702,Restaurant,DISHOOM,1.0
+trip:966e2cb8,Trip,NEW YORK CLASSICS 2024,1.0
+hotel:ecda9226,Hotel,MIDTOWN INN,1.0
+activity:be0adb8d,Activity,STATUE OF LIBERTY,1.0
+activity:16610129,Activity,TIMES SQUARE,1.0
+activity:f8566453,Activity,CENTRAL PARK,1.0
+restaurant:b69c3dab,Restaurant,SHAKE SHACK,1.0
+trip:b94ea461,Trip,TOKYO ESSENTIALS 2025,1.0
+country:578ed5a4,Country,JAPAN,1.0
+hotel:1ad4e24c,Hotel,SHIBUYA HOTEL,1.0
+activity:4bdfd0a6,Activity,SENSOJI TEMPLE,1.0
+activity:3059cecb,Activity,SHIBUYA CROSSING,1.0
+restaurant:cabdfec6,Restaurant,SUSHI BAR,1.0
+trip:8dcd6e50,Trip,KYOTO TEMPLES 2025,1.0
+hotel:67bb0019,Hotel,GION RYOKAN,1.0
+activity:ee79cb53,Activity,FUSHIMI INARI SHRINE,1.0
+activity:96906368,Activity,KINKAKUJI TEMPLE,1.0
+activity:593f1c04,Activity,KIYOMIZU DERA,1.0
+restaurant:86217452,Restaurant,UDON HOUSE,1.0
+trip:96351602,Trip,BARCELONA ARCHITECTURE 2024,1.0
+hotel:a1a07d10,Hotel,EIXAMPLE HOTEL,1.0
+activity:8f925741,Activity,PARK GUELL,1.0
+activity:5d33b370,Activity,CASA BATLLO,1.0
+restaurant:46ab1667,Restaurant,TAPAS BAR,1.0
+trip:0d225df9,Trip,GAUDI WEEKEND 2025,1.0
+trip:975164c6,Trip,ISTANBUL CLASSICS 2024,1.0
+activity:5fee55b1,Activity,BLUE MOSQUE,1.0
+city:72be2725,City,URGUP,1.0
+activity:887520b3,Activity,SUNRISE VIEWPOINT,1.0
+trip:adfae6c6,Trip,ROME ANTIQUITY 2024,1.0
+trip:9c4f050c,Trip,ISTANBUL & CAPPADOCIA 2023,1.0
+trip:3bbb8dab,Trip,ISTANBUL HERITAGE WEEKEND 2025,1.0
+activity:ac562326,Activity,GRAND BAZAAR,1.0
+trip:c064ba8e,Trip,NEW YORK CITY 2024,1.0
+hotel:7b4acf47,Hotel,MIDTOWN HOTEL,1.0
+trip:ada4c5ea,Trip,LONDON ARCHITECTURE TOUR 2024,1.0
+hotel:377fafad,Hotel,RIVERBANK HOTEL,1.0
+activity:31f4c3b1,Activity,BIG BEN,1.0
+restaurant:db86aada,Restaurant,TRAFALGAR RESTAURANT,1.0
+trip:983209b2,Trip,BALKAN CULTURE TOUR 2025,1.0
+activity:070473cf,Activity,BALKAN CULTURAL SITES,1.0
+activity:0bdc959a,Activity,SOFIA OLD TOWN,1.0
+trip:4d8441ee,Trip,SUMMER GREECE 2025,1.0
+city:8fde6a65,City,ATHENS,1.0
+city:29833ab4,City,THESSALONIKI,1.0
+country:40bdb060,Country,GREECE,1.0
+hotel:8fcd070b,Hotel,ATHENS PLAZA HOTEL,1.0
+hotel:1cda3c00,Hotel,THESSALONIKI INN,1.0
+activity:ae211513,Activity,ACROPOLIS TOUR,1.0
+activity:ac85a3d7,Activity,THESSALONIKI OLD TOWN,1.0
+restaurant:01806cbb,Restaurant,TAVERNAS,1.0
+trip:f98c5b7d,Trip,ITALY CLASSICS 2024,1.0
+hotel:cc73c592,Hotel,VENICE SUITES,1.0
+activity:77c5288c,Activity,ST. MARK'S SQUARE,1.0
+trip:5a81b50c,Trip,PARIS MUSEUM TOUR 2024,1.0
+hotel:4395f963,Hotel,MARAIS HOTEL,1.0
+activity:1343415f,Activity,LOUVRE MUSEUM,1.0
+activity:2fd9cd62,Activity,MUSÉE D'ORSAY,1.0
+restaurant:7417858a,Restaurant,LEON DE BRUXELLES,1.0
+trip:82eb3745,Trip,TURKEY TOUR 2024,1.0
+trip:f076dd2a,Trip,EUROPE CLASSICS 2025,1.0
+trip:bf5c8add,Trip,PARIS CITY BREAK 2024,1.0
+activity:c7b365a6,Activity,MONTMARTRE WALK,1.0
