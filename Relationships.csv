@@ -1,0 +1,2918 @@
+start_id,end_id,type
+1f145fbf-7d26-4624-88a2-6424f73169b6,Rio de Janeiro,VISITS
+1f145fbf-7d26-4624-88a2-6424f73169b6,Iguazu,VISITS
+1f145fbf-7d26-4624-88a2-6424f73169b6,Buenos Aires,VISITS
+1f145fbf-7d26-4624-88a2-6424f73169b6,Cap Horn,VISITS
+1f145fbf-7d26-4624-88a2-6424f73169b6,Magdalena Adası,VISITS
+1f145fbf-7d26-4624-88a2-6424f73169b6,Santiago,VISITS
+1f145fbf-7d26-4624-88a2-6424f73169b6,Brasile,IN_COUNTRY
+1f145fbf-7d26-4624-88a2-6424f73169b6,Argentina,IN_COUNTRY
+1f145fbf-7d26-4624-88a2-6424f73169b6,Chile,IN_COUNTRY
+1f145fbf-7d26-4624-88a2-6424f73169b6,Vista Chinesa,DOES
+1f145fbf-7d26-4624-88a2-6424f73169b6,Amanhã (Yarının Müzesi),DOES
+1f145fbf-7d26-4624-88a2-6424f73169b6,Iguazú Şelaleleri,DOES
+1f145fbf-7d26-4624-88a2-6424f73169b6,Iguazú Milli Parkı,DOES
+1f145fbf-7d26-4624-88a2-6424f73169b6,Macuco Safarisi,DOES
+1f145fbf-7d26-4624-88a2-6424f73169b6,Plaza de Mayo,DOES
+1f145fbf-7d26-4624-88a2-6424f73169b6,Casa Rosada,DOES
+1f145fbf-7d26-4624-88a2-6424f73169b6,San Telmo,DOES
+1f145fbf-7d26-4624-88a2-6424f73169b6,La Boca,DOES
+1f145fbf-7d26-4624-88a2-6424f73169b6,Buenos Aires Modern Sanat Müzesi,DOES
+1f145fbf-7d26-4624-88a2-6424f73169b6,Plaza Dorrego,DOES
+1f145fbf-7d26-4624-88a2-6424f73169b6,Palermo Soho,DOES
+1f145fbf-7d26-4624-88a2-6424f73169b6,Recoleta Semti,DOES
+1f145fbf-7d26-4624-88a2-6424f73169b6,Recoleta Mezarlığı,DOES
+1f145fbf-7d26-4624-88a2-6424f73169b6,Rojo Tango Gösterisi,DOES
+1f145fbf-7d26-4624-88a2-6424f73169b6,Cap Horn,DOES
+1f145fbf-7d26-4624-88a2-6424f73169b6,Magdalena Adası,DOES
+1f145fbf-7d26-4624-88a2-6424f73169b6,Plaza de Armas,DOES
+1f145fbf-7d26-4624-88a2-6424f73169b6,Santiago Katedrali,DOES
+1f145fbf-7d26-4624-88a2-6424f73169b6,Belediye Binası,DOES
+1f145fbf-7d26-4624-88a2-6424f73169b6,Merkez Postane,DOES
+1f145fbf-7d26-4624-88a2-6424f73169b6,Ulusal Tarih Müzesi,DOES
+1f145fbf-7d26-4624-88a2-6424f73169b6,Satyricon Restaurant,EATS_AT
+1f145fbf-7d26-4624-88a2-6424f73169b6,La Cabrera Restaurant,EATS_AT
+1f145fbf-7d26-4624-88a2-6424f73169b6,Fervor Restaurant,EATS_AT
+287f5664-1020-4b51-867f-19f531aa659d,Iceland,VISITS
+287f5664-1020-4b51-867f-19f531aa659d,Iceland,IN_COUNTRY
+287f5664-1020-4b51-867f-19f531aa659d,Hali Country Hotel,STAYS_AT
+287f5664-1020-4b51-867f-19f531aa659d,Fosshotel Glacier Lagoon,STAYS_AT
+287f5664-1020-4b51-867f-19f531aa659d,Blue Lagoon,DOES
+287f5664-1020-4b51-867f-19f531aa659d,Kerid Crater Lake,DOES
+287f5664-1020-4b51-867f-19f531aa659d,Skaftafell National Park,DOES
+287f5664-1020-4b51-867f-19f531aa659d,Ice Cave,DOES
+287f5664-1020-4b51-867f-19f531aa659d,Svartifoss Şelalesi,DOES
+287f5664-1020-4b51-867f-19f531aa659d,Fjallsárlón Glacier Lagoon,DOES
+287f5664-1020-4b51-867f-19f531aa659d,Jökulsárlón Glacier Lagoon,DOES
+287f5664-1020-4b51-867f-19f531aa659d,Goðafoss Şelalesi,DOES
+c07af9af-70cf-40f3-a256-d3b7e9fbe40e,Cape Town,VISITS
+c07af9af-70cf-40f3-a256-d3b7e9fbe40e,Stellenbosch,VISITS
+c07af9af-70cf-40f3-a256-d3b7e9fbe40e,Franschhoek,VISITS
+c07af9af-70cf-40f3-a256-d3b7e9fbe40e,Kimberley,VISITS
+c07af9af-70cf-40f3-a256-d3b7e9fbe40e,Africa meridionale,IN_COUNTRY
+c07af9af-70cf-40f3-a256-d3b7e9fbe40e,Babel Hotel,STAYS_AT
+c07af9af-70cf-40f3-a256-d3b7e9fbe40e,Cape Town & Masa Dağı Gezisi,DOES
+c07af9af-70cf-40f3-a256-d3b7e9fbe40e,Zeitz Çağdaş Sanatlar Müzesi,DOES
+c07af9af-70cf-40f3-a256-d3b7e9fbe40e,Cape Point & Ümit Burnu,DOES
+c07af9af-70cf-40f3-a256-d3b7e9fbe40e,Boulders Penguen Kolonisi,DOES
+c07af9af-70cf-40f3-a256-d3b7e9fbe40e,Stellenbosch Şarap Evleri,DOES
+c07af9af-70cf-40f3-a256-d3b7e9fbe40e,Franschhoek Şarap Bağları,DOES
+c07af9af-70cf-40f3-a256-d3b7e9fbe40e,La Motte Şarap Tadımı,DOES
+c07af9af-70cf-40f3-a256-d3b7e9fbe40e,Matjiesfontein Köyü,DOES
+c07af9af-70cf-40f3-a256-d3b7e9fbe40e,Kimberley Diamond Mine & Big Hole,DOES
+c07af9af-70cf-40f3-a256-d3b7e9fbe40e,Sabah Safari,DOES
+c07af9af-70cf-40f3-a256-d3b7e9fbe40e,Akşam Safari,DOES
+ae62605d-42c9-474a-b39a-b7487439b161,VENICE,VISITS
+ae62605d-42c9-474a-b39a-b7487439b161,Milan,VISITS
+ae62605d-42c9-474a-b39a-b7487439b161,Italia,IN_COUNTRY
+ae62605d-42c9-474a-b39a-b7487439b161,Hotel Ai Cavalieri,STAYS_AT
+ae62605d-42c9-474a-b39a-b7487439b161,Ristorante Da Ivo,EATS_AT
+ae62605d-42c9-474a-b39a-b7487439b161,Ristorante Acqua Pazza,EATS_AT
+ae62605d-42c9-474a-b39a-b7487439b161,Osteria Enoteca San Marco,EATS_AT
+ae62605d-42c9-474a-b39a-b7487439b161,Restaurant Terrazza Danieli,EATS_AT
+ae62605d-42c9-474a-b39a-b7487439b161,Da Giacomo,EATS_AT
+ae62605d-42c9-474a-b39a-b7487439b161,Il Salumaio di Montenapoleone,EATS_AT
+ae62605d-42c9-474a-b39a-b7487439b161,Solferino Restaurant,EATS_AT
+f4fe83b6-639f-4b84-b339-c7d941fe6276,Maldive,VISITS
+f4fe83b6-639f-4b84-b339-c7d941fe6276,Maldive,IN_COUNTRY
+f4fe83b6-639f-4b84-b339-c7d941fe6276,Beach Villa with Pool,STAYS_AT
+f4fe83b6-639f-4b84-b339-c7d941fe6276,Water Villa with Pool,STAYS_AT
+f4fe83b6-639f-4b84-b339-c7d941fe6276,Water Villa One Bedroom,STAYS_AT
+55fc0970-c1fd-41aa-b45c-7c039a78f5f4,Arusha,VISITS
+55fc0970-c1fd-41aa-b45c-7c039a78f5f4,Plaine du Serengeti,VISITS
+55fc0970-c1fd-41aa-b45c-7c039a78f5f4,Zanzibar,VISITS
+55fc0970-c1fd-41aa-b45c-7c039a78f5f4,Tanzania,IN_COUNTRY
+55fc0970-c1fd-41aa-b45c-7c039a78f5f4,Singita Lodge,STAYS_AT
+55fc0970-c1fd-41aa-b45c-7c039a78f5f4,Singita Sasakawa Lodge,STAYS_AT
+55fc0970-c1fd-41aa-b45c-7c039a78f5f4,Serengeti Ulusal Parkı Safari,DOES
+55fc0970-c1fd-41aa-b45c-7c039a78f5f4,Öğle Safarisi,DOES
+55fc0970-c1fd-41aa-b45c-7c039a78f5f4,Sabah ve Akşam Safarileri,DOES
+33bda353-8437-45ae-9a29-3c8d8760d98f,BARCELONA,VISITS
+33bda353-8437-45ae-9a29-3c8d8760d98f,Espagne,IN_COUNTRY
+33bda353-8437-45ae-9a29-3c8d8760d98f,Park Güell,DOES
+33bda353-8437-45ae-9a29-3c8d8760d98f,La Sagrada Familia,DOES
+33bda353-8437-45ae-9a29-3c8d8760d98f,Casa Milà,DOES
+33bda353-8437-45ae-9a29-3c8d8760d98f,Plaza Catalunya,DOES
+33bda353-8437-45ae-9a29-3c8d8760d98f,Gotik Mahallesi,DOES
+33bda353-8437-45ae-9a29-3c8d8760d98f,La Pepita Tapas Bar,EATS_AT
+33bda353-8437-45ae-9a29-3c8d8760d98f,Gala Restoran,EATS_AT
+33bda353-8437-45ae-9a29-3c8d8760d98f,Barceloneta Restoran,EATS_AT
+da0c4939-1227-434a-bee9-04d4bd53f70e,Bilbao,VISITS
+da0c4939-1227-434a-bee9-04d4bd53f70e,San Sebastian,VISITS
+da0c4939-1227-434a-bee9-04d4bd53f70e,Biarritz,VISITS
+da0c4939-1227-434a-bee9-04d4bd53f70e,Saint Jean De Luz,VISITS
+da0c4939-1227-434a-bee9-04d4bd53f70e,Espagne,IN_COUNTRY
+da0c4939-1227-434a-bee9-04d4bd53f70e,France,IN_COUNTRY
+da0c4939-1227-434a-bee9-04d4bd53f70e,Hotel Maria Cristina,STAYS_AT
+da0c4939-1227-434a-bee9-04d4bd53f70e,Biarritz Gezisi,DOES
+da0c4939-1227-434a-bee9-04d4bd53f70e,Saint Jean De Luz Gezisi,DOES
+da0c4939-1227-434a-bee9-04d4bd53f70e,San Sebastian Şehir Gezisi,DOES
+da0c4939-1227-434a-bee9-04d4bd53f70e,Guggenheim Müzesi Gezisi,DOES
+da0c4939-1227-434a-bee9-04d4bd53f70e,Restaurante Ilura,EATS_AT
+da0c4939-1227-434a-bee9-04d4bd53f70e,Elkano Restaurant,EATS_AT
+da0c4939-1227-434a-bee9-04d4bd53f70e,Cafe Iruña,EATS_AT
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,Singapore,VISITS
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,Auckland,VISITS
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,Rotorua,VISITS
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,Wellington,VISITS
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,Tekapo,VISITS
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,Queenstown,VISITS
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,Gold Coast,VISITS
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,Sidney,VISITS
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,Australia,IN_COUNTRY
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,New Zealand,IN_COUNTRY
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,Singapore,IN_COUNTRY
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,JW Marriott Hotel Singapore South Beach,STAYS_AT
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,Pullman Rotorua,STAYS_AT
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,Intercontinental Hotel Wellington,STAYS_AT
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,Peppers Blue Water Resort Lake Tekapo,STAYS_AT
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,The Rees Hotel & Luxury Apartments,STAYS_AT
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,JW Marriott Gold Coast Resort & Spa,STAYS_AT
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,Sydney Harbour Marriott Hotel at Circular Quay,STAYS_AT
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,Auckland Şehir Gezisi,DOES
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,Te Puia Maori Dansı ve Gayzerler,DOES
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,Weta Workshop,DOES
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,Queenstown Panoramik Gezisi,DOES
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,Seal Bay Conservation Park,DOES
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,Flinders Chase National Park,DOES
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,Sydney Harbour Tekne Turu & Havai Fişek Gösterisi,DOES
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,Blue Mountains Gezisi,DOES
+a7efcb24-7b19-4e89-a779-bbb8566f9efd,Sydney Opera Binası & Harbour Bridge,DOES
+829c9a30-ae64-44d9-bdf9-13ed38acada1,Bali,VISITS
+829c9a30-ae64-44d9-bdf9-13ed38acada1,Bangkok,VISITS
+829c9a30-ae64-44d9-bdf9-13ed38acada1,Endonezya,IN_COUNTRY
+829c9a30-ae64-44d9-bdf9-13ed38acada1,Tayland,IN_COUNTRY
+829c9a30-ae64-44d9-bdf9-13ed38acada1,Capella Bangkok Hotel,STAYS_AT
+829c9a30-ae64-44d9-bdf9-13ed38acada1,Riverside Pool Villa,STAYS_AT
+829c9a30-ae64-44d9-bdf9-13ed38acada1,Volcanoes & Temples Turu (Helikopter),DOES
+829c9a30-ae64-44d9-bdf9-13ed38acada1,Koral Restaurant,EATS_AT
+829c9a30-ae64-44d9-bdf9-13ed38acada1,Restaurant POTONG,EATS_AT
+161b42cb-1fea-4aca-b25f-51baa1802774,Copenaghen,VISITS
+161b42cb-1fea-4aca-b25f-51baa1802774,Bergen,VISITS
+161b42cb-1fea-4aca-b25f-51baa1802774,Flåm,VISITS
+161b42cb-1fea-4aca-b25f-51baa1802774,Oslo,VISITS
+161b42cb-1fea-4aca-b25f-51baa1802774,Danemark (pays constitutif),IN_COUNTRY
+161b42cb-1fea-4aca-b25f-51baa1802774,Norvegia,IN_COUNTRY
+161b42cb-1fea-4aca-b25f-51baa1802774,Nimb Hotel,STAYS_AT
+161b42cb-1fea-4aca-b25f-51baa1802774,Bergen Børs Hotel,STAYS_AT
+161b42cb-1fea-4aca-b25f-51baa1802774,Fretheim Hotel,STAYS_AT
+161b42cb-1fea-4aca-b25f-51baa1802774,Designmuseum Danmark,DOES
+161b42cb-1fea-4aca-b25f-51baa1802774,Bergen Market Square & Balık Pazarı,DOES
+161b42cb-1fea-4aca-b25f-51baa1802774,Flåm Railway Museum,DOES
+161b42cb-1fea-4aca-b25f-51baa1802774,Vigeland Heykel Parkı,DOES
+161b42cb-1fea-4aca-b25f-51baa1802774,Oslo Opera Binası,DOES
+161b42cb-1fea-4aca-b25f-51baa1802774,Ulusal Müze,DOES
+161b42cb-1fea-4aca-b25f-51baa1802774,Munch Müzesi,DOES
+161b42cb-1fea-4aca-b25f-51baa1802774,Astrup Fearnley Museum of Modern Art,DOES
+161b42cb-1fea-4aca-b25f-51baa1802774,Fjellskål Seafood Restaurant,EATS_AT
+161b42cb-1fea-4aca-b25f-51baa1802774,Restaurant Arven,EATS_AT
+161b42cb-1fea-4aca-b25f-51baa1802774,Lofoten Fiskerestaurant,EATS_AT
+161b42cb-1fea-4aca-b25f-51baa1802774,Bryggen Tracteursted,EATS_AT
+161b42cb-1fea-4aca-b25f-51baa1802774,Izakaya Bar & Terrace,EATS_AT
+e9d7226d-8100-4246-b53d-d406a2448edb,Cape Town,VISITS
+e9d7226d-8100-4246-b53d-d406a2448edb,Franschhoek,VISITS
+e9d7226d-8100-4246-b53d-d406a2448edb,Livingstone,VISITS
+e9d7226d-8100-4246-b53d-d406a2448edb,Plaine du Serengeti,VISITS
+e9d7226d-8100-4246-b53d-d406a2448edb,Africa meridionale,IN_COUNTRY
+e9d7226d-8100-4246-b53d-d406a2448edb,Zambiya,IN_COUNTRY
+e9d7226d-8100-4246-b53d-d406a2448edb,Royal Livingstone Victoria Falls Zambia Hotel by Anantara,STAYS_AT
+e9d7226d-8100-4246-b53d-d406a2448edb,Babylonstoren Hotel,STAYS_AT
+e9d7226d-8100-4246-b53d-d406a2448edb,Marataba Safari Lodge,STAYS_AT
+e9d7226d-8100-4246-b53d-d406a2448edb,Mukuni Village Gezisi,DOES
+e9d7226d-8100-4246-b53d-d406a2448edb,Sunset Safari Cruise,DOES
+e9d7226d-8100-4246-b53d-d406a2448edb,David Livingstone Müzesi,DOES
+e9d7226d-8100-4246-b53d-d406a2448edb,Franschhoek Şarap Bağları ve Galeriler,DOES
+e9d7226d-8100-4246-b53d-d406a2448edb,Huguenot Anıt Müzesi,DOES
+e9d7226d-8100-4246-b53d-d406a2448edb,Franschhoek Motor Müzesi,DOES
+e9d7226d-8100-4246-b53d-d406a2448edb,Güney Afrika'nın İlk Parfüm Müzesi,DOES
+e9d7226d-8100-4246-b53d-d406a2448edb,Masa Dağı,DOES
+e9d7226d-8100-4246-b53d-d406a2448edb,Kirstenbosch Ulusal Botanik Bahçesi,DOES
+e9d7226d-8100-4246-b53d-d406a2448edb,Boulders Beach Penguen Kolonisi,DOES
+e9d7226d-8100-4246-b53d-d406a2448edb,Cape Town Şehir Gezisi,DOES
+e9d7226d-8100-4246-b53d-d406a2448edb,Two Oceans Aquarium,DOES
+e9d7226d-8100-4246-b53d-d406a2448edb,Camps Bay ve Clifton Beach,DOES
+e9d7226d-8100-4246-b53d-d406a2448edb,Zeitz Museum of Contemporary Art Africa,DOES
+e9d7226d-8100-4246-b53d-d406a2448edb,Güney Afrika Ulusal Müzesi (İziko),DOES
+e9d7226d-8100-4246-b53d-d406a2448edb,Planetarium,DOES
+e9d7226d-8100-4246-b53d-d406a2448edb,Cape Town Graffiti Street Art Turu,DOES
+e9d7226d-8100-4246-b53d-d406a2448edb,The Lookout Cafe,EATS_AT
+1790268b-5a18-43cf-80d2-428e8264b52e,TOKYO,VISITS
+1790268b-5a18-43cf-80d2-428e8264b52e,Okayama,VISITS
+1790268b-5a18-43cf-80d2-428e8264b52e,KYOTO,VISITS
+1790268b-5a18-43cf-80d2-428e8264b52e,Isola di Naoshima,VISITS
+1790268b-5a18-43cf-80d2-428e8264b52e,Teshima,VISITS
+1790268b-5a18-43cf-80d2-428e8264b52e,Giappone,IN_COUNTRY
+1790268b-5a18-43cf-80d2-428e8264b52e,Mitsui Garden Hotel Premier Jingu-Gaien,STAYS_AT
+1790268b-5a18-43cf-80d2-428e8264b52e,Uno Hotel,STAYS_AT
+1790268b-5a18-43cf-80d2-428e8264b52e,ACE Hotel Kyoto,STAYS_AT
+1790268b-5a18-43cf-80d2-428e8264b52e,Meiji Tapınağı,DOES
+1790268b-5a18-43cf-80d2-428e8264b52e,Ota Memorial Museum of Art,DOES
+1790268b-5a18-43cf-80d2-428e8264b52e,Doğu Bahçeler,DOES
+1790268b-5a18-43cf-80d2-428e8264b52e,Shibuya Sky,DOES
+1790268b-5a18-43cf-80d2-428e8264b52e,Miyashita Park,DOES
+1790268b-5a18-43cf-80d2-428e8264b52e,Mori Art Museum,DOES
+1790268b-5a18-43cf-80d2-428e8264b52e,National Art Centre,DOES
+1790268b-5a18-43cf-80d2-428e8264b52e,Museum of Contemporary Art,DOES
+1790268b-5a18-43cf-80d2-428e8264b52e,Chichu Sanat Müzesi,DOES
+1790268b-5a18-43cf-80d2-428e8264b52e,Art House Project,DOES
+1790268b-5a18-43cf-80d2-428e8264b52e,Lee Ufan Müzesi,DOES
+1790268b-5a18-43cf-80d2-428e8264b52e,Benesse House,DOES
+1790268b-5a18-43cf-80d2-428e8264b52e,Teshima Sanat Müzesi,DOES
+1790268b-5a18-43cf-80d2-428e8264b52e,Les Archives du Coeur,DOES
+b3ed435d-6086-4392-ac73-d392ef3417fd,Jukkasjärvi,VISITS
+b3ed435d-6086-4392-ac73-d392ef3417fd,Harads,VISITS
+b3ed435d-6086-4392-ac73-d392ef3417fd,Suède,IN_COUNTRY
+b3ed435d-6086-4392-ac73-d392ef3417fd,ICEHOTEL,STAYS_AT
+b3ed435d-6086-4392-ac73-d392ef3417fd,Kaamos Hotel,STAYS_AT
+b3ed435d-6086-4392-ac73-d392ef3417fd,Treehotel,STAYS_AT
+b3ed435d-6086-4392-ac73-d392ef3417fd,Gece Safarisi,DOES
+b3ed435d-6086-4392-ac73-d392ef3417fd,Kar Mobili Safarisi,DOES
+04e7f5c3-0137-49b7-8f1e-d4fe16e85696,Cairo,VISITS
+04e7f5c3-0137-49b7-8f1e-d4fe16e85696,Assouan,VISITS
+04e7f5c3-0137-49b7-8f1e-d4fe16e85696,Louxor,VISITS
+04e7f5c3-0137-49b7-8f1e-d4fe16e85696,Egitto,IN_COUNTRY
+04e7f5c3-0137-49b7-8f1e-d4fe16e85696,Marriott Mena House Hotel,STAYS_AT
+04e7f5c3-0137-49b7-8f1e-d4fe16e85696,Movenpick Sunray Nile Cruise,STAYS_AT
+04e7f5c3-0137-49b7-8f1e-d4fe16e85696,Giza Piramitleri,DOES
+04e7f5c3-0137-49b7-8f1e-d4fe16e85696,Büyük Giza Sfenksi,DOES
+04e7f5c3-0137-49b7-8f1e-d4fe16e85696,Mısır Müzesi,DOES
+04e7f5c3-0137-49b7-8f1e-d4fe16e85696,Khan El Khalili Çarşısı,DOES
+04e7f5c3-0137-49b7-8f1e-d4fe16e85696,High Dam,DOES
+04e7f5c3-0137-49b7-8f1e-d4fe16e85696,Philae Tapınağı,DOES
+04e7f5c3-0137-49b7-8f1e-d4fe16e85696,Kom Ombo Tapınağı,DOES
+04e7f5c3-0137-49b7-8f1e-d4fe16e85696,Edfu Tapınağı,DOES
+04e7f5c3-0137-49b7-8f1e-d4fe16e85696,Luxor East Bank Gezisi,DOES
+04e7f5c3-0137-49b7-8f1e-d4fe16e85696,Karnak Tapınağı,DOES
+04e7f5c3-0137-49b7-8f1e-d4fe16e85696,Luxor Tapınağı,DOES
+04e7f5c3-0137-49b7-8f1e-d4fe16e85696,Nil Nehri Sıcak Hava Balonu,DOES
+e66af09a-e47a-4196-986c-171fce711038,Amalfi,VISITS
+e66af09a-e47a-4196-986c-171fce711038,Ravello,VISITS
+e66af09a-e47a-4196-986c-171fce711038,Pompei,VISITS
+e66af09a-e47a-4196-986c-171fce711038,Naples,VISITS
+e66af09a-e47a-4196-986c-171fce711038,Sorrente,VISITS
+e66af09a-e47a-4196-986c-171fce711038,Italia,IN_COUNTRY
+e66af09a-e47a-4196-986c-171fce711038,Villa Piedimonte,STAYS_AT
+e66af09a-e47a-4196-986c-171fce711038,Hotel Rufolo,STAYS_AT
+e66af09a-e47a-4196-986c-171fce711038,Ravello - Villa Cimbrone Bahçesi,DOES
+e66af09a-e47a-4196-986c-171fce711038,Ravello - Villa Rufolo,DOES
+e66af09a-e47a-4196-986c-171fce711038,Pompei Şehri Ziyareti,DOES
+e66af09a-e47a-4196-986c-171fce711038,Napoli Şehri Gezisi,DOES
+e66af09a-e47a-4196-986c-171fce711038,Duomo di Napoli,DOES
+e66af09a-e47a-4196-986c-171fce711038,Il Pio Monte della Misericordia,DOES
+e66af09a-e47a-4196-986c-171fce711038,Palazzo Reale,DOES
+e66af09a-e47a-4196-986c-171fce711038,Castel dell’Ovo,DOES
+e66af09a-e47a-4196-986c-171fce711038,Amalfi Kasabası Gezisi,DOES
+e66af09a-e47a-4196-986c-171fce711038,Cattedrale di Sant’Andrea,DOES
+e66af09a-e47a-4196-986c-171fce711038,Piazza Duomo,DOES
+e66af09a-e47a-4196-986c-171fce711038,Piazza dei Dogi,DOES
+e66af09a-e47a-4196-986c-171fce711038,Piazza dello Spirito Santo,DOES
+e66af09a-e47a-4196-986c-171fce711038,Sorrento Gezisi,DOES
+e66af09a-e47a-4196-986c-171fce711038,Piazza Tasso,DOES
+e66af09a-e47a-4196-986c-171fce711038,Basilica di Sant’Antonino,DOES
+e66af09a-e47a-4196-986c-171fce711038,Sedile Dominova,DOES
+e66af09a-e47a-4196-986c-171fce711038,Sorrento Peninsula Arkeoloji Müzesi,DOES
+e66af09a-e47a-4196-986c-171fce711038,Bottega Della Tarsia Lignea Müzesi,DOES
+c906a5ed-ba0a-46a1-a06c-51e83d28585f,Loira,VISITS
+c906a5ed-ba0a-46a1-a06c-51e83d28585f,Tours,VISITS
+c906a5ed-ba0a-46a1-a06c-51e83d28585f,Amboise,VISITS
+c906a5ed-ba0a-46a1-a06c-51e83d28585f,Blois,VISITS
+c906a5ed-ba0a-46a1-a06c-51e83d28585f,France,IN_COUNTRY
+c906a5ed-ba0a-46a1-a06c-51e83d28585f,Cheverny Şatosu,DOES
+c906a5ed-ba0a-46a1-a06c-51e83d28585f,Villandry Şatosu,DOES
+c906a5ed-ba0a-46a1-a06c-51e83d28585f,Amboise Şatosu,DOES
+c906a5ed-ba0a-46a1-a06c-51e83d28585f,Château du Clos Lucé,DOES
+c906a5ed-ba0a-46a1-a06c-51e83d28585f,Château de Chenonceau,DOES
+c906a5ed-ba0a-46a1-a06c-51e83d28585f,Château de Blois,DOES
+c906a5ed-ba0a-46a1-a06c-51e83d28585f,Château de Chambord,DOES
+c906a5ed-ba0a-46a1-a06c-51e83d28585f,Loire Vadisi Balon Turu,DOES
+c906a5ed-ba0a-46a1-a06c-51e83d28585f,Tours Şehri Gezisi,DOES
+c906a5ed-ba0a-46a1-a06c-51e83d28585f,Avarum Restaurant,EATS_AT
+c906a5ed-ba0a-46a1-a06c-51e83d28585f,Restaurante Amour Blanc,EATS_AT
+951f234f-6b85-46f9-9b6b-da9f5e0e23a1,Bruges,VISITS
+951f234f-6b85-46f9-9b6b-da9f5e0e23a1,Gent,VISITS
+951f234f-6b85-46f9-9b6b-da9f5e0e23a1,Loira,VISITS
+951f234f-6b85-46f9-9b6b-da9f5e0e23a1,Amboise,VISITS
+951f234f-6b85-46f9-9b6b-da9f5e0e23a1,Blois,VISITS
+951f234f-6b85-46f9-9b6b-da9f5e0e23a1,Belgio,IN_COUNTRY
+951f234f-6b85-46f9-9b6b-da9f5e0e23a1,France,IN_COUNTRY
+951f234f-6b85-46f9-9b6b-da9f5e0e23a1,Hotel De Orangerie,STAYS_AT
+951f234f-6b85-46f9-9b6b-da9f5e0e23a1,Hotel Van Cleef,STAYS_AT
+951f234f-6b85-46f9-9b6b-da9f5e0e23a1,Hotel Heritage Relais Chateau,STAYS_AT
+951f234f-6b85-46f9-9b6b-da9f5e0e23a1,Hotel Dukes' Palace,STAYS_AT
+951f234f-6b85-46f9-9b6b-da9f5e0e23a1,Brugge Gezisi,DOES
+951f234f-6b85-46f9-9b6b-da9f5e0e23a1,Gent Gezisi,DOES
+951f234f-6b85-46f9-9b6b-da9f5e0e23a1,Cheverny Şatosu,DOES
+951f234f-6b85-46f9-9b6b-da9f5e0e23a1,Château de Blois,DOES
+951f234f-6b85-46f9-9b6b-da9f5e0e23a1,Clos de Lucé,DOES
+951f234f-6b85-46f9-9b6b-da9f5e0e23a1,Amboise Şatosu,DOES
+951f234f-6b85-46f9-9b6b-da9f5e0e23a1,Château de Chenonceau,DOES
+951f234f-6b85-46f9-9b6b-da9f5e0e23a1,Château de Chambord,DOES
+951f234f-6b85-46f9-9b6b-da9f5e0e23a1,Loire Vadisi Şarap Bağları,DOES
+d5afb91a-2d7b-4c04-95f4-2694e20237bc,Amalfi,VISITS
+d5afb91a-2d7b-4c04-95f4-2694e20237bc,Italia,IN_COUNTRY
+d5afb91a-2d7b-4c04-95f4-2694e20237bc,Tam Gün Tekne Gezisi,DOES
+4c7324a7-5e98-4ba0-bf3d-27a26aad1245,Salisburgo,VISITS
+4c7324a7-5e98-4ba0-bf3d-27a26aad1245,Hallstatt,VISITS
+4c7324a7-5e98-4ba0-bf3d-27a26aad1245,St Wolfgang,VISITS
+4c7324a7-5e98-4ba0-bf3d-27a26aad1245,Berchtesgaden,VISITS
+4c7324a7-5e98-4ba0-bf3d-27a26aad1245,Austria,IN_COUNTRY
+4c7324a7-5e98-4ba0-bf3d-27a26aad1245,Allemagne,IN_COUNTRY
+4c7324a7-5e98-4ba0-bf3d-27a26aad1245,Radisson Blu Hotel Altstadt,STAYS_AT
+4c7324a7-5e98-4ba0-bf3d-27a26aad1245,Hotel Goldener Hirsch,STAYS_AT
+4c7324a7-5e98-4ba0-bf3d-27a26aad1245,Hotel Bristol,STAYS_AT
+4c7324a7-5e98-4ba0-bf3d-27a26aad1245,Mirabel Sarayı ve Bahçesi,DOES
+4c7324a7-5e98-4ba0-bf3d-27a26aad1245,Mozart’ın Evi,DOES
+4c7324a7-5e98-4ba0-bf3d-27a26aad1245,Residenzplatz & DomQuartier,DOES
+4c7324a7-5e98-4ba0-bf3d-27a26aad1245,Noel Pazarları,DOES
+4c7324a7-5e98-4ba0-bf3d-27a26aad1245,Hallstatt Gezisi,DOES
+4c7324a7-5e98-4ba0-bf3d-27a26aad1245,Salzberg Dağı & Tuz Madeni Ziyareti,DOES
+4c7324a7-5e98-4ba0-bf3d-27a26aad1245,Atlı Kızak Turu (St Wolfgang),DOES
+4c7324a7-5e98-4ba0-bf3d-27a26aad1245,Salzburg Kalesi,DOES
+4c7324a7-5e98-4ba0-bf3d-27a26aad1245,Adolf Hitler’in Kartal Yuvası,DOES
+4c7324a7-5e98-4ba0-bf3d-27a26aad1245,Salzbergwerk Berchtesgaden,DOES
+4c7324a7-5e98-4ba0-bf3d-27a26aad1245,Grassl Likör Fabrikası,DOES
+4c7324a7-5e98-4ba0-bf3d-27a26aad1245,Cafe Sacher Salzburg,EATS_AT
+4c7324a7-5e98-4ba0-bf3d-27a26aad1245,Restaurant Blaue Gans Salzburg Gasthaus,EATS_AT
+6d308916-68c7-4d45-87cc-dceaa0b6ada5,Belgrad,VISITS
+6d308916-68c7-4d45-87cc-dceaa0b6ada5,Karlofca,VISITS
+6d308916-68c7-4d45-87cc-dceaa0b6ada5,Novi Sad,VISITS
+6d308916-68c7-4d45-87cc-dceaa0b6ada5,Serbia,IN_COUNTRY
+6d308916-68c7-4d45-87cc-dceaa0b6ada5,Metropol Palace Hotel,STAYS_AT
+6d308916-68c7-4d45-87cc-dceaa0b6ada5,Square Nine Hotel,STAYS_AT
+6d308916-68c7-4d45-87cc-dceaa0b6ada5,Belgrad Şehir Gezisi,DOES
+6d308916-68c7-4d45-87cc-dceaa0b6ada5,Aziz Sava Kilisesi,DOES
+6d308916-68c7-4d45-87cc-dceaa0b6ada5,Kalemegdan,DOES
+6d308916-68c7-4d45-87cc-dceaa0b6ada5,Sokullu Mehmet Paşa Çeşmesi,DOES
+6d308916-68c7-4d45-87cc-dceaa0b6ada5,Damat Ali Paşa Türbesi,DOES
+6d308916-68c7-4d45-87cc-dceaa0b6ada5,Fikirbayır,DOES
+6d308916-68c7-4d45-87cc-dceaa0b6ada5,Stambol Kapısı,DOES
+6d308916-68c7-4d45-87cc-dceaa0b6ada5,Tuna & Sava Nehirlerinin Birleşim Noktası,DOES
+6d308916-68c7-4d45-87cc-dceaa0b6ada5,Museum of Yugoslav History,DOES
+6d308916-68c7-4d45-87cc-dceaa0b6ada5,Royal Compound,DOES
+6d308916-68c7-4d45-87cc-dceaa0b6ada5,Nikola Tesla Müzesi,DOES
+6d308916-68c7-4d45-87cc-dceaa0b6ada5,Karlofca Gezisi,DOES
+6d308916-68c7-4d45-87cc-dceaa0b6ada5,Novi Sad Gezisi,DOES
+6d308916-68c7-4d45-87cc-dceaa0b6ada5,Tuna Nehri Tekne Gezisi,DOES
+6d308916-68c7-4d45-87cc-dceaa0b6ada5,Kalemegdan Restaurant,EATS_AT
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,ISTANBUL,VISITS
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,CAPPADOCIA,VISITS
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Kuşadası,VISITS
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Izmir,VISITS
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Şirince,VISITS
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Efes,VISITS
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Turchia,IN_COUNTRY
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Topkapı Sarayı,DOES
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Ayasofya,DOES
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Yerebatan Sarnıcı,DOES
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Boğaz Turu,DOES
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Karaköy,DOES
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Balon Turu,DOES
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Soğanlı Vadisi,DOES
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Keşlik Manastırı,DOES
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Taşkınpaşa Medresesi,DOES
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Selime Köyü,DOES
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Agzikarahan Kervansarayı,DOES
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Ihlara Vadisi,DOES
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Göreme Açık Hava Müzesi,DOES
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Uçhisar,DOES
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Kaymaklı Yeraltı Şehri,DOES
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Kızıl Vadi,DOES
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Efes Antik Kenti,DOES
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Hadrian Tapınağı,DOES
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Odeon,DOES
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Traian Çeşmesi,DOES
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Şirince Köyü,DOES
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Il Cortile Ristorante Pizzeria,EATS_AT
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Pandeli Restaurant,EATS_AT
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Belisirma Nehir Kenarı Restoran,EATS_AT
+d434c6c7-9895-4b16-8b59-0c47ec5700cd,Geleneksel Türk Restoranı (Efes),EATS_AT
+1596173c-3d0e-4a6c-960b-ffd2c8cb4f84,Edimburgo,VISITS
+1596173c-3d0e-4a6c-960b-ffd2c8cb4f84,Pitlochry,VISITS
+1596173c-3d0e-4a6c-960b-ffd2c8cb4f84,Fort William,VISITS
+1596173c-3d0e-4a6c-960b-ffd2c8cb4f84,Inverness,VISITS
+1596173c-3d0e-4a6c-960b-ffd2c8cb4f84,Scotland,IN_COUNTRY
+1596173c-3d0e-4a6c-960b-ffd2c8cb4f84,Fonab Castle Hotel,STAYS_AT
+1596173c-3d0e-4a6c-960b-ffd2c8cb4f84,The Craigellachie Hotel,STAYS_AT
+1596173c-3d0e-4a6c-960b-ffd2c8cb4f84,Nevis Bank Inn,STAYS_AT
+1596173c-3d0e-4a6c-960b-ffd2c8cb4f84,Seasgair Hotel,STAYS_AT
+1596173c-3d0e-4a6c-960b-ffd2c8cb4f84,Blair Castle,DOES
+1596173c-3d0e-4a6c-960b-ffd2c8cb4f84,Ballindalloch Castle & Gardens,DOES
+1596173c-3d0e-4a6c-960b-ffd2c8cb4f84,Camera Obscura & World of Illusions,DOES
+1596173c-3d0e-4a6c-960b-ffd2c8cb4f84,Loch Ness,DOES
+1596173c-3d0e-4a6c-960b-ffd2c8cb4f84,Inverness Kalesi,DOES
+1596173c-3d0e-4a6c-960b-ffd2c8cb4f84,St. Andrews Katedrali,DOES
+1596173c-3d0e-4a6c-960b-ffd2c8cb4f84,Inverness Müzesi ve Sanat Galerisi,DOES
+1596173c-3d0e-4a6c-960b-ffd2c8cb4f84,Strathisla Distillery,DOES
+1596173c-3d0e-4a6c-960b-ffd2c8cb4f84,Nevis Bank Inn and Browns Restaurant,EATS_AT
+1596173c-3d0e-4a6c-960b-ffd2c8cb4f84,Rocpool Restaurant,EATS_AT
+0c554203-ad54-41bd-abc1-d61654cf0198,Bangkok,VISITS
+0c554203-ad54-41bd-abc1-d61654cf0198,Chiang Mai,VISITS
+0c554203-ad54-41bd-abc1-d61654cf0198,Chiang Rai,VISITS
+0c554203-ad54-41bd-abc1-d61654cf0198,Tayland,IN_COUNTRY
+0c554203-ad54-41bd-abc1-d61654cf0198,The Surin,STAYS_AT
+0c554203-ad54-41bd-abc1-d61654cf0198,Tapınaklar ve Şehir Gezisi,DOES
+0c554203-ad54-41bd-abc1-d61654cf0198,Bo Sang Köyü,DOES
+0c554203-ad54-41bd-abc1-d61654cf0198,Wat Chedi Luangis,DOES
+0c554203-ad54-41bd-abc1-d61654cf0198,Wat Suan Dok Tapınağı,DOES
+0c554203-ad54-41bd-abc1-d61654cf0198,Wat Phra That Doi Suthep,DOES
+0c554203-ad54-41bd-abc1-d61654cf0198,Wat Rong Khun,DOES
+0c554203-ad54-41bd-abc1-d61654cf0198,Chiang Rai Gezisi,DOES
+0c554203-ad54-41bd-abc1-d61654cf0198,Golden Triangle Gezisi,DOES
+0c554203-ad54-41bd-abc1-d61654cf0198,Mekong Nehri Tekne Gezisi,DOES
+0c554203-ad54-41bd-abc1-d61654cf0198,Bangkok Şehir Gezisi,DOES
+0c554203-ad54-41bd-abc1-d61654cf0198,Büyük Saray,DOES
+0c554203-ad54-41bd-abc1-d61654cf0198,Wat Phra Kaew,DOES
+0c554203-ad54-41bd-abc1-d61654cf0198,Wat Pho Tapınağı,DOES
+0c554203-ad54-41bd-abc1-d61654cf0198,Wat Ratchabophit,DOES
+0c554203-ad54-41bd-abc1-d61654cf0198,Bangkok Kanalları Gezisi,DOES
+0c554203-ad54-41bd-abc1-d61654cf0198,Chatuchak Weekend Market,DOES
+0c554203-ad54-41bd-abc1-d61654cf0198,Beach Restaurant (The Surin),EATS_AT
+0c554203-ad54-41bd-abc1-d61654cf0198,Potong Restaurant,EATS_AT
+0c554203-ad54-41bd-abc1-d61654cf0198,Clara Restaurant,EATS_AT
+0c554203-ad54-41bd-abc1-d61654cf0198,Kalido,EATS_AT
+0c554203-ad54-41bd-abc1-d61654cf0198,Carpe Diem Beach Club,EATS_AT
+0c554203-ad54-41bd-abc1-d61654cf0198,Terrace Rim Naam,EATS_AT
+d7634b5a-6241-4ec6-a8c9-186604950ae3,TOKYO,VISITS
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Hakone,VISITS
+d7634b5a-6241-4ec6-a8c9-186604950ae3,KYOTO,VISITS
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Nara,VISITS
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Isola di Naoshima,VISITS
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Teshima,VISITS
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Giappone,IN_COUNTRY
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Mitsui Garden Hotel,STAYS_AT
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Benesse House,STAYS_AT
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Shinjuku Gyoen Park,DOES
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Senso-ji Tapınağı,DOES
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Nakamise Alışveriş Caddesi,DOES
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Meiji Shrine,DOES
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Takeshita Street,DOES
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Omotesando,DOES
+d7634b5a-6241-4ec6-a8c9-186604950ae3,TeamLab Planets,DOES
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Ginza,DOES
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Hakone Açık Hava Müzesi,DOES
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Picasso Pavilion,DOES
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Hakone Teleferiği,DOES
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Owakudani Vadisi,DOES
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Ashinoko Tekne Gezisi,DOES
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Kiyomizu Tapınağı,DOES
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Kinkaku-ji,DOES
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Geisha & Maiko Gösterisi,DOES
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Nara Park,DOES
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Kasuga Taisha,DOES
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Tenryu-ji Tapınağı,DOES
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Monkey Park Iwatayama,DOES
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Benesse House,DOES
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Chichu Sanat Müzesi,DOES
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Lee Ufan Müzesi,DOES
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Teshima Sanat Müzesi,DOES
+d7634b5a-6241-4ec6-a8c9-186604950ae3,Teshima Yokoo Evi,DOES
+fcc27888-f4c5-43f6-91e7-5f8a3b32da88,Arles,VISITS
+fcc27888-f4c5-43f6-91e7-5f8a3b32da88,Avignon,VISITS
+fcc27888-f4c5-43f6-91e7-5f8a3b32da88,Les Baux-de-Provence,VISITS
+fcc27888-f4c5-43f6-91e7-5f8a3b32da88,L'Isle-sur-la-Sorgue,VISITS
+fcc27888-f4c5-43f6-91e7-5f8a3b32da88,France,IN_COUNTRY
+fcc27888-f4c5-43f6-91e7-5f8a3b32da88,LUMA Müzesi,DOES
+fcc27888-f4c5-43f6-91e7-5f8a3b32da88,Van Gogh Müzesi,DOES
+fcc27888-f4c5-43f6-91e7-5f8a3b32da88,Art Tour,DOES
+fcc27888-f4c5-43f6-91e7-5f8a3b32da88,Avignon Gezisi,DOES
+fcc27888-f4c5-43f6-91e7-5f8a3b32da88,Chateau Estoublon,DOES
+fcc27888-f4c5-43f6-91e7-5f8a3b32da88,Les Baux-de-Provence Gezisi,DOES
+fcc27888-f4c5-43f6-91e7-5f8a3b32da88,L'Isle-sur-la-Sorgue Gezisi,DOES
+fcc27888-f4c5-43f6-91e7-5f8a3b32da88,Restaurant L'Oriel,EATS_AT
+fcc27888-f4c5-43f6-91e7-5f8a3b32da88,Café Tadoa Ando,EATS_AT
+fcc27888-f4c5-43f6-91e7-5f8a3b32da88,La Taula Gallici's Gourmet Restaurant,EATS_AT
+158bd676-46c5-48e8-ba07-f35b0e9e6349,Bari,VISITS
+158bd676-46c5-48e8-ba07-f35b0e9e6349,Alberobello,VISITS
+158bd676-46c5-48e8-ba07-f35b0e9e6349,Matera,VISITS
+158bd676-46c5-48e8-ba07-f35b0e9e6349,Monopoli,VISITS
+158bd676-46c5-48e8-ba07-f35b0e9e6349,Polignano a Mare,VISITS
+158bd676-46c5-48e8-ba07-f35b0e9e6349,Lecce,VISITS
+158bd676-46c5-48e8-ba07-f35b0e9e6349,Italia,IN_COUNTRY
+158bd676-46c5-48e8-ba07-f35b0e9e6349,Canne Bianche Lifestyle & Hotel,STAYS_AT
+158bd676-46c5-48e8-ba07-f35b0e9e6349,Alberobello Trulli Evleri,DOES
+158bd676-46c5-48e8-ba07-f35b0e9e6349,Matera Gezisi,DOES
+158bd676-46c5-48e8-ba07-f35b0e9e6349,Monopoli Gezisi,DOES
+158bd676-46c5-48e8-ba07-f35b0e9e6349,Polignano a Mare Gezisi,DOES
+158bd676-46c5-48e8-ba07-f35b0e9e6349,Lecce Şehir Gezisi,DOES
+158bd676-46c5-48e8-ba07-f35b0e9e6349,Santa Croce Bazilikası,DOES
+158bd676-46c5-48e8-ba07-f35b0e9e6349,San Giuseppe Kilisesi,DOES
+158bd676-46c5-48e8-ba07-f35b0e9e6349,Palazzo dei Celestini,DOES
+158bd676-46c5-48e8-ba07-f35b0e9e6349,Sant'Oronzo Meydanı,DOES
+158bd676-46c5-48e8-ba07-f35b0e9e6349,Antik Roma Amfitiyatrosu,DOES
+158bd676-46c5-48e8-ba07-f35b0e9e6349,Bari Şehir Gezisi,DOES
+158bd676-46c5-48e8-ba07-f35b0e9e6349,Saint Nicholas Bazilikası,DOES
+158bd676-46c5-48e8-ba07-f35b0e9e6349,San Sabino Katedrali,DOES
+158bd676-46c5-48e8-ba07-f35b0e9e6349,Hohenstaufen Kalesi,DOES
+158bd676-46c5-48e8-ba07-f35b0e9e6349,Old Town,DOES
+158bd676-46c5-48e8-ba07-f35b0e9e6349,Strada delle Orecchiette,DOES
+66ae3c07-2b81-46ad-a5af-18eef3c47a3c,Provence,VISITS
+66ae3c07-2b81-46ad-a5af-18eef3c47a3c,L’Isle-sur-la-Sorgue,VISITS
+66ae3c07-2b81-46ad-a5af-18eef3c47a3c,Rossiglione (regione),VISITS
+66ae3c07-2b81-46ad-a5af-18eef3c47a3c,Gordes,VISITS
+66ae3c07-2b81-46ad-a5af-18eef3c47a3c,Saint-Rémy-de-Provence,VISITS
+66ae3c07-2b81-46ad-a5af-18eef3c47a3c,Les Baux-de-Provence,VISITS
+66ae3c07-2b81-46ad-a5af-18eef3c47a3c,Arles,VISITS
+66ae3c07-2b81-46ad-a5af-18eef3c47a3c,France,IN_COUNTRY
+66ae3c07-2b81-46ad-a5af-18eef3c47a3c,Chateau La Coste Art Tour,DOES
+66ae3c07-2b81-46ad-a5af-18eef3c47a3c,L’Isle-sur-la-Sorgue Gezisi,DOES
+66ae3c07-2b81-46ad-a5af-18eef3c47a3c,Roussillon Gezisi,DOES
+66ae3c07-2b81-46ad-a5af-18eef3c47a3c,Gordes Gezisi,DOES
+66ae3c07-2b81-46ad-a5af-18eef3c47a3c,Saint-Rémy-de-Provence Gezisi,DOES
+66ae3c07-2b81-46ad-a5af-18eef3c47a3c,Les Baux-de-Provence Gezisi,DOES
+66ae3c07-2b81-46ad-a5af-18eef3c47a3c,Arles Gezisi,DOES
+66ae3c07-2b81-46ad-a5af-18eef3c47a3c,Tadao Ando Café Restaurant,EATS_AT
+66ae3c07-2b81-46ad-a5af-18eef3c47a3c,Chateau d’Estoublon,EATS_AT
+d30e7522-2784-4354-bd95-fcc96b285c73,VENICE,VISITS
+d30e7522-2784-4354-bd95-fcc96b285c73,Italia,IN_COUNTRY
+d30e7522-2784-4354-bd95-fcc96b285c73,Peggy Guggenheim Müzesi,DOES
+d30e7522-2784-4354-bd95-fcc96b285c73,Galleria dell’Accademia,DOES
+d30e7522-2784-4354-bd95-fcc96b285c73,Palazzo Manfrin,DOES
+d30e7522-2784-4354-bd95-fcc96b285c73,Giardini Bienali,DOES
+d30e7522-2784-4354-bd95-fcc96b285c73,Trattoria Alla Madonna,EATS_AT
+d30e7522-2784-4354-bd95-fcc96b285c73,Türk Hava Yolları TK1867,USES
+d30e7522-2784-4354-bd95-fcc96b285c73,Bienal,HAS_TAG
+d30e7522-2784-4354-bd95-fcc96b285c73,Sanat,HAS_TAG
+d30e7522-2784-4354-bd95-fcc96b285c73,VENICE,HAS_TAG
+d30e7522-2784-4354-bd95-fcc96b285c73,Italia,HAS_TAG
+29fdd870-3ad0-4d8d-8916-6fc5b50d8222,Dubai,VISITS
+29fdd870-3ad0-4d8d-8916-6fc5b50d8222,Birleşik Arap Emirlikleri,IN_COUNTRY
+29fdd870-3ad0-4d8d-8916-6fc5b50d8222,Atlantis The Royal,STAYS_AT
+29fdd870-3ad0-4d8d-8916-6fc5b50d8222,Dubai Creek – Old Town,DOES
+29fdd870-3ad0-4d8d-8916-6fc5b50d8222,Museum of the Future,DOES
+29fdd870-3ad0-4d8d-8916-6fc5b50d8222,Dubai Mall,DOES
+29fdd870-3ad0-4d8d-8916-6fc5b50d8222,Nobu Restaurant - Atlantis the Palm,EATS_AT
+29fdd870-3ad0-4d8d-8916-6fc5b50d8222,Emirates EK124,USES
+29fdd870-3ad0-4d8d-8916-6fc5b50d8222,Dubai,HAS_TAG
+29fdd870-3ad0-4d8d-8916-6fc5b50d8222,BAE,HAS_TAG
+29fdd870-3ad0-4d8d-8916-6fc5b50d8222,Müze,HAS_TAG
+29fdd870-3ad0-4d8d-8916-6fc5b50d8222,Alışveriş,HAS_TAG
+29fdd870-3ad0-4d8d-8916-6fc5b50d8222,Modern Mimari,HAS_TAG
+0f969f15-b09d-495a-8979-3b77bc3a1980,Izmir,VISITS
+0f969f15-b09d-495a-8979-3b77bc3a1980,Şirince,VISITS
+0f969f15-b09d-495a-8979-3b77bc3a1980,Urla,VISITS
+0f969f15-b09d-495a-8979-3b77bc3a1980,Turchia,IN_COUNTRY
+0f969f15-b09d-495a-8979-3b77bc3a1980,Güllü Konak,STAYS_AT
+0f969f15-b09d-495a-8979-3b77bc3a1980,Şirince Çarşısı,DOES
+0f969f15-b09d-495a-8979-3b77bc3a1980,Aziz John Baptist Kilisesi,DOES
+0f969f15-b09d-495a-8979-3b77bc3a1980,Hodri Meydan Kulesi,DOES
+0f969f15-b09d-495a-8979-3b77bc3a1980,Şarap Mahzenleri,DOES
+0f969f15-b09d-495a-8979-3b77bc3a1980,Nesin Matematik Köyü,DOES
+0f969f15-b09d-495a-8979-3b77bc3a1980,Key Museum,DOES
+0f969f15-b09d-495a-8979-3b77bc3a1980,Urla Sanat Sokağı,DOES
+0f969f15-b09d-495a-8979-3b77bc3a1980,Necati Cumali Anı Evi,DOES
+0f969f15-b09d-495a-8979-3b77bc3a1980,Yorgo Seferis’in doğduğu ev,DOES
+0f969f15-b09d-495a-8979-3b77bc3a1980,Tanju Okan Parkı,DOES
+0f969f15-b09d-495a-8979-3b77bc3a1980,Malgaca Pazarı,DOES
+0f969f15-b09d-495a-8979-3b77bc3a1980,Artemis Restaurant ve Şarapevi,EATS_AT
+0f969f15-b09d-495a-8979-3b77bc3a1980,Yengeç Restoran - Urla İskele,EATS_AT
+0f969f15-b09d-495a-8979-3b77bc3a1980,Şirince,HAS_TAG
+0f969f15-b09d-495a-8979-3b77bc3a1980,Urla,HAS_TAG
+0f969f15-b09d-495a-8979-3b77bc3a1980,Izmir,HAS_TAG
+0f969f15-b09d-495a-8979-3b77bc3a1980,Turchia,HAS_TAG
+0f969f15-b09d-495a-8979-3b77bc3a1980,Köy Gezisi,HAS_TAG
+0f969f15-b09d-495a-8979-3b77bc3a1980,Şarap,HAS_TAG
+0f969f15-b09d-495a-8979-3b77bc3a1980,Müze,HAS_TAG
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Bologna,VISITS
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Firenze,VISITS
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Chianti,VISITS
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,San Gimignano,VISITS
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Siena,VISITS
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Cortona,VISITS
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Orvieto,VISITS
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,ROME,VISITS
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Italia,IN_COUNTRY
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Hotel Cerretani Firenze – Mgallery,STAYS_AT
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Santa Maria del Fiore Katedrali,DOES
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Vaftizhane (Battistero di San Giovanni),DOES
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Piazza della Signoria,DOES
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Palazzo Vecchio,DOES
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Uffizi Galerisi,DOES
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Antinori nel Chianti Classico Şaraphanesi,DOES
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,San Gimignano UNESCO Dünya Mirası,DOES
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Siena Şehir Merkezi,DOES
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Cortona Tarihi Sokaklar,DOES
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Orvieto Katedrali,DOES
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Orvieto Yer Altı Tünelleri,DOES
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Buca Mario,EATS_AT
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Osteria delle Tre Panche,EATS_AT
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Ristorante Storico Sabatini,EATS_AT
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Buca Lapi,EATS_AT
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Antico Ristorante Paoli 1827,EATS_AT
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Türk Hava Yolları TK1323,USES
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Türk Hava Yolları TK1864,USES
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Toscana,HAS_TAG
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Italia,HAS_TAG
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Firenze,HAS_TAG
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Şarap,HAS_TAG
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Sanat,HAS_TAG
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Katedral,HAS_TAG
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,Siena,HAS_TAG
+817ee8d6-bf9e-4dd7-b24c-9ccc09e64ef5,San Gimignano,HAS_TAG
+668770f4-5621-477b-9bf4-083266b2faad,Sidney,VISITS
+668770f4-5621-477b-9bf4-083266b2faad,Auckland,VISITS
+668770f4-5621-477b-9bf4-083266b2faad,Rotorua,VISITS
+668770f4-5621-477b-9bf4-083266b2faad,Queenstown,VISITS
+668770f4-5621-477b-9bf4-083266b2faad,Melbourne,VISITS
+668770f4-5621-477b-9bf4-083266b2faad,Australia,IN_COUNTRY
+668770f4-5621-477b-9bf4-083266b2faad,New Zealand,IN_COUNTRY
+668770f4-5621-477b-9bf4-083266b2faad,Park Hyatt Sydney,STAYS_AT
+668770f4-5621-477b-9bf4-083266b2faad,The Rocks,DOES
+668770f4-5621-477b-9bf4-083266b2faad,Botanik Bahçeleri - Sydney,DOES
+668770f4-5621-477b-9bf4-083266b2faad,Macquarie Caddesi,DOES
+668770f4-5621-477b-9bf4-083266b2faad,Hyde Park,DOES
+668770f4-5621-477b-9bf4-083266b2faad,St. Mary Katedrali,DOES
+668770f4-5621-477b-9bf4-083266b2faad,Mrs Macquarie’s Chair,DOES
+668770f4-5621-477b-9bf4-083266b2faad,Sydney Opera Binası,DOES
+668770f4-5621-477b-9bf4-083266b2faad,Sydney Köprüsü,DOES
+668770f4-5621-477b-9bf4-083266b2faad,Bondi Plajı,DOES
+668770f4-5621-477b-9bf4-083266b2faad,Oxford Caddesi,DOES
+668770f4-5621-477b-9bf4-083266b2faad,Paddington,DOES
+668770f4-5621-477b-9bf4-083266b2faad,Türk Hava Yolları TK174,USES
+668770f4-5621-477b-9bf4-083266b2faad,Sidney,HAS_TAG
+668770f4-5621-477b-9bf4-083266b2faad,Australia,HAS_TAG
+668770f4-5621-477b-9bf4-083266b2faad,New Zealand,HAS_TAG
+668770f4-5621-477b-9bf4-083266b2faad,Opera Binası,HAS_TAG
+668770f4-5621-477b-9bf4-083266b2faad,Plaj,HAS_TAG
+5f97595e-4270-4260-804d-d070472272ef,Bénarès,VISITS
+5f97595e-4270-4260-804d-d070472272ef,Jaipur,VISITS
+5f97595e-4270-4260-804d-d070472272ef,Udaipur,VISITS
+5f97595e-4270-4260-804d-d070472272ef,Delhi,VISITS
+5f97595e-4270-4260-804d-d070472272ef,Hindistan,IN_COUNTRY
+5f97595e-4270-4260-804d-d070472272ef,Brijrama Palace,STAYS_AT
+5f97595e-4270-4260-804d-d070472272ef,Rambagh Palace,STAYS_AT
+5f97595e-4270-4260-804d-d070472272ef,Taj Lake Palace,STAYS_AT
+5f97595e-4270-4260-804d-d070472272ef,Ganj Nehri Aarti Töreni,DOES
+5f97595e-4270-4260-804d-d070472272ef,Kashi Vishwanath Tapınağı,DOES
+5f97595e-4270-4260-804d-d070472272ef,Sarnath,DOES
+5f97595e-4270-4260-804d-d070472272ef,Amber Fort,DOES
+5f97595e-4270-4260-804d-d070472272ef,City Palace - Jaipur,DOES
+5f97595e-4270-4260-804d-d070472272ef,Hawa Mahal,DOES
+5f97595e-4270-4260-804d-d070472272ef,Jantar Mantar,DOES
+5f97595e-4270-4260-804d-d070472272ef,City Palace - Udaipur,DOES
+5f97595e-4270-4260-804d-d070472272ef,Crystal Gallery,DOES
+5f97595e-4270-4260-804d-d070472272ef,Pichola Gölü,DOES
+5f97595e-4270-4260-804d-d070472272ef,Muson Sarayı,DOES
+5f97595e-4270-4260-804d-d070472272ef,Humayun’un Mezarı,DOES
+5f97595e-4270-4260-804d-d070472272ef,Cumhurbaşkanlığı Sarayı,DOES
+5f97595e-4270-4260-804d-d070472272ef,Hindistan Kapısı,DOES
+5f97595e-4270-4260-804d-d070472272ef,Jama Mescidi,DOES
+5f97595e-4270-4260-804d-d070472272ef,Chandni Chowk,DOES
+5f97595e-4270-4260-804d-d070472272ef,Laxmi Narayan Tapınağı,DOES
+5f97595e-4270-4260-804d-d070472272ef,Udayan Terrace,EATS_AT
+5f97595e-4270-4260-804d-d070472272ef,Neelkamal Restaurant,EATS_AT
+5f97595e-4270-4260-804d-d070472272ef,Spice Route,EATS_AT
+5f97595e-4270-4260-804d-d070472272ef,Bukhara - ITC Maurya Hotel,EATS_AT
+5f97595e-4270-4260-804d-d070472272ef,City Palace Özel Akşam Yemeği,EATS_AT
+5f97595e-4270-4260-804d-d070472272ef,Mewar Terrace,EATS_AT
+5f97595e-4270-4260-804d-d070472272ef,Türk Hava Yolları TK716,USES
+5f97595e-4270-4260-804d-d070472272ef,Air India AI406,USES
+5f97595e-4270-4260-804d-d070472272ef,Indigo 6E7348,USES
+5f97595e-4270-4260-804d-d070472272ef,Hindistan,HAS_TAG
+5f97595e-4270-4260-804d-d070472272ef,Bénarès,HAS_TAG
+5f97595e-4270-4260-804d-d070472272ef,Jaipur,HAS_TAG
+5f97595e-4270-4260-804d-d070472272ef,Udaipur,HAS_TAG
+5f97595e-4270-4260-804d-d070472272ef,Delhi,HAS_TAG
+5f97595e-4270-4260-804d-d070472272ef,Tapınak,HAS_TAG
+5f97595e-4270-4260-804d-d070472272ef,Saray,HAS_TAG
+5f97595e-4270-4260-804d-d070472272ef,Kale,HAS_TAG
+7afc4130-2a5d-4522-a66f-b230351a9c78,Città del Messico,VISITS
+7afc4130-2a5d-4522-a66f-b230351a9c78,Mérida,VISITS
+7afc4130-2a5d-4522-a66f-b230351a9c78,Chichen Itza,VISITS
+7afc4130-2a5d-4522-a66f-b230351a9c78,Cancún,VISITS
+7afc4130-2a5d-4522-a66f-b230351a9c78,Meksika,IN_COUNTRY
+7afc4130-2a5d-4522-a66f-b230351a9c78,The St. Regis Mexico City,STAYS_AT
+7afc4130-2a5d-4522-a66f-b230351a9c78,Centro Histórico,DOES
+7afc4130-2a5d-4522-a66f-b230351a9c78,Zócalo Meydanı,DOES
+7afc4130-2a5d-4522-a66f-b230351a9c78,Templo Mayor,DOES
+7afc4130-2a5d-4522-a66f-b230351a9c78,Palacio de Bellas Artes,DOES
+7afc4130-2a5d-4522-a66f-b230351a9c78,Plaza Manuel Tolsá,DOES
+7afc4130-2a5d-4522-a66f-b230351a9c78,Antropoloji Müzesi,DOES
+7afc4130-2a5d-4522-a66f-b230351a9c78,Coyoacán & Frida Kahlo Müzesi,DOES
+7afc4130-2a5d-4522-a66f-b230351a9c78,Polanco,DOES
+7afc4130-2a5d-4522-a66f-b230351a9c78,Chichen Itza,DOES
+7afc4130-2a5d-4522-a66f-b230351a9c78,Kukulkan Piramidi,DOES
+7afc4130-2a5d-4522-a66f-b230351a9c78,Plaza Grande,DOES
+7afc4130-2a5d-4522-a66f-b230351a9c78,San Ildefonso Katedrali,DOES
+7afc4130-2a5d-4522-a66f-b230351a9c78,Parque de Santa Lucía,DOES
+7afc4130-2a5d-4522-a66f-b230351a9c78,Iglesia de Santa Lucía,DOES
+7afc4130-2a5d-4522-a66f-b230351a9c78,Tekila & Mezcal Tadımı,DOES
+7afc4130-2a5d-4522-a66f-b230351a9c78,Göl kenarında özel yemek,EATS_AT
+7afc4130-2a5d-4522-a66f-b230351a9c78,Woodend Restaurant,EATS_AT
+7afc4130-2a5d-4522-a66f-b230351a9c78,Ixi’im,EATS_AT
+7afc4130-2a5d-4522-a66f-b230351a9c78,Ki’ol,EATS_AT
+7afc4130-2a5d-4522-a66f-b230351a9c78,Türk Hava Yolları TK2341,USES
+7afc4130-2a5d-4522-a66f-b230351a9c78,Türk Hava Yolları TK2175,USES
+7afc4130-2a5d-4522-a66f-b230351a9c78,Türk Hava Yolları TK184,USES
+7afc4130-2a5d-4522-a66f-b230351a9c78,Aeroméxico AM826D,USES
+7afc4130-2a5d-4522-a66f-b230351a9c78,Türk Hava Yolları TK181,USES
+7afc4130-2a5d-4522-a66f-b230351a9c78,Meksika,HAS_TAG
+7afc4130-2a5d-4522-a66f-b230351a9c78,Città del Messico,HAS_TAG
+7afc4130-2a5d-4522-a66f-b230351a9c78,Mérida,HAS_TAG
+7afc4130-2a5d-4522-a66f-b230351a9c78,Chichen Itza,HAS_TAG
+7afc4130-2a5d-4522-a66f-b230351a9c78,Cancún,HAS_TAG
+7afc4130-2a5d-4522-a66f-b230351a9c78,Aztek,HAS_TAG
+7afc4130-2a5d-4522-a66f-b230351a9c78,Maya,HAS_TAG
+7afc4130-2a5d-4522-a66f-b230351a9c78,Müze,HAS_TAG
+7afc4130-2a5d-4522-a66f-b230351a9c78,Kolonyal Mimari,HAS_TAG
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Catane,VISITS
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Taormina,VISITS
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Savoca,VISITS
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Forza d’Agrò,VISITS
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Syracuse,VISITS
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Ragusa,VISITS
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Palerme,VISITS
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Italia,IN_COUNTRY
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Hotel Metropole Taormina,STAYS_AT
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Corso Umberto,DOES
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Piazza IX Aprile,DOES
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Porta Messina,DOES
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Porta Catania,DOES
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Teatro Greco,DOES
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Villa Comunale Bahçeleri,DOES
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Bar Vitelli,DOES
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Godfather Film Kilisesi - Savoca,DOES
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Forza d’Agrò Ortaçağ Köyü,DOES
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Piazza del Municipio - Forza d’Agrò,DOES
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Etna Yanardağı,DOES
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Ortigia Adası,DOES
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Ortigia Meydanı,DOES
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Syracuse Katedrali,DOES
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Arethusa Çeşmesi,DOES
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Ragusa Ibla,DOES
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Cattedrale di San Giovanni Battista,DOES
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Chiesa di Santa Maria delle Scale,DOES
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Palazzo della Cancelleria,DOES
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Chiesa Anime Sante del Purgatorio,DOES
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Duomo di San Giorgio,DOES
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Giardini Iblei,DOES
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Santa Maria dello Spasimo Kilisesi,DOES
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Osteria Rosso Divino,EATS_AT
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Doba Restaurant and Terrace,EATS_AT
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Türk Hava Yolları TK1393,USES
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Sicilya,HAS_TAG
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Italia,HAS_TAG
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Taormina,HAS_TAG
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Etna,HAS_TAG
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Ortigia,HAS_TAG
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Ragusa,HAS_TAG
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Palerme,HAS_TAG
+2bd61701-810c-4fc3-9315-69e77bf14d7c,Barok Mimari,HAS_TAG
+23933783-a61d-4ec2-a44e-facf3992ad35,Porto,VISITS
+23933783-a61d-4ec2-a44e-facf3992ad35,Portekiz,IN_COUNTRY
+23933783-a61d-4ec2-a44e-facf3992ad35,Maison Albar Hotels Le Monumental Palace,STAYS_AT
+23933783-a61d-4ec2-a44e-facf3992ad35,Tuktuk Gezisi & Rehberli Yürüyüş Turu,DOES
+23933783-a61d-4ec2-a44e-facf3992ad35,Boavista,DOES
+23933783-a61d-4ec2-a44e-facf3992ad35,Foz do Douro,DOES
+23933783-a61d-4ec2-a44e-facf3992ad35,São Francisco Kilisesi,DOES
+23933783-a61d-4ec2-a44e-facf3992ad35,Palácio da Bolsa,DOES
+23933783-a61d-4ec2-a44e-facf3992ad35,São Bento Tren İstasyonu,DOES
+23933783-a61d-4ec2-a44e-facf3992ad35,Porto Katedrali,DOES
+23933783-a61d-4ec2-a44e-facf3992ad35,Liberdade Meydanı,DOES
+23933783-a61d-4ec2-a44e-facf3992ad35,Batalha Meydanı,DOES
+23933783-a61d-4ec2-a44e-facf3992ad35,Ribeira Bölgesi,DOES
+23933783-a61d-4ec2-a44e-facf3992ad35,Torre dos Clérigos,DOES
+23933783-a61d-4ec2-a44e-facf3992ad35,Santa Catarina Caddesi,DOES
+23933783-a61d-4ec2-a44e-facf3992ad35,Lello Kütüphanesi,DOES
+23933783-a61d-4ec2-a44e-facf3992ad35,Serralves Müzesi,DOES
+23933783-a61d-4ec2-a44e-facf3992ad35,Six Bridges Tekne Turu,DOES
+23933783-a61d-4ec2-a44e-facf3992ad35,Gaia Şarap Evleri,DOES
+23933783-a61d-4ec2-a44e-facf3992ad35,Churchill Graham Şaraphanesi,DOES
+23933783-a61d-4ec2-a44e-facf3992ad35,Enoteca 1756 Restaurant,EATS_AT
+23933783-a61d-4ec2-a44e-facf3992ad35,Marisqueira A Antiga,EATS_AT
+23933783-a61d-4ec2-a44e-facf3992ad35,Casa de Chá de Boa Nova,EATS_AT
+23933783-a61d-4ec2-a44e-facf3992ad35,Vinum Restaurant & Wine Bar,EATS_AT
+23933783-a61d-4ec2-a44e-facf3992ad35,Porto,HAS_TAG
+23933783-a61d-4ec2-a44e-facf3992ad35,Portekiz,HAS_TAG
+23933783-a61d-4ec2-a44e-facf3992ad35,Douro Nehri,HAS_TAG
+23933783-a61d-4ec2-a44e-facf3992ad35,Şarap,HAS_TAG
+23933783-a61d-4ec2-a44e-facf3992ad35,Müze,HAS_TAG
+23933783-a61d-4ec2-a44e-facf3992ad35,Katedraller,HAS_TAG
+1f70ae4e-dbb0-49e3-90c1-e9f195b871e1,Cairo,VISITS
+1f70ae4e-dbb0-49e3-90c1-e9f195b871e1,Egitto,IN_COUNTRY
+1f70ae4e-dbb0-49e3-90c1-e9f195b871e1,Four Seasons Hotel Cairo at Nile Plaza,STAYS_AT
+1f70ae4e-dbb0-49e3-90c1-e9f195b871e1,Khan El Khalili Çarşısı,DOES
+1f70ae4e-dbb0-49e3-90c1-e9f195b871e1,Giza Piramitleri,DOES
+1f70ae4e-dbb0-49e3-90c1-e9f195b871e1,Sfenks,DOES
+1f70ae4e-dbb0-49e3-90c1-e9f195b871e1,Khufu Piramidi,DOES
+1f70ae4e-dbb0-49e3-90c1-e9f195b871e1,Deve Gezisi - Piramitler,DOES
+1f70ae4e-dbb0-49e3-90c1-e9f195b871e1,Büyük Mısır Müzesi,DOES
+1f70ae4e-dbb0-49e3-90c1-e9f195b871e1,Sultan Hassan Camii,DOES
+1f70ae4e-dbb0-49e3-90c1-e9f195b871e1,El Refaei Camii,DOES
+1f70ae4e-dbb0-49e3-90c1-e9f195b871e1,Mısır Müzesi - Eski Müze,DOES
+1f70ae4e-dbb0-49e3-90c1-e9f195b871e1,Nil Nehri Felucca Tekne Gezisi,DOES
+1f70ae4e-dbb0-49e3-90c1-e9f195b871e1,Riviera - Four Seasons Hotel Cairo at Nile Plaza,EATS_AT
+1f70ae4e-dbb0-49e3-90c1-e9f195b871e1,Egitto,HAS_TAG
+1f70ae4e-dbb0-49e3-90c1-e9f195b871e1,Cairo,HAS_TAG
+1f70ae4e-dbb0-49e3-90c1-e9f195b871e1,Piramitler,HAS_TAG
+1f70ae4e-dbb0-49e3-90c1-e9f195b871e1,Sfenks,HAS_TAG
+1f70ae4e-dbb0-49e3-90c1-e9f195b871e1,Müzeler,HAS_TAG
+1f70ae4e-dbb0-49e3-90c1-e9f195b871e1,Çarşı,HAS_TAG
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Granada,VISITS
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Córdoba,VISITS
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Sevilla,VISITS
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Ronda,VISITS
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Espagne,IN_COUNTRY
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Elhamra Sarayı,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Generalife Bahçeleri,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Alcazaba,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Partal,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Nasrid Sarayı,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Realejo Mahallesi,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Comendadoras de Santiago,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Dominicans of Santo Domingo,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Fundación Rodriguez-Acosta Sanat Müzesi,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Carmen de los Mártires Bahçesi,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Capilla Real,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Las Granadas Kapısı,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Mezquita Camii - Córdoba,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Alcazar Kalesi - Córdoba,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Plaza Corredera - Córdoba,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Musevi Mahallesi - Córdoba,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Sevilla Katedrali,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Giralda Kulesi,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Alcázar - Sevilla,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Altın Kule (Torre del Oro),DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Maria Luisa Parkı,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,El Alamillo Köprüsü,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Puente Nuevo - Ronda,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,El Tajo Kanyonu,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Casa del Rey Moro,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Ronda Tarihi Sokakları,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Plaza de Toros - Ronda,DOES
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Endülüs,HAS_TAG
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Espagne,HAS_TAG
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Granada,HAS_TAG
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Sevilla,HAS_TAG
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Córdoba,HAS_TAG
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Ronda,HAS_TAG
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Elhamra,HAS_TAG
+6f83a5ac-3a7a-402b-a9f1-1a00b5ee656b,Mezquita,HAS_TAG
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Melbourne,VISITS
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Ballarat,VISITS
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Hobart,VISITS
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Adelaide,VISITS
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Hahndorf,VISITS
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Barossa Valley,VISITS
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Brisbane,VISITS
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Surfers Paradise,VISITS
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Sidney,VISITS
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Canberra,VISITS
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Australia,IN_COUNTRY
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,"The Tasman, a Luxury Collection Hotel, Hobart",STAYS_AT
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Royal Exhibition Binası - Melbourne,DOES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Sanat Galerisi - Melbourne,DOES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Parlamento ve Hazine Binası - Melbourne,DOES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Fitzroy Gardens & Captain Cook’un Evi,DOES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Melbourne Müzesi,DOES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Franklin Meydanı - Hobart,DOES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Sullivan’s Cove,DOES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Anayasa Limanı - Hobart,DOES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Mount Wellington,DOES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Alman Kasabası Hahndorf,DOES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Barossa Valley Şarap Bağları,DOES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Brisbane Şehir Turu,DOES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Ateş Böceği Mağarası,DOES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Surfers Paradise - Gold Coast,DOES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Hyde Park Barracks - Sydney,DOES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Anzac-Atatürk Anıtı,DOES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Mrs Macquarie’s Chair,DOES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Sydney Harbour Bridge,DOES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Darling Harbour,DOES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Ulusal Müze - Sydney,DOES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Sydney Opera House,DOES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Canberra Şehir Turu,DOES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Nehir Kenarı Restoran - Adelaide,EATS_AT
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Yerel Lüks Restoran - Adelaide,EATS_AT
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Türk Hava Yolları TK168,USES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Türk Hava Yolları TK169,USES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Melbourne - Hobart İç Hat Uçuşu,USES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Hobart - Adelaide İç Hat Uçuşu,USES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Adelaide - Brisbane İç Hat Uçuşu,USES
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Australia,HAS_TAG
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Melbourne,HAS_TAG
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Sidney,HAS_TAG
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Tasmanya,HAS_TAG
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Şarap,HAS_TAG
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Opera House,HAS_TAG
+eeabbea5-d1c0-45de-b06f-0bd88c7a0195,Gold Coast,HAS_TAG
+a1ef77c6-b2c6-4ae6-a32e-7cf44c76dac4,BARCELONA,VISITS
+a1ef77c6-b2c6-4ae6-a32e-7cf44c76dac4,Gerona,VISITS
+a1ef77c6-b2c6-4ae6-a32e-7cf44c76dac4,Espagne,IN_COUNTRY
+a1ef77c6-b2c6-4ae6-a32e-7cf44c76dac4,Almanac Barcelona,STAYS_AT
+a1ef77c6-b2c6-4ae6-a32e-7cf44c76dac4,Plaza Catalunya,DOES
+a1ef77c6-b2c6-4ae6-a32e-7cf44c76dac4,La Rambla,DOES
+a1ef77c6-b2c6-4ae6-a32e-7cf44c76dac4,Gotik Mahallesi,DOES
+a1ef77c6-b2c6-4ae6-a32e-7cf44c76dac4,Park Güell,DOES
+a1ef77c6-b2c6-4ae6-a32e-7cf44c76dac4,Sagrada Familia,DOES
+a1ef77c6-b2c6-4ae6-a32e-7cf44c76dac4,Ciutadella Park,DOES
+a1ef77c6-b2c6-4ae6-a32e-7cf44c76dac4,Plaza España,DOES
+a1ef77c6-b2c6-4ae6-a32e-7cf44c76dac4,Girona Gotik Katedrali,DOES
+a1ef77c6-b2c6-4ae6-a32e-7cf44c76dac4,Maná 75,EATS_AT
+a1ef77c6-b2c6-4ae6-a32e-7cf44c76dac4,El Tribut,EATS_AT
+a1ef77c6-b2c6-4ae6-a32e-7cf44c76dac4,BarcelonaMilona,EATS_AT
+a1ef77c6-b2c6-4ae6-a32e-7cf44c76dac4,Restaurant Normal,EATS_AT
+a1ef77c6-b2c6-4ae6-a32e-7cf44c76dac4,Türk Hava Yolları TK1467,USES
+a1ef77c6-b2c6-4ae6-a32e-7cf44c76dac4,BARCELONA,HAS_TAG
+a1ef77c6-b2c6-4ae6-a32e-7cf44c76dac4,Espagne,HAS_TAG
+a1ef77c6-b2c6-4ae6-a32e-7cf44c76dac4,Gaudi,HAS_TAG
+a1ef77c6-b2c6-4ae6-a32e-7cf44c76dac4,Sagrada Familia,HAS_TAG
+a1ef77c6-b2c6-4ae6-a32e-7cf44c76dac4,Park Güell,HAS_TAG
+a1ef77c6-b2c6-4ae6-a32e-7cf44c76dac4,Gerona,HAS_TAG
+df02b861-7d48-491b-8df1-2306714308e8,Lecce,VISITS
+df02b861-7d48-491b-8df1-2306714308e8,Alberobello,VISITS
+df02b861-7d48-491b-8df1-2306714308e8,Locorotondo,VISITS
+df02b861-7d48-491b-8df1-2306714308e8,Monopoli,VISITS
+df02b861-7d48-491b-8df1-2306714308e8,Polignano a Mare,VISITS
+df02b861-7d48-491b-8df1-2306714308e8,Matera,VISITS
+df02b861-7d48-491b-8df1-2306714308e8,Naples,VISITS
+df02b861-7d48-491b-8df1-2306714308e8,Pompei,VISITS
+df02b861-7d48-491b-8df1-2306714308e8,Italia,IN_COUNTRY
+df02b861-7d48-491b-8df1-2306714308e8,Santa Croce Bazilikası - Lecce,DOES
+df02b861-7d48-491b-8df1-2306714308e8,San Giuseppe Kilisesi - Lecce,DOES
+df02b861-7d48-491b-8df1-2306714308e8,Palazzo dei Celestini - Lecce,DOES
+df02b861-7d48-491b-8df1-2306714308e8,Sant’Oronzo Meydanı - Lecce,DOES
+df02b861-7d48-491b-8df1-2306714308e8,Roma Amfi Tiyatrosu - Lecce,DOES
+df02b861-7d48-491b-8df1-2306714308e8,Trulli Evleri - Alberobello,DOES
+df02b861-7d48-491b-8df1-2306714308e8,Locorotondo Şehir Gezisi,DOES
+df02b861-7d48-491b-8df1-2306714308e8,Monopoli Tarihi Merkezi,DOES
+df02b861-7d48-491b-8df1-2306714308e8,Polignano a Mare,DOES
+df02b861-7d48-491b-8df1-2306714308e8,Domenico Modugno Heykeli - Polignano a Mare,DOES
+df02b861-7d48-491b-8df1-2306714308e8,Matera Kaya Evleri,DOES
+df02b861-7d48-491b-8df1-2306714308e8,Matera Kiliseleri ve Mağaraları,DOES
+df02b861-7d48-491b-8df1-2306714308e8,Napoli Tarihi Merkezi,DOES
+df02b861-7d48-491b-8df1-2306714308e8,Vezüv Yanardağı,DOES
+df02b861-7d48-491b-8df1-2306714308e8,Pompei Antik Kenti,DOES
+df02b861-7d48-491b-8df1-2306714308e8,Ristorante Blunotte,EATS_AT
+df02b861-7d48-491b-8df1-2306714308e8,Ristorante La Cantina,EATS_AT
+df02b861-7d48-491b-8df1-2306714308e8,Pizzeria Casa Pinto,EATS_AT
+df02b861-7d48-491b-8df1-2306714308e8,Puglia,HAS_TAG
+df02b861-7d48-491b-8df1-2306714308e8,Italia,HAS_TAG
+df02b861-7d48-491b-8df1-2306714308e8,Lecce,HAS_TAG
+df02b861-7d48-491b-8df1-2306714308e8,Alberobello,HAS_TAG
+df02b861-7d48-491b-8df1-2306714308e8,Matera,HAS_TAG
+df02b861-7d48-491b-8df1-2306714308e8,Naples,HAS_TAG
+df02b861-7d48-491b-8df1-2306714308e8,Pompei,HAS_TAG
+df02b861-7d48-491b-8df1-2306714308e8,Trulli,HAS_TAG
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Siracusa,VISITS
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Ortigia,VISITS
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Noto,VISITS
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Taormina,VISITS
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Italia,IN_COUNTRY
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Casa Di Melo Otel,STAYS_AT
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Ortigia Roma Amfi Tiyatrosu,DOES
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Duomo Meydanı - Ortigia,DOES
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Syracuse Katedrali,DOES
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Fonte Arethusa,DOES
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Maniace Kalesi,DOES
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Arşimed Meydanı,DOES
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Corso Vittorio Emanuele - Noto,DOES
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Chiesa di San Francesco - Noto,DOES
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Duomo - Noto,DOES
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Palazzo Ducezio - Noto,DOES
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Palazzo Nicolaci - Noto,DOES
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Chiesa di San Carlo - Noto,DOES
+8f78f311-b22b-456f-8c4c-ef7dd0441702,MAT Museum - Noto,DOES
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Siracusa Arkeoloji Parkı,DOES
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Latomie - Siracusa,DOES
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Yunan Tiyatrosu - Siracusa,DOES
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Roma Amfi Tiyatrosu - Siracusa,DOES
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Taormina Gezisi,DOES
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Sicilya,HAS_TAG
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Italia,HAS_TAG
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Siracusa,HAS_TAG
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Ortigia,HAS_TAG
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Noto,HAS_TAG
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Taormina,HAS_TAG
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Arkeoloji,HAS_TAG
+8f78f311-b22b-456f-8c4c-ef7dd0441702,Barok,HAS_TAG
+b00e8d4b-8e83-4e77-9c33-f7e67b82a011,Buenos Aires,VISITS
+b00e8d4b-8e83-4e77-9c33-f7e67b82a011,Ushuaia,VISITS
+b00e8d4b-8e83-4e77-9c33-f7e67b82a011,Puerto Madryn,VISITS
+b00e8d4b-8e83-4e77-9c33-f7e67b82a011,Argentina,IN_COUNTRY
+b00e8d4b-8e83-4e77-9c33-f7e67b82a011,Tango Gösterisi - Buenos Aires,DOES
+b00e8d4b-8e83-4e77-9c33-f7e67b82a011,Tierra del Fuego Milli Parkı - Ushuaia,DOES
+b00e8d4b-8e83-4e77-9c33-f7e67b82a011,Beagle Kanalı - Ushuaia,DOES
+b00e8d4b-8e83-4e77-9c33-f7e67b82a011,Peninsula Valdes - Puerto Madryn,DOES
+b00e8d4b-8e83-4e77-9c33-f7e67b82a011,Tango House,EATS_AT
+b00e8d4b-8e83-4e77-9c33-f7e67b82a011,Argentina,HAS_TAG
+b00e8d4b-8e83-4e77-9c33-f7e67b82a011,Buenos Aires,HAS_TAG
+b00e8d4b-8e83-4e77-9c33-f7e67b82a011,Ushuaia,HAS_TAG
+b00e8d4b-8e83-4e77-9c33-f7e67b82a011,Puerto Madryn,HAS_TAG
+b00e8d4b-8e83-4e77-9c33-f7e67b82a011,Tango,HAS_TAG
+b00e8d4b-8e83-4e77-9c33-f7e67b82a011,Doğa,HAS_TAG
+b00e8d4b-8e83-4e77-9c33-f7e67b82a011,Balina,HAS_TAG
+7e56ac20-34bc-41ae-8e87-a7e005216230,Bangkok,VISITS
+7e56ac20-34bc-41ae-8e87-a7e005216230,Macao,VISITS
+7e56ac20-34bc-41ae-8e87-a7e005216230,Hong Kong,VISITS
+7e56ac20-34bc-41ae-8e87-a7e005216230,Tayland,IN_COUNTRY
+7e56ac20-34bc-41ae-8e87-a7e005216230,China,IN_COUNTRY
+7e56ac20-34bc-41ae-8e87-a7e005216230,Lebua at State Tower Hotel,STAYS_AT
+7e56ac20-34bc-41ae-8e87-a7e005216230,Grand Palace & Wat Phra Kaew - Bangkok,DOES
+7e56ac20-34bc-41ae-8e87-a7e005216230,Wat Pho Tapınağı - Bangkok,DOES
+7e56ac20-34bc-41ae-8e87-a7e005216230,Wat Arun Tapınakları - Bangkok,DOES
+7e56ac20-34bc-41ae-8e87-a7e005216230,Royal Barge Ulusal Müzesi - Bangkok,DOES
+7e56ac20-34bc-41ae-8e87-a7e005216230,Wang Lang Market - Bangkok,DOES
+7e56ac20-34bc-41ae-8e87-a7e005216230,Pak Khlong Talat Çiçek Pazarı - Bangkok,DOES
+7e56ac20-34bc-41ae-8e87-a7e005216230,Çiçek Kültürü Müzesi - Bangkok,DOES
+7e56ac20-34bc-41ae-8e87-a7e005216230,Wat Suthat Tapınağı - Bangkok,DOES
+7e56ac20-34bc-41ae-8e87-a7e005216230,Aziz Paulo Katedrali Harabesi - Macau,DOES
+7e56ac20-34bc-41ae-8e87-a7e005216230,Macau Müzesi,DOES
+7e56ac20-34bc-41ae-8e87-a7e005216230,Macau Kulesi,DOES
+7e56ac20-34bc-41ae-8e87-a7e005216230,Monte Hisarı,DOES
+7e56ac20-34bc-41ae-8e87-a7e005216230,A-Ma Tapınağı,DOES
+7e56ac20-34bc-41ae-8e87-a7e005216230,Senado Meydanı,DOES
+7e56ac20-34bc-41ae-8e87-a7e005216230,Sun Yat Sen’in Müze Evi,DOES
+7e56ac20-34bc-41ae-8e87-a7e005216230,Macau Şarap Müzesi,DOES
+7e56ac20-34bc-41ae-8e87-a7e005216230,Macau Casinoları,DOES
+7e56ac20-34bc-41ae-8e87-a7e005216230,Wong Tai Sin Tapınağı - Hong Kong,DOES
+7e56ac20-34bc-41ae-8e87-a7e005216230,Lam Tsuen Dilek Ağacı - Hong Kong,DOES
+7e56ac20-34bc-41ae-8e87-a7e005216230,Tai Po Old Market - Hong Kong,DOES
+7e56ac20-34bc-41ae-8e87-a7e005216230,Hong Kong Miras Müzesi,DOES
+7e56ac20-34bc-41ae-8e87-a7e005216230,Lantau Adası Turu,DOES
+7e56ac20-34bc-41ae-8e87-a7e005216230,Kowloon Turu,DOES
+7e56ac20-34bc-41ae-8e87-a7e005216230,Err Restaurant,EATS_AT
+7e56ac20-34bc-41ae-8e87-a7e005216230,Sala Rattanakosin Restaurant,EATS_AT
+7e56ac20-34bc-41ae-8e87-a7e005216230,Eat Me Restaurant,EATS_AT
+7e56ac20-34bc-41ae-8e87-a7e005216230,Türk Hava Yolları TK68,USES
+7e56ac20-34bc-41ae-8e87-a7e005216230,Macau - Hong Kong Feribot,USES
+7e56ac20-34bc-41ae-8e87-a7e005216230,Bangkok,HAS_TAG
+7e56ac20-34bc-41ae-8e87-a7e005216230,Hong Kong,HAS_TAG
+7e56ac20-34bc-41ae-8e87-a7e005216230,Macao,HAS_TAG
+7e56ac20-34bc-41ae-8e87-a7e005216230,Tayland,HAS_TAG
+7e56ac20-34bc-41ae-8e87-a7e005216230,China,HAS_TAG
+7e56ac20-34bc-41ae-8e87-a7e005216230,Tapınak,HAS_TAG
+7e56ac20-34bc-41ae-8e87-a7e005216230,Casinolar,HAS_TAG
+778d742b-24e3-4d09-8d46-4690b74f2b3a,Kathmandu,VISITS
+778d742b-24e3-4d09-8d46-4690b74f2b3a,Paro,VISITS
+778d742b-24e3-4d09-8d46-4690b74f2b3a,Punakha,VISITS
+778d742b-24e3-4d09-8d46-4690b74f2b3a,Thimphou,VISITS
+778d742b-24e3-4d09-8d46-4690b74f2b3a,Bhaktapur,VISITS
+778d742b-24e3-4d09-8d46-4690b74f2b3a,Nepal,IN_COUNTRY
+778d742b-24e3-4d09-8d46-4690b74f2b3a,Bhoutan,IN_COUNTRY
+778d742b-24e3-4d09-8d46-4690b74f2b3a,Pashupatinath Tapınağı - Katmandu,DOES
+778d742b-24e3-4d09-8d46-4690b74f2b3a,Bhaktapur - Katmandu,DOES
+778d742b-24e3-4d09-8d46-4690b74f2b3a,Taktsang (Tiger’s Nest) Manastırı - Paro,DOES
+778d742b-24e3-4d09-8d46-4690b74f2b3a,Punakha Dzong - Punakha,DOES
+778d742b-24e3-4d09-8d46-4690b74f2b3a,Thimphu Şehir Turu,DOES
+778d742b-24e3-4d09-8d46-4690b74f2b3a,İstanbul - Katmandu Uçuşu,USES
+778d742b-24e3-4d09-8d46-4690b74f2b3a,Katmandu - Paro Uçuşu,USES
+778d742b-24e3-4d09-8d46-4690b74f2b3a,Nepal,HAS_TAG
+778d742b-24e3-4d09-8d46-4690b74f2b3a,Bhoutan,HAS_TAG
+778d742b-24e3-4d09-8d46-4690b74f2b3a,Kathmandu,HAS_TAG
+778d742b-24e3-4d09-8d46-4690b74f2b3a,Paro,HAS_TAG
+778d742b-24e3-4d09-8d46-4690b74f2b3a,Punakha,HAS_TAG
+778d742b-24e3-4d09-8d46-4690b74f2b3a,Tiger’s Nest,HAS_TAG
+778d742b-24e3-4d09-8d46-4690b74f2b3a,Punakha Dzong,HAS_TAG
+778d742b-24e3-4d09-8d46-4690b74f2b3a,Budizm,HAS_TAG
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Bilbao,VISITS
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Saint-Sébastien (Espagne),VISITS
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Fontarrabie,VISITS
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Saint-Jean-de-Luz,VISITS
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Biarritz,VISITS
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Espagne,IN_COUNTRY
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,France,IN_COUNTRY
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Hotel Du Palais Biarritz,STAYS_AT
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Guggenheim Müzesi - Bilbao,DOES
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,San Sebastián Şehir Gezisi,DOES
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,La Concha Plajı,DOES
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Zurriola Plajı,DOES
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,San Telmo Müzesi - San Sebastián,DOES
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Monte Urgull - San Sebastián,DOES
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Monte Igueldo - San Sebastián,DOES
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Victoria Eugenia Tiyatrosu - San Sebastián,DOES
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Miramar Sarayı - San Sebastián,DOES
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Hondarribia Eski Şehir ve Surlar,DOES
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Rue Gambetta - Saint-Jean-de-Luz,DOES
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Place Louis XIV - Saint-Jean-de-Luz,DOES
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Eglise Saint-Jean-Baptiste - Saint-Jean-de-Luz,DOES
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Biarritz Grande Plage,DOES
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Casino Municipal - Biarritz,DOES
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Chapelle Impériale - Biarritz,DOES
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Musée Asiatica - Biarritz,DOES
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Hotel Du Palais Biarritz - Le Sunset,EATS_AT
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,İstanbul - Bilbao Uçuşu,USES
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Bilbao,HAS_TAG
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Saint-Sébastien (Espagne),HAS_TAG
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Biarritz,HAS_TAG
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Saint-Jean-de-Luz,HAS_TAG
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Espagne,HAS_TAG
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,France,HAS_TAG
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Guggenheim,HAS_TAG
+4365325e-3e63-4d8f-bd8c-83514b24ebd5,Plaj,HAS_TAG
+645d8045-92e8-492e-a6cf-808eec5ec33e,Rio de Janeiro,VISITS
+645d8045-92e8-492e-a6cf-808eec5ec33e,Foz do Iguaçu,VISITS
+645d8045-92e8-492e-a6cf-808eec5ec33e,Buenos Aires,VISITS
+645d8045-92e8-492e-a6cf-808eec5ec33e,Brasile,IN_COUNTRY
+645d8045-92e8-492e-a6cf-808eec5ec33e,Argentina,IN_COUNTRY
+645d8045-92e8-492e-a6cf-808eec5ec33e,Park Hyatt - Palacio Duhau Hotel,STAYS_AT
+645d8045-92e8-492e-a6cf-808eec5ec33e,Cristo Redentor Heykeli - Corcovado,DOES
+645d8045-92e8-492e-a6cf-808eec5ec33e,Santa Teresa Semti - Rio,DOES
+645d8045-92e8-492e-a6cf-808eec5ec33e,Museu da Chácara do Céu,DOES
+645d8045-92e8-492e-a6cf-808eec5ec33e,Harabeler Parkı - Rio,DOES
+645d8045-92e8-492e-a6cf-808eec5ec33e,Sugar Loaf Dağı,DOES
+645d8045-92e8-492e-a6cf-808eec5ec33e,Tijuca Ormanı ve Vista Chinesa,DOES
+645d8045-92e8-492e-a6cf-808eec5ec33e,Pepe Plajı,DOES
+645d8045-92e8-492e-a6cf-808eec5ec33e,Sao Conrado Plajı,DOES
+645d8045-92e8-492e-a6cf-808eec5ec33e,Leblon Plajı,DOES
+645d8045-92e8-492e-a6cf-808eec5ec33e,Iguazú Şelaleleri Milli Parkı,DOES
+645d8045-92e8-492e-a6cf-808eec5ec33e,Plaza de Mayo - Buenos Aires,DOES
+645d8045-92e8-492e-a6cf-808eec5ec33e,Casa Rosada,DOES
+645d8045-92e8-492e-a6cf-808eec5ec33e,San Telmo Semti,DOES
+645d8045-92e8-492e-a6cf-808eec5ec33e,La Boca Semti,DOES
+645d8045-92e8-492e-a6cf-808eec5ec33e,Recoleta Mezarlığı,DOES
+645d8045-92e8-492e-a6cf-808eec5ec33e,Palerme,DOES
+645d8045-92e8-492e-a6cf-808eec5ec33e,Tigre Delta Tekne Gezisi,DOES
+645d8045-92e8-492e-a6cf-808eec5ec33e,Buenos Aires Modern Sanat Müzesi,DOES
+645d8045-92e8-492e-a6cf-808eec5ec33e,Rio Restaurant Önerileri,EATS_AT
+645d8045-92e8-492e-a6cf-808eec5ec33e,Buenos Aires Restaurant Önerileri,EATS_AT
+645d8045-92e8-492e-a6cf-808eec5ec33e,Türk Hava Yolları İstanbul - Rio Uçuşu,USES
+645d8045-92e8-492e-a6cf-808eec5ec33e,LATAM Airlines LA3290 Rio - Iguazú,USES
+645d8045-92e8-492e-a6cf-808eec5ec33e,Aerolineas Argentinas AR1783 Iguazú - Buenos Aires,USES
+645d8045-92e8-492e-a6cf-808eec5ec33e,Brasile,HAS_TAG
+645d8045-92e8-492e-a6cf-808eec5ec33e,Argentina,HAS_TAG
+645d8045-92e8-492e-a6cf-808eec5ec33e,Rio de Janeiro,HAS_TAG
+645d8045-92e8-492e-a6cf-808eec5ec33e,Buenos Aires,HAS_TAG
+645d8045-92e8-492e-a6cf-808eec5ec33e,Iguazú Şelaleleri,HAS_TAG
+645d8045-92e8-492e-a6cf-808eec5ec33e,Cristo Redentor,HAS_TAG
+645d8045-92e8-492e-a6cf-808eec5ec33e,Tango,HAS_TAG
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Beaune,VISITS
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Digione,VISITS
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Nuits-Saint-Georges,VISITS
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Vézelay,VISITS
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Cluny,VISITS
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Fleurie,VISITS
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,France,IN_COUNTRY
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Hospices de Beaune (Hôtel-Dieu),DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Saint-Martin de l’Aigue Kilisesi,DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Saint-Baudèle Kilisesi,DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Saint-Flocel Kilisesi,DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Notre-Dame Kilisesi - Beaune,DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Sainte-Madeleine Kilisesi,DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Musée du Vin de Bourgogne,DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Musée des Beaux-Arts - Beaune,DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Palais des ducs de Bourgogne - Dijon,DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Musée des Beaux-Arts - Dijon,DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Saint-Michel Kilisesi - Dijon,DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Saint-Philibert Kilisesi - Dijon,DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Notre-Dame Kilisesi - Dijon,DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Saint-Bénigne Katedrali - Dijon,DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Rue de la Liberté - Dijon,DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Beffroi Meydanı - Nuits-Saint-Georges,DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Église Saint-Symphorien - Nuits-Saint-Georges,DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Domaine Rion Armelle et Bernard - Şarap Tadımı,DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Abbaye Sainte-Marie-Madeleine - Vézelay,DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Colline Éternelle - Vézelay Şarap Tadımı,DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Benedictine Manastırı - Cluny,DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Musée d’Art et d’Archéologie - Cluny,DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Tour de Fromages - Cluny,DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Hôtel-Dieu - Cluny,DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Beaujolais Şarap Bağları - Fleurie,DOES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Auberge de la Madone - Fleurie,EATS_AT
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,İstanbul - Lyon Uçuşu,USES
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Burgonya,HAS_TAG
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,France,HAS_TAG
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Beaune,HAS_TAG
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Digione,HAS_TAG
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Nuits-Saint-Georges,HAS_TAG
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Vézelay,HAS_TAG
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Cluny,HAS_TAG
+7e1d6230-74b6-4b7a-acd8-f4e0950c2f52,Şarap,HAS_TAG
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Saint-Sébastien (Espagne),VISITS
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Getaria,VISITS
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Saint-Jean-de-Luz,VISITS
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Biarritz,VISITS
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Bilbao,VISITS
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Espagne,IN_COUNTRY
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,France,IN_COUNTRY
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Hotel de Londres y de Inglaterra,STAYS_AT
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Hotel Villa Favorita,STAYS_AT
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Hotel Zenit Convento San Martín,STAYS_AT
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Parte Vieja - San Sebastián,DOES
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,San Telmo Müzesi - San Sebastián,DOES
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Kursaal Oditoryumu - San Sebastián,DOES
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Igueldo Tepesi - San Sebastián,DOES
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,La Bretxa Food Market - San Sebastián,DOES
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,La Concha Plajı - San Sebastián,DOES
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Getaria Balıkçı Köyü,DOES
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Gaztetape Plajı - Getaria,DOES
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Malkorbe Plajı - Getaria,DOES
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Cristóbal Balenciaga Museoa - Getaria,DOES
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Saint-Jean-de-Luz Plajları,DOES
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Rue Gambetta - Saint-Jean-de-Luz,DOES
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Place Louis XIV - Saint-Jean-de-Luz,DOES
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Eglise Saint-Jean-Baptiste - Saint-Jean-de-Luz,DOES
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Rue Mazarin - Saint-Jean-de-Luz,DOES
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Quai de l’Infante - Saint-Jean-de-Luz,DOES
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Sanat Galerileri - Saint-Jean-de-Luz,DOES
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Biarritz Şehir Turu,DOES
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Bilbao Şehir Turu,DOES
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Guggenheim Müzesi - Bilbao,DOES
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Elkano Restoran - Getaria,EATS_AT
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Guggenheim Müzesi Restoranı - Bilbao,EATS_AT
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Saint-Sébastien (Espagne),HAS_TAG
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Espagne,HAS_TAG
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,France,HAS_TAG
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Getaria,HAS_TAG
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Bilbao,HAS_TAG
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Biarritz,HAS_TAG
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Guggenheim,HAS_TAG
+0cbc1ff5-8346-4e7f-9eeb-b6a872167267,Balenciaga,HAS_TAG
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Cape Town,VISITS
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Africa meridionale,IN_COUNTRY
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,One&Only Cape Town,STAYS_AT
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Masa Dağı (Table Mountain),DOES
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,V&A Waterfront,DOES
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Ümit Burnu Kalesi,DOES
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Cape Town Belediye Binası,DOES
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Bo-Kaap Mahallesi,DOES
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Cape Point,DOES
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Chapman’s Peak Drive,DOES
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Hout Bay & Seal Island,DOES
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Boulders Beach - Penguenler,DOES
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Camps Bay Plajı,DOES
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Stellenbosch Vadisi Şarap Bağları,DOES
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Franschhoek,DOES
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Iziko Güney Afrika Müzesi ve Planetaryum,DOES
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Nobu - One&Only Cape Town,EATS_AT
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Aubergine Restaurant,EATS_AT
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Buitenverwachting Restaurant,EATS_AT
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Harbour House Restaurant - Kalk Bay,EATS_AT
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Delaire Graff Indochine Restaurant,EATS_AT
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Türk Hava Yolları TK44,USES
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Cape Town,HAS_TAG
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Africa meridionale,HAS_TAG
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Masa Dağı,HAS_TAG
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Cape Point,HAS_TAG
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Penguenler,HAS_TAG
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Şarap,HAS_TAG
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Stellenbosch,HAS_TAG
+ada72cfb-9a42-42e9-8044-2a85bdb48b49,Franschhoek,HAS_TAG
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Rovaniemi,VISITS
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Finland,IN_COUNTRY
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Arctic TreeHouse Hotel,STAYS_AT
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Santa’s Igloos Arctic Circle,STAYS_AT
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Husky Safari,DOES
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Snowmobile Safari,DOES
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Reindeer Safari,DOES
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Aurora Borealis Macerası,DOES
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Santa Claus Village Gezisi,DOES
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Kar Bisikleti Turu,DOES
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Kar Ayakkabısı Yürüyüşü,DOES
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Kicksled Deneyimi,DOES
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Kızaklı Sandalye,DOES
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Cam Igloo Deneyimi,DOES
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Rakas Restaurant & Bar,EATS_AT
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,MonteRosa Restaurant,EATS_AT
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Gustav Kitchen & Bar,EATS_AT
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Glass Restaurant - Santa Claus Village,EATS_AT
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Arctic Restaurant,EATS_AT
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Ice Restaurant,EATS_AT
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Kota Restaurant,EATS_AT
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,İstanbul - Rovaniemi Uçuşu,USES
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Lapland,HAS_TAG
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Rovaniemi,HAS_TAG
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Finland,HAS_TAG
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Kuzey Işıkları,HAS_TAG
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Santa Claus Village,HAS_TAG
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Aurora,HAS_TAG
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Husky Safari,HAS_TAG
+19bdeed7-1cb5-45a6-a87e-b2a5d5f7ee6a,Igloo,HAS_TAG
+cee6e863-f658-4db2-979d-914dac0a8354,Nairobi,VISITS
+cee6e863-f658-4db2-979d-914dac0a8354,Maasai Mara,VISITS
+cee6e863-f658-4db2-979d-914dac0a8354,Kigali,VISITS
+cee6e863-f658-4db2-979d-914dac0a8354,Parc national des volcans,VISITS
+cee6e863-f658-4db2-979d-914dac0a8354,Kenya,IN_COUNTRY
+cee6e863-f658-4db2-979d-914dac0a8354,Ruanda,IN_COUNTRY
+cee6e863-f658-4db2-979d-914dac0a8354,Four Points by Sheraton JKIA,STAYS_AT
+cee6e863-f658-4db2-979d-914dac0a8354,Sanctuary Olonana,STAYS_AT
+cee6e863-f658-4db2-979d-914dac0a8354,Bisate Lodge,STAYS_AT
+cee6e863-f658-4db2-979d-914dac0a8354,Masai Mara Safari,DOES
+cee6e863-f658-4db2-979d-914dac0a8354,Game Drives - Masai Mara,DOES
+cee6e863-f658-4db2-979d-914dac0a8354,Volcanoes National Park Gorilla Trekking,DOES
+cee6e863-f658-4db2-979d-914dac0a8354,Kigali Şehir Turu,DOES
+cee6e863-f658-4db2-979d-914dac0a8354,İstanbul - Nairobi Uçuşu,USES
+cee6e863-f658-4db2-979d-914dac0a8354,Charter Flight Cessna Caravan 208 - Nairobi to Masai Mara,USES
+cee6e863-f658-4db2-979d-914dac0a8354,Lodge Transferleri,USES
+cee6e863-f658-4db2-979d-914dac0a8354,Kigali Kara Transferi,USES
+cee6e863-f658-4db2-979d-914dac0a8354,Kenya,HAS_TAG
+cee6e863-f658-4db2-979d-914dac0a8354,Ruanda,HAS_TAG
+cee6e863-f658-4db2-979d-914dac0a8354,Maasai Mara,HAS_TAG
+cee6e863-f658-4db2-979d-914dac0a8354,Goril Trekking,HAS_TAG
+cee6e863-f658-4db2-979d-914dac0a8354,Safari,HAS_TAG
+cee6e863-f658-4db2-979d-914dac0a8354,Kigali,HAS_TAG
+586117bf-46ea-4fb6-a603-511ef8b1e9c9,Lisbon,VISITS
+586117bf-46ea-4fb6-a603-511ef8b1e9c9,Portekiz,IN_COUNTRY
+586117bf-46ea-4fb6-a603-511ef8b1e9c9,"Bairro Alto Hotel, Praça Luís de Camões, 2 1200",STAYS_AT
+586117bf-46ea-4fb6-a603-511ef8b1e9c9,09 Kasım 2022: İstanbul – Lizbon uçuşu (TK 1759),DOES
+586117bf-46ea-4fb6-a603-511ef8b1e9c9,"09 Kasım 2022: Bairro Alto Hotel transfer, check-in ve serbest zaman",DOES
+586117bf-46ea-4fb6-a603-511ef8b1e9c9,İstanbul – Lizbon uçuşu TK 1759,USES
+586117bf-46ea-4fb6-a603-511ef8b1e9c9,Havalimanı – Bairro Alto Hotel transfer,USES
+586117bf-46ea-4fb6-a603-511ef8b1e9c9,Lisbon,HAS_TAG
+586117bf-46ea-4fb6-a603-511ef8b1e9c9,SAHA,HAS_TAG
+586117bf-46ea-4fb6-a603-511ef8b1e9c9,Sanat Programı,HAS_TAG
+0fe3d5c6-903d-457a-be8c-26918aed061f,Catane,VISITS
+0fe3d5c6-903d-457a-be8c-26918aed061f,Taormina,VISITS
+0fe3d5c6-903d-457a-be8c-26918aed061f,Savoca,VISITS
+0fe3d5c6-903d-457a-be8c-26918aed061f,Etna,VISITS
+0fe3d5c6-903d-457a-be8c-26918aed061f,Siracusa,VISITS
+0fe3d5c6-903d-457a-be8c-26918aed061f,Noto,VISITS
+0fe3d5c6-903d-457a-be8c-26918aed061f,Modica,VISITS
+0fe3d5c6-903d-457a-be8c-26918aed061f,Ragusa,VISITS
+0fe3d5c6-903d-457a-be8c-26918aed061f,La Valette,VISITS
+0fe3d5c6-903d-457a-be8c-26918aed061f,L-Isla,VISITS
+0fe3d5c6-903d-457a-be8c-26918aed061f,Vittoriosa,VISITS
+0fe3d5c6-903d-457a-be8c-26918aed061f,Bormla,VISITS
+0fe3d5c6-903d-457a-be8c-26918aed061f,L-Imdina,VISITS
+0fe3d5c6-903d-457a-be8c-26918aed061f,Italia,IN_COUNTRY
+0fe3d5c6-903d-457a-be8c-26918aed061f,Malta,IN_COUNTRY
+0fe3d5c6-903d-457a-be8c-26918aed061f,Grand Hotel Timeo - Deluxe Sea View Junior Suite with balcony or terrace,STAYS_AT
+0fe3d5c6-903d-457a-be8c-26918aed061f,İstanbul – Katanya uçuşu TK 1395,DOES
+0fe3d5c6-903d-457a-be8c-26918aed061f,Taormina şehir turu,DOES
+0fe3d5c6-903d-457a-be8c-26918aed061f,Savoca köyü gezisi,DOES
+0fe3d5c6-903d-457a-be8c-26918aed061f,Etna Yanardağı gezisi,DOES
+0fe3d5c6-903d-457a-be8c-26918aed061f,Siracusa ve Noto ziyaretleri,DOES
+0fe3d5c6-903d-457a-be8c-26918aed061f,Modica ve Ragusa turları,DOES
+0fe3d5c6-903d-457a-be8c-26918aed061f,Valletta şehir turu,DOES
+0fe3d5c6-903d-457a-be8c-26918aed061f,"Senglea, Vittoriosa ve Cospicua üçlü gezisi",DOES
+0fe3d5c6-903d-457a-be8c-26918aed061f,Mdina şehir turu,DOES
+0fe3d5c6-903d-457a-be8c-26918aed061f,Osteria Rosso Divino (Taormina),EATS_AT
+0fe3d5c6-903d-457a-be8c-26918aed061f,Regina Lucia Ristorante (Siracusa),EATS_AT
+0fe3d5c6-903d-457a-be8c-26918aed061f,İstanbul – Katanya uçuşu TK 1395,USES
+0fe3d5c6-903d-457a-be8c-26918aed061f,Katanya – Taormina transferi,USES
+0fe3d5c6-903d-457a-be8c-26918aed061f,Ada içi özel araç transferleri,USES
+0fe3d5c6-903d-457a-be8c-26918aed061f,Sicilya,HAS_TAG
+0fe3d5c6-903d-457a-be8c-26918aed061f,Malta,HAS_TAG
+0fe3d5c6-903d-457a-be8c-26918aed061f,Taormina,HAS_TAG
+0fe3d5c6-903d-457a-be8c-26918aed061f,La Valette,HAS_TAG
+0fe3d5c6-903d-457a-be8c-26918aed061f,Etna,HAS_TAG
+0fe3d5c6-903d-457a-be8c-26918aed061f,Gastronomi,HAS_TAG
+268d740b-f37c-4617-9183-ee4046486dde,Hanoi,VISITS
+268d740b-f37c-4617-9183-ee4046486dde,Ha Long,VISITS
+268d740b-f37c-4617-9183-ee4046486dde,Ho Chi Minh (Saygon),VISITS
+268d740b-f37c-4617-9183-ee4046486dde,Delta del Mekong (regione),VISITS
+268d740b-f37c-4617-9183-ee4046486dde,Siem Reap,VISITS
+268d740b-f37c-4617-9183-ee4046486dde,Phnom Penh,VISITS
+268d740b-f37c-4617-9183-ee4046486dde,Bangkok,VISITS
+268d740b-f37c-4617-9183-ee4046486dde,Vietnam,IN_COUNTRY
+268d740b-f37c-4617-9183-ee4046486dde,Cambodge,IN_COUNTRY
+268d740b-f37c-4617-9183-ee4046486dde,Tayland,IN_COUNTRY
+268d740b-f37c-4617-9183-ee4046486dde,Sofitel Legend Metropole (Hanoi),STAYS_AT
+268d740b-f37c-4617-9183-ee4046486dde,Violet Cruise (Ha Long Körfezi),STAYS_AT
+268d740b-f37c-4617-9183-ee4046486dde,"Otel (Ho Chi Minh, ismi belirtilmemiş)",STAYS_AT
+268d740b-f37c-4617-9183-ee4046486dde,"Otel (Siem Reap, ismi belirtilmemiş)",STAYS_AT
+268d740b-f37c-4617-9183-ee4046486dde,"Hanoi şehir turu: Ho Chi Minh Mozolesi, Başkanlık Sarayı, Tek Sütunlu Pagoda, Edebiyat Tapınağı",DOES
+268d740b-f37c-4617-9183-ee4046486dde,Hanoi’de pedallı taksi (rikşov) gezisi,DOES
+268d740b-f37c-4617-9183-ee4046486dde,Ha Long Körfezi’nde deniz uçağı ile ulaşım ve Violet Cruise konaklaması,DOES
+268d740b-f37c-4617-9183-ee4046486dde,"Ha Long Körfezi’nde mağara keşfi, yüzme ve balık avı",DOES
+268d740b-f37c-4617-9183-ee4046486dde,"Ho Chi Minh şehir turu: China Town, Thien Hau Tapınağı, Notre Dame Katedrali, Posta Merkezi, Belediye Tiyatrosu",DOES
+268d740b-f37c-4617-9183-ee4046486dde,"Mekong Deltası gezisi: bot turları, noodle yapımı, meyve bahçeleri, yerel aile ziyareti",DOES
+268d740b-f37c-4617-9183-ee4046486dde,"Siem Reap (Angkor) gezisi: Angkor Thom, Bayon Tapınağı, Baphuon, Kraliyet Sarayı, Fil Terası",DOES
+268d740b-f37c-4617-9183-ee4046486dde,"Phnom Penh şehir turu: Artisan D’Angkor el işi okulu, Phsar Chas çarşısı",DOES
+268d740b-f37c-4617-9183-ee4046486dde,"Yerel restoranlarda öğle yemekleri (Hanoi, Ho Chi Minh turları sırasında)",EATS_AT
+268d740b-f37c-4617-9183-ee4046486dde,Ha Long Violet Cruise – deniz ürünleri ve geleneksel Vietnam mutfağı,EATS_AT
+268d740b-f37c-4617-9183-ee4046486dde,Mekong Deltası – nehir kenarında restoran,EATS_AT
+268d740b-f37c-4617-9183-ee4046486dde,Yerel aile evi – çay ve taze meyve ikramı,EATS_AT
+268d740b-f37c-4617-9183-ee4046486dde,"İstanbul – Hanoi uçuşu (TK 166, Türk Hava Yolları)",USES
+268d740b-f37c-4617-9183-ee4046486dde,Hanoi – Ha Long deniz uçağı,USES
+268d740b-f37c-4617-9183-ee4046486dde,Violet Cruise – Ha Long Körfezi tekne yolculuğu,USES
+268d740b-f37c-4617-9183-ee4046486dde,"Hanoi – Ho Chi Minh uçuşu (VN253, Vietnam Havayolları)",USES
+268d740b-f37c-4617-9183-ee4046486dde,Ho Chi Minh – Siem Reap uçuşu (Cambodia Angkor Air K6809),USES
+268d740b-f37c-4617-9183-ee4046486dde,"Siem Reap – Bangkok uçuşu (PG914, Bangkok Airways)",USES
+268d740b-f37c-4617-9183-ee4046486dde,"Bangkok – İstanbul uçuşu (TK 65, Türk Hava Yolları)",USES
+268d740b-f37c-4617-9183-ee4046486dde,Havalimanı ve şehir içi transferler,USES
+268d740b-f37c-4617-9183-ee4046486dde,Mekong Deltası’nda bot ve rikşov gezileri,USES
+268d740b-f37c-4617-9183-ee4046486dde,Vietnam,HAS_TAG
+268d740b-f37c-4617-9183-ee4046486dde,Cambodge,HAS_TAG
+268d740b-f37c-4617-9183-ee4046486dde,Hanoi,HAS_TAG
+268d740b-f37c-4617-9183-ee4046486dde,Ha Long Körfezi,HAS_TAG
+268d740b-f37c-4617-9183-ee4046486dde,Ho Chi Minh,HAS_TAG
+268d740b-f37c-4617-9183-ee4046486dde,Delta del Mekong (regione),HAS_TAG
+268d740b-f37c-4617-9183-ee4046486dde,Angkor,HAS_TAG
+268d740b-f37c-4617-9183-ee4046486dde,Phnom Penh,HAS_TAG
+268d740b-f37c-4617-9183-ee4046486dde,Kültür,HAS_TAG
+268d740b-f37c-4617-9183-ee4046486dde,Cruise,HAS_TAG
+bfbdb9ab-282b-4d02-8762-dc0181d11067,Nairobi,VISITS
+bfbdb9ab-282b-4d02-8762-dc0181d11067,Maasai Mara,VISITS
+bfbdb9ab-282b-4d02-8762-dc0181d11067,Kenya,IN_COUNTRY
+bfbdb9ab-282b-4d02-8762-dc0181d11067,Giraffe Manor,STAYS_AT
+bfbdb9ab-282b-4d02-8762-dc0181d11067,Sala’s Camp,STAYS_AT
+bfbdb9ab-282b-4d02-8762-dc0181d11067,Sanctuary Olonana,STAYS_AT
+bfbdb9ab-282b-4d02-8762-dc0181d11067,The Retreat (günübirlik kullanım),STAYS_AT
+bfbdb9ab-282b-4d02-8762-dc0181d11067,Giraffe Manor’da zürafalarla kahvaltı ve ikindi çayı,DOES
+bfbdb9ab-282b-4d02-8762-dc0181d11067,Masai Mara’da safari ve game drive aktiviteleri,DOES
+bfbdb9ab-282b-4d02-8762-dc0181d11067,Sala’s Camp konaklamasında vahşi yaşam deneyimleri,DOES
+bfbdb9ab-282b-4d02-8762-dc0181d11067,Sanctuary Olonana’da doğa aktiviteleri ve safari,DOES
+bfbdb9ab-282b-4d02-8762-dc0181d11067,"The Retreat (kahvaltı, öğle yemeği)",EATS_AT
+bfbdb9ab-282b-4d02-8762-dc0181d11067,Giraffe Manor (kahvaltı & ikindi çayı),EATS_AT
+bfbdb9ab-282b-4d02-8762-dc0181d11067,"İstanbul – Doha uçuşu (QR 246, Qatar Airways)",USES
+bfbdb9ab-282b-4d02-8762-dc0181d11067,"Doha – Nairobi uçuşu (QR 1335, Qatar Airways)",USES
+bfbdb9ab-282b-4d02-8762-dc0181d11067,Nairobi Havalimanı – Giraffe Manor transferi,USES
+bfbdb9ab-282b-4d02-8762-dc0181d11067,Nairobi – Masai Mara lodge transferleri,USES
+bfbdb9ab-282b-4d02-8762-dc0181d11067,Kenya,HAS_TAG
+bfbdb9ab-282b-4d02-8762-dc0181d11067,Nairobi,HAS_TAG
+bfbdb9ab-282b-4d02-8762-dc0181d11067,Maasai Mara,HAS_TAG
+bfbdb9ab-282b-4d02-8762-dc0181d11067,Giraffe Manor,HAS_TAG
+bfbdb9ab-282b-4d02-8762-dc0181d11067,Safari,HAS_TAG
+bfbdb9ab-282b-4d02-8762-dc0181d11067,Game Drive,HAS_TAG
+57a6bc70-aa04-49ec-bf1d-2483e6ab5100,Bologna,VISITS
+57a6bc70-aa04-49ec-bf1d-2483e6ab5100,Firenze,VISITS
+57a6bc70-aa04-49ec-bf1d-2483e6ab5100,Toscana,VISITS
+57a6bc70-aa04-49ec-bf1d-2483e6ab5100,Forte dei Marmi,VISITS
+57a6bc70-aa04-49ec-bf1d-2483e6ab5100,Italia,IN_COUNTRY
+57a6bc70-aa04-49ec-bf1d-2483e6ab5100,Ferrari Müzesi ziyareti ve test sürüşü,DOES
+57a6bc70-aa04-49ec-bf1d-2483e6ab5100,Balsamik sirke tadımı ve üretici ziyareti,DOES
+57a6bc70-aa04-49ec-bf1d-2483e6ab5100,Parmesan peyniri tadımı,DOES
+57a6bc70-aa04-49ec-bf1d-2483e6ab5100,Lamborghini Müzesi gezisi,DOES
+57a6bc70-aa04-49ec-bf1d-2483e6ab5100,Floransa şehir turu (Piazza Della Signoria ve diğer yapılar),DOES
+57a6bc70-aa04-49ec-bf1d-2483e6ab5100,Toskana’da şarap bağları ve bölgesel geziler,DOES
+57a6bc70-aa04-49ec-bf1d-2483e6ab5100,Forte dei Marmi sahil tatili,DOES
+57a6bc70-aa04-49ec-bf1d-2483e6ab5100,"İstanbul – Bologna uçuşu (TK1321, Türk Hava Yolları)",USES
+57a6bc70-aa04-49ec-bf1d-2483e6ab5100,Bologna – şehir içi transferler,USES
+57a6bc70-aa04-49ec-bf1d-2483e6ab5100,Toskana ve Floransa içi kara transferleri,USES
+57a6bc70-aa04-49ec-bf1d-2483e6ab5100,Italia,HAS_TAG
+57a6bc70-aa04-49ec-bf1d-2483e6ab5100,Bologna,HAS_TAG
+57a6bc70-aa04-49ec-bf1d-2483e6ab5100,Firenze,HAS_TAG
+57a6bc70-aa04-49ec-bf1d-2483e6ab5100,Toscana,HAS_TAG
+57a6bc70-aa04-49ec-bf1d-2483e6ab5100,Forte dei Marmi,HAS_TAG
+57a6bc70-aa04-49ec-bf1d-2483e6ab5100,Ferrari,HAS_TAG
+57a6bc70-aa04-49ec-bf1d-2483e6ab5100,Lamborghini,HAS_TAG
+57a6bc70-aa04-49ec-bf1d-2483e6ab5100,Gastronomi,HAS_TAG
+8147a731-0313-45b8-acf8-ba27e220f271,Prag,VISITS
+8147a731-0313-45b8-acf8-ba27e220f271,Karlovy Vary,VISITS
+8147a731-0313-45b8-acf8-ba27e220f271,Cesky Krumlov,VISITS
+8147a731-0313-45b8-acf8-ba27e220f271,Czech Republic,IN_COUNTRY
+8147a731-0313-45b8-acf8-ba27e220f271,"Prag şehir turu: Prag Kalesi, St. Vitus Bazilikası, Altın Yol",DOES
+8147a731-0313-45b8-acf8-ba27e220f271,Karlovy Vary gezisi,DOES
+8147a731-0313-45b8-acf8-ba27e220f271,Cesky Krumlov şehir turu,DOES
+8147a731-0313-45b8-acf8-ba27e220f271,"Kampa Park Restaurant (Na Kampě 8b, Prag)",EATS_AT
+8147a731-0313-45b8-acf8-ba27e220f271,"İstanbul – Prag uçuşu (TK1769, Türk Hava Yolları)",USES
+8147a731-0313-45b8-acf8-ba27e220f271,Prag – şehir içi transferler,USES
+8147a731-0313-45b8-acf8-ba27e220f271,Karlovy Vary ve Cesky Krumlov kara transferleri,USES
+8147a731-0313-45b8-acf8-ba27e220f271,Czech Republic,HAS_TAG
+8147a731-0313-45b8-acf8-ba27e220f271,Prag,HAS_TAG
+8147a731-0313-45b8-acf8-ba27e220f271,Karlovy Vary,HAS_TAG
+8147a731-0313-45b8-acf8-ba27e220f271,Cesky Krumlov,HAS_TAG
+8147a731-0313-45b8-acf8-ba27e220f271,Kampa Park,HAS_TAG
+68542b38-38ad-439f-b4df-b1991e97d8f0,Malaga,VISITS
+68542b38-38ad-439f-b4df-b1991e97d8f0,Ronda,VISITS
+68542b38-38ad-439f-b4df-b1991e97d8f0,Granada,VISITS
+68542b38-38ad-439f-b4df-b1991e97d8f0,Cordoba,VISITS
+68542b38-38ad-439f-b4df-b1991e97d8f0,Sevilla,VISITS
+68542b38-38ad-439f-b4df-b1991e97d8f0,Espagne,IN_COUNTRY
+68542b38-38ad-439f-b4df-b1991e97d8f0,"Granada şehir merkezi turu (Realejo Mahallesi, Capilla Real, Katedral, Madraza)",DOES
+68542b38-38ad-439f-b4df-b1991e97d8f0,Elhamra Sarayı gezisi,DOES
+68542b38-38ad-439f-b4df-b1991e97d8f0,Cordoba turu,DOES
+68542b38-38ad-439f-b4df-b1991e97d8f0,Ronda gezisi,DOES
+68542b38-38ad-439f-b4df-b1991e97d8f0,Sevilla şehir turu,DOES
+68542b38-38ad-439f-b4df-b1991e97d8f0,"İstanbul – Malaga uçuşu (TK1303, Türk Hava Yolları)",USES
+68542b38-38ad-439f-b4df-b1991e97d8f0,Malaga – Granada transferi,USES
+68542b38-38ad-439f-b4df-b1991e97d8f0,Endülüs içi kara transferleri,USES
+68542b38-38ad-439f-b4df-b1991e97d8f0,Espagne,HAS_TAG
+68542b38-38ad-439f-b4df-b1991e97d8f0,Endülüs,HAS_TAG
+68542b38-38ad-439f-b4df-b1991e97d8f0,Granada,HAS_TAG
+68542b38-38ad-439f-b4df-b1991e97d8f0,Cordoba,HAS_TAG
+68542b38-38ad-439f-b4df-b1991e97d8f0,Sevilla,HAS_TAG
+68542b38-38ad-439f-b4df-b1991e97d8f0,Elhamra Sarayı,HAS_TAG
+30afe670-54a7-463e-8a4a-9c2f4e18750c,Amman,VISITS
+30afe670-54a7-463e-8a4a-9c2f4e18750c,Mont Nébo,VISITS
+30afe670-54a7-463e-8a4a-9c2f4e18750c,Madaba,VISITS
+30afe670-54a7-463e-8a4a-9c2f4e18750c,Petra,VISITS
+30afe670-54a7-463e-8a4a-9c2f4e18750c,Rum Vadisi Koruma Alanı,VISITS
+30afe670-54a7-463e-8a4a-9c2f4e18750c,Dead Sea,VISITS
+30afe670-54a7-463e-8a4a-9c2f4e18750c,Giordania,IN_COUNTRY
+30afe670-54a7-463e-8a4a-9c2f4e18750c,Amman şehir turu,DOES
+30afe670-54a7-463e-8a4a-9c2f4e18750c,Mount Nebo ve Madaba ziyareti,DOES
+30afe670-54a7-463e-8a4a-9c2f4e18750c,Petra Antik Kenti gezisi,DOES
+30afe670-54a7-463e-8a4a-9c2f4e18750c,Wadi Rum çöl safarisi,DOES
+30afe670-54a7-463e-8a4a-9c2f4e18750c,Dead Sea’de konaklama ve dinlenme,DOES
+30afe670-54a7-463e-8a4a-9c2f4e18750c,"İstanbul – Amman uçuşu (TK816, Türk Hava Yolları)",USES
+30afe670-54a7-463e-8a4a-9c2f4e18750c,Ürdün içi kara transferleri,USES
+30afe670-54a7-463e-8a4a-9c2f4e18750c,Giordania,HAS_TAG
+30afe670-54a7-463e-8a4a-9c2f4e18750c,Amman,HAS_TAG
+30afe670-54a7-463e-8a4a-9c2f4e18750c,Petra,HAS_TAG
+30afe670-54a7-463e-8a4a-9c2f4e18750c,Rum Vadisi Koruma Alanı,HAS_TAG
+30afe670-54a7-463e-8a4a-9c2f4e18750c,Dead Sea,HAS_TAG
+30afe670-54a7-463e-8a4a-9c2f4e18750c,Mont Nébo,HAS_TAG
+30afe670-54a7-463e-8a4a-9c2f4e18750c,Madaba,HAS_TAG
+2ca598a3-3d38-4fb8-9969-c363f429e12f,Abou Dabi (ville),VISITS
+2ca598a3-3d38-4fb8-9969-c363f429e12f,Ras Al Khaimah,VISITS
+2ca598a3-3d38-4fb8-9969-c363f429e12f,Dubai,VISITS
+2ca598a3-3d38-4fb8-9969-c363f429e12f,Birleşik Arap Emirlikleri,IN_COUNTRY
+2ca598a3-3d38-4fb8-9969-c363f429e12f,"The St. Regis Saadiyat Island Resort, Abu Dhabi",STAYS_AT
+2ca598a3-3d38-4fb8-9969-c363f429e12f,The Ritz Carlton Ras Al Khaimah,STAYS_AT
+2ca598a3-3d38-4fb8-9969-c363f429e12f,"Address Dubai Mall, Dubai",STAYS_AT
+2ca598a3-3d38-4fb8-9969-c363f429e12f,Sunset Electric Dragon Boat Experience - Jubail Mangrove Park,DOES
+2ca598a3-3d38-4fb8-9969-c363f429e12f,Ferrari World Abu Dhabi – Driving Experience,DOES
+2ca598a3-3d38-4fb8-9969-c363f429e12f,"Louvre Museum, Abu Dhabi",DOES
+2ca598a3-3d38-4fb8-9969-c363f429e12f,Çöl Safarisi,DOES
+2ca598a3-3d38-4fb8-9969-c363f429e12f,Çölde Akşam Yemeği,DOES
+2ca598a3-3d38-4fb8-9969-c363f429e12f,Dubai Autodrome Circuit,DOES
+2ca598a3-3d38-4fb8-9969-c363f429e12f,New Year's Eve Celebration - The Restaurant at Address Dubai Mall,DOES
+2ca598a3-3d38-4fb8-9969-c363f429e12f,Hakkasan Abu Dhabi,EATS_AT
+2ca598a3-3d38-4fb8-9969-c363f429e12f,Ula Beach RAK,EATS_AT
+2ca598a3-3d38-4fb8-9969-c363f429e12f,The Guild Dubai,EATS_AT
+2ca598a3-3d38-4fb8-9969-c363f429e12f,WHITE Beach Dubai,EATS_AT
+2ca598a3-3d38-4fb8-9969-c363f429e12f,Estiatorio Milos Dubai,EATS_AT
+2ca598a3-3d38-4fb8-9969-c363f429e12f,The MAINE Oyster Bar & Grill JBR,EATS_AT
+2ca598a3-3d38-4fb8-9969-c363f429e12f,La Cantine Beach,EATS_AT
+2ca598a3-3d38-4fb8-9969-c363f429e12f,The Restaurant at Address Dubai Mall,EATS_AT
+2ca598a3-3d38-4fb8-9969-c363f429e12f,İstanbul – Abu Dhabi uçuşu,USES
+2ca598a3-3d38-4fb8-9969-c363f429e12f,Şehir içi ve otel transferleri,USES
+2ca598a3-3d38-4fb8-9969-c363f429e12f,Abu Dhabi – Ras Al Khaimah transferi,USES
+2ca598a3-3d38-4fb8-9969-c363f429e12f,Ras Al Khaimah – Dubai transferi,USES
+2ca598a3-3d38-4fb8-9969-c363f429e12f,BAE,HAS_TAG
+2ca598a3-3d38-4fb8-9969-c363f429e12f,Abou Dabi (ville),HAS_TAG
+2ca598a3-3d38-4fb8-9969-c363f429e12f,Ras Al Khaimah,HAS_TAG
+2ca598a3-3d38-4fb8-9969-c363f429e12f,Dubai,HAS_TAG
+2ca598a3-3d38-4fb8-9969-c363f429e12f,Ferrari World,HAS_TAG
+2ca598a3-3d38-4fb8-9969-c363f429e12f,Çöl Safarisi,HAS_TAG
+2ca598a3-3d38-4fb8-9969-c363f429e12f,Yılbaşı,HAS_TAG
+29ea9b9b-2fea-40d2-b37d-21749c1f6ca1,Lima,VISITS
+29ea9b9b-2fea-40d2-b37d-21749c1f6ca1,Cusco,VISITS
+29ea9b9b-2fea-40d2-b37d-21749c1f6ca1,Kutsal Vadi,VISITS
+29ea9b9b-2fea-40d2-b37d-21749c1f6ca1,Machu Picchu,VISITS
+29ea9b9b-2fea-40d2-b37d-21749c1f6ca1,Peru,IN_COUNTRY
+29ea9b9b-2fea-40d2-b37d-21749c1f6ca1,Belmond Miraflores Park (Lima),STAYS_AT
+29ea9b9b-2fea-40d2-b37d-21749c1f6ca1,Lima şehir turu (Plaza Mayor ve tarihi merkez),DOES
+29ea9b9b-2fea-40d2-b37d-21749c1f6ca1,Cusco turu,DOES
+29ea9b9b-2fea-40d2-b37d-21749c1f6ca1,Sacred Valley gezisi,DOES
+29ea9b9b-2fea-40d2-b37d-21749c1f6ca1,Machu Picchu ziyareti,DOES
+29ea9b9b-2fea-40d2-b37d-21749c1f6ca1,"İstanbul – Lima uçuşu (TK800, Türk Hava Yolları, Panama aktarmalı CM337)",USES
+29ea9b9b-2fea-40d2-b37d-21749c1f6ca1,Lima Havalimanı – otel transferi,USES
+29ea9b9b-2fea-40d2-b37d-21749c1f6ca1,Peru içi kara ve tren transferleri,USES
+29ea9b9b-2fea-40d2-b37d-21749c1f6ca1,Peru,HAS_TAG
+29ea9b9b-2fea-40d2-b37d-21749c1f6ca1,Lima,HAS_TAG
+29ea9b9b-2fea-40d2-b37d-21749c1f6ca1,Cusco,HAS_TAG
+29ea9b9b-2fea-40d2-b37d-21749c1f6ca1,Kutsal Vadi,HAS_TAG
+29ea9b9b-2fea-40d2-b37d-21749c1f6ca1,Machu Picchu,HAS_TAG
+29ea9b9b-2fea-40d2-b37d-21749c1f6ca1,Belmond,HAS_TAG
+9f0ece28-5001-4072-b751-136fa56096a2,NEW YORK,VISITS
+9f0ece28-5001-4072-b751-136fa56096a2,Amerika Birleşik Devletleri,IN_COUNTRY
+9f0ece28-5001-4072-b751-136fa56096a2,Central Park ziyareti,DOES
+9f0ece28-5001-4072-b751-136fa56096a2,New York şehir turu (müze ve meydanlar),DOES
+9f0ece28-5001-4072-b751-136fa56096a2,Kültürel ve alışveriş aktiviteleri,DOES
+9f0ece28-5001-4072-b751-136fa56096a2,"Londra – New York uçuşu (BA175, British Airways)",USES
+9f0ece28-5001-4072-b751-136fa56096a2,New York havalimanı – otel transferi,USES
+9f0ece28-5001-4072-b751-136fa56096a2,ABD,HAS_TAG
+9f0ece28-5001-4072-b751-136fa56096a2,NEW YORK,HAS_TAG
+9f0ece28-5001-4072-b751-136fa56096a2,Central Park,HAS_TAG
+9f0ece28-5001-4072-b751-136fa56096a2,Kültür,HAS_TAG
+9f0ece28-5001-4072-b751-136fa56096a2,Alışveriş,HAS_TAG
+633b7322-537e-4bfa-8c8a-7feb80b4e050,Bénarès,VISITS
+633b7322-537e-4bfa-8c8a-7feb80b4e050,Jaipur,VISITS
+633b7322-537e-4bfa-8c8a-7feb80b4e050,Udaipur,VISITS
+633b7322-537e-4bfa-8c8a-7feb80b4e050,Delhi,VISITS
+633b7322-537e-4bfa-8c8a-7feb80b4e050,Hindistan,IN_COUNTRY
+633b7322-537e-4bfa-8c8a-7feb80b4e050,Varanasi’de Ganj Nehri kıyısında Aarti töreni,DOES
+633b7322-537e-4bfa-8c8a-7feb80b4e050,Jaipur şehir turu,DOES
+633b7322-537e-4bfa-8c8a-7feb80b4e050,Udaipur göl gezileri ve saray ziyareti,DOES
+633b7322-537e-4bfa-8c8a-7feb80b4e050,Delhi şehir turu,DOES
+633b7322-537e-4bfa-8c8a-7feb80b4e050,"İstanbul – Delhi uçuşu (TK716, Türk Hava Yolları)",USES
+633b7322-537e-4bfa-8c8a-7feb80b4e050,"Delhi – Varanasi uçuşu (AI406, Air India)",USES
+633b7322-537e-4bfa-8c8a-7feb80b4e050,Hindistan içi transferler ve uçuşlar,USES
+633b7322-537e-4bfa-8c8a-7feb80b4e050,Hindistan,HAS_TAG
+633b7322-537e-4bfa-8c8a-7feb80b4e050,Bénarès,HAS_TAG
+633b7322-537e-4bfa-8c8a-7feb80b4e050,Jaipur,HAS_TAG
+633b7322-537e-4bfa-8c8a-7feb80b4e050,Udaipur,HAS_TAG
+633b7322-537e-4bfa-8c8a-7feb80b4e050,Delhi,HAS_TAG
+633b7322-537e-4bfa-8c8a-7feb80b4e050,Ganj Nehri,HAS_TAG
+633b7322-537e-4bfa-8c8a-7feb80b4e050,Aarti töreni,HAS_TAG
+893adadb-ef34-4b70-80a7-5c23e803271b,Cairo,VISITS
+893adadb-ef34-4b70-80a7-5c23e803271b,Egitto,IN_COUNTRY
+893adadb-ef34-4b70-80a7-5c23e803271b,"Giza Piramitleri gezisi (Keops, Kefren, Mikerinos)",DOES
+893adadb-ef34-4b70-80a7-5c23e803271b,Sfenks ziyareti,DOES
+893adadb-ef34-4b70-80a7-5c23e803271b,Kahire şehir gezisi,DOES
+893adadb-ef34-4b70-80a7-5c23e803271b,"İstanbul – Kahire uçuşu (TK694D, Türk Hava Yolları)",USES
+893adadb-ef34-4b70-80a7-5c23e803271b,Kahire Havalimanı – otel transferi,USES
+893adadb-ef34-4b70-80a7-5c23e803271b,Şehir içi araç ile transferler,USES
+893adadb-ef34-4b70-80a7-5c23e803271b,Egitto,HAS_TAG
+893adadb-ef34-4b70-80a7-5c23e803271b,Cairo,HAS_TAG
+893adadb-ef34-4b70-80a7-5c23e803271b,Giza Piramitleri,HAS_TAG
+893adadb-ef34-4b70-80a7-5c23e803271b,Sfenks,HAS_TAG
+893adadb-ef34-4b70-80a7-5c23e803271b,Nil Nehri,HAS_TAG
+b2ab485e-1e45-4e2b-91d6-f5d9a03b7f03,Marseille,VISITS
+b2ab485e-1e45-4e2b-91d6-f5d9a03b7f03,Rossiglione (regione),VISITS
+b2ab485e-1e45-4e2b-91d6-f5d9a03b7f03,Gordes,VISITS
+b2ab485e-1e45-4e2b-91d6-f5d9a03b7f03,France,IN_COUNTRY
+b2ab485e-1e45-4e2b-91d6-f5d9a03b7f03,Gordes ve Roussillon köy gezileri,DOES
+b2ab485e-1e45-4e2b-91d6-f5d9a03b7f03,Sanat atölyeleri ve butik mağazalar,DOES
+b2ab485e-1e45-4e2b-91d6-f5d9a03b7f03,Provence manzaraları ve şato ziyareti,DOES
+b2ab485e-1e45-4e2b-91d6-f5d9a03b7f03,"İstanbul – Marsilya uçuşu (TK1367, Türk Hava Yolları)",USES
+b2ab485e-1e45-4e2b-91d6-f5d9a03b7f03,Marsilya Havalimanı – Provence transferi,USES
+b2ab485e-1e45-4e2b-91d6-f5d9a03b7f03,Köyler arası özel araç transferleri,USES
+b2ab485e-1e45-4e2b-91d6-f5d9a03b7f03,France,HAS_TAG
+b2ab485e-1e45-4e2b-91d6-f5d9a03b7f03,Provence,HAS_TAG
+b2ab485e-1e45-4e2b-91d6-f5d9a03b7f03,Marseille,HAS_TAG
+b2ab485e-1e45-4e2b-91d6-f5d9a03b7f03,Gordes,HAS_TAG
+b2ab485e-1e45-4e2b-91d6-f5d9a03b7f03,Rossiglione (regione),HAS_TAG
+a7e0c922-22bc-4945-ba2e-a9e953e47cc1,Bologna,VISITS
+a7e0c922-22bc-4945-ba2e-a9e953e47cc1,San Casciano Val di Pesa,VISITS
+a7e0c922-22bc-4945-ba2e-a9e953e47cc1,Firenze,VISITS
+a7e0c922-22bc-4945-ba2e-a9e953e47cc1,Chianti,VISITS
+a7e0c922-22bc-4945-ba2e-a9e953e47cc1,Italia,IN_COUNTRY
+a7e0c922-22bc-4945-ba2e-a9e953e47cc1,San Casciano Val di Pesa kasabası ziyareti,DOES
+a7e0c922-22bc-4945-ba2e-a9e953e47cc1,Floransa çevresinde geziler,DOES
+a7e0c922-22bc-4945-ba2e-a9e953e47cc1,Chianti bölgesinde üzüm bağları ve köyler,DOES
+a7e0c922-22bc-4945-ba2e-a9e953e47cc1,"İstanbul – Bologna uçuşu (TK1321, Türk Hava Yolları)",USES
+a7e0c922-22bc-4945-ba2e-a9e953e47cc1,Bologna Havalimanı – Toskana otel transferi,USES
+a7e0c922-22bc-4945-ba2e-a9e953e47cc1,Bölge içi kara transferleri,USES
+a7e0c922-22bc-4945-ba2e-a9e953e47cc1,Italia,HAS_TAG
+a7e0c922-22bc-4945-ba2e-a9e953e47cc1,Toscana,HAS_TAG
+a7e0c922-22bc-4945-ba2e-a9e953e47cc1,Firenze,HAS_TAG
+a7e0c922-22bc-4945-ba2e-a9e953e47cc1,Chianti,HAS_TAG
+a7e0c922-22bc-4945-ba2e-a9e953e47cc1,San Casciano Val di Pesa,HAS_TAG
+b6948e80-80b5-4b42-b967-1d61b5f59b0b,Johannesbourg,VISITS
+b6948e80-80b5-4b42-b967-1d61b5f59b0b,Sabi Sand,VISITS
+b6948e80-80b5-4b42-b967-1d61b5f59b0b,Kruger,VISITS
+b6948e80-80b5-4b42-b967-1d61b5f59b0b,Cape Town,VISITS
+b6948e80-80b5-4b42-b967-1d61b5f59b0b,Africa meridionale,IN_COUNTRY
+b6948e80-80b5-4b42-b967-1d61b5f59b0b,Sabi Sabi Little Bush Camp,STAYS_AT
+b6948e80-80b5-4b42-b967-1d61b5f59b0b,The Table Bay,STAYS_AT
+b6948e80-80b5-4b42-b967-1d61b5f59b0b,Sabi Sabi’de sabah ve akşam safari turları,DOES
+b6948e80-80b5-4b42-b967-1d61b5f59b0b,Cape Town V&A Waterfront gezisi,DOES
+b6948e80-80b5-4b42-b967-1d61b5f59b0b,Cape Town şehir turu ve çevre gezileri,DOES
+b6948e80-80b5-4b42-b967-1d61b5f59b0b,"İstanbul – Johannesburg uçuşu (TK38, Türk Hava Yolları)",USES
+b6948e80-80b5-4b42-b967-1d61b5f59b0b,Johannesburg – Sabi Sabi özel uçuşu (Federal Havayolları),USES
+b6948e80-80b5-4b42-b967-1d61b5f59b0b,"Kruger Mpumalanga – Cape Town uçuşu (SA8664, South African Airways)",USES
+b6948e80-80b5-4b42-b967-1d61b5f59b0b,Şehir içi ve lodge transferleri,USES
+b6948e80-80b5-4b42-b967-1d61b5f59b0b,Africa meridionale,HAS_TAG
+b6948e80-80b5-4b42-b967-1d61b5f59b0b,Johannesbourg,HAS_TAG
+b6948e80-80b5-4b42-b967-1d61b5f59b0b,Sabi Sabi,HAS_TAG
+b6948e80-80b5-4b42-b967-1d61b5f59b0b,Cape Town,HAS_TAG
+b6948e80-80b5-4b42-b967-1d61b5f59b0b,Safari,HAS_TAG
+b6948e80-80b5-4b42-b967-1d61b5f59b0b,V&A Waterfront,HAS_TAG
+1542942a-260d-4c5c-b998-22dfa475f468,Bangkok,VISITS
+1542942a-260d-4c5c-b998-22dfa475f468,Chiang Rai,VISITS
+1542942a-260d-4c5c-b998-22dfa475f468,Danang,VISITS
+1542942a-260d-4c5c-b998-22dfa475f468,Hanoi,VISITS
+1542942a-260d-4c5c-b998-22dfa475f468,Saigon,VISITS
+1542942a-260d-4c5c-b998-22dfa475f468,Tayland,IN_COUNTRY
+1542942a-260d-4c5c-b998-22dfa475f468,Vietnam,IN_COUNTRY
+1542942a-260d-4c5c-b998-22dfa475f468,"Mandarin Oriental, Bangkok",STAYS_AT
+1542942a-260d-4c5c-b998-22dfa475f468,"Anantara Golden Triangle, Chiang Rai",STAYS_AT
+1542942a-260d-4c5c-b998-22dfa475f468,Bangkok kanal turu (Thonburi Klongs) ve Chao Phraya Nehri gezisi,DOES
+1542942a-260d-4c5c-b998-22dfa475f468,"Bangkok şehir turu: Wat Arun, Wat Pho, Çin Mahallesi",DOES
+1542942a-260d-4c5c-b998-22dfa475f468,"Chiang Rai’de fil sürüşü, Altın Üçgen gezisi veya yemek kursu",DOES
+1542942a-260d-4c5c-b998-22dfa475f468,Tra Que Organic Village bisiklet turu,DOES
+1542942a-260d-4c5c-b998-22dfa475f468,The Market Restaurant’ta Vietnam yemek kursu,DOES
+1542942a-260d-4c5c-b998-22dfa475f468,The Market Restaurant (Vietnam),EATS_AT
+1542942a-260d-4c5c-b998-22dfa475f468,"İstanbul – Bangkok uçuşu (TK68, Türk Hava Yolları)",USES
+1542942a-260d-4c5c-b998-22dfa475f468,"Bangkok – Chiang Rai uçuşu (PG231, Bangkok Airways)",USES
+1542942a-260d-4c5c-b998-22dfa475f468,"Bangkok – Danang uçuşu (PG222, Bangkok Airways)",USES
+1542942a-260d-4c5c-b998-22dfa475f468,Vietnam içi transferler,USES
+1542942a-260d-4c5c-b998-22dfa475f468,Saigon aktarmalı Bangkok dönüş uçuşu,USES
+1542942a-260d-4c5c-b998-22dfa475f468,Şehir içi ve havalimanı transferleri,USES
+1542942a-260d-4c5c-b998-22dfa475f468,Tayland,HAS_TAG
+1542942a-260d-4c5c-b998-22dfa475f468,Vietnam,HAS_TAG
+1542942a-260d-4c5c-b998-22dfa475f468,Bangkok,HAS_TAG
+1542942a-260d-4c5c-b998-22dfa475f468,Chiang Rai,HAS_TAG
+1542942a-260d-4c5c-b998-22dfa475f468,Danang,HAS_TAG
+1542942a-260d-4c5c-b998-22dfa475f468,Hanoi,HAS_TAG
+1542942a-260d-4c5c-b998-22dfa475f468,Saigon,HAS_TAG
+1542942a-260d-4c5c-b998-22dfa475f468,Mandarin Oriental,HAS_TAG
+1542942a-260d-4c5c-b998-22dfa475f468,Anantara Golden Triangle,HAS_TAG
+1542942a-260d-4c5c-b998-22dfa475f468,Tra Que Village,HAS_TAG
+1542942a-260d-4c5c-b998-22dfa475f468,The Market Restaurant,HAS_TAG
+eadd5f5e-04ed-460e-9f43-2bb11891d85c,Phuket,VISITS
+eadd5f5e-04ed-460e-9f43-2bb11891d85c,Bangkok,VISITS
+eadd5f5e-04ed-460e-9f43-2bb11891d85c,Bali,VISITS
+eadd5f5e-04ed-460e-9f43-2bb11891d85c,Tayland,IN_COUNTRY
+eadd5f5e-04ed-460e-9f43-2bb11891d85c,Endonezya,IN_COUNTRY
+eadd5f5e-04ed-460e-9f43-2bb11891d85c,The Surin Phuket,STAYS_AT
+eadd5f5e-04ed-460e-9f43-2bb11891d85c,Phuket’te Big Buddha ziyareti,DOES
+eadd5f5e-04ed-460e-9f43-2bb11891d85c,Phuket Tarihi Kent Gezisi,DOES
+eadd5f5e-04ed-460e-9f43-2bb11891d85c,Bangkok şehir turu,DOES
+eadd5f5e-04ed-460e-9f43-2bb11891d85c,Bali’de tapınak ziyaretleri ve sahil aktiviteleri,DOES
+eadd5f5e-04ed-460e-9f43-2bb11891d85c,"Beach Restaurant, The Surin (Phuket)",EATS_AT
+eadd5f5e-04ed-460e-9f43-2bb11891d85c,"İstanbul – Phuket uçuşu (TK172, Türk Hava Yolları)",USES
+eadd5f5e-04ed-460e-9f43-2bb11891d85c,Phuket – Bangkok uçuşu,USES
+eadd5f5e-04ed-460e-9f43-2bb11891d85c,Bangkok – Bali uçuşu,USES
+eadd5f5e-04ed-460e-9f43-2bb11891d85c,Şehir içi ve havalimanı transferleri,USES
+eadd5f5e-04ed-460e-9f43-2bb11891d85c,Tayland,HAS_TAG
+eadd5f5e-04ed-460e-9f43-2bb11891d85c,Endonezya,HAS_TAG
+eadd5f5e-04ed-460e-9f43-2bb11891d85c,Phuket,HAS_TAG
+eadd5f5e-04ed-460e-9f43-2bb11891d85c,Bangkok,HAS_TAG
+eadd5f5e-04ed-460e-9f43-2bb11891d85c,Bali,HAS_TAG
+eadd5f5e-04ed-460e-9f43-2bb11891d85c,The Surin Phuket,HAS_TAG
+eadd5f5e-04ed-460e-9f43-2bb11891d85c,Big Buddha,HAS_TAG
+98d0ed9f-50a6-4f6d-8a75-c2704439d2be,Bangkok,VISITS
+98d0ed9f-50a6-4f6d-8a75-c2704439d2be,Phuket,VISITS
+98d0ed9f-50a6-4f6d-8a75-c2704439d2be,Tayland,IN_COUNTRY
+98d0ed9f-50a6-4f6d-8a75-c2704439d2be,Bangkok’ta Grand Palace & Wat Phra Kaew ziyareti,DOES
+98d0ed9f-50a6-4f6d-8a75-c2704439d2be,Wat Pho (Yatan Buda Tapınağı) gezisi,DOES
+98d0ed9f-50a6-4f6d-8a75-c2704439d2be,Wat Arun (Şafak Tapınağı) ziyareti,DOES
+98d0ed9f-50a6-4f6d-8a75-c2704439d2be,Thonburi Kanalları tekne turu,DOES
+98d0ed9f-50a6-4f6d-8a75-c2704439d2be,Phuket ada ve sahil aktiviteleri,DOES
+98d0ed9f-50a6-4f6d-8a75-c2704439d2be,Tayland,HAS_TAG
+98d0ed9f-50a6-4f6d-8a75-c2704439d2be,Bangkok,HAS_TAG
+98d0ed9f-50a6-4f6d-8a75-c2704439d2be,Phuket,HAS_TAG
+98d0ed9f-50a6-4f6d-8a75-c2704439d2be,Grand Palace,HAS_TAG
+98d0ed9f-50a6-4f6d-8a75-c2704439d2be,Wat Pho,HAS_TAG
+98d0ed9f-50a6-4f6d-8a75-c2704439d2be,Wat Arun,HAS_TAG
+98d0ed9f-50a6-4f6d-8a75-c2704439d2be,Thonburi Kanalları,HAS_TAG
+7d435d04-0bbb-42aa-ad4f-9f4266b52b4c,Bologna,VISITS
+7d435d04-0bbb-42aa-ad4f-9f4266b52b4c,Siena,VISITS
+7d435d04-0bbb-42aa-ad4f-9f4266b52b4c,Montepulciano,VISITS
+7d435d04-0bbb-42aa-ad4f-9f4266b52b4c,San Gimignano,VISITS
+7d435d04-0bbb-42aa-ad4f-9f4266b52b4c,Italia,IN_COUNTRY
+7d435d04-0bbb-42aa-ad4f-9f4266b52b4c,"Bologna şehir turu (Piazza Maggiore, Basilica di San Petronio, Fontana di Nettuno, Palazzo Communale)",DOES
+7d435d04-0bbb-42aa-ad4f-9f4266b52b4c,The Mall Firenze outlet gezisi,DOES
+7d435d04-0bbb-42aa-ad4f-9f4266b52b4c,Siena şehir turu,DOES
+7d435d04-0bbb-42aa-ad4f-9f4266b52b4c,Montepulciano şarap bağları ve kasaba gezisi,DOES
+7d435d04-0bbb-42aa-ad4f-9f4266b52b4c,San Gimignano kasabası gezisi,DOES
+7d435d04-0bbb-42aa-ad4f-9f4266b52b4c,"İstanbul – Bologna uçuşu (TK1321, Türk Hava Yolları)",USES
+7d435d04-0bbb-42aa-ad4f-9f4266b52b4c,Bologna Havalimanı – şehir içi transfer,USES
+7d435d04-0bbb-42aa-ad4f-9f4266b52b4c,Bölge içi kara transferleri ve araç kiralama,USES
+7d435d04-0bbb-42aa-ad4f-9f4266b52b4c,Italia,HAS_TAG
+7d435d04-0bbb-42aa-ad4f-9f4266b52b4c,Toscana,HAS_TAG
+7d435d04-0bbb-42aa-ad4f-9f4266b52b4c,Bologna,HAS_TAG
+7d435d04-0bbb-42aa-ad4f-9f4266b52b4c,Siena,HAS_TAG
+7d435d04-0bbb-42aa-ad4f-9f4266b52b4c,Montepulciano,HAS_TAG
+7d435d04-0bbb-42aa-ad4f-9f4266b52b4c,San Gimignano,HAS_TAG
+7d435d04-0bbb-42aa-ad4f-9f4266b52b4c,The Mall Firenze,HAS_TAG
+1a46f8f3-357a-49b7-93fc-823111a95b5a,Bologna,VISITS
+1a46f8f3-357a-49b7-93fc-823111a95b5a,Montepulciano,VISITS
+1a46f8f3-357a-49b7-93fc-823111a95b5a,Pienza,VISITS
+1a46f8f3-357a-49b7-93fc-823111a95b5a,Montalcino,VISITS
+1a46f8f3-357a-49b7-93fc-823111a95b5a,San Gimignano,VISITS
+1a46f8f3-357a-49b7-93fc-823111a95b5a,Italia,IN_COUNTRY
+1a46f8f3-357a-49b7-93fc-823111a95b5a,Borgo Santo Pietro,STAYS_AT
+1a46f8f3-357a-49b7-93fc-823111a95b5a,"Bologna şehir turu (Piazza Maggiore, Basilica di San Petronio, Fontana di Nettuno, Palazzo Communale)",DOES
+1a46f8f3-357a-49b7-93fc-823111a95b5a,Montepulciano şarap bağları turu,DOES
+1a46f8f3-357a-49b7-93fc-823111a95b5a,Pienza kasabası ziyareti,DOES
+1a46f8f3-357a-49b7-93fc-823111a95b5a,Montalcino’da şarap tadımı,DOES
+1a46f8f3-357a-49b7-93fc-823111a95b5a,San Gimignano gezisi,DOES
+1a46f8f3-357a-49b7-93fc-823111a95b5a,"İstanbul – Bologna uçuşu (TK1321, Türk Hava Yolları)",USES
+1a46f8f3-357a-49b7-93fc-823111a95b5a,Bologna Havalimanı – şehir merkezi transferi,USES
+1a46f8f3-357a-49b7-93fc-823111a95b5a,Toskana içi kara transferleri,USES
+1a46f8f3-357a-49b7-93fc-823111a95b5a,Italia,HAS_TAG
+1a46f8f3-357a-49b7-93fc-823111a95b5a,Toscana,HAS_TAG
+1a46f8f3-357a-49b7-93fc-823111a95b5a,Bologna,HAS_TAG
+1a46f8f3-357a-49b7-93fc-823111a95b5a,Montepulciano,HAS_TAG
+1a46f8f3-357a-49b7-93fc-823111a95b5a,Pienza,HAS_TAG
+1a46f8f3-357a-49b7-93fc-823111a95b5a,Montalcino,HAS_TAG
+1a46f8f3-357a-49b7-93fc-823111a95b5a,San Gimignano,HAS_TAG
+1a46f8f3-357a-49b7-93fc-823111a95b5a,Borgo Santo Pietro,HAS_TAG
+914851f3-e8c4-4b2e-8816-2eed32aaf772,Bologna,VISITS
+914851f3-e8c4-4b2e-8816-2eed32aaf772,Chianti,VISITS
+914851f3-e8c4-4b2e-8816-2eed32aaf772,Toskana kırsalı,VISITS
+914851f3-e8c4-4b2e-8816-2eed32aaf772,Italia,IN_COUNTRY
+914851f3-e8c4-4b2e-8816-2eed32aaf772,COMO Castello del Nero,STAYS_AT
+914851f3-e8c4-4b2e-8816-2eed32aaf772,Rosewood Castiglion del Bosco,STAYS_AT
+914851f3-e8c4-4b2e-8816-2eed32aaf772,Bağ bozumu deneyimi,DOES
+914851f3-e8c4-4b2e-8816-2eed32aaf772,Şarap tadımları,DOES
+914851f3-e8c4-4b2e-8816-2eed32aaf772,Toskana kasabaları ve doğa gezileri,DOES
+914851f3-e8c4-4b2e-8816-2eed32aaf772,İstanbul – Bologna uçuşu (Türk Hava Yolları),USES
+914851f3-e8c4-4b2e-8816-2eed32aaf772,Bologna – İstanbul uçuşu (Türk Hava Yolları),USES
+914851f3-e8c4-4b2e-8816-2eed32aaf772,Italia,HAS_TAG
+914851f3-e8c4-4b2e-8816-2eed32aaf772,Toscana,HAS_TAG
+914851f3-e8c4-4b2e-8816-2eed32aaf772,Chianti,HAS_TAG
+914851f3-e8c4-4b2e-8816-2eed32aaf772,Bağ Bozumu,HAS_TAG
+914851f3-e8c4-4b2e-8816-2eed32aaf772,Şarap Tadımı,HAS_TAG
+914851f3-e8c4-4b2e-8816-2eed32aaf772,COMO Castello del Nero,HAS_TAG
+914851f3-e8c4-4b2e-8816-2eed32aaf772,Rosewood Castiglion del Bosco,HAS_TAG
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Ho Chi Minh,VISITS
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Delta del Mekong (regione),VISITS
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Phnom Penh,VISITS
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Siem Reap,VISITS
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Vietnam,IN_COUNTRY
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Cambodge,IN_COUNTRY
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Hotel des Arts Saigon,STAYS_AT
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Raffles Hotel Le Royal,STAYS_AT
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Belmond La Résidence d’Angkor,STAYS_AT
+66b8d174-b665-47b6-8dd2-3c9fde72c754,"Ho Chi Minh şehir turu: Reunification Palace, War Remnants Museum, Cho Lon, Thien Hau Tapınağı, Notre Dame Katedrali, Posta Merkezi, Belediye Tiyatrosu",DOES
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Ben Thanh Pazarı ve Nguyen Hue caddelerinde alışveriş,DOES
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Vespa ile gece turu ve Banh Xeo tadımı,DOES
+66b8d174-b665-47b6-8dd2-3c9fde72c754,"Mekong Deltası bot turu, tropik meyve bahçeleri, noodle yapımı",DOES
+66b8d174-b665-47b6-8dd2-3c9fde72c754,"Phnom Penh şehir turu: Kraliyet Sarayı, Gümüş Pagoda, Ulusal Müze",DOES
+66b8d174-b665-47b6-8dd2-3c9fde72c754,"Siem Reap’te Angkor Wat, Angkor Thom, Bayon ve Ta Prohm gezileri",DOES
+66b8d174-b665-47b6-8dd2-3c9fde72c754,"İstanbul – Ho Chi Minh uçuşu (TK168, Türk Hava Yolları)",USES
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Ho Chi Minh içi Vespa ve araç transferleri,USES
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Mekong Deltası bot turu,USES
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Ho Chi Minh – Phnom Penh kara/air transferi,USES
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Phnom Penh – Siem Reap uçuşu,USES
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Vietnam,HAS_TAG
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Cambodge,HAS_TAG
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Ho Chi Minh,HAS_TAG
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Delta del Mekong (regione),HAS_TAG
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Phnom Penh,HAS_TAG
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Siem Reap,HAS_TAG
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Angkor Wat,HAS_TAG
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Banh Xeo,HAS_TAG
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Raffles,HAS_TAG
+66b8d174-b665-47b6-8dd2-3c9fde72c754,Belmond,HAS_TAG
+2c83b947-c884-4999-8fe2-7e00df20c0e5,Hanoi,VISITS
+2c83b947-c884-4999-8fe2-7e00df20c0e5,Nha Trang,VISITS
+2c83b947-c884-4999-8fe2-7e00df20c0e5,Saigon,VISITS
+2c83b947-c884-4999-8fe2-7e00df20c0e5,Vietnam,IN_COUNTRY
+2c83b947-c884-4999-8fe2-7e00df20c0e5,Hanoi By Night turu,DOES
+2c83b947-c884-4999-8fe2-7e00df20c0e5,"Hanoi şehir turu: Ho Chi Minh Mozolesi, kazık ev, Tek Sütunlu Pagoda, Edebiyat Tapınağı",DOES
+2c83b947-c884-4999-8fe2-7e00df20c0e5,Nha Trang sahil tatili ve dinlenme,DOES
+2c83b947-c884-4999-8fe2-7e00df20c0e5,Saigon şehir turu,DOES
+2c83b947-c884-4999-8fe2-7e00df20c0e5,"İstanbul – Hanoi uçuşu (TK164, Türk Hava Yolları)",USES
+2c83b947-c884-4999-8fe2-7e00df20c0e5,Hanoi – Nha Trang uçuşu,USES
+2c83b947-c884-4999-8fe2-7e00df20c0e5,Nha Trang – Saigon uçuşu,USES
+2c83b947-c884-4999-8fe2-7e00df20c0e5,Şehir içi ve havalimanı transferleri,USES
+2c83b947-c884-4999-8fe2-7e00df20c0e5,Vietnam,HAS_TAG
+2c83b947-c884-4999-8fe2-7e00df20c0e5,Hanoi,HAS_TAG
+2c83b947-c884-4999-8fe2-7e00df20c0e5,Nha Trang,HAS_TAG
+2c83b947-c884-4999-8fe2-7e00df20c0e5,Saigon,HAS_TAG
+2c83b947-c884-4999-8fe2-7e00df20c0e5,Ho Chi Minh Mozolesi,HAS_TAG
+2c83b947-c884-4999-8fe2-7e00df20c0e5,Pagoda,HAS_TAG
+e0ea2913-68b0-4701-84e7-defe002981be,Hanoi,VISITS
+e0ea2913-68b0-4701-84e7-defe002981be,Ha Long (Lan Ha Bay),VISITS
+e0ea2913-68b0-4701-84e7-defe002981be,Saigon,VISITS
+e0ea2913-68b0-4701-84e7-defe002981be,Bangkok,VISITS
+e0ea2913-68b0-4701-84e7-defe002981be,Vietnam,IN_COUNTRY
+e0ea2913-68b0-4701-84e7-defe002981be,Tayland,IN_COUNTRY
+e0ea2913-68b0-4701-84e7-defe002981be,Bhaya Cruise (Lan Ha Bay / Ha Long),STAYS_AT
+e0ea2913-68b0-4701-84e7-defe002981be,"Hanoi şehir turu: Opera Binası, Edebiyat Tapınağı, Etnoloji Müzesi, Eski Mahalle",DOES
+e0ea2913-68b0-4701-84e7-defe002981be,Westlake bölgesi turu (vintage jeep ile),DOES
+e0ea2913-68b0-4701-84e7-defe002981be,Ha Long (Lan Ha Bay) Bhaya özel tekne yolculuğu,DOES
+e0ea2913-68b0-4701-84e7-defe002981be,Thien Canh Son Cave ziyareti,DOES
+e0ea2913-68b0-4701-84e7-defe002981be,Saigon şehir turu,DOES
+e0ea2913-68b0-4701-84e7-defe002981be,Bangkok şehir turu ve alışveriş aktiviteleri,DOES
+e0ea2913-68b0-4701-84e7-defe002981be,May de Cuisine Restaurant (Hanoi),EATS_AT
+e0ea2913-68b0-4701-84e7-defe002981be,"İstanbul – Hanoi uçuşu (TK164, Türk Hava Yolları)",USES
+e0ea2913-68b0-4701-84e7-defe002981be,Hanoi – Ha Long kara transferi,USES
+e0ea2913-68b0-4701-84e7-defe002981be,Ha Long Bhaya Cruise tekne yolculuğu,USES
+e0ea2913-68b0-4701-84e7-defe002981be,Hanoi – Saigon uçuşu,USES
+e0ea2913-68b0-4701-84e7-defe002981be,Saigon – Bangkok uçuşu,USES
+e0ea2913-68b0-4701-84e7-defe002981be,Şehir içi transferler,USES
+e0ea2913-68b0-4701-84e7-defe002981be,Vietnam,HAS_TAG
+e0ea2913-68b0-4701-84e7-defe002981be,Tayland,HAS_TAG
+e0ea2913-68b0-4701-84e7-defe002981be,Hanoi,HAS_TAG
+e0ea2913-68b0-4701-84e7-defe002981be,Ha Long,HAS_TAG
+e0ea2913-68b0-4701-84e7-defe002981be,Lan Ha Bay,HAS_TAG
+e0ea2913-68b0-4701-84e7-defe002981be,Saigon,HAS_TAG
+e0ea2913-68b0-4701-84e7-defe002981be,Bangkok,HAS_TAG
+e0ea2913-68b0-4701-84e7-defe002981be,Bhaya Cruise,HAS_TAG
+e0ea2913-68b0-4701-84e7-defe002981be,May de Cuisine,HAS_TAG
+79848065-c584-4906-9e91-b4f22bc839c9,Los Angeles,VISITS
+79848065-c584-4906-9e91-b4f22bc839c9,Newport Beach,VISITS
+79848065-c584-4906-9e91-b4f22bc839c9,Amerika Birleşik Devletleri,IN_COUNTRY
+79848065-c584-4906-9e91-b4f22bc839c9,The Resort at Pelican Hill,STAYS_AT
+79848065-c584-4906-9e91-b4f22bc839c9,Volvo EX90 sunumu ve sürüş deneyimi,DOES
+79848065-c584-4906-9e91-b4f22bc839c9,Callaway Winery ziyareti ve şarap tadımı,DOES
+79848065-c584-4906-9e91-b4f22bc839c9,Volvo etkinlikleri,DOES
+79848065-c584-4906-9e91-b4f22bc839c9,Nobu Los Angeles,EATS_AT
+79848065-c584-4906-9e91-b4f22bc839c9,İstanbul – Los Angeles uçuşu,USES
+79848065-c584-4906-9e91-b4f22bc839c9,Los Angeles Havalimanı – otel transferi,USES
+79848065-c584-4906-9e91-b4f22bc839c9,Şehir içi transferler,USES
+79848065-c584-4906-9e91-b4f22bc839c9,ABD,HAS_TAG
+79848065-c584-4906-9e91-b4f22bc839c9,Los Angeles,HAS_TAG
+79848065-c584-4906-9e91-b4f22bc839c9,Volvo,HAS_TAG
+79848065-c584-4906-9e91-b4f22bc839c9,EX90,HAS_TAG
+79848065-c584-4906-9e91-b4f22bc839c9,Pelican Hill,HAS_TAG
+79848065-c584-4906-9e91-b4f22bc839c9,Nobu,HAS_TAG
+79848065-c584-4906-9e91-b4f22bc839c9,Callaway Winery,HAS_TAG
+1208d228-68e8-44dc-90b6-8040016d8210,Amman,VISITS
+1208d228-68e8-44dc-90b6-8040016d8210,Mont Nébo,VISITS
+1208d228-68e8-44dc-90b6-8040016d8210,Madaba,VISITS
+1208d228-68e8-44dc-90b6-8040016d8210,Petra,VISITS
+1208d228-68e8-44dc-90b6-8040016d8210,Rum Vadisi Koruma Alanı,VISITS
+1208d228-68e8-44dc-90b6-8040016d8210,Dead Sea,VISITS
+1208d228-68e8-44dc-90b6-8040016d8210,Giordania,IN_COUNTRY
+1208d228-68e8-44dc-90b6-8040016d8210,Amman şehir turu,DOES
+1208d228-68e8-44dc-90b6-8040016d8210,Mount Nebo ve Madaba ziyareti,DOES
+1208d228-68e8-44dc-90b6-8040016d8210,Petra Antik Kenti gezisi,DOES
+1208d228-68e8-44dc-90b6-8040016d8210,Wadi Rum çöl safarisi,DOES
+1208d228-68e8-44dc-90b6-8040016d8210,Dead Sea’de konaklama ve dinlenme,DOES
+1208d228-68e8-44dc-90b6-8040016d8210,"İstanbul – Amman uçuşu (TK816, Türk Hava Yolları)",USES
+1208d228-68e8-44dc-90b6-8040016d8210,Ürdün içi kara transferleri,USES
+1208d228-68e8-44dc-90b6-8040016d8210,Giordania,HAS_TAG
+1208d228-68e8-44dc-90b6-8040016d8210,Amman,HAS_TAG
+1208d228-68e8-44dc-90b6-8040016d8210,Petra,HAS_TAG
+1208d228-68e8-44dc-90b6-8040016d8210,Rum Vadisi Koruma Alanı,HAS_TAG
+1208d228-68e8-44dc-90b6-8040016d8210,Dead Sea,HAS_TAG
+1208d228-68e8-44dc-90b6-8040016d8210,Mont Nébo,HAS_TAG
+1208d228-68e8-44dc-90b6-8040016d8210,Madaba,HAS_TAG
+5fd45a65-3385-41c5-941c-0d9858347826,Amman,VISITS
+5fd45a65-3385-41c5-941c-0d9858347826,Mont Nébo,VISITS
+5fd45a65-3385-41c5-941c-0d9858347826,Madaba,VISITS
+5fd45a65-3385-41c5-941c-0d9858347826,Petra,VISITS
+5fd45a65-3385-41c5-941c-0d9858347826,Rum Vadisi Koruma Alanı,VISITS
+5fd45a65-3385-41c5-941c-0d9858347826,Giordania,IN_COUNTRY
+5fd45a65-3385-41c5-941c-0d9858347826,Amman şehir turu,DOES
+5fd45a65-3385-41c5-941c-0d9858347826,Mount Nebo ve Madaba ziyareti,DOES
+5fd45a65-3385-41c5-941c-0d9858347826,Petra Antik Kenti gezisi,DOES
+5fd45a65-3385-41c5-941c-0d9858347826,Wadi Rum çöl safarisi,DOES
+5fd45a65-3385-41c5-941c-0d9858347826,"İstanbul – Amman uçuşu (TK812, Türk Hava Yolları)",USES
+5fd45a65-3385-41c5-941c-0d9858347826,Ürdün içi kara transferleri,USES
+5fd45a65-3385-41c5-941c-0d9858347826,Giordania,HAS_TAG
+5fd45a65-3385-41c5-941c-0d9858347826,Amman,HAS_TAG
+5fd45a65-3385-41c5-941c-0d9858347826,Petra,HAS_TAG
+5fd45a65-3385-41c5-941c-0d9858347826,Rum Vadisi Koruma Alanı,HAS_TAG
+5fd45a65-3385-41c5-941c-0d9858347826,Mont Nébo,HAS_TAG
+5fd45a65-3385-41c5-941c-0d9858347826,Madaba,HAS_TAG
+7993cc8a-506d-41ac-a24c-a66c83e42870,Marrakech,VISITS
+7993cc8a-506d-41ac-a24c-a66c83e42870,Fes,VISITS
+7993cc8a-506d-41ac-a24c-a66c83e42870,FAS,IN_COUNTRY
+7993cc8a-506d-41ac-a24c-a66c83e42870,Marakeş şehir gezisi,DOES
+7993cc8a-506d-41ac-a24c-a66c83e42870,Yves Saint Laurent Müzesi ziyareti,DOES
+7993cc8a-506d-41ac-a24c-a66c83e42870,Jardin Majorelle Bahçeleri gezisi,DOES
+7993cc8a-506d-41ac-a24c-a66c83e42870,Ali ibn Yusuf Medresesi ziyareti,DOES
+7993cc8a-506d-41ac-a24c-a66c83e42870,İstanbul – Fas uçuşu,USES
+7993cc8a-506d-41ac-a24c-a66c83e42870,Fas içi transferler,USES
+7993cc8a-506d-41ac-a24c-a66c83e42870,FAS,HAS_TAG
+7993cc8a-506d-41ac-a24c-a66c83e42870,Marrakech,HAS_TAG
+7993cc8a-506d-41ac-a24c-a66c83e42870,Fes,HAS_TAG
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,Havana,VISITS
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,Vinales,VISITS
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,Cancun,VISITS
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,Cuba,IN_COUNTRY
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,Meksika,IN_COUNTRY
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,Hotel Manzana Kempinski,STAYS_AT
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,Havana şehir turu,DOES
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,"Havana Eski Kenti, Malecon Bulvarı, Devrim Meydanı, Colomb Mezarlığı ve Morro Kalesi gezisi",DOES
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,Floridita’da öğle yemeği ve daiquiri kokteyl tadımı,DOES
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,Jose Fuster’in sanat mahallesi ziyareti,DOES
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,Hamel Sokağı ziyareti,DOES
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,Rancho San Vicente restoranda öğle yemeği,DOES
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,Devrim Müzesi ziyareti,DOES
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,Hemingway’in La Finca evi ziyareti,DOES
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,Che Guevara’nın evi ziyareti,DOES
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,"Vinales şehir merkezi, tütün tarlaları ve çiftlik ziyareti",DOES
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,1950’lerden kalma Amerikan arabaları ile Havana turu,DOES
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,Prado Caddesi ziyareti,DOES
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,Floridita,EATS_AT
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,Rancho San Vicente,EATS_AT
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,İstanbul – Havana uçuşu (TK183),USES
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,Küba içi transferler,USES
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,Cuba,HAS_TAG
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,Meksika,HAS_TAG
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,Havana,HAS_TAG
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,Vinales,HAS_TAG
+262f9bd9-8410-47ff-8f7d-ddf2d519dfdf,Cancun,HAS_TAG
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,TOKYO,VISITS
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,Hakone,VISITS
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,KYOTO,VISITS
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,Nara,VISITS
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,Kobe,VISITS
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,Osaka,VISITS
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,Giappone,IN_COUNTRY
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,Hotel Tokyo Deluxe Double,STAYS_AT
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,Garrya Nijo Castle Kyoto,STAYS_AT
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,Tokyo şehir turu,DOES
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,Mori Sanat Müzesi ve Sky Deck ziyareti,DOES
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,Ashinoko Gölü tekne turu,DOES
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,Hakone Açık Hava Müzesi ziyareti,DOES
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,Picasso Pavilion sergisi,DOES
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,Arashiyama bölgesi ziyareti,DOES
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,Todai-ji Tapınağı ziyareti,DOES
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,TeamLab Borderless ziyareti,DOES
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,Osaka Kalesi ziyareti,DOES
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,Sorakuen Bahçesi ve Kobe eski yerleşim yeri gezisi,DOES
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,İstanbul – Tokyo uçuşu (TK50),USES
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,Japonya içi transferler,USES
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,Giappone,HAS_TAG
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,TOKYO,HAS_TAG
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,KYOTO,HAS_TAG
+da7e86f8-6912-4d73-b9ee-c6c7f372cf08,Osaka,HAS_TAG
+2b269e21-230e-4782-ba03-6946fcc71cf6,Johannesbourg,VISITS
+2b269e21-230e-4782-ba03-6946fcc71cf6,Soweto,VISITS
+2b269e21-230e-4782-ba03-6946fcc71cf6,Cape Town,VISITS
+2b269e21-230e-4782-ba03-6946fcc71cf6,Stellenbosch,VISITS
+2b269e21-230e-4782-ba03-6946fcc71cf6,Africa meridionale,IN_COUNTRY
+2b269e21-230e-4782-ba03-6946fcc71cf6,Sabi Sabi Game Reserve Lodge,STAYS_AT
+2b269e21-230e-4782-ba03-6946fcc71cf6,Hotel Luxury King Mountain Room,STAYS_AT
+2b269e21-230e-4782-ba03-6946fcc71cf6,Sabah ve akşam safarileri (Sabi Sand Game Reserve),DOES
+2b269e21-230e-4782-ba03-6946fcc71cf6,Soweto gezisi ve Nelson Mandela’nın Evi ziyareti,DOES
+2b269e21-230e-4782-ba03-6946fcc71cf6,Hector Pieterson Müzesi ziyareti,DOES
+2b269e21-230e-4782-ba03-6946fcc71cf6,Nelson Mandela Meydanı gezisi,DOES
+2b269e21-230e-4782-ba03-6946fcc71cf6,Cape Town şehir turu,DOES
+2b269e21-230e-4782-ba03-6946fcc71cf6,Stellenbosch şarap bağları gezisi,DOES
+2b269e21-230e-4782-ba03-6946fcc71cf6,İstanbul – Johannesburg uçuşu (TK42),USES
+2b269e21-230e-4782-ba03-6946fcc71cf6,Güney Afrika içi transferler,USES
+2b269e21-230e-4782-ba03-6946fcc71cf6,Africa meridionale,HAS_TAG
+2b269e21-230e-4782-ba03-6946fcc71cf6,Johannesbourg,HAS_TAG
+2b269e21-230e-4782-ba03-6946fcc71cf6,Cape Town,HAS_TAG
+2b269e21-230e-4782-ba03-6946fcc71cf6,Safari,HAS_TAG
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Delhi,VISITS
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Jaipur,VISITS
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Ranthambore,VISITS
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Udaipur,VISITS
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Jodhpur,VISITS
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Bombay,VISITS
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Hindistan,IN_COUNTRY
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Delhi şehir turu,DOES
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Humayun’un Türbesi ziyareti,DOES
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Jaipur City Palace gezisi,DOES
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Amber Kalesi ziyareti,DOES
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Ranthambore Milli Parkı’nda jeep safari,DOES
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Bishnoi köyü safari gezisi,DOES
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Udaipur City Palace ve göl çevresi gezisi,DOES
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Bundi Palace ve Chitra Shala gezisi,DOES
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Ranakpur Jain Tapınakları ziyareti,DOES
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Jodhpur Mehrangarh Kalesi gezisi,DOES
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Elephanta Adası ve Trimurti heykeli ziyareti,DOES
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Mumbai şehir turu,DOES
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Hindistan içi özel araç transferleri,USES
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Ranthambore jeep safarileri,USES
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Hindistan,HAS_TAG
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Delhi,HAS_TAG
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Jaipur,HAS_TAG
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Ranthambore,HAS_TAG
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Udaipur,HAS_TAG
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Jodhpur,HAS_TAG
+28d1cd99-a6ee-48d9-aca8-123486f07eb9,Bombay,HAS_TAG
+a6677228-23e4-4678-bca6-01a7d601b912,Havana,VISITS
+a6677228-23e4-4678-bca6-01a7d601b912,Cienfuegos,VISITS
+a6677228-23e4-4678-bca6-01a7d601b912,Trinidad,VISITS
+a6677228-23e4-4678-bca6-01a7d601b912,Santa Clara,VISITS
+a6677228-23e4-4678-bca6-01a7d601b912,Vinales,VISITS
+a6677228-23e4-4678-bca6-01a7d601b912,Cuba,IN_COUNTRY
+a6677228-23e4-4678-bca6-01a7d601b912,"Havana şehir turu (Eski Kent, Malecon, Devrim Meydanı, Colomb Mezarlığı, Miramar)",DOES
+a6677228-23e4-4678-bca6-01a7d601b912,Küba sokaklarında klasik Amerikan arabalarıyla gezi,DOES
+a6677228-23e4-4678-bca6-01a7d601b912,Jose Fuster’in sanat mahallesi ziyareti,DOES
+a6677228-23e4-4678-bca6-01a7d601b912,"Cienfuegos şehir turu (Valle Sarayı, Jose Marti Parkı, Prado Promenade)",DOES
+a6677228-23e4-4678-bca6-01a7d601b912,Trinidad gezisi ve La Canchanchara Bar ziyareti,DOES
+a6677228-23e4-4678-bca6-01a7d601b912,Santa Clara gezisi ve Che Guevara Anıt Mezarı ziyareti,DOES
+a6677228-23e4-4678-bca6-01a7d601b912,Hemingway’in La Finca evi ziyareti,DOES
+a6677228-23e4-4678-bca6-01a7d601b912,Vinales tütün tarlaları ve çiftlik ziyareti,DOES
+a6677228-23e4-4678-bca6-01a7d601b912,Hamel Sokağı ziyareti,DOES
+a6677228-23e4-4678-bca6-01a7d601b912,La Canchanchara,EATS_AT
+a6677228-23e4-4678-bca6-01a7d601b912,İstanbul – Havana uçuşu (TK183),USES
+a6677228-23e4-4678-bca6-01a7d601b912,Küba içi transferler,USES
+a6677228-23e4-4678-bca6-01a7d601b912,Cuba,HAS_TAG
+a6677228-23e4-4678-bca6-01a7d601b912,Havana,HAS_TAG
+a6677228-23e4-4678-bca6-01a7d601b912,Trinidad,HAS_TAG
+a6677228-23e4-4678-bca6-01a7d601b912,Santa Clara,HAS_TAG
+a6677228-23e4-4678-bca6-01a7d601b912,Vinales,HAS_TAG
+72fb4a3c-2f71-4cfc-adc0-a078dd0adb1e,Bogota,VISITS
+72fb4a3c-2f71-4cfc-adc0-a078dd0adb1e,Cartagena,VISITS
+72fb4a3c-2f71-4cfc-adc0-a078dd0adb1e,Lima,VISITS
+72fb4a3c-2f71-4cfc-adc0-a078dd0adb1e,Cusco,VISITS
+72fb4a3c-2f71-4cfc-adc0-a078dd0adb1e,Machu Picchu,VISITS
+72fb4a3c-2f71-4cfc-adc0-a078dd0adb1e,Colombia,IN_COUNTRY
+72fb4a3c-2f71-4cfc-adc0-a078dd0adb1e,Peru,IN_COUNTRY
+72fb4a3c-2f71-4cfc-adc0-a078dd0adb1e,Bogotá şehir turu,DOES
+72fb4a3c-2f71-4cfc-adc0-a078dd0adb1e,Cartagena eski şehir gezisi,DOES
+72fb4a3c-2f71-4cfc-adc0-a078dd0adb1e,Lima şehir turu,DOES
+72fb4a3c-2f71-4cfc-adc0-a078dd0adb1e,Cusco şehir turu,DOES
+72fb4a3c-2f71-4cfc-adc0-a078dd0adb1e,Machu Picchu gezisi,DOES
+72fb4a3c-2f71-4cfc-adc0-a078dd0adb1e,Uluslararası uçuşlar,USES
+72fb4a3c-2f71-4cfc-adc0-a078dd0adb1e,Kolombiya ve Peru iç hat uçuşları,USES
+72fb4a3c-2f71-4cfc-adc0-a078dd0adb1e,Şehir içi özel transferler,USES
+72fb4a3c-2f71-4cfc-adc0-a078dd0adb1e,Colombia,HAS_TAG
+72fb4a3c-2f71-4cfc-adc0-a078dd0adb1e,Peru,HAS_TAG
+72fb4a3c-2f71-4cfc-adc0-a078dd0adb1e,Bogota,HAS_TAG
+72fb4a3c-2f71-4cfc-adc0-a078dd0adb1e,Cartagena,HAS_TAG
+72fb4a3c-2f71-4cfc-adc0-a078dd0adb1e,Lima,HAS_TAG
+72fb4a3c-2f71-4cfc-adc0-a078dd0adb1e,Cusco,HAS_TAG
+72fb4a3c-2f71-4cfc-adc0-a078dd0adb1e,Machu Picchu,HAS_TAG
+83a654a6-e5c3-435d-bf61-b26c285130d6,LONDON,VISITS
+83a654a6-e5c3-435d-bf61-b26c285130d6,Angleterre,IN_COUNTRY
+83a654a6-e5c3-435d-bf61-b26c285130d6,The Biltmore Mayfair Hotel,STAYS_AT
+83a654a6-e5c3-435d-bf61-b26c285130d6,Frieze Sculpture Park ziyareti,DOES
+83a654a6-e5c3-435d-bf61-b26c285130d6,Hayward Gallery ziyareti,DOES
+83a654a6-e5c3-435d-bf61-b26c285130d6,Frieze London fuarı gezisi,DOES
+83a654a6-e5c3-435d-bf61-b26c285130d6,İstanbul – Londra uçuşu (THY 1979),USES
+83a654a6-e5c3-435d-bf61-b26c285130d6,Londra içi transferler,USES
+83a654a6-e5c3-435d-bf61-b26c285130d6,Angleterre,HAS_TAG
+83a654a6-e5c3-435d-bf61-b26c285130d6,LONDON,HAS_TAG
+83a654a6-e5c3-435d-bf61-b26c285130d6,Frieze London,HAS_TAG
+9f3815fa-abc3-4211-806e-ec7633117f81,Marseille,VISITS
+9f3815fa-abc3-4211-806e-ec7633117f81,Rossiglione (regione),VISITS
+9f3815fa-abc3-4211-806e-ec7633117f81,Gordes,VISITS
+9f3815fa-abc3-4211-806e-ec7633117f81,Arles,VISITS
+9f3815fa-abc3-4211-806e-ec7633117f81,Aix-en-Provence,VISITS
+9f3815fa-abc3-4211-806e-ec7633117f81,France,IN_COUNTRY
+9f3815fa-abc3-4211-806e-ec7633117f81,Roussillon ve Gordes gezisi,DOES
+9f3815fa-abc3-4211-806e-ec7633117f81,Arles şehir gezisi,DOES
+9f3815fa-abc3-4211-806e-ec7633117f81,Arles Luma Müzesi ziyareti,DOES
+9f3815fa-abc3-4211-806e-ec7633117f81,Mirabeau Caddesi’nde gezinti,DOES
+9f3815fa-abc3-4211-806e-ec7633117f81,Château La Coste şarap evi ve bahçeleri ziyareti,DOES
+9f3815fa-abc3-4211-806e-ec7633117f81,Château La Coste,EATS_AT
+9f3815fa-abc3-4211-806e-ec7633117f81,İstanbul – Marsilya uçuşu (TK1367),USES
+9f3815fa-abc3-4211-806e-ec7633117f81,Provence içi transferler,USES
+9f3815fa-abc3-4211-806e-ec7633117f81,France,HAS_TAG
+9f3815fa-abc3-4211-806e-ec7633117f81,Provence,HAS_TAG
+9f3815fa-abc3-4211-806e-ec7633117f81,Marseille,HAS_TAG
+9f3815fa-abc3-4211-806e-ec7633117f81,Arles,HAS_TAG
+9f3815fa-abc3-4211-806e-ec7633117f81,Aix-en-Provence,HAS_TAG
+391fe6c2-9725-4562-b1a9-351aa1b8402f,VENICE,VISITS
+391fe6c2-9725-4562-b1a9-351aa1b8402f,Italia,IN_COUNTRY
+391fe6c2-9725-4562-b1a9-351aa1b8402f,Hotel Bauer Palazzo,STAYS_AT
+391fe6c2-9725-4562-b1a9-351aa1b8402f,Ai Weiwei sergisi,DOES
+391fe6c2-9725-4562-b1a9-351aa1b8402f,Giardini ana sergi turu,DOES
+391fe6c2-9725-4562-b1a9-351aa1b8402f,Venedik Bienali ülke pavyonları turu,DOES
+391fe6c2-9725-4562-b1a9-351aa1b8402f,Arsenale ana sergi turu,DOES
+391fe6c2-9725-4562-b1a9-351aa1b8402f,"Personal Structures, Palazzo Bembo sergisi",DOES
+391fe6c2-9725-4562-b1a9-351aa1b8402f,Ristorante Acqua Pazza,EATS_AT
+391fe6c2-9725-4562-b1a9-351aa1b8402f,La Caravella,EATS_AT
+391fe6c2-9725-4562-b1a9-351aa1b8402f,İstanbul – Venedik uçuşu (THY 1867),USES
+391fe6c2-9725-4562-b1a9-351aa1b8402f,Venedik içi deniz taksi transferleri,USES
+391fe6c2-9725-4562-b1a9-351aa1b8402f,Italia,HAS_TAG
+391fe6c2-9725-4562-b1a9-351aa1b8402f,VENICE,HAS_TAG
+391fe6c2-9725-4562-b1a9-351aa1b8402f,Bienal,HAS_TAG
+1481ac24-7cf0-4ff3-af52-6eece2bdac60,BARCELONA,VISITS
+1481ac24-7cf0-4ff3-af52-6eece2bdac60,Cadaques,VISITS
+1481ac24-7cf0-4ff3-af52-6eece2bdac60,Espagne,IN_COUNTRY
+1481ac24-7cf0-4ff3-af52-6eece2bdac60,Barcelona şehir gezisi,DOES
+1481ac24-7cf0-4ff3-af52-6eece2bdac60,MACBA - Museu d’Art Contemporani de Barcelona ziyareti,DOES
+1481ac24-7cf0-4ff3-af52-6eece2bdac60,Picasso Müzesi ziyareti,DOES
+1481ac24-7cf0-4ff3-af52-6eece2bdac60,Antoni Tàpies Müzesi ziyareti,DOES
+1481ac24-7cf0-4ff3-af52-6eece2bdac60,La Casa de Salvador Dalí - Port Lligat gezisi,DOES
+1481ac24-7cf0-4ff3-af52-6eece2bdac60,Caixa Forum gezisi,DOES
+1481ac24-7cf0-4ff3-af52-6eece2bdac60,Poble Espanyol gezisi,DOES
+1481ac24-7cf0-4ff3-af52-6eece2bdac60,Joan Miró Vakfı ziyareti,DOES
+1481ac24-7cf0-4ff3-af52-6eece2bdac60,Fundació Suñol ziyareti,DOES
+1481ac24-7cf0-4ff3-af52-6eece2bdac60,Dali Müzesi ziyareti,DOES
+1481ac24-7cf0-4ff3-af52-6eece2bdac60,Xavi Bou Atölye ziyareti,DOES
+1481ac24-7cf0-4ff3-af52-6eece2bdac60,Jordi Bernadó Atölye ziyareti,DOES
+1481ac24-7cf0-4ff3-af52-6eece2bdac60,James Turrell enstalasyonu ziyareti,DOES
+1481ac24-7cf0-4ff3-af52-6eece2bdac60,Merendero de la Mar,EATS_AT
+1481ac24-7cf0-4ff3-af52-6eece2bdac60,İstanbul – Barselona uçuşu,USES
+1481ac24-7cf0-4ff3-af52-6eece2bdac60,Barselona içi transferler,USES
+1481ac24-7cf0-4ff3-af52-6eece2bdac60,Espagne,HAS_TAG
+1481ac24-7cf0-4ff3-af52-6eece2bdac60,BARCELONA,HAS_TAG
+1481ac24-7cf0-4ff3-af52-6eece2bdac60,Çağdaş Sanat,HAS_TAG
+639c8bf4-b673-48b5-95a1-9415dcf26715,Marseille,VISITS
+639c8bf4-b673-48b5-95a1-9415dcf26715,Arles,VISITS
+639c8bf4-b673-48b5-95a1-9415dcf26715,Aix-en-Provence,VISITS
+639c8bf4-b673-48b5-95a1-9415dcf26715,Saint-Remy-de-Provence,VISITS
+639c8bf4-b673-48b5-95a1-9415dcf26715,Les Baux-de-Provence,VISITS
+639c8bf4-b673-48b5-95a1-9415dcf26715,Avignon,VISITS
+639c8bf4-b673-48b5-95a1-9415dcf26715,France,IN_COUNTRY
+639c8bf4-b673-48b5-95a1-9415dcf26715,Château La Coste sanat ve mimari gezisi,DOES
+639c8bf4-b673-48b5-95a1-9415dcf26715,Arles Luma Müzesi ziyareti,DOES
+639c8bf4-b673-48b5-95a1-9415dcf26715,Fondation Vincent van Gogh Arles ziyareti,DOES
+639c8bf4-b673-48b5-95a1-9415dcf26715,Mucem Müzesi ziyareti,DOES
+639c8bf4-b673-48b5-95a1-9415dcf26715,Atelier de Cezanne ziyareti,DOES
+639c8bf4-b673-48b5-95a1-9415dcf26715,Palais des Papes ziyareti,DOES
+639c8bf4-b673-48b5-95a1-9415dcf26715,Saint-Paul de Mausole ziyareti,DOES
+639c8bf4-b673-48b5-95a1-9415dcf26715,Carrières de Lumières ziyareti,DOES
+639c8bf4-b673-48b5-95a1-9415dcf26715,Les Deux Garçons’da kahve molası,DOES
+639c8bf4-b673-48b5-95a1-9415dcf26715,La Luma Drum Cafe,EATS_AT
+639c8bf4-b673-48b5-95a1-9415dcf26715,Les Deux Garçons,EATS_AT
+639c8bf4-b673-48b5-95a1-9415dcf26715,İstanbul – Marsilya uçuşu (TK1365),USES
+639c8bf4-b673-48b5-95a1-9415dcf26715,Provence içi transferler,USES
+639c8bf4-b673-48b5-95a1-9415dcf26715,France,HAS_TAG
+639c8bf4-b673-48b5-95a1-9415dcf26715,Provence,HAS_TAG
+639c8bf4-b673-48b5-95a1-9415dcf26715,Arles,HAS_TAG
+639c8bf4-b673-48b5-95a1-9415dcf26715,Avignon,HAS_TAG
+0f9d9903-1f1b-43f8-a9f8-445a4868d4d3,TOKYO,VISITS
+0f9d9903-1f1b-43f8-a9f8-445a4868d4d3,KYOTO,VISITS
+0f9d9903-1f1b-43f8-a9f8-445a4868d4d3,Isola di Naoshima,VISITS
+0f9d9903-1f1b-43f8-a9f8-445a4868d4d3,Teshima,VISITS
+0f9d9903-1f1b-43f8-a9f8-445a4868d4d3,Giappone,IN_COUNTRY
+0f9d9903-1f1b-43f8-a9f8-445a4868d4d3,Arashiyama Bamboo Grove ziyareti,DOES
+0f9d9903-1f1b-43f8-a9f8-445a4868d4d3,Fushimi Inari Tapınağı ziyareti,DOES
+0f9d9903-1f1b-43f8-a9f8-445a4868d4d3,Naoshima & Teshima sanat adaları gezisi,DOES
+0f9d9903-1f1b-43f8-a9f8-445a4868d4d3,Japonya içi transferler,USES
+0f9d9903-1f1b-43f8-a9f8-445a4868d4d3,Giappone,HAS_TAG
+0f9d9903-1f1b-43f8-a9f8-445a4868d4d3,TOKYO,HAS_TAG
+0f9d9903-1f1b-43f8-a9f8-445a4868d4d3,KYOTO,HAS_TAG
+0f9d9903-1f1b-43f8-a9f8-445a4868d4d3,Isola di Naoshima,HAS_TAG
+0f9d9903-1f1b-43f8-a9f8-445a4868d4d3,Teshima,HAS_TAG
+fbca954d-7e81-4059-9936-bf5b88f0ed19,Henningsvaer,VISITS
+fbca954d-7e81-4059-9936-bf5b88f0ed19,Svolvær,VISITS
+fbca954d-7e81-4059-9936-bf5b88f0ed19,Reine,VISITS
+fbca954d-7e81-4059-9936-bf5b88f0ed19,Å,VISITS
+fbca954d-7e81-4059-9936-bf5b88f0ed19,Norvegia,IN_COUNTRY
+fbca954d-7e81-4059-9936-bf5b88f0ed19,Midnight Sun Safari,DOES
+fbca954d-7e81-4059-9936-bf5b88f0ed19,Sea Eagle RIB Boat Safari,DOES
+fbca954d-7e81-4059-9936-bf5b88f0ed19,Henningsvær gezisi,DOES
+fbca954d-7e81-4059-9936-bf5b88f0ed19,Svolvær gezisi,DOES
+fbca954d-7e81-4059-9936-bf5b88f0ed19,Rehberli hiking ve çevre gezisi,DOES
+fbca954d-7e81-4059-9936-bf5b88f0ed19,Å köyü gezisi,DOES
+fbca954d-7e81-4059-9936-bf5b88f0ed19,Kayaking özel turu,DOES
+fbca954d-7e81-4059-9936-bf5b88f0ed19,Restaurant Nyvågar,EATS_AT
+fbca954d-7e81-4059-9936-bf5b88f0ed19,İstanbul – Oslo – Svolvær uçuşu,USES
+fbca954d-7e81-4059-9936-bf5b88f0ed19,Norveç içi transferler,USES
+fbca954d-7e81-4059-9936-bf5b88f0ed19,Norvegia,HAS_TAG
+fbca954d-7e81-4059-9936-bf5b88f0ed19,Lofoten,HAS_TAG
+fbca954d-7e81-4059-9936-bf5b88f0ed19,Henningsvaer,HAS_TAG
+fbca954d-7e81-4059-9936-bf5b88f0ed19,Svolvær,HAS_TAG
+fbca954d-7e81-4059-9936-bf5b88f0ed19,Reine,HAS_TAG
+4bba6d04-b1a8-4338-8e56-c6f0f80d33f0,Cape Town,VISITS
+4bba6d04-b1a8-4338-8e56-c6f0f80d33f0,Stellenbosch,VISITS
+4bba6d04-b1a8-4338-8e56-c6f0f80d33f0,Johannesbourg,VISITS
+4bba6d04-b1a8-4338-8e56-c6f0f80d33f0,Marataba,VISITS
+4bba6d04-b1a8-4338-8e56-c6f0f80d33f0,Africa meridionale,IN_COUNTRY
+4bba6d04-b1a8-4338-8e56-c6f0f80d33f0,Öğleden sonra safari,DOES
+4bba6d04-b1a8-4338-8e56-c6f0f80d33f0,Tam gün safari,DOES
+4bba6d04-b1a8-4338-8e56-c6f0f80d33f0,Cape Town şehir turu,DOES
+4bba6d04-b1a8-4338-8e56-c6f0f80d33f0,Kirstenbosch Ulusal Botanik Bahçesi gezisi,DOES
+4bba6d04-b1a8-4338-8e56-c6f0f80d33f0,Stellenbosch şarap bağları turu,DOES
+4bba6d04-b1a8-4338-8e56-c6f0f80d33f0,Cape Winelands bölgesi ziyareti,DOES
+4bba6d04-b1a8-4338-8e56-c6f0f80d33f0,İstanbul – Cape Town uçuşu (TK44),USES
+4bba6d04-b1a8-4338-8e56-c6f0f80d33f0,Güney Afrika içi araç kiralama ve transferler,USES
+4bba6d04-b1a8-4338-8e56-c6f0f80d33f0,Africa meridionale,HAS_TAG
+4bba6d04-b1a8-4338-8e56-c6f0f80d33f0,Cape Town,HAS_TAG
+4bba6d04-b1a8-4338-8e56-c6f0f80d33f0,Safari,HAS_TAG
+4bba6d04-b1a8-4338-8e56-c6f0f80d33f0,Stellenbosch,HAS_TAG
+45bebdbd-b9a5-4978-b96b-29771aa07417,Mardin,VISITS
+45bebdbd-b9a5-4978-b96b-29771aa07417,Midyad,VISITS
+45bebdbd-b9a5-4978-b96b-29771aa07417,Turchia,IN_COUNTRY
+45bebdbd-b9a5-4978-b96b-29771aa07417,Mardin şehir turu,DOES
+45bebdbd-b9a5-4978-b96b-29771aa07417,Sakıp Sabancı Müzesi ziyareti,DOES
+45bebdbd-b9a5-4978-b96b-29771aa07417,Eski PTT Binası gezisi,DOES
+45bebdbd-b9a5-4978-b96b-29771aa07417,Eski Mardin Evleri ve Abbara tünelleri gezisi,DOES
+45bebdbd-b9a5-4978-b96b-29771aa07417,Zinciriye Medresesi ziyareti,DOES
+45bebdbd-b9a5-4978-b96b-29771aa07417,Kültür Sokağı ve Uçurtma Atölyesi gezisi,DOES
+45bebdbd-b9a5-4978-b96b-29771aa07417,Ulu Camii ziyareti,DOES
+45bebdbd-b9a5-4978-b96b-29771aa07417,Deyrulzafaran Manastırı ziyareti,DOES
+45bebdbd-b9a5-4978-b96b-29771aa07417,Kasımiye Medresesi ziyareti,DOES
+45bebdbd-b9a5-4978-b96b-29771aa07417,Midyat şehir turu,DOES
+45bebdbd-b9a5-4978-b96b-29771aa07417,Midyat Devlet Konukevi ve Gümüşçüler Çarşısı ziyareti,DOES
+45bebdbd-b9a5-4978-b96b-29771aa07417,Mor Gabriel Manastırı ziyareti,DOES
+45bebdbd-b9a5-4978-b96b-29771aa07417,İstanbul – Mardin uçuşu (TK2674),USES
+45bebdbd-b9a5-4978-b96b-29771aa07417,Mardin içi transferler,USES
+45bebdbd-b9a5-4978-b96b-29771aa07417,Turchia,HAS_TAG
+45bebdbd-b9a5-4978-b96b-29771aa07417,Mardin,HAS_TAG
+45bebdbd-b9a5-4978-b96b-29771aa07417,Midyad,HAS_TAG
+94287706-6033-449d-a1e7-d53c0d01c8b5,Città del Messico,VISITS
+94287706-6033-449d-a1e7-d53c0d01c8b5,Mérida,VISITS
+94287706-6033-449d-a1e7-d53c0d01c8b5,Tulum,VISITS
+94287706-6033-449d-a1e7-d53c0d01c8b5,Meksika,IN_COUNTRY
+94287706-6033-449d-a1e7-d53c0d01c8b5,Hotel Rosas,STAYS_AT
+94287706-6033-449d-a1e7-d53c0d01c8b5,Mexico City şehir turu,DOES
+94287706-6033-449d-a1e7-d53c0d01c8b5,Ulusal Saray ve Diego Rivera duvar resimleri ziyareti,DOES
+94287706-6033-449d-a1e7-d53c0d01c8b5,Zócalo ve Metropolitan Katedrali ziyareti,DOES
+94287706-6033-449d-a1e7-d53c0d01c8b5,Xochimilco yüzen bahçeleri gezisi,DOES
+94287706-6033-449d-a1e7-d53c0d01c8b5,Coyoacan köyü ziyareti,DOES
+94287706-6033-449d-a1e7-d53c0d01c8b5,Frida Kahlo Müzesi ziyareti,DOES
+94287706-6033-449d-a1e7-d53c0d01c8b5,Mérida şehir turu,DOES
+94287706-6033-449d-a1e7-d53c0d01c8b5,San Ildefonso Katedrali ziyareti,DOES
+94287706-6033-449d-a1e7-d53c0d01c8b5,Casa Montejo ziyareti,DOES
+94287706-6033-449d-a1e7-d53c0d01c8b5,Yucatan Valilik Sarayı duvar resimleri ziyareti,DOES
+94287706-6033-449d-a1e7-d53c0d01c8b5,Chichen-Itza arkeolojik alanı ziyareti,DOES
+94287706-6033-449d-a1e7-d53c0d01c8b5,İstanbul – Mexico City uçuşu (TK184),USES
+94287706-6033-449d-a1e7-d53c0d01c8b5,Meksika içi transferler,USES
+94287706-6033-449d-a1e7-d53c0d01c8b5,Meksika,HAS_TAG
+94287706-6033-449d-a1e7-d53c0d01c8b5,Città del Messico,HAS_TAG
+94287706-6033-449d-a1e7-d53c0d01c8b5,Mérida,HAS_TAG
+94287706-6033-449d-a1e7-d53c0d01c8b5,Tulum,HAS_TAG
+125ab7cb-62ad-4eb7-9798-e64b51df896c,Nairobi,VISITS
+125ab7cb-62ad-4eb7-9798-e64b51df896c,Maasai Mara,VISITS
+125ab7cb-62ad-4eb7-9798-e64b51df896c,Kenya,IN_COUNTRY
+125ab7cb-62ad-4eb7-9798-e64b51df896c,Emara Ole Sereni Hotel,STAYS_AT
+125ab7cb-62ad-4eb7-9798-e64b51df896c,Akşam safari,DOES
+125ab7cb-62ad-4eb7-9798-e64b51df896c,Sabah ve akşam safarileri,DOES
+125ab7cb-62ad-4eb7-9798-e64b51df896c,Karen Blixen Müzesi ziyareti,DOES
+125ab7cb-62ad-4eb7-9798-e64b51df896c,Giraffe Centre ziyareti,DOES
+125ab7cb-62ad-4eb7-9798-e64b51df896c,İstanbul – Nairobi uçuşu (TK607),USES
+125ab7cb-62ad-4eb7-9798-e64b51df896c,Air Kenya iç hat uçuşu,USES
+125ab7cb-62ad-4eb7-9798-e64b51df896c,Kenya içi transferler,USES
+125ab7cb-62ad-4eb7-9798-e64b51df896c,Kenya,HAS_TAG
+125ab7cb-62ad-4eb7-9798-e64b51df896c,Nairobi,HAS_TAG
+125ab7cb-62ad-4eb7-9798-e64b51df896c,Maasai Mara,HAS_TAG
+125ab7cb-62ad-4eb7-9798-e64b51df896c,Safari,HAS_TAG
+f5c579fa-f826-4e6a-945f-1b41409817c6,Hanoi,VISITS
+f5c579fa-f826-4e6a-945f-1b41409817c6,Halong,VISITS
+f5c579fa-f826-4e6a-945f-1b41409817c6,Hoi An,VISITS
+f5c579fa-f826-4e6a-945f-1b41409817c6,Ho Chi Minh (città),VISITS
+f5c579fa-f826-4e6a-945f-1b41409817c6,Siem Reap,VISITS
+f5c579fa-f826-4e6a-945f-1b41409817c6,Vietnam,IN_COUNTRY
+f5c579fa-f826-4e6a-945f-1b41409817c6,Cambodge,IN_COUNTRY
+f5c579fa-f826-4e6a-945f-1b41409817c6,Park Hyatt Saigon,STAYS_AT
+f5c579fa-f826-4e6a-945f-1b41409817c6,Intercontinental Danang,STAYS_AT
+f5c579fa-f826-4e6a-945f-1b41409817c6,Sofitel Legend Metropole Hanoi,STAYS_AT
+f5c579fa-f826-4e6a-945f-1b41409817c6,Paradise Luxury Halong,STAYS_AT
+f5c579fa-f826-4e6a-945f-1b41409817c6,Hanoi şehir turu,DOES
+f5c579fa-f826-4e6a-945f-1b41409817c6,Ngoc Son Pagoda ziyareti,DOES
+f5c579fa-f826-4e6a-945f-1b41409817c6,Temple of Literature ziyareti,DOES
+f5c579fa-f826-4e6a-945f-1b41409817c6,Water Puppet gösterisi,DOES
+f5c579fa-f826-4e6a-945f-1b41409817c6,Halong Bay tekne turu,DOES
+f5c579fa-f826-4e6a-945f-1b41409817c6,Hoi An yürüyüş turu,DOES
+f5c579fa-f826-4e6a-945f-1b41409817c6,Ho Chi Minh City şehir turu,DOES
+f5c579fa-f826-4e6a-945f-1b41409817c6,Ben Thanh Market ziyareti,DOES
+f5c579fa-f826-4e6a-945f-1b41409817c6,War Remnants Museum ziyareti,DOES
+f5c579fa-f826-4e6a-945f-1b41409817c6,Cu Chi Tünelleri gezisi,DOES
+f5c579fa-f826-4e6a-945f-1b41409817c6,Siem Reap Angkor Wat ziyareti,DOES
+f5c579fa-f826-4e6a-945f-1b41409817c6,Ta Prohm Tapınağı ziyareti,DOES
+f5c579fa-f826-4e6a-945f-1b41409817c6,Banteay Srei ve Banteay Samre tapınakları ziyareti,DOES
+f5c579fa-f826-4e6a-945f-1b41409817c6,Tonle Sap Gölü yüzen köy ziyareti,DOES
+f5c579fa-f826-4e6a-945f-1b41409817c6,İstanbul – Bangkok – Vietnam uçuşları (THY 69),USES
+f5c579fa-f826-4e6a-945f-1b41409817c6,Vietnam içi transferler,USES
+f5c579fa-f826-4e6a-945f-1b41409817c6,Bangkok – İstanbul dönüş uçuşu (THY 69),USES
+f5c579fa-f826-4e6a-945f-1b41409817c6,Vietnam,HAS_TAG
+f5c579fa-f826-4e6a-945f-1b41409817c6,Cambodge,HAS_TAG
+f5c579fa-f826-4e6a-945f-1b41409817c6,Hanoi,HAS_TAG
+f5c579fa-f826-4e6a-945f-1b41409817c6,Halong,HAS_TAG
+f5c579fa-f826-4e6a-945f-1b41409817c6,Hoi An,HAS_TAG
+f5c579fa-f826-4e6a-945f-1b41409817c6,Ho Chi Minh (città),HAS_TAG
+f5c579fa-f826-4e6a-945f-1b41409817c6,Siem Reap,HAS_TAG
+50163dc3-216b-4cf0-be10-eb35e6d1ae92,Delhi,VISITS
+50163dc3-216b-4cf0-be10-eb35e6d1ae92,Jaipur,VISITS
+50163dc3-216b-4cf0-be10-eb35e6d1ae92,Udaipur,VISITS
+50163dc3-216b-4cf0-be10-eb35e6d1ae92,Jodhpur,VISITS
+50163dc3-216b-4cf0-be10-eb35e6d1ae92,Bombay,VISITS
+50163dc3-216b-4cf0-be10-eb35e6d1ae92,Hindistan,IN_COUNTRY
+50163dc3-216b-4cf0-be10-eb35e6d1ae92,Delhi şehir turu,DOES
+50163dc3-216b-4cf0-be10-eb35e6d1ae92,Jaipur Amber Kalesi ziyareti,DOES
+50163dc3-216b-4cf0-be10-eb35e6d1ae92,Jaipur City Palace ziyareti,DOES
+50163dc3-216b-4cf0-be10-eb35e6d1ae92,Udaipur göl gezisi,DOES
+50163dc3-216b-4cf0-be10-eb35e6d1ae92,Udaipur City Palace ziyareti,DOES
+50163dc3-216b-4cf0-be10-eb35e6d1ae92,Jodhpur Mehrangarh Kalesi ziyareti,DOES
+50163dc3-216b-4cf0-be10-eb35e6d1ae92,Mumbai şehir turu,DOES
+50163dc3-216b-4cf0-be10-eb35e6d1ae92,İstanbul – Delhi uçuşu (TK716),USES
+50163dc3-216b-4cf0-be10-eb35e6d1ae92,Hindistan içi uçuşlar ve transferler,USES
+50163dc3-216b-4cf0-be10-eb35e6d1ae92,Hindistan,HAS_TAG
+50163dc3-216b-4cf0-be10-eb35e6d1ae92,Delhi,HAS_TAG
+50163dc3-216b-4cf0-be10-eb35e6d1ae92,Jaipur,HAS_TAG
+50163dc3-216b-4cf0-be10-eb35e6d1ae92,Udaipur,HAS_TAG
+50163dc3-216b-4cf0-be10-eb35e6d1ae92,Jodhpur,HAS_TAG
+50163dc3-216b-4cf0-be10-eb35e6d1ae92,Bombay,HAS_TAG
+dc9159f8-c518-46a0-969f-cd7498cae8ba,TOKYO,VISITS
+dc9159f8-c518-46a0-969f-cd7498cae8ba,KYOTO,VISITS
+dc9159f8-c518-46a0-969f-cd7498cae8ba,Ise Shima,VISITS
+dc9159f8-c518-46a0-969f-cd7498cae8ba,Chiang Rai,VISITS
+dc9159f8-c518-46a0-969f-cd7498cae8ba,Chiang Mai,VISITS
+dc9159f8-c518-46a0-969f-cd7498cae8ba,Phuket,VISITS
+dc9159f8-c518-46a0-969f-cd7498cae8ba,Giappone,IN_COUNTRY
+dc9159f8-c518-46a0-969f-cd7498cae8ba,Tayland,IN_COUNTRY
+dc9159f8-c518-46a0-969f-cd7498cae8ba,Tokyo şehir turu,DOES
+dc9159f8-c518-46a0-969f-cd7498cae8ba,Senso-ji Tapınağı ve Nakamise alışveriş caddesi ziyareti,DOES
+dc9159f8-c518-46a0-969f-cd7498cae8ba,Akihabara gezisi,DOES
+dc9159f8-c518-46a0-969f-cd7498cae8ba,Kyoto şehir turu,DOES
+dc9159f8-c518-46a0-969f-cd7498cae8ba,Nishiki Pazarı ziyareti,DOES
+dc9159f8-c518-46a0-969f-cd7498cae8ba,Machiya deneyimi,DOES
+dc9159f8-c518-46a0-969f-cd7498cae8ba,Ise Shima bölgesi gezisi,DOES
+dc9159f8-c518-46a0-969f-cd7498cae8ba,Naiku ve Geku Shinto tapınakları ziyareti,DOES
+dc9159f8-c518-46a0-969f-cd7498cae8ba,Chiang Rai fil kampı ziyareti,DOES
+dc9159f8-c518-46a0-969f-cd7498cae8ba,Golden Triangle bölgesi gezisi,DOES
+dc9159f8-c518-46a0-969f-cd7498cae8ba,Chiang Mai şehir turu,DOES
+dc9159f8-c518-46a0-969f-cd7498cae8ba,Phuket sahil tatili,DOES
+dc9159f8-c518-46a0-969f-cd7498cae8ba,İstanbul – Tokyo uçuşu,USES
+dc9159f8-c518-46a0-969f-cd7498cae8ba,Japonya içi transferler,USES
+dc9159f8-c518-46a0-969f-cd7498cae8ba,Tayland içi transferler,USES
+dc9159f8-c518-46a0-969f-cd7498cae8ba,Giappone,HAS_TAG
+dc9159f8-c518-46a0-969f-cd7498cae8ba,Tayland,HAS_TAG
+dc9159f8-c518-46a0-969f-cd7498cae8ba,TOKYO,HAS_TAG
+dc9159f8-c518-46a0-969f-cd7498cae8ba,KYOTO,HAS_TAG
+dc9159f8-c518-46a0-969f-cd7498cae8ba,Phuket,HAS_TAG
+4a1f57c8-5066-4a82-b343-d42dab692d7a,Johannesbourg,VISITS
+4a1f57c8-5066-4a82-b343-d42dab692d7a,Cape Town,VISITS
+4a1f57c8-5066-4a82-b343-d42dab692d7a,Stellenbosch,VISITS
+4a1f57c8-5066-4a82-b343-d42dab692d7a,Franschhoek,VISITS
+4a1f57c8-5066-4a82-b343-d42dab692d7a,Sabi Sabi,VISITS
+4a1f57c8-5066-4a82-b343-d42dab692d7a,Africa meridionale,IN_COUNTRY
+4a1f57c8-5066-4a82-b343-d42dab692d7a,Four Seasons Hotel The Westcliff,STAYS_AT
+4a1f57c8-5066-4a82-b343-d42dab692d7a,Akşam safari,DOES
+4a1f57c8-5066-4a82-b343-d42dab692d7a,Sabah ve akşam safarileri,DOES
+4a1f57c8-5066-4a82-b343-d42dab692d7a,Johannesburg şehir turu,DOES
+4a1f57c8-5066-4a82-b343-d42dab692d7a,Cape Town şehir turu,DOES
+4a1f57c8-5066-4a82-b343-d42dab692d7a,Zeitz MOCAA ziyareti,DOES
+4a1f57c8-5066-4a82-b343-d42dab692d7a,Cape Point gezisi,DOES
+4a1f57c8-5066-4a82-b343-d42dab692d7a,Boulders Beach penguen kolonisi ziyareti,DOES
+4a1f57c8-5066-4a82-b343-d42dab692d7a,Franschhoek ve Stellenbosch şarap bağları gezisi,DOES
+4a1f57c8-5066-4a82-b343-d42dab692d7a,Iziko Müzesi ziyareti,DOES
+4a1f57c8-5066-4a82-b343-d42dab692d7a,Delaire Graff,EATS_AT
+4a1f57c8-5066-4a82-b343-d42dab692d7a,İstanbul – Johannesburg uçuşu (TK42),USES
+4a1f57c8-5066-4a82-b343-d42dab692d7a,Güney Afrika içi transferler,USES
+4a1f57c8-5066-4a82-b343-d42dab692d7a,Africa meridionale,HAS_TAG
+4a1f57c8-5066-4a82-b343-d42dab692d7a,Johannesbourg,HAS_TAG
+4a1f57c8-5066-4a82-b343-d42dab692d7a,Cape Town,HAS_TAG
+4a1f57c8-5066-4a82-b343-d42dab692d7a,Safari,HAS_TAG
+4a1f57c8-5066-4a82-b343-d42dab692d7a,Stellenbosch,HAS_TAG
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Rangoun,VISITS
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Mandalay,VISITS
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Bagan,VISITS
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Inle Lake,VISITS
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Bangkok,VISITS
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Birmania,IN_COUNTRY
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Tayland,IN_COUNTRY
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Belmond Road to Mandalay Cruise,STAYS_AT
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Shwedagon Pagoda ziyareti,DOES
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Yangon şehir turu,DOES
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Mandalay gezisi,DOES
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Bagan tapınakları gezisi,DOES
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Ananda ve Gubyaukgyi tapınakları ziyareti,DOES
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Phaung Daw Oo Pagoda ziyareti,DOES
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Inle Gölü gezisi,DOES
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Lacquer ware atölyesi ziyareti,DOES
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Damnoen Saduak yüzen pazar ziyareti (Bangkok),DOES
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,İstanbul – Yangon uçuşu,USES
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Myanmar içi transferler,USES
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Bangkok – İstanbul uçuşu (THY69),USES
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Birmania,HAS_TAG
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Rangoun,HAS_TAG
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Mandalay,HAS_TAG
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Bagan,HAS_TAG
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Inle Lake,HAS_TAG
+eb9039fc-c0e9-4ba0-bcbb-f5b730dfdfd9,Bangkok,HAS_TAG
+609f549b-47bd-4fa2-978f-0622832ce73b,PARIS,VISITS
+609f549b-47bd-4fa2-978f-0622832ce73b,ROME,VISITS
+609f549b-47bd-4fa2-978f-0622832ce73b,FRANCE,IN_COUNTRY
+609f549b-47bd-4fa2-978f-0622832ce73b,ITALY,IN_COUNTRY
+609f549b-47bd-4fa2-978f-0622832ce73b,HOTEL LUMIERE,STAYS_AT
+609f549b-47bd-4fa2-978f-0622832ce73b,ROMA SUITES,STAYS_AT
+609f549b-47bd-4fa2-978f-0622832ce73b,EIFFEL TOWER,DOES
+609f549b-47bd-4fa2-978f-0622832ce73b,COLOSSEUM TOUR,DOES
+609f549b-47bd-4fa2-978f-0622832ce73b,LE BISTRO,EATS_AT
+609f549b-47bd-4fa2-978f-0622832ce73b,TRATTORIA ROMANA,EATS_AT
+609f549b-47bd-4fa2-978f-0622832ce73b,PLANE,USES
+609f549b-47bd-4fa2-978f-0622832ce73b,TRAIN,USES
+609f549b-47bd-4fa2-978f-0622832ce73b,CITY BREAK,HAS_TAG
+609f549b-47bd-4fa2-978f-0622832ce73b,HISTORY,HAS_TAG
+e42206a4-87dc-4d71-a60a-f35fd6d13af9,PARIS,VISITS
+e42206a4-87dc-4d71-a60a-f35fd6d13af9,ROME,VISITS
+e42206a4-87dc-4d71-a60a-f35fd6d13af9,FRANCE,IN_COUNTRY
+e42206a4-87dc-4d71-a60a-f35fd6d13af9,ITALY,IN_COUNTRY
+e42206a4-87dc-4d71-a60a-f35fd6d13af9,HOTEL LUMIERE,STAYS_AT
+e42206a4-87dc-4d71-a60a-f35fd6d13af9,ROMA SUITES,STAYS_AT
+e42206a4-87dc-4d71-a60a-f35fd6d13af9,EIFFEL TOWER,DOES
+e42206a4-87dc-4d71-a60a-f35fd6d13af9,COLOSSEUM TOUR,DOES
+e42206a4-87dc-4d71-a60a-f35fd6d13af9,LE BISTRO,EATS_AT
+e42206a4-87dc-4d71-a60a-f35fd6d13af9,TRATTORIA ROMANA,EATS_AT
+e42206a4-87dc-4d71-a60a-f35fd6d13af9,PLANE,USES
+e42206a4-87dc-4d71-a60a-f35fd6d13af9,TRAIN,USES
+e42206a4-87dc-4d71-a60a-f35fd6d13af9,CITY BREAK,HAS_TAG
+e42206a4-87dc-4d71-a60a-f35fd6d13af9,HISTORY,HAS_TAG
+211227e0-78dd-497e-a92e-d3e221ff101a,LEG1,VISITS
+211227e0-78dd-497e-a92e-d3e221ff101a,LEG2,VISITS
+211227e0-78dd-497e-a92e-d3e221ff101a,TURKEY,IN_COUNTRY
+211227e0-78dd-497e-a92e-d3e221ff101a,BULGARIA,IN_COUNTRY
+211227e0-78dd-497e-a92e-d3e221ff101a,Kuzey Makedonya,IN_COUNTRY
+211227e0-78dd-497e-a92e-d3e221ff101a,AYASOFYA CAMII,DOES
+211227e0-78dd-497e-a92e-d3e221ff101a,OLD TOWN WALK,DOES
+211227e0-78dd-497e-a92e-d3e221ff101a,BUS,USES
+211227e0-78dd-497e-a92e-d3e221ff101a,CULTURE,HAS_TAG
+d08ec33c-8de3-4c1b-aa02-e85726869f5c,ROME,VISITS
+d08ec33c-8de3-4c1b-aa02-e85726869f5c,ITALY,IN_COUNTRY
+d08ec33c-8de3-4c1b-aa02-e85726869f5c,FORUM INN,STAYS_AT
+d08ec33c-8de3-4c1b-aa02-e85726869f5c,COLOSSEUM,DOES
+d08ec33c-8de3-4c1b-aa02-e85726869f5c,ROMAN FORUM,DOES
+d08ec33c-8de3-4c1b-aa02-e85726869f5c,PALATINE HILL,DOES
+d08ec33c-8de3-4c1b-aa02-e85726869f5c,TRASTEVERE TRATTORIA,EATS_AT
+d08ec33c-8de3-4c1b-aa02-e85726869f5c,TRAIN,USES
+d08ec33c-8de3-4c1b-aa02-e85726869f5c,METRO,USES
+d08ec33c-8de3-4c1b-aa02-e85726869f5c,HISTORY,HAS_TAG
+a3bc0cd9-ce25-4f65-acd6-89b8b38ef082,PARIS,VISITS
+a3bc0cd9-ce25-4f65-acd6-89b8b38ef082,ROME,VISITS
+a3bc0cd9-ce25-4f65-acd6-89b8b38ef082,FRANCE,IN_COUNTRY
+a3bc0cd9-ce25-4f65-acd6-89b8b38ef082,ITALY,IN_COUNTRY
+a3bc0cd9-ce25-4f65-acd6-89b8b38ef082,HOTEL LUMIERE,STAYS_AT
+a3bc0cd9-ce25-4f65-acd6-89b8b38ef082,ROMA SUITES,STAYS_AT
+a3bc0cd9-ce25-4f65-acd6-89b8b38ef082,EIFFEL TOWER,DOES
+a3bc0cd9-ce25-4f65-acd6-89b8b38ef082,COLOSSEUM TOUR,DOES
+a3bc0cd9-ce25-4f65-acd6-89b8b38ef082,LE BISTRO,EATS_AT
+a3bc0cd9-ce25-4f65-acd6-89b8b38ef082,TRATTORIA ROMANA,EATS_AT
+a3bc0cd9-ce25-4f65-acd6-89b8b38ef082,PLANE,USES
+a3bc0cd9-ce25-4f65-acd6-89b8b38ef082,TRAIN,USES
+a3bc0cd9-ce25-4f65-acd6-89b8b38ef082,CITY BREAK,HAS_TAG
+a3bc0cd9-ce25-4f65-acd6-89b8b38ef082,HISTORY,HAS_TAG
+ab750864-36fd-4135-a44a-5c8fab7a1ac3,GOREME,VISITS
+ab750864-36fd-4135-a44a-5c8fab7a1ac3,ISTANBUL,VISITS
+ab750864-36fd-4135-a44a-5c8fab7a1ac3,TURKEY,IN_COUNTRY
+ab750864-36fd-4135-a44a-5c8fab7a1ac3,GOREME CAVE HOTEL,STAYS_AT
+ab750864-36fd-4135-a44a-5c8fab7a1ac3,SULTANAHMET INN,STAYS_AT
+ab750864-36fd-4135-a44a-5c8fab7a1ac3,BALLOON RIDE,DOES
+ab750864-36fd-4135-a44a-5c8fab7a1ac3,GOREME OPEN AIR MUSEUM,DOES
+ab750864-36fd-4135-a44a-5c8fab7a1ac3,TOPKAPI PALACE,DOES
+ab750864-36fd-4135-a44a-5c8fab7a1ac3,MEZE HOUSE,EATS_AT
+ab750864-36fd-4135-a44a-5c8fab7a1ac3,KONYALI RESTAURANT,EATS_AT
+ab750864-36fd-4135-a44a-5c8fab7a1ac3,PLANE,USES
+ab750864-36fd-4135-a44a-5c8fab7a1ac3,BUS,USES
+ab750864-36fd-4135-a44a-5c8fab7a1ac3,HISTORY,HAS_TAG
+ab750864-36fd-4135-a44a-5c8fab7a1ac3,NATURE,HAS_TAG
+959732c4-ad66-4627-867d-bc6c17fb9d8e,LEG1,VISITS
+959732c4-ad66-4627-867d-bc6c17fb9d8e,LEG2,VISITS
+959732c4-ad66-4627-867d-bc6c17fb9d8e,TURKEY,IN_COUNTRY
+959732c4-ad66-4627-867d-bc6c17fb9d8e,BULGARIA,IN_COUNTRY
+959732c4-ad66-4627-867d-bc6c17fb9d8e,Kuzey Makedonya,IN_COUNTRY
+959732c4-ad66-4627-867d-bc6c17fb9d8e,AYASOFYA CAMII,DOES
+959732c4-ad66-4627-867d-bc6c17fb9d8e,OLD TOWN WALK,DOES
+959732c4-ad66-4627-867d-bc6c17fb9d8e,BUS,USES
+959732c4-ad66-4627-867d-bc6c17fb9d8e,CULTURE,HAS_TAG
+70f329fb-b03e-4526-aa9d-8e64b22fb2a4,LONDON,VISITS
+70f329fb-b03e-4526-aa9d-8e64b22fb2a4,Birleşik Krallık,IN_COUNTRY
+70f329fb-b03e-4526-aa9d-8e64b22fb2a4,SOUTHBANK HOTEL,STAYS_AT
+70f329fb-b03e-4526-aa9d-8e64b22fb2a4,BRITISH MUSEUM,DOES
+70f329fb-b03e-4526-aa9d-8e64b22fb2a4,TOWER OF LONDON,DOES
+70f329fb-b03e-4526-aa9d-8e64b22fb2a4,LONDON EYE,DOES
+70f329fb-b03e-4526-aa9d-8e64b22fb2a4,DISHOOM,EATS_AT
+70f329fb-b03e-4526-aa9d-8e64b22fb2a4,UNDERGROUND,USES
+70f329fb-b03e-4526-aa9d-8e64b22fb2a4,CITY BREAK,HAS_TAG
+70f329fb-b03e-4526-aa9d-8e64b22fb2a4,MUSEUMS,HAS_TAG
+c4f48d1c-b67a-4dcd-b872-b42182e14028,NEW YORK,VISITS
+c4f48d1c-b67a-4dcd-b872-b42182e14028,UNITED STATES,IN_COUNTRY
+c4f48d1c-b67a-4dcd-b872-b42182e14028,MIDTOWN INN,STAYS_AT
+c4f48d1c-b67a-4dcd-b872-b42182e14028,STATUE OF LIBERTY,DOES
+c4f48d1c-b67a-4dcd-b872-b42182e14028,TIMES SQUARE,DOES
+c4f48d1c-b67a-4dcd-b872-b42182e14028,CENTRAL PARK,DOES
+c4f48d1c-b67a-4dcd-b872-b42182e14028,SHAKE SHACK,EATS_AT
+c4f48d1c-b67a-4dcd-b872-b42182e14028,SUBWAY,USES
+c4f48d1c-b67a-4dcd-b872-b42182e14028,CITY BREAK,HAS_TAG
+df73794e-b901-4d30-808e-4ed028095e7c,TOKYO,VISITS
+df73794e-b901-4d30-808e-4ed028095e7c,JAPAN,IN_COUNTRY
+df73794e-b901-4d30-808e-4ed028095e7c,SHIBUYA HOTEL,STAYS_AT
+df73794e-b901-4d30-808e-4ed028095e7c,SENSOJI TEMPLE,DOES
+df73794e-b901-4d30-808e-4ed028095e7c,SHIBUYA CROSSING,DOES
+df73794e-b901-4d30-808e-4ed028095e7c,MEIJI SHRINE,DOES
+df73794e-b901-4d30-808e-4ed028095e7c,SUSHI BAR,EATS_AT
+df73794e-b901-4d30-808e-4ed028095e7c,METRO,USES
+df73794e-b901-4d30-808e-4ed028095e7c,BUS,USES
+df73794e-b901-4d30-808e-4ed028095e7c,CITY BREAK,HAS_TAG
+df73794e-b901-4d30-808e-4ed028095e7c,CULTURE,HAS_TAG
+b43d81c0-7259-4eb1-8d2f-7332b2bb31cb,KYOTO,VISITS
+b43d81c0-7259-4eb1-8d2f-7332b2bb31cb,JAPAN,IN_COUNTRY
+b43d81c0-7259-4eb1-8d2f-7332b2bb31cb,GION RYOKAN,STAYS_AT
+b43d81c0-7259-4eb1-8d2f-7332b2bb31cb,FUSHIMI INARI SHRINE,DOES
+b43d81c0-7259-4eb1-8d2f-7332b2bb31cb,KINKAKUJI TEMPLE,DOES
+b43d81c0-7259-4eb1-8d2f-7332b2bb31cb,KIYOMIZU DERA,DOES
+b43d81c0-7259-4eb1-8d2f-7332b2bb31cb,UDON HOUSE,EATS_AT
+b43d81c0-7259-4eb1-8d2f-7332b2bb31cb,JR,USES
+b43d81c0-7259-4eb1-8d2f-7332b2bb31cb,BUS,USES
+b43d81c0-7259-4eb1-8d2f-7332b2bb31cb,METRO,USES
+b43d81c0-7259-4eb1-8d2f-7332b2bb31cb,CULTURE,HAS_TAG
+b43d81c0-7259-4eb1-8d2f-7332b2bb31cb,TEMPLES,HAS_TAG
+a110d745-1210-4ecb-9783-de8311f8b0ff,BARCELONA,VISITS
+a110d745-1210-4ecb-9783-de8311f8b0ff,SPAIN,IN_COUNTRY
+a110d745-1210-4ecb-9783-de8311f8b0ff,EIXAMPLE HOTEL,STAYS_AT
+a110d745-1210-4ecb-9783-de8311f8b0ff,SAGRADA FAMILIA,DOES
+a110d745-1210-4ecb-9783-de8311f8b0ff,PARK GUELL,DOES
+a110d745-1210-4ecb-9783-de8311f8b0ff,CASA BATLLO,DOES
+a110d745-1210-4ecb-9783-de8311f8b0ff,TAPAS BAR,EATS_AT
+a110d745-1210-4ecb-9783-de8311f8b0ff,METRO,USES
+a110d745-1210-4ecb-9783-de8311f8b0ff,BUS,USES
+a110d745-1210-4ecb-9783-de8311f8b0ff,ARCHITECTURE,HAS_TAG
+a110d745-1210-4ecb-9783-de8311f8b0ff,CITY BREAK,HAS_TAG
+c4257d20-f0ea-4450-8449-9c3c685d8094,BARCELONA,VISITS
+c4257d20-f0ea-4450-8449-9c3c685d8094,SPAIN,IN_COUNTRY
+c4257d20-f0ea-4450-8449-9c3c685d8094,EIXAMPLE HOTEL,STAYS_AT
+c4257d20-f0ea-4450-8449-9c3c685d8094,SAGRADA FAMILIA,DOES
+c4257d20-f0ea-4450-8449-9c3c685d8094,PARK GUELL,DOES
+c4257d20-f0ea-4450-8449-9c3c685d8094,CASA BATLLO,DOES
+c4257d20-f0ea-4450-8449-9c3c685d8094,TAPAS BAR,EATS_AT
+c4257d20-f0ea-4450-8449-9c3c685d8094,METRO,USES
+c4257d20-f0ea-4450-8449-9c3c685d8094,ARCHITECTURE,HAS_TAG
+c4257d20-f0ea-4450-8449-9c3c685d8094,CITY BREAK,HAS_TAG
+d3b31db5-fab8-4470-8dc1-82f6af3fed09,ISTANBUL,VISITS
+d3b31db5-fab8-4470-8dc1-82f6af3fed09,TURKEY,IN_COUNTRY
+d3b31db5-fab8-4470-8dc1-82f6af3fed09,SULTANAHMET INN,STAYS_AT
+d3b31db5-fab8-4470-8dc1-82f6af3fed09,AYASOFYA CAMII,DOES
+d3b31db5-fab8-4470-8dc1-82f6af3fed09,TOPKAPI PALACE,DOES
+d3b31db5-fab8-4470-8dc1-82f6af3fed09,BLUE MOSQUE,DOES
+d3b31db5-fab8-4470-8dc1-82f6af3fed09,KONYALI RESTAURANT,EATS_AT
+d3b31db5-fab8-4470-8dc1-82f6af3fed09,PLANE,USES
+d3b31db5-fab8-4470-8dc1-82f6af3fed09,METRO,USES
+d3b31db5-fab8-4470-8dc1-82f6af3fed09,HISTORY,HAS_TAG
+d3b31db5-fab8-4470-8dc1-82f6af3fed09,CITY BREAK,HAS_TAG
+c5ebbde2-7cf2-48c4-8328-89612425a901,PARIS,VISITS
+c5ebbde2-7cf2-48c4-8328-89612425a901,ROME,VISITS
+c5ebbde2-7cf2-48c4-8328-89612425a901,FRANCE,IN_COUNTRY
+c5ebbde2-7cf2-48c4-8328-89612425a901,ITALY,IN_COUNTRY
+c5ebbde2-7cf2-48c4-8328-89612425a901,HOTEL LUMIERE,STAYS_AT
+c5ebbde2-7cf2-48c4-8328-89612425a901,ROMA SUITES,STAYS_AT
+c5ebbde2-7cf2-48c4-8328-89612425a901,EIFFEL TOWER,DOES
+c5ebbde2-7cf2-48c4-8328-89612425a901,COLOSSEUM TOUR,DOES
+c5ebbde2-7cf2-48c4-8328-89612425a901,LE BISTRO,EATS_AT
+c5ebbde2-7cf2-48c4-8328-89612425a901,TRATTORIA ROMANA,EATS_AT
+c5ebbde2-7cf2-48c4-8328-89612425a901,PLANE,USES
+c5ebbde2-7cf2-48c4-8328-89612425a901,TRAIN,USES
+c5ebbde2-7cf2-48c4-8328-89612425a901,CITY BREAK,HAS_TAG
+c5ebbde2-7cf2-48c4-8328-89612425a901,HISTORY,HAS_TAG
+b78ec17d-3515-4476-b441-d68c9c31c247,GOREME,VISITS
+b78ec17d-3515-4476-b441-d68c9c31c247,URGUP,VISITS
+b78ec17d-3515-4476-b441-d68c9c31c247,TURKEY,IN_COUNTRY
+b78ec17d-3515-4476-b441-d68c9c31c247,GOREME CAVE HOTEL,STAYS_AT
+b78ec17d-3515-4476-b441-d68c9c31c247,GOREME OPEN AIR MUSEUM,DOES
+b78ec17d-3515-4476-b441-d68c9c31c247,BALLOON RIDE,DOES
+b78ec17d-3515-4476-b441-d68c9c31c247,SUNRISE VIEWPOINT,DOES
+b78ec17d-3515-4476-b441-d68c9c31c247,MEZE HOUSE,EATS_AT
+b78ec17d-3515-4476-b441-d68c9c31c247,PLANE,USES
+b78ec17d-3515-4476-b441-d68c9c31c247,SHUTTLE,USES
+b78ec17d-3515-4476-b441-d68c9c31c247,NATURE,HAS_TAG
+b78ec17d-3515-4476-b441-d68c9c31c247,HISTORY,HAS_TAG
+6fa14279-1684-4c85-9d3b-27ea73ddb2e0,ROME,VISITS
+6fa14279-1684-4c85-9d3b-27ea73ddb2e0,ITALY,IN_COUNTRY
+6fa14279-1684-4c85-9d3b-27ea73ddb2e0,FORUM INN,STAYS_AT
+6fa14279-1684-4c85-9d3b-27ea73ddb2e0,COLOSSEUM,DOES
+6fa14279-1684-4c85-9d3b-27ea73ddb2e0,ROMAN FORUM,DOES
+6fa14279-1684-4c85-9d3b-27ea73ddb2e0,PALATINE HILL,DOES
+6fa14279-1684-4c85-9d3b-27ea73ddb2e0,TRATTORIA ROMANA,EATS_AT
+6fa14279-1684-4c85-9d3b-27ea73ddb2e0,TRAIN,USES
+6fa14279-1684-4c85-9d3b-27ea73ddb2e0,METRO,USES
+6fa14279-1684-4c85-9d3b-27ea73ddb2e0,HISTORY,HAS_TAG
+f58e6666-1171-43f3-aabc-fbec0521aa7e,ISTANBUL,VISITS
+f58e6666-1171-43f3-aabc-fbec0521aa7e,GOREME,VISITS
+f58e6666-1171-43f3-aabc-fbec0521aa7e,TURKEY,IN_COUNTRY
+f58e6666-1171-43f3-aabc-fbec0521aa7e,GOREME CAVE HOTEL,STAYS_AT
+f58e6666-1171-43f3-aabc-fbec0521aa7e,AYASOFYA CAMII,DOES
+f58e6666-1171-43f3-aabc-fbec0521aa7e,GOREME OPEN AIR MUSEUM,DOES
+f58e6666-1171-43f3-aabc-fbec0521aa7e,BALLOON RIDE,DOES
+f58e6666-1171-43f3-aabc-fbec0521aa7e,MEZE HOUSE,EATS_AT
+f58e6666-1171-43f3-aabc-fbec0521aa7e,PLANE,USES
+f58e6666-1171-43f3-aabc-fbec0521aa7e,SHUTTLE,USES
+f58e6666-1171-43f3-aabc-fbec0521aa7e,NATURE,HAS_TAG
+f58e6666-1171-43f3-aabc-fbec0521aa7e,HISTORY,HAS_TAG
+c4af4cd2-0214-4b0f-b8b4-252f8a6bc2c3,PARIS,VISITS
+c4af4cd2-0214-4b0f-b8b4-252f8a6bc2c3,ROME,VISITS
+c4af4cd2-0214-4b0f-b8b4-252f8a6bc2c3,FRANCE,IN_COUNTRY
+c4af4cd2-0214-4b0f-b8b4-252f8a6bc2c3,ITALY,IN_COUNTRY
+c4af4cd2-0214-4b0f-b8b4-252f8a6bc2c3,HOTEL LUMIERE,STAYS_AT
+c4af4cd2-0214-4b0f-b8b4-252f8a6bc2c3,ROMA SUITES,STAYS_AT
+c4af4cd2-0214-4b0f-b8b4-252f8a6bc2c3,EIFFEL TOWER,DOES
+c4af4cd2-0214-4b0f-b8b4-252f8a6bc2c3,COLOSSEUM TOUR,DOES
+c4af4cd2-0214-4b0f-b8b4-252f8a6bc2c3,LE BISTRO,EATS_AT
+c4af4cd2-0214-4b0f-b8b4-252f8a6bc2c3,TRATTORIA ROMANA,EATS_AT
+c4af4cd2-0214-4b0f-b8b4-252f8a6bc2c3,PLANE,USES
+c4af4cd2-0214-4b0f-b8b4-252f8a6bc2c3,TRAIN,USES
+c4af4cd2-0214-4b0f-b8b4-252f8a6bc2c3,CITY BREAK,HAS_TAG
+c4af4cd2-0214-4b0f-b8b4-252f8a6bc2c3,HISTORY,HAS_TAG
+56ec4c6d-2fa6-4e98-961c-a507c41d646e,LEG1,VISITS
+56ec4c6d-2fa6-4e98-961c-a507c41d646e,LEG2,VISITS
+56ec4c6d-2fa6-4e98-961c-a507c41d646e,TURKEY,IN_COUNTRY
+56ec4c6d-2fa6-4e98-961c-a507c41d646e,BULGARIA,IN_COUNTRY
+56ec4c6d-2fa6-4e98-961c-a507c41d646e,Kuzey Makedonya,IN_COUNTRY
+56ec4c6d-2fa6-4e98-961c-a507c41d646e,AYASOFYA CAMII,DOES
+56ec4c6d-2fa6-4e98-961c-a507c41d646e,OLD TOWN WALK,DOES
+56ec4c6d-2fa6-4e98-961c-a507c41d646e,BUS,USES
+56ec4c6d-2fa6-4e98-961c-a507c41d646e,CULTURE,HAS_TAG
+8b8ff81e-de1c-4b9c-9bc6-e92c4daded59,ISTANBUL,VISITS
+8b8ff81e-de1c-4b9c-9bc6-e92c4daded59,TURKEY,IN_COUNTRY
+8b8ff81e-de1c-4b9c-9bc6-e92c4daded59,SULTANAHMET INN,STAYS_AT
+8b8ff81e-de1c-4b9c-9bc6-e92c4daded59,AYASOFYA CAMII,DOES
+8b8ff81e-de1c-4b9c-9bc6-e92c4daded59,TOPKAPI PALACE,DOES
+8b8ff81e-de1c-4b9c-9bc6-e92c4daded59,BLUE MOSQUE,DOES
+8b8ff81e-de1c-4b9c-9bc6-e92c4daded59,GRAND BAZAAR,DOES
+8b8ff81e-de1c-4b9c-9bc6-e92c4daded59,KONYALI RESTAURANT,EATS_AT
+8b8ff81e-de1c-4b9c-9bc6-e92c4daded59,PLANE,USES
+8b8ff81e-de1c-4b9c-9bc6-e92c4daded59,TRAM,USES
+8b8ff81e-de1c-4b9c-9bc6-e92c4daded59,HISTORY,HAS_TAG
+8b8ff81e-de1c-4b9c-9bc6-e92c4daded59,CITY BREAK,HAS_TAG
+255cc6cd-1641-4926-b79f-97418644f337,NEW YORK,VISITS
+255cc6cd-1641-4926-b79f-97418644f337,UNITED STATES,IN_COUNTRY
+255cc6cd-1641-4926-b79f-97418644f337,MIDTOWN HOTEL,STAYS_AT
+255cc6cd-1641-4926-b79f-97418644f337,TIMES SQUARE,DOES
+255cc6cd-1641-4926-b79f-97418644f337,CENTRAL PARK,DOES
+255cc6cd-1641-4926-b79f-97418644f337,STATUE OF LIBERTY,DOES
+255cc6cd-1641-4926-b79f-97418644f337,SHAKE SHACK,EATS_AT
+255cc6cd-1641-4926-b79f-97418644f337,SUBWAY,USES
+255cc6cd-1641-4926-b79f-97418644f337,CITY BREAK,HAS_TAG
+255cc6cd-1641-4926-b79f-97418644f337,MUSEUMS,HAS_TAG
+8acb3a82-d223-4434-98bb-4e350b8898f5,LONDON,VISITS
+8acb3a82-d223-4434-98bb-4e350b8898f5,Birleşik Krallık,IN_COUNTRY
+8acb3a82-d223-4434-98bb-4e350b8898f5,RIVERBANK HOTEL,STAYS_AT
+8acb3a82-d223-4434-98bb-4e350b8898f5,BIG BEN,DOES
+8acb3a82-d223-4434-98bb-4e350b8898f5,LONDON EYE,DOES
+8acb3a82-d223-4434-98bb-4e350b8898f5,TOWER OF LONDON,DOES
+8acb3a82-d223-4434-98bb-4e350b8898f5,TRAFALGAR RESTAURANT,EATS_AT
+8acb3a82-d223-4434-98bb-4e350b8898f5,UNDERGROUND,USES
+8acb3a82-d223-4434-98bb-4e350b8898f5,BUS,USES
+8acb3a82-d223-4434-98bb-4e350b8898f5,HISTORY,HAS_TAG
+8acb3a82-d223-4434-98bb-4e350b8898f5,ARCHITECTURE,HAS_TAG
+78ecac1b-0f1e-4424-b009-d7aaa38c4f3e,LEG1,VISITS
+78ecac1b-0f1e-4424-b009-d7aaa38c4f3e,LEG2,VISITS
+78ecac1b-0f1e-4424-b009-d7aaa38c4f3e,TURKEY,IN_COUNTRY
+78ecac1b-0f1e-4424-b009-d7aaa38c4f3e,BULGARIA,IN_COUNTRY
+78ecac1b-0f1e-4424-b009-d7aaa38c4f3e,Kuzey Makedonya,IN_COUNTRY
+78ecac1b-0f1e-4424-b009-d7aaa38c4f3e,BALKAN CULTURAL SITES,DOES
+78ecac1b-0f1e-4424-b009-d7aaa38c4f3e,SOFIA OLD TOWN,DOES
+78ecac1b-0f1e-4424-b009-d7aaa38c4f3e,BUS,USES
+78ecac1b-0f1e-4424-b009-d7aaa38c4f3e,CULTURE,HAS_TAG
+78ecac1b-0f1e-4424-b009-d7aaa38c4f3e,HISTORY,HAS_TAG
+41c80f7f-d82f-42ad-9d6d-622379f1aecd,ATHENS,VISITS
+41c80f7f-d82f-42ad-9d6d-622379f1aecd,Salonicco,VISITS
+41c80f7f-d82f-42ad-9d6d-622379f1aecd,GREECE,IN_COUNTRY
+41c80f7f-d82f-42ad-9d6d-622379f1aecd,ATHENS PLAZA HOTEL,STAYS_AT
+41c80f7f-d82f-42ad-9d6d-622379f1aecd,THESSALONIKI INN,STAYS_AT
+41c80f7f-d82f-42ad-9d6d-622379f1aecd,ACROPOLIS TOUR,DOES
+41c80f7f-d82f-42ad-9d6d-622379f1aecd,THESSALONIKI OLD TOWN,DOES
+41c80f7f-d82f-42ad-9d6d-622379f1aecd,TAVERNAS,EATS_AT
+41c80f7f-d82f-42ad-9d6d-622379f1aecd,PLANE,USES
+41c80f7f-d82f-42ad-9d6d-622379f1aecd,BUS,USES
+41c80f7f-d82f-42ad-9d6d-622379f1aecd,CULTURE,HAS_TAG
+41c80f7f-d82f-42ad-9d6d-622379f1aecd,CITY BREAK,HAS_TAG
+4c1effbb-0028-4d88-9899-6e11efe4c9e7,ROME,VISITS
+4c1effbb-0028-4d88-9899-6e11efe4c9e7,VENICE,VISITS
+4c1effbb-0028-4d88-9899-6e11efe4c9e7,ITALY,IN_COUNTRY
+4c1effbb-0028-4d88-9899-6e11efe4c9e7,FORUM INN,STAYS_AT
+4c1effbb-0028-4d88-9899-6e11efe4c9e7,VENICE SUITES,STAYS_AT
+4c1effbb-0028-4d88-9899-6e11efe4c9e7,COLOSSEUM,DOES
+4c1effbb-0028-4d88-9899-6e11efe4c9e7,ST. MARK'S SQUARE,DOES
+4c1effbb-0028-4d88-9899-6e11efe4c9e7,TRATTORIA ROMANA,EATS_AT
+4c1effbb-0028-4d88-9899-6e11efe4c9e7,TRAIN,USES
+4c1effbb-0028-4d88-9899-6e11efe4c9e7,BOAT,USES
+4c1effbb-0028-4d88-9899-6e11efe4c9e7,HISTORY,HAS_TAG
+4c1effbb-0028-4d88-9899-6e11efe4c9e7,CULTURE,HAS_TAG
+769c7850-6ae4-4ba9-aa78-5a8de48227ed,PARIS,VISITS
+769c7850-6ae4-4ba9-aa78-5a8de48227ed,FRANCE,IN_COUNTRY
+769c7850-6ae4-4ba9-aa78-5a8de48227ed,MARAIS HOTEL,STAYS_AT
+769c7850-6ae4-4ba9-aa78-5a8de48227ed,LOUVRE MUSEUM,DOES
+769c7850-6ae4-4ba9-aa78-5a8de48227ed,MUSÉE D'ORSAY,DOES
+769c7850-6ae4-4ba9-aa78-5a8de48227ed,LEON DE BRUXELLES,EATS_AT
+769c7850-6ae4-4ba9-aa78-5a8de48227ed,METRO,USES
+769c7850-6ae4-4ba9-aa78-5a8de48227ed,ART,HAS_TAG
+769c7850-6ae4-4ba9-aa78-5a8de48227ed,MUSEUMS,HAS_TAG
+32186528-9c03-4178-b97a-b78a73b5e1cf,ISTANBUL,VISITS
+32186528-9c03-4178-b97a-b78a73b5e1cf,TURKEY,IN_COUNTRY
+32186528-9c03-4178-b97a-b78a73b5e1cf,SULTANAHMET INN,STAYS_AT
+32186528-9c03-4178-b97a-b78a73b5e1cf,TOPKAPI PALACE,DOES
+32186528-9c03-4178-b97a-b78a73b5e1cf,BLUE MOSQUE,DOES
+32186528-9c03-4178-b97a-b78a73b5e1cf,KONYALI RESTAURANT,EATS_AT
+32186528-9c03-4178-b97a-b78a73b5e1cf,PLANE,USES
+32186528-9c03-4178-b97a-b78a73b5e1cf,TRAM,USES
+32186528-9c03-4178-b97a-b78a73b5e1cf,CITY BREAK,HAS_TAG
+32186528-9c03-4178-b97a-b78a73b5e1cf,HISTORY,HAS_TAG
+0354686c-668c-4dc2-b999-060fdde2709c,CAPPADOCIA,VISITS
+0354686c-668c-4dc2-b999-060fdde2709c,ISTANBUL,VISITS
+0354686c-668c-4dc2-b999-060fdde2709c,TURKEY,IN_COUNTRY
+0354686c-668c-4dc2-b999-060fdde2709c,GOREME CAVE HOTEL,STAYS_AT
+0354686c-668c-4dc2-b999-060fdde2709c,BALLOON RIDE,DOES
+0354686c-668c-4dc2-b999-060fdde2709c,AYASOFYA CAMII,DOES
+0354686c-668c-4dc2-b999-060fdde2709c,MEZE HOUSE,EATS_AT
+0354686c-668c-4dc2-b999-060fdde2709c,PLANE,USES
+0354686c-668c-4dc2-b999-060fdde2709c,SHUTTLE,USES
+0354686c-668c-4dc2-b999-060fdde2709c,NATURE,HAS_TAG
+0354686c-668c-4dc2-b999-060fdde2709c,HISTORY,HAS_TAG
+dbd432e4-a93b-43a4-b37d-7876d245aead,PARIS,VISITS
+dbd432e4-a93b-43a4-b37d-7876d245aead,ROME,VISITS
+dbd432e4-a93b-43a4-b37d-7876d245aead,BARCELONA,VISITS
+dbd432e4-a93b-43a4-b37d-7876d245aead,FRANCE,IN_COUNTRY
+dbd432e4-a93b-43a4-b37d-7876d245aead,ITALY,IN_COUNTRY
+dbd432e4-a93b-43a4-b37d-7876d245aead,SPAIN,IN_COUNTRY
+dbd432e4-a93b-43a4-b37d-7876d245aead,HOTEL LUMIERE,STAYS_AT
+dbd432e4-a93b-43a4-b37d-7876d245aead,FORUM INN,STAYS_AT
+dbd432e4-a93b-43a4-b37d-7876d245aead,EIXAMPLE HOTEL,STAYS_AT
+dbd432e4-a93b-43a4-b37d-7876d245aead,EIFFEL TOWER,DOES
+dbd432e4-a93b-43a4-b37d-7876d245aead,COLOSSEUM,DOES
+dbd432e4-a93b-43a4-b37d-7876d245aead,SAGRADA FAMILIA,DOES
+dbd432e4-a93b-43a4-b37d-7876d245aead,TRATTORIA ROMANA,EATS_AT
+dbd432e4-a93b-43a4-b37d-7876d245aead,TAPAS BAR,EATS_AT
+dbd432e4-a93b-43a4-b37d-7876d245aead,PLANE,USES
+dbd432e4-a93b-43a4-b37d-7876d245aead,TRAIN,USES
+dbd432e4-a93b-43a4-b37d-7876d245aead,METRO,USES
+dbd432e4-a93b-43a4-b37d-7876d245aead,CITY BREAK,HAS_TAG
+dbd432e4-a93b-43a4-b37d-7876d245aead,HISTORY,HAS_TAG
+d486b34d-1c7c-4613-b7ae-f00bdebb01b4,PARIS,VISITS
+d486b34d-1c7c-4613-b7ae-f00bdebb01b4,ROME,VISITS
+d486b34d-1c7c-4613-b7ae-f00bdebb01b4,FRANCE,IN_COUNTRY
+d486b34d-1c7c-4613-b7ae-f00bdebb01b4,ITALY,IN_COUNTRY
+d486b34d-1c7c-4613-b7ae-f00bdebb01b4,HOTEL LUMIERE,STAYS_AT
+d486b34d-1c7c-4613-b7ae-f00bdebb01b4,ROMA SUITES,STAYS_AT
+d486b34d-1c7c-4613-b7ae-f00bdebb01b4,EIFFEL TOWER,DOES
+d486b34d-1c7c-4613-b7ae-f00bdebb01b4,COLOSSEUM TOUR,DOES
+d486b34d-1c7c-4613-b7ae-f00bdebb01b4,LE BISTRO,EATS_AT
+d486b34d-1c7c-4613-b7ae-f00bdebb01b4,TRATTORIA ROMANA,EATS_AT
+d486b34d-1c7c-4613-b7ae-f00bdebb01b4,PLANE,USES
+d486b34d-1c7c-4613-b7ae-f00bdebb01b4,TRAIN,USES
+d486b34d-1c7c-4613-b7ae-f00bdebb01b4,CITY BREAK,HAS_TAG
+d486b34d-1c7c-4613-b7ae-f00bdebb01b4,HISTORY,HAS_TAG
+1fb844f7-6ff0-4a08-891b-917d3439c668,LEG1,VISITS
+1fb844f7-6ff0-4a08-891b-917d3439c668,LEG2,VISITS
+1fb844f7-6ff0-4a08-891b-917d3439c668,TURKEY,IN_COUNTRY
+1fb844f7-6ff0-4a08-891b-917d3439c668,BULGARIA,IN_COUNTRY
+1fb844f7-6ff0-4a08-891b-917d3439c668,Kuzey Makedonya,IN_COUNTRY
+1fb844f7-6ff0-4a08-891b-917d3439c668,AYASOFYA CAMII,DOES
+1fb844f7-6ff0-4a08-891b-917d3439c668,OLD TOWN WALK,DOES
+1fb844f7-6ff0-4a08-891b-917d3439c668,BUS,USES
+1fb844f7-6ff0-4a08-891b-917d3439c668,CULTURE,HAS_TAG
+f24d40d2-4fe5-48ee-842d-faa848a036de,PARIS,VISITS
+f24d40d2-4fe5-48ee-842d-faa848a036de,ROME,VISITS
+f24d40d2-4fe5-48ee-842d-faa848a036de,FRANCE,IN_COUNTRY
+f24d40d2-4fe5-48ee-842d-faa848a036de,ITALY,IN_COUNTRY
+f24d40d2-4fe5-48ee-842d-faa848a036de,HOTEL LUMIERE,STAYS_AT
+f24d40d2-4fe5-48ee-842d-faa848a036de,ROMA SUITES,STAYS_AT
+f24d40d2-4fe5-48ee-842d-faa848a036de,EIFFEL TOWER,DOES
+f24d40d2-4fe5-48ee-842d-faa848a036de,COLOSSEUM TOUR,DOES
+f24d40d2-4fe5-48ee-842d-faa848a036de,LE BISTRO,EATS_AT
+f24d40d2-4fe5-48ee-842d-faa848a036de,TRATTORIA ROMANA,EATS_AT
+f24d40d2-4fe5-48ee-842d-faa848a036de,PLANE,USES
+f24d40d2-4fe5-48ee-842d-faa848a036de,TRAIN,USES
+f24d40d2-4fe5-48ee-842d-faa848a036de,CITY BREAK,HAS_TAG
+f24d40d2-4fe5-48ee-842d-faa848a036de,HISTORY,HAS_TAG
+44f0a13e-d34d-4a8c-ba97-3e01c1a27fea,ROME,VISITS
+44f0a13e-d34d-4a8c-ba97-3e01c1a27fea,ITALY,IN_COUNTRY
+44f0a13e-d34d-4a8c-ba97-3e01c1a27fea,FORUM INN,STAYS_AT
+44f0a13e-d34d-4a8c-ba97-3e01c1a27fea,COLOSSEUM,DOES
+44f0a13e-d34d-4a8c-ba97-3e01c1a27fea,ROMAN FORUM,DOES
+44f0a13e-d34d-4a8c-ba97-3e01c1a27fea,PALATINE HILL,DOES
+44f0a13e-d34d-4a8c-ba97-3e01c1a27fea,TRASTEVERE TRATTORIA,EATS_AT
+44f0a13e-d34d-4a8c-ba97-3e01c1a27fea,TRAIN,USES
+44f0a13e-d34d-4a8c-ba97-3e01c1a27fea,METRO,USES
+44f0a13e-d34d-4a8c-ba97-3e01c1a27fea,HISTORY,HAS_TAG
+f0c9c6c3-1f70-4876-8c7d-43db476f1a35,PARIS,VISITS
+f0c9c6c3-1f70-4876-8c7d-43db476f1a35,ROME,VISITS
+f0c9c6c3-1f70-4876-8c7d-43db476f1a35,FRANCE,IN_COUNTRY
+f0c9c6c3-1f70-4876-8c7d-43db476f1a35,ITALY,IN_COUNTRY
+f0c9c6c3-1f70-4876-8c7d-43db476f1a35,HOTEL LUMIERE,STAYS_AT
+f0c9c6c3-1f70-4876-8c7d-43db476f1a35,ROMA SUITES,STAYS_AT
+f0c9c6c3-1f70-4876-8c7d-43db476f1a35,EIFFEL TOWER,DOES
+f0c9c6c3-1f70-4876-8c7d-43db476f1a35,COLOSSEUM TOUR,DOES
+f0c9c6c3-1f70-4876-8c7d-43db476f1a35,LE BISTRO,EATS_AT
+f0c9c6c3-1f70-4876-8c7d-43db476f1a35,TRATTORIA ROMANA,EATS_AT
+f0c9c6c3-1f70-4876-8c7d-43db476f1a35,PLANE,USES
+f0c9c6c3-1f70-4876-8c7d-43db476f1a35,TRAIN,USES
+f0c9c6c3-1f70-4876-8c7d-43db476f1a35,CITY BREAK,HAS_TAG
+f0c9c6c3-1f70-4876-8c7d-43db476f1a35,HISTORY,HAS_TAG
+b5ff9a77-58e8-41a1-b984-6ccfe4b16ddc,PARIS,VISITS
+b5ff9a77-58e8-41a1-b984-6ccfe4b16ddc,FRANCE,IN_COUNTRY
+b5ff9a77-58e8-41a1-b984-6ccfe4b16ddc,MARAIS HOTEL,STAYS_AT
+b5ff9a77-58e8-41a1-b984-6ccfe4b16ddc,EIFFEL TOWER,DOES
+b5ff9a77-58e8-41a1-b984-6ccfe4b16ddc,LOUVRE MUSEUM,DOES
+b5ff9a77-58e8-41a1-b984-6ccfe4b16ddc,MONTMARTRE WALK,DOES
+b5ff9a77-58e8-41a1-b984-6ccfe4b16ddc,LE BISTRO,EATS_AT
+b5ff9a77-58e8-41a1-b984-6ccfe4b16ddc,METRO,USES
+b5ff9a77-58e8-41a1-b984-6ccfe4b16ddc,ART,HAS_TAG
+b5ff9a77-58e8-41a1-b984-6ccfe4b16ddc,MUSEUMS,HAS_TAG
+b5ff9a77-58e8-41a1-b984-6ccfe4b16ddc,CITY BREAK,HAS_TAG
+0eec52ce-a62f-44f0-8c1c-60c36d7499f3,ATHENS,VISITS
+0eec52ce-a62f-44f0-8c1c-60c36d7499f3,Salonicco,VISITS
+0eec52ce-a62f-44f0-8c1c-60c36d7499f3,GREECE,IN_COUNTRY
+0eec52ce-a62f-44f0-8c1c-60c36d7499f3,ATHENS PLAZA HOTEL,STAYS_AT
+0eec52ce-a62f-44f0-8c1c-60c36d7499f3,THESSALONIKI INN,STAYS_AT
+0eec52ce-a62f-44f0-8c1c-60c36d7499f3,ACROPOLIS TOUR,DOES
+0eec52ce-a62f-44f0-8c1c-60c36d7499f3,THESSALONIKI OLD TOWN,DOES
+0eec52ce-a62f-44f0-8c1c-60c36d7499f3,TAVERNAS,EATS_AT
+0eec52ce-a62f-44f0-8c1c-60c36d7499f3,PLANE,USES
+0eec52ce-a62f-44f0-8c1c-60c36d7499f3,BUS,USES
+0eec52ce-a62f-44f0-8c1c-60c36d7499f3,CULTURE,HAS_TAG
+0eec52ce-a62f-44f0-8c1c-60c36d7499f3,CITY BREAK,HAS_TAG
+7ac0c682-5c30-4e5f-90e0-9bbfe0eb3847,ISTANBUL,VISITS
+7ac0c682-5c30-4e5f-90e0-9bbfe0eb3847,TURKEY,IN_COUNTRY
+7ac0c682-5c30-4e5f-90e0-9bbfe0eb3847,SULTANAHMET INN,STAYS_AT
+7ac0c682-5c30-4e5f-90e0-9bbfe0eb3847,AYASOFYA CAMII,DOES
+7ac0c682-5c30-4e5f-90e0-9bbfe0eb3847,TOPKAPI PALACE,DOES
+7ac0c682-5c30-4e5f-90e0-9bbfe0eb3847,BLUE MOSQUE,DOES
+7ac0c682-5c30-4e5f-90e0-9bbfe0eb3847,KONYALI RESTAURANT,EATS_AT
+7ac0c682-5c30-4e5f-90e0-9bbfe0eb3847,PLANE,USES
+7ac0c682-5c30-4e5f-90e0-9bbfe0eb3847,METRO,USES
+7ac0c682-5c30-4e5f-90e0-9bbfe0eb3847,HISTORY,HAS_TAG
+7ac0c682-5c30-4e5f-90e0-9bbfe0eb3847,CITY BREAK,HAS_TAG
+92eab412-8e1a-4e40-97b5-08b0a1499cf9,PARIS,VISITS
+92eab412-8e1a-4e40-97b5-08b0a1499cf9,ROME,VISITS
+92eab412-8e1a-4e40-97b5-08b0a1499cf9,FRANCE,IN_COUNTRY
+92eab412-8e1a-4e40-97b5-08b0a1499cf9,ITALY,IN_COUNTRY
+92eab412-8e1a-4e40-97b5-08b0a1499cf9,HOTEL LUMIERE,STAYS_AT
+92eab412-8e1a-4e40-97b5-08b0a1499cf9,ROMA SUITES,STAYS_AT
+92eab412-8e1a-4e40-97b5-08b0a1499cf9,EIFFEL TOWER,DOES
+92eab412-8e1a-4e40-97b5-08b0a1499cf9,COLOSSEUM TOUR,DOES
+92eab412-8e1a-4e40-97b5-08b0a1499cf9,LE BISTRO,EATS_AT
+92eab412-8e1a-4e40-97b5-08b0a1499cf9,TRATTORIA ROMANA,EATS_AT
+92eab412-8e1a-4e40-97b5-08b0a1499cf9,PLANE,USES
+92eab412-8e1a-4e40-97b5-08b0a1499cf9,TRAIN,USES
+92eab412-8e1a-4e40-97b5-08b0a1499cf9,CITY BREAK,HAS_TAG
+92eab412-8e1a-4e40-97b5-08b0a1499cf9,HISTORY,HAS_TAG
+1b72a24b-27e9-4a7c-bada-3d036bc947ea,GOREME,VISITS
+1b72a24b-27e9-4a7c-bada-3d036bc947ea,URGUP,VISITS
+1b72a24b-27e9-4a7c-bada-3d036bc947ea,TURKEY,IN_COUNTRY
+1b72a24b-27e9-4a7c-bada-3d036bc947ea,GOREME CAVE HOTEL,STAYS_AT
+1b72a24b-27e9-4a7c-bada-3d036bc947ea,GOREME OPEN AIR MUSEUM,DOES
+1b72a24b-27e9-4a7c-bada-3d036bc947ea,BALLOON RIDE,DOES
+1b72a24b-27e9-4a7c-bada-3d036bc947ea,SUNRISE VIEWPOINT,DOES
+1b72a24b-27e9-4a7c-bada-3d036bc947ea,MEZE HOUSE,EATS_AT
+1b72a24b-27e9-4a7c-bada-3d036bc947ea,PLANE,USES
+1b72a24b-27e9-4a7c-bada-3d036bc947ea,SHUTTLE,USES
+1b72a24b-27e9-4a7c-bada-3d036bc947ea,NATURE,HAS_TAG
+1b72a24b-27e9-4a7c-bada-3d036bc947ea,HISTORY,HAS_TAG
+2a87185e-69da-4dad-a0e1-a600e66462b3,ROME,VISITS
+2a87185e-69da-4dad-a0e1-a600e66462b3,ITALY,IN_COUNTRY
+2a87185e-69da-4dad-a0e1-a600e66462b3,FORUM INN,STAYS_AT
+2a87185e-69da-4dad-a0e1-a600e66462b3,COLOSSEUM,DOES
+2a87185e-69da-4dad-a0e1-a600e66462b3,ROMAN FORUM,DOES
+2a87185e-69da-4dad-a0e1-a600e66462b3,PALATINE HILL,DOES
+2a87185e-69da-4dad-a0e1-a600e66462b3,TRATTORIA ROMANA,EATS_AT
+2a87185e-69da-4dad-a0e1-a600e66462b3,TRAIN,USES
+2a87185e-69da-4dad-a0e1-a600e66462b3,METRO,USES
+2a87185e-69da-4dad-a0e1-a600e66462b3,HISTORY,HAS_TAG
+496e50b5-cb87-47ce-ad0e-401df67ca5e7,ISTANBUL,VISITS
+496e50b5-cb87-47ce-ad0e-401df67ca5e7,GOREME,VISITS
+496e50b5-cb87-47ce-ad0e-401df67ca5e7,TURKEY,IN_COUNTRY
+496e50b5-cb87-47ce-ad0e-401df67ca5e7,GOREME CAVE HOTEL,STAYS_AT
+496e50b5-cb87-47ce-ad0e-401df67ca5e7,AYASOFYA CAMII,DOES
+496e50b5-cb87-47ce-ad0e-401df67ca5e7,GOREME OPEN AIR MUSEUM,DOES
+496e50b5-cb87-47ce-ad0e-401df67ca5e7,BALLOON RIDE,DOES
+496e50b5-cb87-47ce-ad0e-401df67ca5e7,MEZE HOUSE,EATS_AT
+496e50b5-cb87-47ce-ad0e-401df67ca5e7,PLANE,USES
+496e50b5-cb87-47ce-ad0e-401df67ca5e7,SHUTTLE,USES
+496e50b5-cb87-47ce-ad0e-401df67ca5e7,NATURE,HAS_TAG
+496e50b5-cb87-47ce-ad0e-401df67ca5e7,HISTORY,HAS_TAG
+30db6340-2a8c-42b8-bc0a-c070f42766d2,PARIS,VISITS
+30db6340-2a8c-42b8-bc0a-c070f42766d2,ROME,VISITS
+30db6340-2a8c-42b8-bc0a-c070f42766d2,FRANCE,IN_COUNTRY
+30db6340-2a8c-42b8-bc0a-c070f42766d2,ITALY,IN_COUNTRY
+30db6340-2a8c-42b8-bc0a-c070f42766d2,HOTEL LUMIERE,STAYS_AT
+30db6340-2a8c-42b8-bc0a-c070f42766d2,ROMA SUITES,STAYS_AT
+30db6340-2a8c-42b8-bc0a-c070f42766d2,EIFFEL TOWER,DOES
+30db6340-2a8c-42b8-bc0a-c070f42766d2,COLOSSEUM TOUR,DOES
+30db6340-2a8c-42b8-bc0a-c070f42766d2,LE BISTRO,EATS_AT
+30db6340-2a8c-42b8-bc0a-c070f42766d2,TRATTORIA ROMANA,EATS_AT
+30db6340-2a8c-42b8-bc0a-c070f42766d2,PLANE,USES
+30db6340-2a8c-42b8-bc0a-c070f42766d2,TRAIN,USES
+30db6340-2a8c-42b8-bc0a-c070f42766d2,CITY BREAK,HAS_TAG
+30db6340-2a8c-42b8-bc0a-c070f42766d2,HISTORY,HAS_TAG
+93cf6edc-e831-4433-aab0-f8ac218c1631,LEG1,VISITS
+93cf6edc-e831-4433-aab0-f8ac218c1631,LEG2,VISITS
+93cf6edc-e831-4433-aab0-f8ac218c1631,TURKEY,IN_COUNTRY
+93cf6edc-e831-4433-aab0-f8ac218c1631,BULGARIA,IN_COUNTRY
+93cf6edc-e831-4433-aab0-f8ac218c1631,Kuzey Makedonya,IN_COUNTRY
+93cf6edc-e831-4433-aab0-f8ac218c1631,AYASOFYA CAMII,DOES
+93cf6edc-e831-4433-aab0-f8ac218c1631,OLD TOWN WALK,DOES
+93cf6edc-e831-4433-aab0-f8ac218c1631,BUS,USES
+93cf6edc-e831-4433-aab0-f8ac218c1631,CULTURE,HAS_TAG
+916752b0-2aae-4793-8613-2a63343241ec,PARIS,VISITS
+916752b0-2aae-4793-8613-2a63343241ec,FRANCE,IN_COUNTRY
+916752b0-2aae-4793-8613-2a63343241ec,MARAIS HOTEL,STAYS_AT
+916752b0-2aae-4793-8613-2a63343241ec,EIFFEL TOWER,DOES
+916752b0-2aae-4793-8613-2a63343241ec,LOUVRE MUSEUM,DOES
+916752b0-2aae-4793-8613-2a63343241ec,MONTMARTRE WALK,DOES
+916752b0-2aae-4793-8613-2a63343241ec,LE BISTRO,EATS_AT
+916752b0-2aae-4793-8613-2a63343241ec,METRO,USES
+916752b0-2aae-4793-8613-2a63343241ec,ART,HAS_TAG
+916752b0-2aae-4793-8613-2a63343241ec,MUSEUMS,HAS_TAG
+916752b0-2aae-4793-8613-2a63343241ec,CITY BREAK,HAS_TAG
