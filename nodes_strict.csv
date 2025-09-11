@@ -1,0 +1,1897 @@
+name,label
+BREZİLYA – ARJANTİN – ŞİLİ TURU 04 – 22 OCAK,TRIP
+Brezilya,COUNTRY
+Arjantin,COUNTRY
+Şili,COUNTRY
+Rio de Janeiro,CITY
+Iguazu,CITY
+Buenos Aires,CITY
+Cape Horn,CITY
+Magdalena Adası,CITY
+Santiago,CITY
+Kış,SEASON
+2025-01-04,DATE_START
+2025-01-22,DATE_END
+Satyricon Restaurant,RESTAURANT
+La Cabrera Restaurant,RESTAURANT
+Fervor Restaurant,RESTAURANT
+İZLANDA TURU 18 – 24 MAYIS,TRIP
+İzlanda,COUNTRY
+İzlanda,CITY
+İlkbahar,SEASON
+2025-05-18,DATE_START
+2025-05-24,DATE_END
+Hali Country Hotel,HOTEL
+Fosshotel Glacier Lagoon,HOTEL
+GÜNEY AFRİKA TURU 07 – 16 ARALIK,TRIP
+Güney Afrika,COUNTRY
+Cape Town,CITY
+Stellenbosch,CITY
+Franschhoek,CITY
+Kimberley,CITY
+2025-12-07,DATE_START
+2025-12-16,DATE_END
+Babel Hotel,HOTEL
+VENEDİK & MİLANO TURU 08 – 12,TRIP
+İtalya,COUNTRY
+Venedik,CITY
+Milano,CITY
+Hotel Ai Cavalieri,HOTEL
+Ristorante Da Ivo,RESTAURANT
+Ristorante Acqua Pazza,RESTAURANT
+Osteria Enoteca San Marco,RESTAURANT
+Restaurant Terrazza Danieli,RESTAURANT
+Da Giacomo,RESTAURANT
+Il Salumaio di Montenapoleone,RESTAURANT
+Solferino Restaurant,RESTAURANT
+MALDİVLER TURU 08 – 15 OCAK 2024,TRIP
+Maldivler,COUNTRY
+Maldivler,CITY
+2024-01-08,DATE_START
+2024-01-15,DATE_END
+Beach Villa with Pool,HOTEL
+Water Villa with Pool,HOTEL
+Water Villa One Bedroom,HOTEL
+TANZANYA & ZANZIBAR TURU 08 – 17 OCAK 2024,TRIP
+Tanzanya,COUNTRY
+Arusha,CITY
+Serengeti,CITY
+Zanzibar,CITY
+2024-01-17,DATE_END
+Singita Lodge,HOTEL
+Singita Sasakawa Lodge,HOTEL
+BARCELONA TURU 09 – 11 KASIM,TRIP
+İspanya,COUNTRY
+Barcelona,CITY
+Sonbahar,SEASON
+2025-11-09,DATE_START
+2025-11-11,DATE_END
+La Pepita Tapas Bar,RESTAURANT
+Gala Restoran,RESTAURANT
+Barceloneta Restoran,RESTAURANT
+BILBAO & SAN SEBASTIAN TURU 12 – 15 EYLÜL,TRIP
+Fransa,COUNTRY
+Bilbao,CITY
+San Sebastian,CITY
+Biarritz,CITY
+Saint Jean De Luz,CITY
+2025-09-12,DATE_START
+2025-09-15,DATE_END
+Hotel Maria Cristina,HOTEL
+Restaurante Ilura,RESTAURANT
+Elkano Restaurant,RESTAURANT
+Cafe Iruña,RESTAURANT
+AVUSTRALYA & YENİ ZELANDA TURU 14 ARALIK – 3 OCAK,TRIP
+Avustralya,COUNTRY
+Yeni Zelanda,COUNTRY
+Singapur,COUNTRY
+Singapore,CITY
+Auckland,CITY
+Rotorua,CITY
+Wellington,CITY
+Tekapo,CITY
+Queenstown,CITY
+Gold Coast,CITY
+Sydney,CITY
+JW Marriott Hotel Singapore South Beach,HOTEL
+Pullman Rotorua,HOTEL
+Intercontinental Hotel Wellington,HOTEL
+Peppers Blue Water Resort Lake Tekapo,HOTEL
+The Rees Hotel & Luxury Apartments,HOTEL
+JW Marriott Gold Coast Resort & Spa,HOTEL
+Sydney Harbour Marriott Hotel at Circular Quay,HOTEL
+BALI & BANGKOK TURU 18 TEMMUZ – 06 AĞUSTOS,TRIP
+Endonezya,COUNTRY
+Tayland,COUNTRY
+Bali,CITY
+Bangkok,CITY
+Capella Bangkok Hotel,HOTEL
+Riverside Pool Villa,HOTEL
+Koral Restaurant,RESTAURANT
+Restaurant POTONG,RESTAURANT
+DANİMARKA & NORVEÇ TURU 18 – 25 AĞUSTOS 2025,TRIP
+Danimarka,COUNTRY
+Norveç,COUNTRY
+Kopenhag,CITY
+Bergen,CITY
+Flåm,CITY
+Oslo,CITY
+Yaz,SEASON
+2025-08-18,DATE_START
+2025-08-25,DATE_END
+Nimb Hotel,HOTEL
+Bergen Børs Hotel,HOTEL
+Fretheim Hotel,HOTEL
+Fjellskål Seafood Restaurant,RESTAURANT
+Restaurant Arven,RESTAURANT
+Lofoten Fiskerestaurant,RESTAURANT
+Bryggen Tracteursted,RESTAURANT
+Izakaya Bar & Terrace,RESTAURANT
+GÜNEY AFRİKA TURU 19 ARALIK 2025 – 3 OCAK 2026,TRIP
+Zambiya,COUNTRY
+Livingstone,CITY
+2026-01-25,DATE_START
+2026-01-03,DATE_END
+Royal Livingstone Victoria Falls Zambia Hotel by Anantara,HOTEL
+Babylonstoren Hotel,HOTEL
+Marataba Safari Lodge,HOTEL
+The Lookout Cafe,RESTAURANT
+JAPONYA TURU 19 HAZİRAN – 5 TEMMUZ 2025,TRIP
+Japonya,COUNTRY
+Tokyo,CITY
+Okayama,CITY
+Kyoto,CITY
+Naoshima,CITY
+Teshima,CITY
+Mitsui Garden Hotel Premier Jingu-Gaien,HOTEL
+Uno Hotel,HOTEL
+ACE Hotel Kyoto,HOTEL
+LAPLAND TURU 19 – 24 OCAK,TRIP
+İsveç,COUNTRY
+Jukkasjärvi,CITY
+Harads,CITY
+2025-01-19,DATE_START
+2025-01-24,DATE_END
+ICEHOTEL,HOTEL
+Kaamos Hotel,HOTEL
+Treehotel,HOTEL
+MISIR TURU 20 – 25 NİSAN 2024,TRIP
+Mısır,COUNTRY
+Kahire,CITY
+Aswan,CITY
+Luxor,CITY
+2024-04-20,DATE_START
+2024-04-25,DATE_END
+Marriott Mena House Hotel,HOTEL
+Movenpick Sunray Nile Cruise,HOTEL
+AMALFI TURU 20 – 23 HAZİRAN,TRIP
+Amalfi,CITY
+Ravello,CITY
+Pompei,CITY
+Napoli,CITY
+Sorrento,CITY
+2025-06-20,DATE_START
+2025-06-23,DATE_END
+Villa Piedimonte,HOTEL
+Hotel Rufolo,HOTEL
+LOIRE TURU 20 – 23 NİSAN,TRIP
+Loire,CITY
+Tours,CITY
+Amboise,CITY
+Blois,CITY
+2025-04-20,DATE_START
+2025-04-23,DATE_END
+Avarum Restaurant,RESTAURANT
+Restaurante Amour Blanc,RESTAURANT
+BRUGGE & LOIRE TURU 20 – 23 NİSAN,TRIP
+Belçika,COUNTRY
+Brugge,CITY
+Gent,CITY
+Hotel De Orangerie,HOTEL
+Hotel Van Cleef,HOTEL
+Hotel Heritage Relais Chateau,HOTEL
+Hotel Dukes' Palace,HOTEL
+AMALFI TURU 20 – 24 HAZİRAN,TRIP
+2025-06-24,DATE_END
+SALZBURG TURU 20 – 25 ARALIK,TRIP
+Avusturya,COUNTRY
+Almanya,COUNTRY
+Salzburg,CITY
+Hallstatt,CITY
+St Wolfgang,CITY
+Berchtesgaden,CITY
+2025-12-20,DATE_START
+2025-12-25,DATE_END
+Radisson Blu Hotel Altstadt,HOTEL
+Hotel Goldener Hirsch,HOTEL
+Hotel Bristol,HOTEL
+Cafe Sacher Salzburg,RESTAURANT
+Restaurant Blaue Gans Salzburg Gasthaus,RESTAURANT
+BELGRAD TURU 21 – 23 EYLÜL,TRIP
+Sırbistan,COUNTRY
+Belgrad,CITY
+Karlofca,CITY
+Novi Sad,CITY
+2025-09-21,DATE_START
+2025-09-23,DATE_END
+Metropol Palace Hotel,HOTEL
+Square Nine Hotel,HOTEL
+Kalemegdan Restaurant,RESTAURANT
+İSTANBUL – KAPADOKYA – İZMİR TURU 23 TEMMUZ – 2 AĞUSTOS 2023,TRIP
+Türkiye,COUNTRY
+İstanbul,CITY
+Kapadokya,CITY
+Kuşadası,CITY
+İzmir,CITY
+Şirince,CITY
+Efes,CITY
+Il Cortile Ristorante Pizzeria,RESTAURANT
+Pandeli Restaurant,RESTAURANT
+Belisirma Nehir Kenarı Restoran,RESTAURANT
+Geleneksel Türk Restoranı (Efes),RESTAURANT
+EDINBURGH & HIGHLANDS TURU 4 – 8 AĞUSTOS,TRIP
+İskoçya,COUNTRY
+Edinburgh,CITY
+Pitlochry,CITY
+Fort William,CITY
+Inverness,CITY
+2025-08-04,DATE_START
+2025-08-08,DATE_END
+Fonab Castle Hotel,HOTEL
+The Craigellachie Hotel,HOTEL
+Nevis Bank Inn,HOTEL
+Seasgair Hotel,HOTEL
+Nevis Bank Inn and Browns Restaurant,RESTAURANT
+Rocpool Restaurant,RESTAURANT
+TAYLAND TURU 5 – 18 ŞUBAT,TRIP
+Chiang Mai,CITY
+Chiang Rai,CITY
+2025-02-05,DATE_START
+2025-02-18,DATE_END
+The Surin,HOTEL
+Beach Restaurant (The Surin),RESTAURANT
+Potong Restaurant,RESTAURANT
+Clara Restaurant,RESTAURANT
+Kalido,RESTAURANT
+Carpe Diem Beach Club,RESTAURANT
+Terrace Rim Naam,RESTAURANT
+JAPONYA TURU 6 – 13 NİSAN 2024 (SAFFET EMRE),TRIP
+Hakone,CITY
+Nara,CITY
+2024-04-06,DATE_START
+2024-04-13,DATE_END
+Mitsui Garden Hotel,HOTEL
+Benesse House,HOTEL
+ARLES TURU 03 – 06 EKİM,TRIP
+Arles,CITY
+Avignon,CITY
+Les Baux-de-Provence,CITY
+L'Isle-sur-la-Sorgue,CITY
+2025-10-03,DATE_START
+2025-10-06,DATE_END
+Restaurant L'Oriel,RESTAURANT
+Café Tadoa Ando,RESTAURANT
+La Taula Gallici's Gourmet Restaurant,RESTAURANT
+PUGLIA TURU 07 – 11 EKİM,TRIP
+Bari,CITY
+Alberobello,CITY
+Matera,CITY
+Monopoli,CITY
+Polignano a Mare,CITY
+Lecce,CITY
+2025-10-07,DATE_START
+2025-10-11,DATE_END
+Canne Bianche Lifestyle & Hotel,HOTEL
+PROVENCE TURU 4 – 7 MAYIS,TRIP
+Provence,CITY
+L’Isle-sur-la-Sorgue,CITY
+Roussillon,CITY
+Gordes,CITY
+Saint-Rémy-de-Provence,CITY
+2025-05-04,DATE_START
+2025-05-07,DATE_END
+Tadao Ando Café Restaurant,RESTAURANT
+Chateau d’Estoublon,RESTAURANT
+59. Venedik Bienali,TRIP
+Türk Hava Yolları TK1867,TRANSPORT
+Trattoria Alla Madonna,RESTAURANT
+Dubai Programı,TRIP
+Birleşik Arap Emirlikleri,COUNTRY
+Dubai,CITY
+Emirates EK124,TRANSPORT
+Atlantis The Royal,HOTEL
+Nobu Restaurant - Atlantis the Palm,RESTAURANT
+İzmir’in En Güzel Köyleri - Şirince & Urla,TRIP
+Urla,CITY
+Güllü Konak,HOTEL
+Artemis Restaurant ve Şarapevi,RESTAURANT
+Yengeç Restoran - Urla İskele,RESTAURANT
+Toskana Gezisi,TRIP
+Bologna,CITY
+Floransa,CITY
+Chianti,CITY
+San Gimignano,CITY
+Siena,CITY
+Cortona,CITY
+Orvieto,CITY
+Roma,CITY
+Türk Hava Yolları TK1323,TRANSPORT
+Türk Hava Yolları TK1864,TRANSPORT
+Hotel Cerretani Firenze – Mgallery,HOTEL
+Montepulciano,CITY
+Buca Mario,RESTAURANT
+Osteria delle Tre Panche,RESTAURANT
+Ristorante Storico Sabatini,RESTAURANT
+Buca Lapi,RESTAURANT
+Antico Ristorante Paoli 1827,RESTAURANT
+Avustralya – Yeni Zelanda,TRIP
+Melbourne,CITY
+Türk Hava Yolları TK174,TRANSPORT
+Park Hyatt Sydney,HOTEL
+Hindistan Gezisi,TRIP
+Hindistan,COUNTRY
+Varanasi,CITY
+Jaipur,CITY
+Udaipur,CITY
+Delhi,CITY
+Türk Hava Yolları TK716,TRANSPORT
+Air India AI406,TRANSPORT
+Indigo 6E7348,TRANSPORT
+Brijrama Palace,HOTEL
+Rambagh Palace,HOTEL
+Taj Lake Palace,HOTEL
+Udayan Terrace,RESTAURANT
+Neelkamal Restaurant,RESTAURANT
+Spice Route,RESTAURANT
+Bukhara - ITC Maurya Hotel,RESTAURANT
+City Palace Özel Akşam Yemeği,RESTAURANT
+Mewar Terrace,RESTAURANT
+Meksika Gezisi,TRIP
+Meksika,COUNTRY
+Mexico City,CITY
+Mérida,CITY
+Chichen Itza,CITY
+Cancún,CITY
+Türk Hava Yolları TK2341,TRANSPORT
+Türk Hava Yolları TK2175,TRANSPORT
+Türk Hava Yolları TK184,TRANSPORT
+Aeroméxico AM826D,TRANSPORT
+Türk Hava Yolları TK181,TRANSPORT
+The St. Regis Mexico City,HOTEL
+Göl kenarında özel yemek,RESTAURANT
+Woodend Restaurant,RESTAURANT
+Ixi’im,RESTAURANT
+Ki’ol,RESTAURANT
+Sicilya Gezisi,TRIP
+Katanya,CITY
+Taormina,CITY
+Savoca,CITY
+Forza d’Agrò,CITY
+Syracuse,CITY
+Ragusa,CITY
+Palermo,CITY
+Türk Hava Yolları TK1393,TRANSPORT
+Hotel Metropole Taormina,HOTEL
+Osteria Rosso Divino,RESTAURANT
+Doba Restaurant and Terrace,RESTAURANT
+Porto Gezisi,TRIP
+Portekiz,COUNTRY
+Porto,CITY
+Maison Albar Hotels Le Monumental Palace,HOTEL
+Enoteca 1756 Restaurant,RESTAURANT
+Marisqueira A Antiga,RESTAURANT
+Casa de Chá de Boa Nova,RESTAURANT
+Vinum Restaurant & Wine Bar,RESTAURANT
+Kahire Gezisi,TRIP
+Four Seasons Hotel Cairo at Nile Plaza,HOTEL
+Riviera - Four Seasons Hotel Cairo at Nile Plaza,RESTAURANT
+Endülüs Gezisi,TRIP
+Granada,CITY
+Córdoba,CITY
+Sevilla,CITY
+Ronda,CITY
+Avustralya Gezisi,TRIP
+Ballarat,CITY
+Hobart,CITY
+Adelaide,CITY
+Hahndorf,CITY
+Barossa Valley,CITY
+Brisbane,CITY
+Surfers Paradise,CITY
+Canberra,CITY
+Türk Hava Yolları TK168,TRANSPORT
+Türk Hava Yolları TK169,TRANSPORT
+Melbourne - Hobart İç Hat Uçuşu,TRANSPORT
+Hobart - Adelaide İç Hat Uçuşu,TRANSPORT
+Adelaide - Brisbane İç Hat Uçuşu,TRANSPORT
+"The Tasman, a Luxury Collection Hotel, Hobart",HOTEL
+Nehir Kenarı Restoran - Adelaide,RESTAURANT
+Yerel Lüks Restoran - Adelaide,RESTAURANT
+Barselona Gezisi,TRIP
+Barselona,CITY
+Girona,CITY
+Türk Hava Yolları TK1467,TRANSPORT
+Almanac Barcelona,HOTEL
+Maná 75,RESTAURANT
+El Tribut,RESTAURANT
+BarcelonaMilona,RESTAURANT
+Restaurant Normal,RESTAURANT
+Puglia Gezisi,TRIP
+Locorotondo,CITY
+Ristorante Blunotte,RESTAURANT
+Ristorante La Cantina,RESTAURANT
+Pizzeria Casa Pinto,RESTAURANT
+Alegra Benardete ile Sicilya’da Nefes,TRIP
+Siracusa,CITY
+Ortigia,CITY
+Noto,CITY
+Casa Di Melo Otel,HOTEL
+Arjantin Gezisi,TRIP
+Ushuaia,CITY
+Puerto Madryn,CITY
+Tango House,RESTAURANT
+Bangkok & Hong Kong Gezisi,TRIP
+Çin,COUNTRY
+Macau,CITY
+Hong Kong,CITY
+Türk Hava Yolları TK68,TRANSPORT
+Macau - Hong Kong Feribot,TRANSPORT
+Lebua at State Tower Hotel,HOTEL
+Err Restaurant,RESTAURANT
+Sala Rattanakosin Restaurant,RESTAURANT
+Eat Me Restaurant,RESTAURANT
+Bhutan & Nepal Gezisi,TRIP
+Nepal,COUNTRY
+Bhutan,COUNTRY
+Katmandu,CITY
+Paro,CITY
+Punakha,CITY
+Thimphu,CITY
+Bhaktapur,CITY
+İstanbul - Katmandu Uçuşu,TRANSPORT
+Katmandu - Paro Uçuşu,TRANSPORT
+Bilbao & San Sebastián Gezisi,TRIP
+San Sebastián,CITY
+Hondarribia,CITY
+Saint-Jean-de-Luz,CITY
+İstanbul - Bilbao Uçuşu,TRANSPORT
+Hotel Du Palais Biarritz,HOTEL
+Hotel Du Palais Biarritz - Le Sunset,RESTAURANT
+Brezilya & Arjantin Gezisi,TRIP
+Foz do Iguaçu,CITY
+Türk Hava Yolları İstanbul - Rio Uçuşu,TRANSPORT
+LATAM Airlines LA3290 Rio - Iguazú,TRANSPORT
+Aerolineas Argentinas AR1783 Iguazú - Buenos Aires,TRANSPORT
+Park Hyatt - Palacio Duhau Hotel,HOTEL
+Rio Restaurant Önerileri,RESTAURANT
+Buenos Aires Restaurant Önerileri,RESTAURANT
+Burgonya Gezisi,TRIP
+Beaune,CITY
+Dijon,CITY
+Nuits-Saint-Georges,CITY
+Vézelay,CITY
+Cluny,CITY
+Fleurie,CITY
+İstanbul - Lyon Uçuşu,TRANSPORT
+Auberge de la Madone - Fleurie,RESTAURANT
+San Sebastián ve Bask Bölgesi Gezisi (Can Özdemir),TRIP
+Getaria,CITY
+Hotel de Londres y de Inglaterra,HOTEL
+Hotel Villa Favorita,HOTEL
+Hotel Zenit Convento San Martín,HOTEL
+Elkano Restoran - Getaria,RESTAURANT
+Guggenheim Müzesi Restoranı - Bilbao,RESTAURANT
+Cape Town Gezisi,TRIP
+Türk Hava Yolları TK44,TRANSPORT
+One&Only Cape Town,HOTEL
+Nobu - One&Only Cape Town,RESTAURANT
+Aubergine Restaurant,RESTAURANT
+Buitenverwachting Restaurant,RESTAURANT
+Harbour House Restaurant - Kalk Bay,RESTAURANT
+Delaire Graff Indochine Restaurant,RESTAURANT
+Lapland Rovaniemi Gezisi,TRIP
+Finlandiya,COUNTRY
+Rovaniemi,CITY
+İstanbul - Rovaniemi Uçuşu,TRANSPORT
+Arctic TreeHouse Hotel,HOTEL
+Santa’s Igloos Arctic Circle,HOTEL
+Rakas Restaurant & Bar,RESTAURANT
+MonteRosa Restaurant,RESTAURANT
+Gustav Kitchen & Bar,RESTAURANT
+Glass Restaurant - Santa Claus Village,RESTAURANT
+Arctic Restaurant,RESTAURANT
+Ice Restaurant,RESTAURANT
+Kota Restaurant,RESTAURANT
+Kenya & Rwanda Safari Gezisi,TRIP
+Kenya,COUNTRY
+Ruanda,COUNTRY
+Nairobi,CITY
+Masai Mara,CITY
+Kigali,CITY
+Volcanoes National Park,CITY
+İstanbul - Nairobi Uçuşu,TRANSPORT
+Charter Flight Cessna Caravan 208 - Nairobi to Masai Mara,TRANSPORT
+Lodge Transferleri,TRANSPORT
+Kigali Kara Transferi,TRANSPORT
+Four Points by Sheraton JKIA,HOTEL
+Sanctuary Olonana,HOTEL
+Bisate Lodge,HOTEL
+Lizbon Seyahat Programı - SAHA,TRIP
+Lizbon,CITY
+İstanbul – Lizbon uçuşu TK 1759,TRANSPORT
+Havalimanı – Bairro Alto Hotel transfer,TRANSPORT
+"Bairro Alto Hotel, Praça Luís de Camões, 2 1200",HOTEL
+Sicilya & Malta Gezisi,TRIP
+Malta,COUNTRY
+Etna,CITY
+Modica,CITY
+Valletta,CITY
+Senglea,CITY
+Vittoriosa,CITY
+Cospicua,CITY
+Mdina,CITY
+İstanbul – Katanya uçuşu TK 1395,TRANSPORT
+Katanya – Taormina transferi,TRANSPORT
+Ada içi özel araç transferleri,TRANSPORT
+Grand Hotel Timeo - Deluxe Sea View Junior Suite with balcony or terrace,HOTEL
+Osteria Rosso Divino (Taormina),RESTAURANT
+Regina Lucia Ristorante (Siracusa),RESTAURANT
+Vietnam & Kamboçya Gezisi,TRIP
+Vietnam,COUNTRY
+Kamboçya,COUNTRY
+Hanoi,CITY
+Ha Long,CITY
+Ho Chi Minh (Saygon),CITY
+Mekong Deltası,CITY
+Siem Reap,CITY
+Phnom Penh,CITY
+"İstanbul – Hanoi uçuşu (TK 166, Türk Hava Yolları)",TRANSPORT
+Hanoi – Ha Long deniz uçağı,TRANSPORT
+Violet Cruise – Ha Long Körfezi tekne yolculuğu,TRANSPORT
+"Hanoi – Ho Chi Minh uçuşu (VN253, Vietnam Havayolları)",TRANSPORT
+Ho Chi Minh – Siem Reap uçuşu (Cambodia Angkor Air K6809),TRANSPORT
+"Siem Reap – Bangkok uçuşu (PG914, Bangkok Airways)",TRANSPORT
+"Bangkok – İstanbul uçuşu (TK 65, Türk Hava Yolları)",TRANSPORT
+Havalimanı ve şehir içi transferler,TRANSPORT
+Mekong Deltası’nda bot ve rikşov gezileri,TRANSPORT
+Ho Chi Minh,CITY
+Sofitel Legend Metropole (Hanoi),HOTEL
+Violet Cruise (Ha Long Körfezi),HOTEL
+"Otel (Ho Chi Minh, ismi belirtilmemiş)",HOTEL
+"Otel (Siem Reap, ismi belirtilmemiş)",HOTEL
+"Yerel restoranlarda öğle yemekleri (Hanoi, Ho Chi Minh turları sırasında)",RESTAURANT
+Ha Long Violet Cruise – deniz ürünleri ve geleneksel Vietnam mutfağı,RESTAURANT
+Mekong Deltası – nehir kenarında restoran,RESTAURANT
+Yerel aile evi – çay ve taze meyve ikramı,RESTAURANT
+Kenya Safari Gezisi - Şule Zorlu,TRIP
+"İstanbul – Doha uçuşu (QR 246, Qatar Airways)",TRANSPORT
+"Doha – Nairobi uçuşu (QR 1335, Qatar Airways)",TRANSPORT
+Nairobi Havalimanı – Giraffe Manor transferi,TRANSPORT
+Nairobi – Masai Mara lodge transferleri,TRANSPORT
+Giraffe Manor,HOTEL
+Sala’s Camp,HOTEL
+The Retreat (günübirlik kullanım),HOTEL
+"The Retreat (kahvaltı, öğle yemeği)",RESTAURANT
+Giraffe Manor (kahvaltı & ikindi çayı),RESTAURANT
+"İtalya Gezisi - Bologna, Floransa, Toskana & Forte dei Marmi",TRIP
+Toskana,CITY
+Forte dei Marmi,CITY
+"İstanbul – Bologna uçuşu (TK1321, Türk Hava Yolları)",TRANSPORT
+Bologna – şehir içi transferler,TRANSPORT
+Toskana ve Floransa içi kara transferleri,TRANSPORT
+"Prag, Karlovy Vary & Cesky Krumlov Gezisi - Beril Miskavi",TRIP
+Çekya,COUNTRY
+Prag,CITY
+Karlovy Vary,CITY
+Cesky Krumlov,CITY
+"İstanbul – Prag uçuşu (TK1769, Türk Hava Yolları)",TRANSPORT
+Prag – şehir içi transferler,TRANSPORT
+Karlovy Vary ve Cesky Krumlov kara transferleri,TRANSPORT
+"Kampa Park Restaurant (Na Kampě 8b, Prag)",RESTAURANT
+Endülüs Gezisi - Berrin Zorlu,TRIP
+Malaga,CITY
+Cordoba,CITY
+"İstanbul – Malaga uçuşu (TK1303, Türk Hava Yolları)",TRANSPORT
+Malaga – Granada transferi,TRANSPORT
+Endülüs içi kara transferleri,TRANSPORT
+Ürdün Gezisi - Berrin Zorlu,TRIP
+Ürdün,COUNTRY
+Amman,CITY
+Mount Nebo,CITY
+Madaba,CITY
+Petra,CITY
+Wadi Rum,CITY
+Dead Sea,CITY
+"İstanbul – Amman uçuşu (TK816, Türk Hava Yolları)",TRANSPORT
+Ürdün içi kara transferleri,TRANSPORT
+BAE Gezisi - Fuat Pamukçu,TRIP
+Abu Dhabi,CITY
+Ras Al Khaimah,CITY
+İstanbul – Abu Dhabi uçuşu,TRANSPORT
+Şehir içi ve otel transferleri,TRANSPORT
+Abu Dhabi – Ras Al Khaimah transferi,TRANSPORT
+Ras Al Khaimah – Dubai transferi,TRANSPORT
+"The St. Regis Saadiyat Island Resort, Abu Dhabi",HOTEL
+The Ritz Carlton Ras Al Khaimah,HOTEL
+"Address Dubai Mall, Dubai",HOTEL
+Hakkasan Abu Dhabi,RESTAURANT
+Ula Beach RAK,RESTAURANT
+The Guild Dubai,RESTAURANT
+WHITE Beach Dubai,RESTAURANT
+Estiatorio Milos Dubai,RESTAURANT
+The MAINE Oyster Bar & Grill JBR,RESTAURANT
+La Cantine Beach,RESTAURANT
+The Restaurant at Address Dubai Mall,RESTAURANT
+Peru Gezisi - Seda Soğancıoğlu,TRIP
+Peru,COUNTRY
+Lima,CITY
+Cusco,CITY
+Sacred Valley,CITY
+Machu Picchu,CITY
+"İstanbul – Lima uçuşu (TK800, Türk Hava Yolları, Panama aktarmalı CM337)",TRANSPORT
+Lima Havalimanı – otel transferi,TRANSPORT
+Peru içi kara ve tren transferleri,TRANSPORT
+Belmond Miraflores Park (Lima),HOTEL
+USA Gezisi - Selen Zorlu,TRIP
+Amerika Birleşik Devletleri,COUNTRY
+New York,CITY
+"Londra – New York uçuşu (BA175, British Airways)",TRANSPORT
+New York havalimanı – otel transferi,TRANSPORT
+Hindistan Gezisi - Berrin Zorlu,TRIP
+"İstanbul – Delhi uçuşu (TK716, Türk Hava Yolları)",TRANSPORT
+"Delhi – Varanasi uçuşu (AI406, Air India)",TRANSPORT
+Hindistan içi transferler ve uçuşlar,TRANSPORT
+Mısır Gezisi - Hakan Ateş,TRIP
+"İstanbul – Kahire uçuşu (TK694D, Türk Hava Yolları)",TRANSPORT
+Kahire Havalimanı – otel transferi,TRANSPORT
+Şehir içi araç ile transferler,TRANSPORT
+Provence Gezisi - Olgun Zorlu,TRIP
+Marsilya,CITY
+"İstanbul – Marsilya uçuşu (TK1367, Türk Hava Yolları)",TRANSPORT
+Marsilya Havalimanı – Provence transferi,TRANSPORT
+Köyler arası özel araç transferleri,TRANSPORT
+Toskana Gezisi - Selen Zorlu,TRIP
+San Casciano Val di Pesa,CITY
+Bologna Havalimanı – Toskana otel transferi,TRANSPORT
+Bölge içi kara transferleri,TRANSPORT
+Güney Afrika Gezisi - Tanju Kaya,TRIP
+Johannesburg,CITY
+Sabi Sand,CITY
+Kruger,CITY
+"İstanbul – Johannesburg uçuşu (TK38, Türk Hava Yolları)",TRANSPORT
+Johannesburg – Sabi Sabi özel uçuşu (Federal Havayolları),TRANSPORT
+"Kruger Mpumalanga – Cape Town uçuşu (SA8664, South African Airways)",TRANSPORT
+Şehir içi ve lodge transferleri,TRANSPORT
+Sabi Sabi Little Bush Camp,HOTEL
+The Table Bay,HOTEL
+Tayland & Vietnam Gezisi,TRIP
+Danang,CITY
+Saigon,CITY
+"İstanbul – Bangkok uçuşu (TK68, Türk Hava Yolları)",TRANSPORT
+"Bangkok – Chiang Rai uçuşu (PG231, Bangkok Airways)",TRANSPORT
+"Bangkok – Danang uçuşu (PG222, Bangkok Airways)",TRANSPORT
+Vietnam içi transferler,TRANSPORT
+Saigon aktarmalı Bangkok dönüş uçuşu,TRANSPORT
+Şehir içi ve havalimanı transferleri,TRANSPORT
+"Mandarin Oriental, Bangkok",HOTEL
+"Anantara Golden Triangle, Chiang Rai",HOTEL
+The Market Restaurant (Vietnam),RESTAURANT
+Tayland & Endonezya Gezisi,TRIP
+Phuket,CITY
+"İstanbul – Phuket uçuşu (TK172, Türk Hava Yolları)",TRANSPORT
+Phuket – Bangkok uçuşu,TRANSPORT
+Bangkok – Bali uçuşu,TRANSPORT
+The Surin Phuket,HOTEL
+"Beach Restaurant, The Surin (Phuket)",RESTAURANT
+Tayland Gezi Önerileri,TRIP
+Toskana Gezisi - Bayram Programı,TRIP
+Bologna Havalimanı – şehir içi transfer,TRANSPORT
+Bölge içi kara transferleri ve araç kiralama,TRANSPORT
+Pienza,CITY
+Montalcino,CITY
+Bologna Havalimanı – şehir merkezi transferi,TRANSPORT
+Toskana içi kara transferleri,TRANSPORT
+Borgo Santo Pietro,HOTEL
+Toskana Bağ Bozumu Programı,TRIP
+Toskana kırsalı,CITY
+İstanbul – Bologna uçuşu (Türk Hava Yolları),TRANSPORT
+Bologna – İstanbul uçuşu (Türk Hava Yolları),TRANSPORT
+COMO Castello del Nero,HOTEL
+Rosewood Castiglion del Bosco,HOTEL
+"İstanbul – Ho Chi Minh uçuşu (TK168, Türk Hava Yolları)",TRANSPORT
+Ho Chi Minh içi Vespa ve araç transferleri,TRANSPORT
+Mekong Deltası bot turu,TRANSPORT
+Ho Chi Minh – Phnom Penh kara/air transferi,TRANSPORT
+Phnom Penh – Siem Reap uçuşu,TRANSPORT
+Hotel des Arts Saigon,HOTEL
+Raffles Hotel Le Royal,HOTEL
+Belmond La Résidence d’Angkor,HOTEL
+Vietnam Gezisi,TRIP
+Nha Trang,CITY
+"İstanbul – Hanoi uçuşu (TK164, Türk Hava Yolları)",TRANSPORT
+Hanoi – Nha Trang uçuşu,TRANSPORT
+Nha Trang – Saigon uçuşu,TRANSPORT
+Vietnam & Bangkok Gezisi - Gökhan Mendi,TRIP
+Ha Long (Lan Ha Bay),CITY
+Hanoi – Ha Long kara transferi,TRANSPORT
+Ha Long Bhaya Cruise tekne yolculuğu,TRANSPORT
+Hanoi – Saigon uçuşu,TRANSPORT
+Saigon – Bangkok uçuşu,TRANSPORT
+Şehir içi transferler,TRANSPORT
+Bhaya Cruise (Lan Ha Bay / Ha Long),HOTEL
+May de Cuisine Restaurant (Hanoi),RESTAURANT
+Volvo EX90 Basın Seyahati - Los Angeles,TRIP
+Los Angeles,CITY
+Newport Beach,CITY
+İstanbul – Los Angeles uçuşu,TRANSPORT
+Los Angeles Havalimanı – otel transferi,TRANSPORT
+The Resort at Pelican Hill,HOTEL
+Nobu Los Angeles,RESTAURANT
+Ürdün Gezisi,TRIP
+"İstanbul – Amman uçuşu (TK812, Türk Hava Yolları)",TRANSPORT
+Marakeş 21-25 Haziran 2023,TRIP
+Fas,COUNTRY
+Marrakech,CITY
+Fes,CITY
+İstanbul – Fas uçuşu,TRANSPORT
+Fas içi transferler,TRANSPORT
+Havana - Cancun 8-19 Temmuz 2022,TRIP
+Küba,COUNTRY
+Havana,CITY
+Vinales,CITY
+Cancun,CITY
+2022-07-08,DATE_START
+2022-07-19,DATE_END
+İstanbul – Havana uçuşu (TK183),TRANSPORT
+Küba içi transferler,TRANSPORT
+Hotel Manzana Kempinski,HOTEL
+Floridita,RESTAURANT
+Rancho San Vicente,RESTAURANT
+Japonya 12 - 21 Ekim 2024,TRIP
+Kobe,CITY
+Osaka,CITY
+İstanbul – Tokyo uçuşu (TK50),TRANSPORT
+Japonya içi transferler,TRANSPORT
+Hotel Tokyo Deluxe Double,HOTEL
+Garrya Nijo Castle Kyoto,HOTEL
+Güney Afrika 14-21 Kasım 2018,TRIP
+Soweto,CITY
+2018-11-14,DATE_START
+2018-11-21,DATE_END
+İstanbul – Johannesburg uçuşu (TK42),TRANSPORT
+Güney Afrika içi transferler,TRANSPORT
+Sabi Sabi Game Reserve Lodge,HOTEL
+Hotel Luxury King Mountain Room,HOTEL
+Hindistan 2024 Maide Cebi,TRIP
+Ranthambore,CITY
+Jodhpur,CITY
+Mumbai,CITY
+Hindistan içi özel araç transferleri,TRANSPORT
+Ranthambore jeep safarileri,TRANSPORT
+Küba Gezisi 2022,TRIP
+Cienfuegos,CITY
+Trinidad,CITY
+Santa Clara,CITY
+La Canchanchara,RESTAURANT
+Kolombiya - Peru 2024,TRIP
+Kolombiya,COUNTRY
+Bogotá,CITY
+Cartagena,CITY
+Uluslararası uçuşlar,TRANSPORT
+Kolombiya ve Peru iç hat uçuşları,TRANSPORT
+Şehir içi özel transferler,TRANSPORT
+Frieze London 2023,TRIP
+İngiltere,COUNTRY
+Londra,CITY
+İstanbul – Londra uçuşu (THY 1979),TRANSPORT
+Londra içi transferler,TRANSPORT
+The Biltmore Mayfair Hotel,HOTEL
+Gamze Çuhadaroglu PROVENCE 2022,TRIP
+Aix-en-Provence,CITY
+İstanbul – Marsilya uçuşu (TK1367),TRANSPORT
+Provence içi transferler,TRANSPORT
+Château La Coste,RESTAURANT
+MAP Venedik Bienali 2022,TRIP
+İstanbul – Venedik uçuşu (THY 1867),TRANSPORT
+Venedik içi deniz taksi transferleri,TRANSPORT
+Hotel Bauer Palazzo,HOTEL
+La Caravella,RESTAURANT
+MAP Barcelona Çağdaş Sanat Gezisi 2023,TRIP
+Cadaques,CITY
+İstanbul – Barselona uçuşu,TRANSPORT
+Barselona içi transferler,TRANSPORT
+Merendero de la Mar,RESTAURANT
+MAP Provence Program 31 Mart - 3 Nisan 2023,TRIP
+Saint-Remy-de-Provence,CITY
+İstanbul – Marsilya uçuşu (TK1365),TRANSPORT
+La Luma Drum Cafe,RESTAURANT
+Les Deux Garçons,RESTAURANT
+Jules Verne - 2 Ladies - Japan - March 2024,TRIP
+Lofoten Islands - Version 2.0,TRIP
+Henningsvær,CITY
+Svolvær,CITY
+Reine,CITY
+Å,CITY
+İstanbul – Oslo – Svolvær uçuşu,TRANSPORT
+Norveç içi transferler,TRANSPORT
+Restaurant Nyvågar,RESTAURANT
+Güney Afrika 22-30 Ocak,TRIP
+Marataba,CITY
+2025-01-22,DATE_START
+2025-01-30,DATE_END
+İstanbul – Cape Town uçuşu (TK44),TRANSPORT
+Güney Afrika içi araç kiralama ve transferler,TRANSPORT
+Mardin 13-15 Ekim 2023,TRIP
+Mardin,CITY
+Midyat,CITY
+İstanbul – Mardin uçuşu (TK2674),TRANSPORT
+Mardin içi transferler,TRANSPORT
+Meksika 06-16 Aralık 2023,TRIP
+Tulum,CITY
+2023-12-06,DATE_START
+2023-12-16,DATE_END
+İstanbul – Mexico City uçuşu (TK184),TRANSPORT
+Meksika içi transferler,TRANSPORT
+Hotel Rosas,HOTEL
+Mendi Family - Kenya 25-29 Aralık,TRIP
+2025-12-25,DATE_START
+2025-12-29,DATE_END
+İstanbul – Nairobi uçuşu (TK607),TRANSPORT
+Air Kenya iç hat uçuşu,TRANSPORT
+Kenya içi transferler,TRANSPORT
+Emara Ole Sereni Hotel,HOTEL
+Mevzun Vietnam Kamboçya 2016,TRIP
+Halong,CITY
+Hoi An,CITY
+Ho Chi Minh City,CITY
+İstanbul – Bangkok – Vietnam uçuşları (THY 69),TRANSPORT
+Bangkok – İstanbul dönüş uçuşu (THY 69),TRANSPORT
+Park Hyatt Saigon,HOTEL
+Intercontinental Danang,HOTEL
+Sofitel Legend Metropole Hanoi,HOTEL
+Paradise Luxury Halong,HOTEL
+Mevzun Çifçi Hindistan 2024,TRIP
+İstanbul – Delhi uçuşu (TK716),TRANSPORT
+Hindistan içi uçuşlar ve transferler,TRANSPORT
+Mine Bahadır Japonya - Tayland Programı,TRIP
+Ise Shima,CITY
+İstanbul – Tokyo uçuşu,TRANSPORT
+Tayland içi transferler,TRANSPORT
+Murat Bilgin 28 Eylül - 9 Ekim 2023 Güney Afrika,TRIP
+Sabi Sabi,CITY
+Four Seasons Hotel The Westcliff,HOTEL
+Delaire Graff,RESTAURANT
+Myanmar 2017 Mevzun Çiftçi,TRIP
+Myanmar,COUNTRY
+Yangon,CITY
+Mandalay,CITY
+Bagan,CITY
+Inle Lake,CITY
+İstanbul – Yangon uçuşu,TRANSPORT
+Myanmar içi transferler,TRANSPORT
+Bangkok – İstanbul uçuşu (THY69),TRANSPORT
+Belmond Road to Mandalay Cruise,HOTEL
+SUMMER EUROPE 2025,TRIP
+FRANCE,COUNTRY
+ITALY,COUNTRY
+PARIS,CITY
+ROME,CITY
+PLANE,TRANSPORT
+TRAIN,TRANSPORT
+HOTEL LUMIERE,HOTEL
+ROMA SUITES,HOTEL
+LE BISTRO,RESTAURANT
+TRATTORIA ROMANA,RESTAURANT
+SUMMER EUROPE 2024,TRIP
+BALKANS 2025,TRIP
+TURKEY,COUNTRY
+BULGARIA,COUNTRY
+NORTH MACEDONIA,COUNTRY
+"['ISTANBUL', 'SOFIA']",CITY
+['SKOPJE'],CITY
+BUS,TRANSPORT
+ROME ANCIENT 2024,TRIP
+METRO,TRANSPORT
+FORUM INN,HOTEL
+TRASTEVERE TRATTORIA,RESTAURANT
+CAPPADOCIA DREAM 2023,TRIP
+GOREME,CITY
+ISTANBUL,CITY
+GOREME CAVE HOTEL,HOTEL
+SULTANAHMET INN,HOTEL
+URGUP,CITY
+MEZE HOUSE,RESTAURANT
+KONYALI RESTAURANT,RESTAURANT
+BALKANS LOOP 2025,TRIP
+LONDON HIGHLIGHTS 2024,TRIP
+UNITED KINGDOM,COUNTRY
+LONDON,CITY
+UNDERGROUND,TRANSPORT
+SOUTHBANK HOTEL,HOTEL
+DISHOOM,RESTAURANT
+NEW YORK CLASSICS 2024,TRIP
+UNITED STATES,COUNTRY
+NEW YORK,CITY
+SUBWAY,TRANSPORT
+MIDTOWN INN,HOTEL
+SHAKE SHACK,RESTAURANT
+TOKYO ESSENTIALS 2025,TRIP
+JAPAN,COUNTRY
+TOKYO,CITY
+SHIBUYA HOTEL,HOTEL
+SUSHI BAR,RESTAURANT
+KYOTO TEMPLES 2025,TRIP
+KYOTO,CITY
+JR,TRANSPORT
+GION RYOKAN,HOTEL
+UDON HOUSE,RESTAURANT
+BARCELONA ARCHITECTURE 2024,TRIP
+SPAIN,COUNTRY
+BARCELONA,CITY
+EIXAMPLE HOTEL,HOTEL
+TAPAS BAR,RESTAURANT
+GAUDI WEEKEND 2025,TRIP
+ISTANBUL CLASSICS 2024,TRIP
+SHUTTLE,TRANSPORT
+ROME ANTIQUITY 2024,TRIP
+ISTANBUL & CAPPADOCIA 2023,TRIP
+ISTANBUL HERITAGE WEEKEND 2025,TRIP
+TRAM,TRANSPORT
+NEW YORK CITY 2024,TRIP
+MIDTOWN HOTEL,HOTEL
+LONDON ARCHITECTURE TOUR 2024,TRIP
+RIVERBANK HOTEL,HOTEL
+TRAFALGAR RESTAURANT,RESTAURANT
+BALKAN CULTURE TOUR 2025,TRIP
+SUMMER GREECE 2025,TRIP
+GREECE,COUNTRY
+ATHENS,CITY
+THESSALONIKI,CITY
+ATHENS PLAZA HOTEL,HOTEL
+THESSALONIKI INN,HOTEL
+TAVERNAS,RESTAURANT
+ITALY CLASSICS 2024,TRIP
+VENICE,CITY
+BOAT,TRANSPORT
+VENICE SUITES,HOTEL
+PARIS MUSEUM TOUR 2024,TRIP
+MARAIS HOTEL,HOTEL
+LEON DE BRUXELLES,RESTAURANT
+TURKEY TOUR 2024,TRIP
+CAPPADOCIA,CITY
+EUROPE CLASSICS 2025,TRIP
+PARIS CITY BREAK 2024,TRIP
+A-Ma Tapınağı,ACTIVITY
+ACROPOLIS TOUR,ACTIVITY
+AYASOFYA CAMII,ACTIVITY
+Adolf Hitler’in Kartal Yuvası,ACTIVITY
+Agzikarahan Kervansarayı,ACTIVITY
+Akihabara gezisi,ACTIVITY
+Akşam Safari,ACTIVITY
+Akşam safari,ACTIVITY
+Alcazaba,ACTIVITY
+Ali ibn Yusuf Medresesi ziyareti,ACTIVITY
+Altın Kule (Torre del Oro),ACTIVITY
+Amanhã (Yarının Müzesi),ACTIVITY
+Amber Fort,ACTIVITY
+Amber Kalesi ziyareti,ACTIVITY
+Ananda ve Gubyaukgyi tapınakları ziyareti,ACTIVITY
+Antik Roma Amfitiyatrosu,ACTIVITY
+Antoni Tàpies Müzesi ziyareti,ACTIVITY
+Antropoloji Müzesi,ACTIVITY
+Anzac-Atatürk Anıtı,ACTIVITY
+Arashiyama Bamboo Grove ziyareti,ACTIVITY
+Arashiyama bölgesi ziyareti,ACTIVITY
+Arethusa Çeşmesi,ACTIVITY
+Art House Project,ACTIVITY
+Art Tour,ACTIVITY
+Arşimed Meydanı,ACTIVITY
+Ashinoko Gölü tekne turu,ACTIVITY
+Ashinoko Tekne Gezisi,ACTIVITY
+Astrup Fearnley Museum of Modern Art,ACTIVITY
+Atelier de Cezanne ziyareti,ACTIVITY
+Ateş Böceği Mağarası,ACTIVITY
+Ayasofya,ACTIVITY
+Aziz John Baptist Kilisesi,ACTIVITY
+Aziz Sava Kilisesi,ACTIVITY
+BALKAN CULTURAL SITES,ACTIVITY
+BALLOON RIDE,ACTIVITY
+Ballindalloch Castle & Gardens,ACTIVITY
+Balon Turu,ACTIVITY
+Balsamik sirke tadımı ve üretici ziyareti,ACTIVITY
+Banteay Srei ve Banteay Samre tapınakları ziyareti,ACTIVITY
+Bar Vitelli,ACTIVITY
+Barcelona şehir gezisi,ACTIVITY
+Basilica di Sant’Antonino,ACTIVITY
+Bağ bozumu deneyimi,ACTIVITY
+Belediye Binası,ACTIVITY
+Ben Thanh Market ziyareti,ACTIVITY
+Ben Thanh Pazarı ve Nguyen Hue caddelerinde alışveriş,ACTIVITY
+Benesse House,ACTIVITY
+Bishnoi köyü safari gezisi,ACTIVITY
+Blair Castle,ACTIVITY
+Blue Mountains Gezisi,ACTIVITY
+Bo Sang Köyü,ACTIVITY
+Bondi Plajı,ACTIVITY
+Bottega Della Tarsia Lignea Müzesi,ACTIVITY
+Boulders Beach Penguen Kolonisi,ACTIVITY
+Boulders Beach penguen kolonisi ziyareti,ACTIVITY
+Boulders Penguen Kolonisi,ACTIVITY
+Boğaz Turu,ACTIVITY
+Bundi Palace ve Chitra Shala gezisi,ACTIVITY
+Büyük Giza Sfenksi,ACTIVITY
+Büyük Saray,ACTIVITY
+COLOSSEUM,ACTIVITY
+COLOSSEUM TOUR,ACTIVITY
+Caixa Forum gezisi,ACTIVITY
+Callaway Winery ziyareti ve şarap tadımı,ACTIVITY
+Camera Obscura & World of Illusions,ACTIVITY
+Camps Bay ve Clifton Beach,ACTIVITY
+Cape Point & Ümit Burnu,ACTIVITY
+Cape Point gezisi,ACTIVITY
+Cape Winelands bölgesi ziyareti,ACTIVITY
+Capilla Real,ACTIVITY
+Carmen de los Mártires Bahçesi,ACTIVITY
+Carrières de Lumières ziyareti,ACTIVITY
+Casa Montejo ziyareti,ACTIVITY
+Casa Rosada,ACTIVITY
+Casa del Rey Moro,ACTIVITY
+Castel dell’Ovo,ACTIVITY
+Cattedrale di San Giovanni Battista,ACTIVITY
+Cattedrale di Sant’Andrea,ACTIVITY
+Centro Histórico,ACTIVITY
+Chandni Chowk,ACTIVITY
+Chateau Estoublon,ACTIVITY
+Chateau La Coste Art Tour,ACTIVITY
+Chatuchak Weekend Market,ACTIVITY
+Che Guevara’nın evi ziyareti,ACTIVITY
+Cheverny Şatosu,ACTIVITY
+Chichen-Itza arkeolojik alanı ziyareti,ACTIVITY
+Chichu Sanat Müzesi,ACTIVITY
+Chiesa Anime Sante del Purgatorio,ACTIVITY
+Chiesa di Santa Maria delle Scale,ACTIVITY
+Château La Coste sanat ve mimari gezisi,ACTIVITY
+Château La Coste şarap evi ve bahçeleri ziyareti,ACTIVITY
+Château de Chambord,ACTIVITY
+Château de Chenonceau,ACTIVITY
+Château du Clos Lucé,ACTIVITY
+Ciutadella Park,ACTIVITY
+Clos de Lucé,ACTIVITY
+Comendadoras de Santiago,ACTIVITY
+Corso Umberto,ACTIVITY
+Coyoacan köyü ziyareti,ACTIVITY
+Coyoacán & Frida Kahlo Müzesi,ACTIVITY
+Cristo Redentor Heykeli - Corcovado,ACTIVITY
+Crystal Gallery,ACTIVITY
+Cu Chi Tünelleri gezisi,ACTIVITY
+Cumhurbaşkanlığı Sarayı,ACTIVITY
+Dali Müzesi ziyareti,ACTIVITY
+Damat Ali Paşa Türbesi,ACTIVITY
+Darling Harbour,ACTIVITY
+Designmuseum Danmark,ACTIVITY
+Devrim Müzesi ziyareti,ACTIVITY
+Deyrulzafaran Manastırı ziyareti,ACTIVITY
+Domaine Rion Armelle et Bernard - Şarap Tadımı,ACTIVITY
+Dominicans of Santo Domingo,ACTIVITY
+Doğu Bahçeler,ACTIVITY
+Duomo di San Giorgio,ACTIVITY
+EIFFEL TOWER,ACTIVITY
+Edfu Tapınağı,ACTIVITY
+El Alamillo Köprüsü,ACTIVITY
+El Tajo Kanyonu,ACTIVITY
+Elephanta Adası ve Trimurti heykeli ziyareti,ACTIVITY
+Elhamra Sarayı,ACTIVITY
+Elhamra Sarayı gezisi,ACTIVITY
+Eski PTT Binası gezisi,ACTIVITY
+Etna Yanardağı,ACTIVITY
+Ferrari Müzesi ziyareti ve test sürüşü,ACTIVITY
+Fikirbayır,ACTIVITY
+Fitzroy Gardens & Captain Cook’un Evi,ACTIVITY
+Flinders Chase National Park,ACTIVITY
+Floridita’da öğle yemeği ve daiquiri kokteyl tadımı,ACTIVITY
+Fonte Arethusa,ACTIVITY
+Frida Kahlo Müzesi ziyareti,ACTIVITY
+Fundació Suñol ziyareti,ACTIVITY
+Fundación Rodriguez-Acosta Sanat Müzesi,ACTIVITY
+Fushimi Inari Tapınağı ziyareti,ACTIVITY
+Ganj Nehri Aarti Töreni,ACTIVITY
+Gece Safarisi,ACTIVITY
+Geisha & Maiko Gösterisi,ACTIVITY
+Generalife Bahçeleri,ACTIVITY
+Giardini Iblei,ACTIVITY
+Ginza,ACTIVITY
+Giraffe Centre ziyareti,ACTIVITY
+Giraffe Manor’da zürafalarla kahvaltı ve ikindi çayı,ACTIVITY
+Giralda Kulesi,ACTIVITY
+Giza Piramitleri,ACTIVITY
+Golden Triangle Gezisi,ACTIVITY
+Golden Triangle bölgesi gezisi,ACTIVITY
+Gotik Mahallesi,ACTIVITY
+Grassl Likör Fabrikası,ACTIVITY
+Guggenheim Müzesi Gezisi,ACTIVITY
+Göreme Açık Hava Müzesi,ACTIVITY
+Güney Afrika Ulusal Müzesi (İziko),ACTIVITY
+Güney Afrika'nın İlk Parfüm Müzesi,ACTIVITY
+Hadrian Tapınağı,ACTIVITY
+Hamel Sokağı ziyareti,ACTIVITY
+Harabeler Parkı - Rio,ACTIVITY
+Hawa Mahal,ACTIVITY
+Hector Pieterson Müzesi ziyareti,ACTIVITY
+Hemingway’in La Finca evi ziyareti,ACTIVITY
+High Dam,ACTIVITY
+Hindistan Kapısı,ACTIVITY
+"Ho Chi Minh şehir turu: China Town, Thien Hau Tapınağı, Notre Dame Katedrali, Posta Merkezi, Belediye Tiyatrosu",ACTIVITY
+Hodri Meydan Kulesi,ACTIVITY
+Hohenstaufen Kalesi,ACTIVITY
+Huguenot Anıt Müzesi,ACTIVITY
+Humayun’un Mezarı,ACTIVITY
+Humayun’un Türbesi ziyareti,ACTIVITY
+Hyde Park,ACTIVITY
+Iglesia de Santa Lucía,ACTIVITY
+Iguazú Milli Parkı,ACTIVITY
+Iguazú Şelaleleri,ACTIVITY
+Iguazú Şelaleleri Milli Parkı,ACTIVITY
+Ihlara Vadisi,ACTIVITY
+Il Pio Monte della Misericordia,ACTIVITY
+Inle Gölü gezisi,ACTIVITY
+Iziko Müzesi ziyareti,ACTIVITY
+Jama Mescidi,ACTIVITY
+James Turrell enstalasyonu ziyareti,ACTIVITY
+Jantar Mantar,ACTIVITY
+Jardin Majorelle Bahçeleri gezisi,ACTIVITY
+Joan Miró Vakfı ziyareti,ACTIVITY
+Jordi Bernadó Atölye ziyareti,ACTIVITY
+Jose Fuster’in sanat mahallesi ziyareti,ACTIVITY
+Kalemegdan,ACTIVITY
+Kar Mobili Safarisi,ACTIVITY
+Karaköy,ACTIVITY
+Karen Blixen Müzesi ziyareti,ACTIVITY
+Karnak Tapınağı,ACTIVITY
+Kashi Vishwanath Tapınağı,ACTIVITY
+Kasuga Taisha,ACTIVITY
+Kasımiye Medresesi ziyareti,ACTIVITY
+Kayaking özel turu,ACTIVITY
+Kaymaklı Yeraltı Şehri,ACTIVITY
+Key Museum,ACTIVITY
+Keşlik Manastırı,ACTIVITY
+Khan El Khalili Çarşısı,ACTIVITY
+Kinkaku-ji,ACTIVITY
+Kirstenbosch Ulusal Botanik Bahçesi,ACTIVITY
+Kirstenbosch Ulusal Botanik Bahçesi gezisi,ACTIVITY
+Kiyomizu Tapınağı,ACTIVITY
+Kom Ombo Tapınağı,ACTIVITY
+Kowloon Turu,ACTIVITY
+Kukulkan Piramidi,ACTIVITY
+Küba sokaklarında klasik Amerikan arabalarıyla gezi,ACTIVITY
+Kültür Sokağı ve Uçurtma Atölyesi gezisi,ACTIVITY
+Kızıl Vadi,ACTIVITY
+LUMA Müzesi,ACTIVITY
+La Boca,ACTIVITY
+La Boca Semti,ACTIVITY
+La Casa de Salvador Dalí - Port Lligat gezisi,ACTIVITY
+La Concha Plajı,ACTIVITY
+La Motte Şarap Tadımı,ACTIVITY
+La Rambla,ACTIVITY
+Lacquer ware atölyesi ziyareti,ACTIVITY
+Lamborghini Müzesi gezisi,ACTIVITY
+Lantau Adası Turu,ACTIVITY
+Laxmi Narayan Tapınağı,ACTIVITY
+Leblon Plajı,ACTIVITY
+Lee Ufan Müzesi,ACTIVITY
+Les Archives du Coeur,ACTIVITY
+Les Deux Garçons’da kahve molası,ACTIVITY
+Loch Ness,ACTIVITY
+MACBA - Museu d’Art Contemporani de Barcelona ziyareti,ACTIVITY
+Machiya deneyimi,ACTIVITY
+Macquarie Caddesi,ACTIVITY
+Macuco Safarisi,ACTIVITY
+Malgaca Pazarı,ACTIVITY
+Maniace Kalesi,ACTIVITY
+Marakeş şehir gezisi,ACTIVITY
+Maria Luisa Parkı,ACTIVITY
+Masa Dağı,ACTIVITY
+Matjiesfontein Köyü,ACTIVITY
+Meiji Shrine,ACTIVITY
+Meiji Tapınağı,ACTIVITY
+Mekong Nehri Tekne Gezisi,ACTIVITY
+Merkez Postane,ACTIVITY
+Midnight Sun Safari,ACTIVITY
+Mirabeau Caddesi’nde gezinti,ACTIVITY
+Mirabel Sarayı ve Bahçesi,ACTIVITY
+Miyashita Park,ACTIVITY
+Monkey Park Iwatayama,ACTIVITY
+Monte Hisarı,ACTIVITY
+Mor Gabriel Manastırı ziyareti,ACTIVITY
+Mori Art Museum,ACTIVITY
+Mori Sanat Müzesi ve Sky Deck ziyareti,ACTIVITY
+Mount Wellington,ACTIVITY
+Mozart’ın Evi,ACTIVITY
+Mrs Macquarie’s Chair,ACTIVITY
+Mucem Müzesi ziyareti,ACTIVITY
+Mukuni Village Gezisi,ACTIVITY
+Munch Müzesi,ACTIVITY
+Museu da Chácara do Céu,ACTIVITY
+Museum of Contemporary Art,ACTIVITY
+Museum of Yugoslav History,ACTIVITY
+Muson Sarayı,ACTIVITY
+Musée du Vin de Bourgogne,ACTIVITY
+Mısır Müzesi,ACTIVITY
+Naiku ve Geku Shinto tapınakları ziyareti,ACTIVITY
+Nakamise Alışveriş Caddesi,ACTIVITY
+Nasrid Sarayı,ACTIVITY
+National Art Centre,ACTIVITY
+Necati Cumali Anı Evi,ACTIVITY
+Nelson Mandela Meydanı gezisi,ACTIVITY
+Nesin Matematik Köyü,ACTIVITY
+Ngoc Son Pagoda ziyareti,ACTIVITY
+Nikola Tesla Müzesi,ACTIVITY
+Nil Nehri Sıcak Hava Balonu,ACTIVITY
+Nishiki Pazarı ziyareti,ACTIVITY
+Noel Pazarları,ACTIVITY
+OLD TOWN WALK,ACTIVITY
+Odeon,ACTIVITY
+Old Town,ACTIVITY
+Omotesando,ACTIVITY
+Ortigia Adası,ACTIVITY
+Ortigia Meydanı,ACTIVITY
+Ota Memorial Museum of Art,ACTIVITY
+Owakudani Vadisi,ACTIVITY
+Oxford Caddesi,ACTIVITY
+Paddington,ACTIVITY
+Palacio de Bellas Artes,ACTIVITY
+Palais des Papes ziyareti,ACTIVITY
+Palazzo Reale,ACTIVITY
+Palazzo Vecchio,ACTIVITY
+Palazzo dei Celestini,ACTIVITY
+Palazzo della Cancelleria,ACTIVITY
+Palermo,ACTIVITY
+Palermo Soho,ACTIVITY
+Park Güell,ACTIVITY
+Parmesan peyniri tadımı,ACTIVITY
+Parque de Santa Lucía,ACTIVITY
+Partal,ACTIVITY
+Pepe Plajı,ACTIVITY
+Phaung Daw Oo Pagoda ziyareti,ACTIVITY
+Philae Tapınağı,ACTIVITY
+Piazza Duomo,ACTIVITY
+Piazza IX Aprile,ACTIVITY
+Piazza Tasso,ACTIVITY
+Piazza dei Dogi,ACTIVITY
+Piazza della Signoria,ACTIVITY
+Piazza dello Spirito Santo,ACTIVITY
+Picasso Müzesi ziyareti,ACTIVITY
+Picasso Pavilion,ACTIVITY
+Picasso Pavilion sergisi,ACTIVITY
+Pichola Gölü,ACTIVITY
+Planetarium,ACTIVITY
+Plaza Catalunya,ACTIVITY
+Plaza Dorrego,ACTIVITY
+Plaza España,ACTIVITY
+Plaza Grande,ACTIVITY
+Plaza Manuel Tolsá,ACTIVITY
+Plaza de Armas,ACTIVITY
+Plaza de Mayo,ACTIVITY
+Poble Espanyol gezisi,ACTIVITY
+Polanco,ACTIVITY
+Porta Catania,ACTIVITY
+Porta Messina,ACTIVITY
+Prado Caddesi ziyareti,ACTIVITY
+Provence manzaraları ve şato ziyareti,ACTIVITY
+Ranakpur Jain Tapınakları ziyareti,ACTIVITY
+Rancho San Vicente restoranda öğle yemeği,ACTIVITY
+Realejo Mahallesi,ACTIVITY
+Recoleta Mezarlığı,ACTIVITY
+Recoleta Semti,ACTIVITY
+Rehberli hiking ve çevre gezisi,ACTIVITY
+Residenzplatz & DomQuartier,ACTIVITY
+Rojo Tango Gösterisi,ACTIVITY
+Royal Compound,ACTIVITY
+SAGRADA FAMILIA,ACTIVITY
+SOFIA OLD TOWN,ACTIVITY
+ST. MARK'S SQUARE,ACTIVITY
+SUNRISE VIEWPOINT,ACTIVITY
+Sabah Safari,ACTIVITY
+Sabah ve Akşam Safarileri,ACTIVITY
+Sabah ve akşam safarileri,ACTIVITY
+Sabah ve akşam safarileri (Sabi Sand Game Reserve),ACTIVITY
+Sabi Sabi’de sabah ve akşam safari turları,ACTIVITY
+Sagrada Familia,ACTIVITY
+Saint Nicholas Bazilikası,ACTIVITY
+Saint-Baudèle Kilisesi,ACTIVITY
+Saint-Flocel Kilisesi,ACTIVITY
+Saint-Martin de l’Aigue Kilisesi,ACTIVITY
+Saint-Paul de Mausole ziyareti,ACTIVITY
+Sainte-Madeleine Kilisesi,ACTIVITY
+Sakıp Sabancı Müzesi ziyareti,ACTIVITY
+Sala’s Camp konaklamasında vahşi yaşam deneyimleri,ACTIVITY
+Salzberg Dağı & Tuz Madeni Ziyareti,ACTIVITY
+San Giuseppe Kilisesi,ACTIVITY
+San Ildefonso Katedrali,ACTIVITY
+San Ildefonso Katedrali ziyareti,ACTIVITY
+San Sabino Katedrali,ACTIVITY
+San Telmo,ACTIVITY
+San Telmo Semti,ACTIVITY
+Sanat atölyeleri ve butik mağazalar,ACTIVITY
+Sanctuary Olonana’da doğa aktiviteleri ve safari,ACTIVITY
+Sant'Oronzo Meydanı,ACTIVITY
+Santa Croce Bazilikası,ACTIVITY
+Santa Maria del Fiore Katedrali,ACTIVITY
+Santa Maria dello Spasimo Kilisesi,ACTIVITY
+Santa Teresa Semti - Rio,ACTIVITY
+Sao Conrado Plajı,ACTIVITY
+Sarnath,ACTIVITY
+Sea Eagle RIB Boat Safari,ACTIVITY
+Seal Bay Conservation Park,ACTIVITY
+Sedile Dominova,ACTIVITY
+Selime Köyü,ACTIVITY
+Senado Meydanı,ACTIVITY
+Senso-ji Tapınağı,ACTIVITY
+Senso-ji Tapınağı ve Nakamise alışveriş caddesi ziyareti,ACTIVITY
+Shibuya Sky,ACTIVITY
+Shinjuku Gyoen Park,ACTIVITY
+Shwedagon Pagoda ziyareti,ACTIVITY
+Sokullu Mehmet Paşa Çeşmesi,ACTIVITY
+Soğanlı Vadisi,ACTIVITY
+St. Andrews Katedrali,ACTIVITY
+St. Mary Katedrali,ACTIVITY
+Stambol Kapısı,ACTIVITY
+Strada delle Orecchiette,ACTIVITY
+Strathisla Distillery,ACTIVITY
+Sugar Loaf Dağı,ACTIVITY
+Sullivan’s Cove,ACTIVITY
+Sun Yat Sen’in Müze Evi,ACTIVITY
+Sunset Electric Dragon Boat Experience - Jubail Mangrove Park,ACTIVITY
+Sunset Safari Cruise,ACTIVITY
+Syracuse Katedrali,ACTIVITY
+TOPKAPI PALACE,ACTIVITY
+Ta Prohm Tapınağı ziyareti,ACTIVITY
+Takeshita Street,ACTIVITY
+Tam gün safari,ACTIVITY
+Tanju Okan Parkı,ACTIVITY
+Tapınaklar ve Şehir Gezisi,ACTIVITY
+Taşkınpaşa Medresesi,ACTIVITY
+Te Puia Maori Dansı ve Gayzerler,ACTIVITY
+TeamLab Borderless ziyareti,ACTIVITY
+TeamLab Planets,ACTIVITY
+Teatro Greco,ACTIVITY
+Tekila & Mezcal Tadımı,ACTIVITY
+Temple of Literature ziyareti,ACTIVITY
+Templo Mayor,ACTIVITY
+Tenryu-ji Tapınağı,ACTIVITY
+The Mall Firenze outlet gezisi,ACTIVITY
+The Market Restaurant’ta Vietnam yemek kursu,ACTIVITY
+The Rocks,ACTIVITY
+Thien Canh Son Cave ziyareti,ACTIVITY
+Thonburi Kanalları tekne turu,ACTIVITY
+Tigre Delta Tekne Gezisi,ACTIVITY
+Tijuca Ormanı ve Vista Chinesa,ACTIVITY
+Todai-ji Tapınağı ziyareti,ACTIVITY
+Tonle Sap Gölü yüzen köy ziyareti,ACTIVITY
+Topkapı Sarayı,ACTIVITY
+Toskana kasabaları ve doğa gezileri,ACTIVITY
+Tra Que Organic Village bisiklet turu,ACTIVITY
+Traian Çeşmesi,ACTIVITY
+Tuna & Sava Nehirlerinin Birleşim Noktası,ACTIVITY
+Tuna Nehri Tekne Gezisi,ACTIVITY
+Two Oceans Aquarium,ACTIVITY
+Uffizi Galerisi,ACTIVITY
+Ulu Camii ziyareti,ACTIVITY
+Ulusal Müze,ACTIVITY
+Ulusal Saray ve Diego Rivera duvar resimleri ziyareti,ACTIVITY
+Ulusal Tarih Müzesi,ACTIVITY
+Uçhisar,ACTIVITY
+Vaftizhane (Battistero di San Giovanni),ACTIVITY
+Van Gogh Müzesi,ACTIVITY
+Vespa ile gece turu ve Banh Xeo tadımı,ACTIVITY
+Vezüv Yanardağı,ACTIVITY
+Vigeland Heykel Parkı,ACTIVITY
+Villa Comunale Bahçeleri,ACTIVITY
+Villandry Şatosu,ACTIVITY
+Vista Chinesa,ACTIVITY
+Volcanoes & Temples Turu (Helikopter),ACTIVITY
+Volvo EX90 sunumu ve sürüş deneyimi,ACTIVITY
+Volvo etkinlikleri,ACTIVITY
+War Remnants Museum ziyareti,ACTIVITY
+Wat Arun (Şafak Tapınağı) ziyareti,ACTIVITY
+Wat Chedi Luangis,ACTIVITY
+Wat Pho (Yatan Buda Tapınağı) gezisi,ACTIVITY
+Wat Pho Tapınağı,ACTIVITY
+Wat Phra Kaew,ACTIVITY
+Wat Phra That Doi Suthep,ACTIVITY
+Wat Ratchabophit,ACTIVITY
+Wat Rong Khun,ACTIVITY
+Wat Suan Dok Tapınağı,ACTIVITY
+Water Puppet gösterisi,ACTIVITY
+Westlake bölgesi turu (vintage jeep ile),ACTIVITY
+Weta Workshop,ACTIVITY
+Xavi Bou Atölye ziyareti,ACTIVITY
+Xochimilco yüzen bahçeleri gezisi,ACTIVITY
+Yerebatan Sarnıcı,ACTIVITY
+Yorgo Seferis’in doğduğu ev,ACTIVITY
+Yucatan Valilik Sarayı duvar resimleri ziyareti,ACTIVITY
+Yves Saint Laurent Müzesi ziyareti,ACTIVITY
+Zeitz MOCAA ziyareti,ACTIVITY
+Zeitz Museum of Contemporary Art Africa,ACTIVITY
+Zeitz Çağdaş Sanatlar Müzesi,ACTIVITY
+Zinciriye Medresesi ziyareti,ACTIVITY
+Zurriola Plajı,ACTIVITY
+Zócalo Meydanı,ACTIVITY
+Zócalo ve Metropolitan Katedrali ziyareti,ACTIVITY
+Çöl Safarisi,ACTIVITY
+Çölde Akşam Yemeği,ACTIVITY
+Öğle Safarisi,ACTIVITY
+Öğleden sonra safari,ACTIVITY
+Şarap Mahzenleri,ACTIVITY
+Şarap tadımları,ACTIVITY
+Buenos Aires Modern Sanat Müzesi,ACTIVITY
+Plaza de Mayo - Buenos Aires,ACTIVITY
+Tango Gösterisi - Buenos Aires,ACTIVITY
+Cape Horn,ACTIVITY
+Magdalena Adası,ACTIVITY
+Santiago Katedrali,ACTIVITY
+Blue Lagoon,ACTIVITY
+Fjallsárlón Glacier Lagoon,ACTIVITY
+Goðafoss Şelalesi,ACTIVITY
+Ice Cave,ACTIVITY
+Jökulsárlón Glacier Lagoon,ACTIVITY
+Kerid Crater Lake,ACTIVITY
+Skaftafell National Park,ACTIVITY
+Svartifoss Şelalesi,ACTIVITY
+Bo-Kaap Mahallesi,ACTIVITY
+Boulders Beach - Penguenler,ACTIVITY
+Camps Bay Plajı,ACTIVITY
+Cape Point,ACTIVITY
+Cape Town & Masa Dağı Gezisi,ACTIVITY
+Cape Town Belediye Binası,ACTIVITY
+Cape Town Graffiti Street Art Turu,ACTIVITY
+Cape Town V&A Waterfront gezisi,ACTIVITY
+Cape Town Şehir Gezisi,ACTIVITY
+Cape Town şehir turu,ACTIVITY
+Cape Town şehir turu ve çevre gezileri,ACTIVITY
+Chapman’s Peak Drive,ACTIVITY
+Franschhoek,ACTIVITY
+Hout Bay & Seal Island,ACTIVITY
+Iziko Güney Afrika Müzesi ve Planetaryum,ACTIVITY
+Masa Dağı (Table Mountain),ACTIVITY
+Stellenbosch Vadisi Şarap Bağları,ACTIVITY
+V&A Waterfront,ACTIVITY
+Ümit Burnu Kalesi,ACTIVITY
+Franschhoek ve Stellenbosch şarap bağları gezisi,ACTIVITY
+Stellenbosch Şarap Evleri,ACTIVITY
+Stellenbosch şarap bağları gezisi,ACTIVITY
+Stellenbosch şarap bağları turu,ACTIVITY
+Franschhoek Motor Müzesi,ACTIVITY
+Franschhoek Şarap Bağları,ACTIVITY
+Franschhoek Şarap Bağları ve Galeriler,ACTIVITY
+Kimberley Diamond Mine & Big Hole,ACTIVITY
+Serengeti Ulusal Parkı Safari,ACTIVITY
+Casa Milà,ACTIVITY
+La Sagrada Familia,ACTIVITY
+Biarritz Gezisi,ACTIVITY
+Biarritz Grande Plage,ACTIVITY
+Biarritz Şehir Turu,ACTIVITY
+Casino Municipal - Biarritz,ACTIVITY
+Chapelle Impériale - Biarritz,ACTIVITY
+Musée Asiatica - Biarritz,ACTIVITY
+Saint Jean De Luz Gezisi,ACTIVITY
+San Sebastian Şehir Gezisi,ACTIVITY
+Auckland Şehir Gezisi,ACTIVITY
+Queenstown Panoramik Gezisi,ACTIVITY
+Botanik Bahçeleri - Sydney,ACTIVITY
+Hyde Park Barracks - Sydney,ACTIVITY
+Sydney Harbour Bridge,ACTIVITY
+Sydney Harbour Tekne Turu & Havai Fişek Gösterisi,ACTIVITY
+Sydney Köprüsü,ACTIVITY
+Sydney Opera Binası,ACTIVITY
+Sydney Opera Binası & Harbour Bridge,ACTIVITY
+Sydney Opera House,ACTIVITY
+Ulusal Müze - Sydney,ACTIVITY
+Bergen Market Square & Balık Pazarı,ACTIVITY
+Flåm Railway Museum,ACTIVITY
+Oslo Opera Binası,ACTIVITY
+David Livingstone Müzesi,ACTIVITY
+Teshima Sanat Müzesi,ACTIVITY
+Teshima Yokoo Evi,ACTIVITY
+Luxor East Bank Gezisi,ACTIVITY
+Luxor Tapınağı,ACTIVITY
+Ravello - Villa Cimbrone Bahçesi,ACTIVITY
+Ravello - Villa Rufolo,ACTIVITY
+Pompei Antik Kenti,ACTIVITY
+Pompei Şehri Ziyareti,ACTIVITY
+Duomo di Napoli,ACTIVITY
+Napoli Tarihi Merkezi,ACTIVITY
+Napoli Şehri Gezisi,ACTIVITY
+Amalfi Kasabası Gezisi,ACTIVITY
+Tam Gün Tekne Gezisi,ACTIVITY
+Sorrento Gezisi,ACTIVITY
+Sorrento Peninsula Arkeoloji Müzesi,ACTIVITY
+Amboise Şatosu,ACTIVITY
+Château de Blois,ACTIVITY
+Loire Vadisi Balon Turu,ACTIVITY
+Loire Vadisi Şarap Bağları,ACTIVITY
+Tours Şehri Gezisi,ACTIVITY
+Brugge Gezisi,ACTIVITY
+Gent Gezisi,ACTIVITY
+Hallstatt Gezisi,ACTIVITY
+Atlı Kızak Turu (St Wolfgang),ACTIVITY
+Salzburg Kalesi,ACTIVITY
+Salzbergwerk Berchtesgaden,ACTIVITY
+Belgrad Şehir Gezisi,ACTIVITY
+Karlofca Gezisi,ACTIVITY
+Novi Sad Gezisi,ACTIVITY
+Efes Antik Kenti,ACTIVITY
+Şirince Köyü,ACTIVITY
+Şirince Çarşısı,ACTIVITY
+Inverness Kalesi,ACTIVITY
+Inverness Müzesi ve Sanat Galerisi,ACTIVITY
+Chiang Rai Gezisi,ACTIVITY
+Chiang Rai fil kampı ziyareti,ACTIVITY
+"Chiang Rai’de fil sürüşü, Altın Üçgen gezisi veya yemek kursu",ACTIVITY
+Bangkok Kanalları Gezisi,ACTIVITY
+Bangkok kanal turu (Thonburi Klongs) ve Chao Phraya Nehri gezisi,ACTIVITY
+Bangkok Şehir Gezisi,ACTIVITY
+Bangkok şehir turu,ACTIVITY
+Bangkok şehir turu ve alışveriş aktiviteleri,ACTIVITY
+"Bangkok şehir turu: Wat Arun, Wat Pho, Çin Mahallesi",ACTIVITY
+Bangkok’ta Grand Palace & Wat Phra Kaew ziyareti,ACTIVITY
+Damnoen Saduak yüzen pazar ziyareti (Bangkok),ACTIVITY
+Grand Palace & Wat Phra Kaew - Bangkok,ACTIVITY
+Pak Khlong Talat Çiçek Pazarı - Bangkok,ACTIVITY
+Royal Barge Ulusal Müzesi - Bangkok,ACTIVITY
+Wang Lang Market - Bangkok,ACTIVITY
+Wat Arun Tapınakları - Bangkok,ACTIVITY
+Wat Pho Tapınağı - Bangkok,ACTIVITY
+Wat Suthat Tapınağı - Bangkok,ACTIVITY
+Çiçek Kültürü Müzesi - Bangkok,ACTIVITY
+Hakone Açık Hava Müzesi,ACTIVITY
+Hakone Açık Hava Müzesi ziyareti,ACTIVITY
+Hakone Teleferiği,ACTIVITY
+Nara Park,ACTIVITY
+Avignon Gezisi,ACTIVITY
+Les Baux-de-Provence Gezisi,ACTIVITY
+L'Isle-sur-la-Sorgue Gezisi,ACTIVITY
+Alberobello Trulli Evleri,ACTIVITY
+Trulli Evleri - Alberobello,ACTIVITY
+Matera Gezisi,ACTIVITY
+Matera Kaya Evleri,ACTIVITY
+Matera Kiliseleri ve Mağaraları,ACTIVITY
+Monopoli Gezisi,ACTIVITY
+Monopoli Tarihi Merkezi,ACTIVITY
+Domenico Modugno Heykeli - Polignano a Mare,ACTIVITY
+Polignano a Mare,ACTIVITY
+Polignano a Mare Gezisi,ACTIVITY
+Lecce Şehir Gezisi,ACTIVITY
+Palazzo dei Celestini - Lecce,ACTIVITY
+Roma Amfi Tiyatrosu - Lecce,ACTIVITY
+San Giuseppe Kilisesi - Lecce,ACTIVITY
+Santa Croce Bazilikası - Lecce,ACTIVITY
+Sant’Oronzo Meydanı - Lecce,ACTIVITY
+Bari Şehir Gezisi,ACTIVITY
+L’Isle-sur-la-Sorgue Gezisi,ACTIVITY
+Gordes ve Roussillon köy gezileri,ACTIVITY
+Roussillon Gezisi,ACTIVITY
+Roussillon ve Gordes gezisi,ACTIVITY
+Gordes Gezisi,ACTIVITY
+Saint-Rémy-de-Provence Gezisi,ACTIVITY
+Arles Gezisi,ACTIVITY
+Arles Luma Müzesi ziyareti,ACTIVITY
+Arles şehir gezisi,ACTIVITY
+Fondation Vincent van Gogh Arles ziyareti,ACTIVITY
+Ai Weiwei sergisi,ACTIVITY
+Arsenale ana sergi turu,ACTIVITY
+Galleria dell’Accademia,ACTIVITY
+Giardini Bienali,ACTIVITY
+Giardini ana sergi turu,ACTIVITY
+Palazzo Manfrin,ACTIVITY
+Peggy Guggenheim Müzesi,ACTIVITY
+"Personal Structures, Palazzo Bembo sergisi",ACTIVITY
+Venedik Bienali ülke pavyonları turu,ACTIVITY
+Dubai Autodrome Circuit,ACTIVITY
+Dubai Creek – Old Town,ACTIVITY
+Dubai Mall,ACTIVITY
+Museum of the Future,ACTIVITY
+New Year's Eve Celebration - The Restaurant at Address Dubai Mall,ACTIVITY
+Urla Sanat Sokağı,ACTIVITY
+Antinori nel Chianti Classico Şaraphanesi,ACTIVITY
+Chianti bölgesinde üzüm bağları ve köyler,ACTIVITY
+San Gimignano UNESCO Dünya Mirası,ACTIVITY
+San Gimignano gezisi,ACTIVITY
+San Gimignano kasabası gezisi,ACTIVITY
+Siena Şehir Merkezi,ACTIVITY
+Siena şehir turu,ACTIVITY
+Cortona Tarihi Sokaklar,ACTIVITY
+Orvieto Katedrali,ACTIVITY
+Orvieto Yer Altı Tünelleri,ACTIVITY
+City Palace - Jaipur,ACTIVITY
+Jaipur Amber Kalesi ziyareti,ACTIVITY
+Jaipur City Palace gezisi,ACTIVITY
+Jaipur City Palace ziyareti,ACTIVITY
+Jaipur şehir turu,ACTIVITY
+City Palace - Udaipur,ACTIVITY
+Udaipur City Palace ve göl çevresi gezisi,ACTIVITY
+Udaipur City Palace ziyareti,ACTIVITY
+Udaipur göl gezileri ve saray ziyareti,ACTIVITY
+Udaipur göl gezisi,ACTIVITY
+Chichen Itza,ACTIVITY
+Godfather Film Kilisesi - Savoca,ACTIVITY
+Savoca köyü gezisi,ACTIVITY
+Forza d’Agrò Ortaçağ Köyü,ACTIVITY
+Piazza del Municipio - Forza d’Agrò,ACTIVITY
+Ragusa Ibla,ACTIVITY
+Batalha Meydanı,ACTIVITY
+Boavista,ACTIVITY
+Churchill Graham Şaraphanesi,ACTIVITY
+Foz do Douro,ACTIVITY
+Gaia Şarap Evleri,ACTIVITY
+Lello Kütüphanesi,ACTIVITY
+Liberdade Meydanı,ACTIVITY
+Palácio da Bolsa,ACTIVITY
+Porto Katedrali,ACTIVITY
+Ribeira Bölgesi,ACTIVITY
+Santa Catarina Caddesi,ACTIVITY
+Serralves Müzesi,ACTIVITY
+Six Bridges Tekne Turu,ACTIVITY
+São Bento Tren İstasyonu,ACTIVITY
+São Francisco Kilisesi,ACTIVITY
+Torre dos Clérigos,ACTIVITY
+Tuktuk Gezisi & Rehberli Yürüyüş Turu,ACTIVITY
+Büyük Mısır Müzesi,ACTIVITY
+Deve Gezisi - Piramitler,ACTIVITY
+El Refaei Camii,ACTIVITY
+"Giza Piramitleri gezisi (Keops, Kefren, Mikerinos)",ACTIVITY
+Kahire şehir gezisi,ACTIVITY
+Khufu Piramidi,ACTIVITY
+Mısır Müzesi - Eski Müze,ACTIVITY
+Nil Nehri Felucca Tekne Gezisi,ACTIVITY
+Sfenks,ACTIVITY
+Sfenks ziyareti,ACTIVITY
+Sultan Hassan Camii,ACTIVITY
+"Granada şehir merkezi turu (Realejo Mahallesi, Capilla Real, Katedral, Madraza)",ACTIVITY
+Las Granadas Kapısı,ACTIVITY
+Alcazar Kalesi - Córdoba,ACTIVITY
+Mezquita Camii - Córdoba,ACTIVITY
+Musevi Mahallesi - Córdoba,ACTIVITY
+Plaza Corredera - Córdoba,ACTIVITY
+Alcázar - Sevilla,ACTIVITY
+Sevilla Katedrali,ACTIVITY
+Sevilla şehir turu,ACTIVITY
+Plaza de Toros - Ronda,ACTIVITY
+Puente Nuevo - Ronda,ACTIVITY
+Ronda Tarihi Sokakları,ACTIVITY
+Ronda gezisi,ACTIVITY
+Melbourne Müzesi,ACTIVITY
+Parlamento ve Hazine Binası - Melbourne,ACTIVITY
+Royal Exhibition Binası - Melbourne,ACTIVITY
+Sanat Galerisi - Melbourne,ACTIVITY
+Anayasa Limanı - Hobart,ACTIVITY
+Franklin Meydanı - Hobart,ACTIVITY
+Alman Kasabası Hahndorf,ACTIVITY
+Barossa Valley Şarap Bağları,ACTIVITY
+Brisbane Şehir Turu,ACTIVITY
+Surfers Paradise - Gold Coast,ACTIVITY
+Canberra Şehir Turu,ACTIVITY
+Girona Gotik Katedrali,ACTIVITY
+Locorotondo Şehir Gezisi,ACTIVITY
+Duomo Meydanı - Ortigia,ACTIVITY
+Ortigia Roma Amfi Tiyatrosu,ACTIVITY
+Chiesa di San Carlo - Noto,ACTIVITY
+Chiesa di San Francesco - Noto,ACTIVITY
+Corso Vittorio Emanuele - Noto,ACTIVITY
+Duomo - Noto,ACTIVITY
+MAT Museum - Noto,ACTIVITY
+Palazzo Ducezio - Noto,ACTIVITY
+Palazzo Nicolaci - Noto,ACTIVITY
+Latomie - Siracusa,ACTIVITY
+Roma Amfi Tiyatrosu - Siracusa,ACTIVITY
+Siracusa Arkeoloji Parkı,ACTIVITY
+Siracusa ve Noto ziyaretleri,ACTIVITY
+Yunan Tiyatrosu - Siracusa,ACTIVITY
+Taormina Gezisi,ACTIVITY
+Taormina şehir turu,ACTIVITY
+Beagle Kanalı - Ushuaia,ACTIVITY
+Tierra del Fuego Milli Parkı - Ushuaia,ACTIVITY
+Peninsula Valdes - Puerto Madryn,ACTIVITY
+Aziz Paulo Katedrali Harabesi - Macau,ACTIVITY
+Macau Casinoları,ACTIVITY
+Macau Kulesi,ACTIVITY
+Macau Müzesi,ACTIVITY
+Macau Şarap Müzesi,ACTIVITY
+Hong Kong Miras Müzesi,ACTIVITY
+Lam Tsuen Dilek Ağacı - Hong Kong,ACTIVITY
+Tai Po Old Market - Hong Kong,ACTIVITY
+Wong Tai Sin Tapınağı - Hong Kong,ACTIVITY
+Bhaktapur - Katmandu,ACTIVITY
+Pashupatinath Tapınağı - Katmandu,ACTIVITY
+Taktsang (Tiger’s Nest) Manastırı - Paro,ACTIVITY
+Punakha Dzong - Punakha,ACTIVITY
+Thimphu Şehir Turu,ACTIVITY
+Bilbao Şehir Turu,ACTIVITY
+Guggenheim Müzesi - Bilbao,ACTIVITY
+Igueldo Tepesi - San Sebastián,ACTIVITY
+Kursaal Oditoryumu - San Sebastián,ACTIVITY
+La Bretxa Food Market - San Sebastián,ACTIVITY
+La Concha Plajı - San Sebastián,ACTIVITY
+Miramar Sarayı - San Sebastián,ACTIVITY
+Monte Igueldo - San Sebastián,ACTIVITY
+Monte Urgull - San Sebastián,ACTIVITY
+Parte Vieja - San Sebastián,ACTIVITY
+San Sebastián Şehir Gezisi,ACTIVITY
+San Telmo Müzesi - San Sebastián,ACTIVITY
+Victoria Eugenia Tiyatrosu - San Sebastián,ACTIVITY
+Hondarribia Eski Şehir ve Surlar,ACTIVITY
+Eglise Saint-Jean-Baptiste - Saint-Jean-de-Luz,ACTIVITY
+Place Louis XIV - Saint-Jean-de-Luz,ACTIVITY
+Quai de l’Infante - Saint-Jean-de-Luz,ACTIVITY
+Rue Gambetta - Saint-Jean-de-Luz,ACTIVITY
+Rue Mazarin - Saint-Jean-de-Luz,ACTIVITY
+Saint-Jean-de-Luz Plajları,ACTIVITY
+Sanat Galerileri - Saint-Jean-de-Luz,ACTIVITY
+Hospices de Beaune (Hôtel-Dieu),ACTIVITY
+Musée des Beaux-Arts - Beaune,ACTIVITY
+Notre-Dame Kilisesi - Beaune,ACTIVITY
+Musée des Beaux-Arts - Dijon,ACTIVITY
+Notre-Dame Kilisesi - Dijon,ACTIVITY
+Palais des ducs de Bourgogne - Dijon,ACTIVITY
+Rue de la Liberté - Dijon,ACTIVITY
+Saint-Bénigne Katedrali - Dijon,ACTIVITY
+Saint-Michel Kilisesi - Dijon,ACTIVITY
+Saint-Philibert Kilisesi - Dijon,ACTIVITY
+Beffroi Meydanı - Nuits-Saint-Georges,ACTIVITY
+Église Saint-Symphorien - Nuits-Saint-Georges,ACTIVITY
+Abbaye Sainte-Marie-Madeleine - Vézelay,ACTIVITY
+Colline Éternelle - Vézelay Şarap Tadımı,ACTIVITY
+Benedictine Manastırı - Cluny,ACTIVITY
+Hôtel-Dieu - Cluny,ACTIVITY
+Musée d’Art et d’Archéologie - Cluny,ACTIVITY
+Tour de Fromages - Cluny,ACTIVITY
+Beaujolais Şarap Bağları - Fleurie,ACTIVITY
+Cristóbal Balenciaga Museoa - Getaria,ACTIVITY
+Gaztetape Plajı - Getaria,ACTIVITY
+Getaria Balıkçı Köyü,ACTIVITY
+Malkorbe Plajı - Getaria,ACTIVITY
+Aurora Borealis Macerası,ACTIVITY
+Cam Igloo Deneyimi,ACTIVITY
+Husky Safari,ACTIVITY
+Kar Ayakkabısı Yürüyüşü,ACTIVITY
+Kar Bisikleti Turu,ACTIVITY
+Kicksled Deneyimi,ACTIVITY
+Kızaklı Sandalye,ACTIVITY
+Reindeer Safari,ACTIVITY
+Santa Claus Village Gezisi,ACTIVITY
+Snowmobile Safari,ACTIVITY
+Game Drives - Masai Mara,ACTIVITY
+Masai Mara Safari,ACTIVITY
+Masai Mara’da safari ve game drive aktiviteleri,ACTIVITY
+Volcanoes National Park Gorilla Trekking,ACTIVITY
+Kigali Şehir Turu,ACTIVITY
+"09 Kasım 2022: Bairro Alto Hotel transfer, check-in ve serbest zaman",ACTIVITY
+09 Kasım 2022: İstanbul – Lizbon uçuşu (TK 1759),ACTIVITY
+İstanbul – Katanya uçuşu TK 1395,ACTIVITY
+Etna Yanardağı gezisi,ACTIVITY
+Modica ve Ragusa turları,ACTIVITY
+Valletta şehir turu,ACTIVITY
+"Senglea, Vittoriosa ve Cospicua üçlü gezisi",ACTIVITY
+Mdina şehir turu,ACTIVITY
+Hanoi By Night turu,ACTIVITY
+Hanoi şehir turu,ACTIVITY
+"Hanoi şehir turu: Ho Chi Minh Mozolesi, Başkanlık Sarayı, Tek Sütunlu Pagoda, Edebiyat Tapınağı",ACTIVITY
+"Hanoi şehir turu: Ho Chi Minh Mozolesi, kazık ev, Tek Sütunlu Pagoda, Edebiyat Tapınağı",ACTIVITY
+"Hanoi şehir turu: Opera Binası, Edebiyat Tapınağı, Etnoloji Müzesi, Eski Mahalle",ACTIVITY
+Hanoi’de pedallı taksi (rikşov) gezisi,ACTIVITY
+Ha Long Körfezi’nde deniz uçağı ile ulaşım ve Violet Cruise konaklaması,ACTIVITY
+"Ha Long Körfezi’nde mağara keşfi, yüzme ve balık avı",ACTIVITY
+"Mekong Deltası bot turu, tropik meyve bahçeleri, noodle yapımı",ACTIVITY
+"Mekong Deltası gezisi: bot turları, noodle yapımı, meyve bahçeleri, yerel aile ziyareti",ACTIVITY
+"Siem Reap (Angkor) gezisi: Angkor Thom, Bayon Tapınağı, Baphuon, Kraliyet Sarayı, Fil Terası",ACTIVITY
+Siem Reap Angkor Wat ziyareti,ACTIVITY
+"Siem Reap’te Angkor Wat, Angkor Thom, Bayon ve Ta Prohm gezileri",ACTIVITY
+"Phnom Penh şehir turu: Artisan D’Angkor el işi okulu, Phsar Chas çarşısı",ACTIVITY
+"Phnom Penh şehir turu: Kraliyet Sarayı, Gümüş Pagoda, Ulusal Müze",ACTIVITY
+Floransa çevresinde geziler,ACTIVITY
+Floransa şehir turu (Piazza Della Signoria ve diğer yapılar),ACTIVITY
+Toskana’da şarap bağları ve bölgesel geziler,ACTIVITY
+Forte dei Marmi sahil tatili,ACTIVITY
+"Prag şehir turu: Prag Kalesi, St. Vitus Bazilikası, Altın Yol",ACTIVITY
+Karlovy Vary gezisi,ACTIVITY
+Cesky Krumlov şehir turu,ACTIVITY
+Cordoba turu,ACTIVITY
+Amman şehir turu,ACTIVITY
+Mount Nebo ve Madaba ziyareti,ACTIVITY
+Petra Antik Kenti gezisi,ACTIVITY
+Wadi Rum çöl safarisi,ACTIVITY
+Dead Sea’de konaklama ve dinlenme,ACTIVITY
+Ferrari World Abu Dhabi – Driving Experience,ACTIVITY
+"Louvre Museum, Abu Dhabi",ACTIVITY
+Lima şehir turu,ACTIVITY
+Lima şehir turu (Plaza Mayor ve tarihi merkez),ACTIVITY
+Cusco turu,ACTIVITY
+Cusco şehir turu,ACTIVITY
+Sacred Valley gezisi,ACTIVITY
+Machu Picchu gezisi,ACTIVITY
+Machu Picchu ziyareti,ACTIVITY
+Central Park ziyareti,ACTIVITY
+Kültürel ve alışveriş aktiviteleri,ACTIVITY
+New York şehir turu (müze ve meydanlar),ACTIVITY
+Varanasi’de Ganj Nehri kıyısında Aarti töreni,ACTIVITY
+Delhi şehir turu,ACTIVITY
+San Casciano Val di Pesa kasabası ziyareti,ACTIVITY
+Phuket Tarihi Kent Gezisi,ACTIVITY
+Phuket ada ve sahil aktiviteleri,ACTIVITY
+Phuket sahil tatili,ACTIVITY
+Phuket’te Big Buddha ziyareti,ACTIVITY
+Bali’de tapınak ziyaretleri ve sahil aktiviteleri,ACTIVITY
+"Bologna şehir turu (Piazza Maggiore, Basilica di San Petronio, Fontana di Nettuno, Palazzo Communale)",ACTIVITY
+Montepulciano şarap bağları turu,ACTIVITY
+Montepulciano şarap bağları ve kasaba gezisi,ACTIVITY
+Pienza kasabası ziyareti,ACTIVITY
+Montalcino’da şarap tadımı,ACTIVITY
+"Ho Chi Minh şehir turu: Reunification Palace, War Remnants Museum, Cho Lon, Thien Hau Tapınağı, Notre Dame Katedrali, Posta Merkezi, Belediye Tiyatrosu",ACTIVITY
+Nha Trang sahil tatili ve dinlenme,ACTIVITY
+Saigon şehir turu,ACTIVITY
+Ha Long (Lan Ha Bay) Bhaya özel tekne yolculuğu,ACTIVITY
+1950’lerden kalma Amerikan arabaları ile Havana turu,ACTIVITY
+"Havana Eski Kenti, Malecon Bulvarı, Devrim Meydanı, Colomb Mezarlığı ve Morro Kalesi gezisi",ACTIVITY
+Havana şehir turu,ACTIVITY
+"Havana şehir turu (Eski Kent, Malecon, Devrim Meydanı, Colomb Mezarlığı, Miramar)",ACTIVITY
+Vinales tütün tarlaları ve çiftlik ziyareti,ACTIVITY
+"Vinales şehir merkezi, tütün tarlaları ve çiftlik ziyareti",ACTIVITY
+Tokyo şehir turu,ACTIVITY
+Osaka Kalesi ziyareti,ACTIVITY
+Sorakuen Bahçesi ve Kobe eski yerleşim yeri gezisi,ACTIVITY
+Soweto gezisi ve Nelson Mandela’nın Evi ziyareti,ACTIVITY
+Ranthambore Milli Parkı’nda jeep safari,ACTIVITY
+Jodhpur Mehrangarh Kalesi gezisi,ACTIVITY
+Jodhpur Mehrangarh Kalesi ziyareti,ACTIVITY
+Mumbai şehir turu,ACTIVITY
+"Cienfuegos şehir turu (Valle Sarayı, Jose Marti Parkı, Prado Promenade)",ACTIVITY
+Trinidad gezisi ve La Canchanchara Bar ziyareti,ACTIVITY
+Santa Clara gezisi ve Che Guevara Anıt Mezarı ziyareti,ACTIVITY
+Bogotá şehir turu,ACTIVITY
+Cartagena eski şehir gezisi,ACTIVITY
+Frieze London fuarı gezisi,ACTIVITY
+Frieze Sculpture Park ziyareti,ACTIVITY
+Hayward Gallery ziyareti,ACTIVITY
+Naoshima & Teshima sanat adaları gezisi,ACTIVITY
+Henningsvær gezisi,ACTIVITY
+Svolvær gezisi,ACTIVITY
+Å köyü gezisi,ACTIVITY
+Eski Mardin Evleri ve Abbara tünelleri gezisi,ACTIVITY
+Mardin şehir turu,ACTIVITY
+Midyat Devlet Konukevi ve Gümüşçüler Çarşısı ziyareti,ACTIVITY
+Midyat şehir turu,ACTIVITY
+Mexico City şehir turu,ACTIVITY
+Mérida şehir turu,ACTIVITY
+Halong Bay tekne turu,ACTIVITY
+Hoi An yürüyüş turu,ACTIVITY
+Ho Chi Minh City şehir turu,ACTIVITY
+Kyoto şehir turu,ACTIVITY
+Ise Shima bölgesi gezisi,ACTIVITY
+Chiang Mai şehir turu,ACTIVITY
+Johannesburg şehir turu,ACTIVITY
+Yangon şehir turu,ACTIVITY
+Mandalay gezisi,ACTIVITY
+Bagan tapınakları gezisi,ACTIVITY
+PALATINE HILL,ACTIVITY
+ROMAN FORUM,ACTIVITY
+GOREME OPEN AIR MUSEUM,ACTIVITY
+BIG BEN,ACTIVITY
+BRITISH MUSEUM,ACTIVITY
+LONDON EYE,ACTIVITY
+TOWER OF LONDON,ACTIVITY
+CENTRAL PARK,ACTIVITY
+STATUE OF LIBERTY,ACTIVITY
+TIMES SQUARE,ACTIVITY
+MEIJI SHRINE,ACTIVITY
+SENSOJI TEMPLE,ACTIVITY
+SHIBUYA CROSSING,ACTIVITY
+FUSHIMI INARI SHRINE,ACTIVITY
+KINKAKUJI TEMPLE,ACTIVITY
+KIYOMIZU DERA,ACTIVITY
+CASA BATLLO,ACTIVITY
+PARK GUELL,ACTIVITY
+BLUE MOSQUE,ACTIVITY
+GRAND BAZAAR,ACTIVITY
+THESSALONIKI OLD TOWN,ACTIVITY
+LOUVRE MUSEUM,ACTIVITY
+MONTMARTRE WALK,ACTIVITY
+MUSÉE D'ORSAY,ACTIVITY
